@@ -15,25 +15,12 @@
 
     <link rel="stylesheet" href="/libs/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="/libs/css/font-awesome.min.css" type="text/css">
-    {% if page.video %}
-      <link rel="stylesheet" href="/libs/css/video-js.min.css" type="text/css">
-    {% endif %}
-
     <link rel="stylesheet" href="/css/style.css" type="text/css">
-  </head>
 
-  <body id="page-top">
-    {% include nav.html %}
     {{ content }}
-    {% include footer.html %}
-  </body>
   <script src="/libs/js/jquery.min.js"></script>
   <script src="/libs/js/bootstrap.min.js"></script>
 
   <script src="/libs/js/jquery.easing.min.js"></script>
-  {% if page.video %}
-    <script src="/libs/js/video.min.js"></script>
-  {% endif %}
-
   <script src="/js/theme.js"></script>
 </html>

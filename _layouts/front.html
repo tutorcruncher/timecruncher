@@ -2,10 +2,21 @@
 layout: base
 ---
 
-{% include header.html %}
-{% include signup.html %}
-{% include features.html %}
-{% include video.html %}
-{% include pricing.html %}
-{% include team.html %}
-{% include contact.html %}
+  <link rel="stylesheet" href="/libs/css/video-js.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/index.css" type="text/css">
+</head>
+
+<body id="page-top">
+  {% include nav.html %}
+
+  {% include header.html %}
+  {% include signup.html %}
+  {% include features.html %}
+  {% include video.html %}
+  {% include pricing.html %}
+  {% include team.html %}
+  {% include contact.html %}
+
+  {% include footer.html %}
+</body>
+<script src="/libs/js/video.min.js"></script>
