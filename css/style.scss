@@ -1,0 +1,139 @@
+---
+---
+
+$main-colour: #016997;
+$dark: #222;
+
+@import 'mixins';
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.bg-primary {
+  background-color: $main-colour;
+}
+
+hr {
+  border: 2px solid $main-colour;
+  max-width: 50px;
+}
+
+hr.light {
+  border-color: white;
+}
+
+.navbar-inverse {
+  background-color: $main-colour;
+  @include transition-all;
+  border: 0 solid $main-colour;
+
+  .nav > li > a, .nav > li > a:focus, .navbar-brand {
+    color: white;
+    &:hover {
+      background-color: darken($main-colour, 5%);;
+    }
+  }
+
+  .navbar-nav > .active > a, .navbar-nav > .active > a:focus, .navbar-nav > .active > a:hover {
+    color: white;
+    background-color: darken($main-colour, 10%);;
+  }
+
+  .navbar-right {
+    margin-right: 5px;
+  }
+
+  &.affix-top {
+    border-bottom: 1px solid lighten($main-colour, 10%);
+    .nav > li > a {
+      height: 60px;
+      padding-top: 20px;
+    }
+    .navbar-brand {
+      height: 60px;
+      padding-top: 18px;
+    }
+  }
+}
+
+header {
+  position: relative;
+  width: 100%;
+  @include background-cover;
+  background: url('../img/header.jpg') center;
+  text-align: center;
+  color: white;
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  hr {
+    margin: 30px auto;
+  }
+  p {
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+
+  .header-content {
+    width: 100%;
+  }
+  @media (min-width: 768px) {
+    min-height: 100%;
+    .header-content {
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+      padding: 0 50px;
+      .header-content-inner {
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        p {
+          font-size: 18px;
+          max-width: 80%;
+          margin-left: auto;
+          margin-right: auto;
+        }
+      }
+    }
+  }
+}
+
+.btn-primary {
+  background-color: $main-colour;
+}
+
+.text-primary {
+  color: $main-colour;
+}
+
+.btn-xl {
+  border: none;
+  border-radius: 300px;
+  padding: 15px 30px;
+  font-size: 120%;
+}
+
+section {
+  min-height: 200px;
+}
+
+section#signup {
+  padding: 20px;
+}
+
+section#video {
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.container.main {
+  margin-top: 60px;
+}
