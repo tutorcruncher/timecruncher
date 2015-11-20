@@ -25,6 +25,9 @@ body {
   a {
     color: white !important;
   }
+  a.btn-default {
+    color: $main-colour !important;
+  }
 }
 
 hr {
