@@ -3,6 +3,7 @@
 
 $main-colour: #016997;
 $dark: #222;
+$footer-height: 180px;
 
 @import 'mixins';
 
@@ -16,11 +17,14 @@ html {
 }
 
 body {
-  margin-bottom: 120px;
+  margin-bottom: $footer-height;
 }
 
 .bg-primary {
   background-color: $main-colour;
+  a {
+    color: white !important;
+  }
 }
 
 hr {
@@ -203,6 +207,21 @@ section#team {
 section#footer {
   position: absolute;
   bottom: 0;
-  height: 120px;
+  height: $footer-height;
+  min-height: $footer-height;
+  padding-top: 25px;
   width: 100%;
+  $row-height: 80px;
+  .copyright {
+    img, span {
+      height: $row-height;
+    }
+    span {
+      line-height: $row-height;
+    }
+  }
+  .links a{
+    line-height: $row-height;
+    margin-right: 30px;
+  }
 }
