@@ -1,0 +1,24 @@
+<section id="pricing">
+  <div class="container">
+    <div class="text-center">
+      <h1>Pricing</h1>
+    </div>
+    <div class="row">
+
+      {% for tier in site.data.pricing %}
+        {% include front/price_column.html tier=tier  %}
+      {% endfor %}
+
+      <div class="text-center">
+        <p class="text-muted">Prices exclude UK VAT</p>
+        <p class="text-muted">* An active student is any student that receives a lesson or charge in a given month</p>
+        <p class="text-muted">** See stripe.com for fees</p>
+        <p class="text-muted">*** £5 per 1,000 emails outside allowance</p>
+        <p class="text-muted">**** First additional branch free, then £40 per branch after that</p>
+        <p class="text-muted">***** £30 per month optional extra after the first month</p>
+        <p class="text-muted">Discounts available for high volume users</p>
+      </div>
+
+    </div><!-- /row -->
+  </div>
+</section>

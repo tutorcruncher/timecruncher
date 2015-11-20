@@ -158,6 +158,10 @@ section#pricing {
 
   .panel-primary {
     border-color: $main-colour;
+    >.panel-heading {
+      background-color: $main-colour;
+      border-color: $main-colour;
+    }
   }
 
   .list-group-item {

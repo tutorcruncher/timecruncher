@@ -1,0 +1,83 @@
+-
+  name: Free
+  price: Free
+  hightlight: False
+  features:
+    - Up to 10 active students
+    - Online Card Payments**
+    - Unlimited students
+    - Unlimited clients
+    - Unlimited tutors
+    - Unlimited resources upload
+    - Email Marketing
+-
+  name: Basic
+  price: £35/$50 per month
+  hightlight: True
+  features:
+    - £0.65/$1 per active student per month*
+    - Online Card Payments**
+    - Unlimited students
+    - Unlimited clients
+    - Unlimited tutors
+    - Unlimited resources upload
+    - Email marketing
+    - Send emails from your own address
+    - Customisable automated emails
+    - TutorCruncher mobile app
+    - Add your own logo to PDFs
+    - Send 1,000 emails per month***
+    - One month's free phone support *****
+-
+  name: Premium
+  price: £99/$155 per month
+  hightlight: True
+  features:
+    - £1/$1.56 per active student per month*
+    - Online Card Payments**
+    - Unlimited students
+    - Unlimited clients
+    - Unlimited tutors
+    - Unlimited resources upload
+    - Email Marketing
+    - Send emails from your own address
+    - Customisable automated emails
+    - TutorCruncher mobile app
+    - Add your own logo to PDFs
+    - Send 5,000 emails per month***
+    - Add your own logo to your system
+    - Manage Multiple Branches ****
+    - Edit HTML email templates
+    - New feature request priority
+    - Personal Account Manager
+    - One month's free phone support *****
+-
+  name: Enterprise
+  price: £500/$770 per month
+  hightlight: True
+  features:
+    - £1/$1.56 per active student per month*
+    - Online Card Payments**
+    - Unlimited students
+    - Unlimited clients
+    - Unlimited tutors
+    - Unlimited resources upload
+    - Email marketing
+    - Send emails from your own address
+    - Customisable automated emails
+    - TutorCruncher mobile app
+    - Add your own logo to your system
+    - Add your own logo to PDFs
+    - Send Unlimited Emails ***
+    - Manage Multiple Branches ****
+    - Edit HTML email templates
+    - New feature request priority
+    - Personal Account Manager
+    - Free support
+    - Custom PDF templates
+    - API Access
+    - Custom URL
+    - Customised branding CSS
+    - Legacy system support
+    - Your Own Company Branded Mobile App
+    - Option to host on own server

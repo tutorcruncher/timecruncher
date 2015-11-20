@@ -1,0 +1,19 @@
+<div class="col-md-3">
+  <div class="panel panel-{% if include.tier.hightlight %}primary{% else %}default{% endif %}">
+    <div class="panel-heading">
+      <h3 class="panel-title">{{ include.tier.name }}</h3>
+    </div>
+    <div class="panel-body">
+      {{ include.tier.price }}
+    </div>
+    <ul class="list-group">
+      {% for i in (0..50) %}
+        {% if i < include.tier.features.size %}
+          <li class="list-group-item">{{ include.tier.features[i] }}</li>
+        {% elsif i < site.data.pricing[3].features.size %}
+          <li class="list-group-item"></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>

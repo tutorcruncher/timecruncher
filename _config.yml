@@ -4,6 +4,7 @@ description: TutorCruncher is a tutoring business management software tool with 
 baseurl: ""
 url: "http://public.tutorcruncher.com"
 twitter_username: tutorcruncher
+exclude: ['grablib.json', 'README.md']
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
