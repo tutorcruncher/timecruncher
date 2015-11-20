@@ -32,6 +32,10 @@ hr.light {
   border-color: white;
 }
 
+.top-margin-40 {
+  margin-top: 40px;
+}
+
 .navbar-inverse {
   background-color: $main-colour;
   @include transition-all;
@@ -137,7 +141,6 @@ section#signup {
 }
 
 section#video {
-  margin-top: 50px;
   padding-top: 25px;
   padding-bottom: 20px;
 }
@@ -171,7 +174,6 @@ section#pricing {
 }
 
 section#team {
-  margin-top: 40px;
   @include background-cover;
   background: url('../img/team_back.jpg') center;
   h1 {
@@ -187,6 +189,15 @@ section#team {
       height: 275px;
     }
   }
+}
+
+.map-overlay {
+   background:transparent;
+   position:relative;
+   width:100%;
+   height:400px;
+   top:400px;
+   margin-top:-400px;
 }
 
 section#footer {

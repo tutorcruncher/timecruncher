@@ -1,3 +1,18 @@
-<section id="contact">
-  <h1>Contact Us</h1>
+<section id="contact" class="top-margin-40">
+  <div class="text-center">
+    <h2 class="section-heading">Contact Us</h2>
+    <hr class="primary">
+  </div>
+
+  <div>
+    <div class="map-overlay" onClick="style.pointerEvents='none'"></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19870.213790046575!2d-0.14633393519593246!3d51.49896467826006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876052138e03c3f%3A0x2ca9888d0df701dd!2s8+Lower+Grosvenor+Pl%2C+London+SW1W%2C+UK!5e0!3m2!1sen!2suk!4v1448028981582" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
+  <div class="container">
+    <div class="row top-margin-40">
+      {% include front/mixins/contact_section.html icon="fa-map-pin" text="8 Lower Grosvenor Place, London, SW1W 0EN"  %}
+      {% include front/mixins/contact_section.html icon="fa-phone" text="+44 (0)207 1128 953"  %}
+      {% include front/mixins/contact_section.html icon="fa-envelope" text="info@tutorcruncher.com"  %}
+    </div>
+  </div>
 </section>

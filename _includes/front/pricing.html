@@ -6,7 +6,7 @@
     <div class="row">
 
       {% for tier in site.data.pricing %}
-        {% include front/price_column.html tier=tier  %}
+        {% include front/mixins/price_column.html tier=tier  %}
       {% endfor %}
 
       <div class="text-center">
