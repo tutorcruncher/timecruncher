@@ -170,6 +170,25 @@ section#pricing {
   }
 }
 
+section#team {
+  margin-top: 40px;
+  @include background-cover;
+  background: url('../img/team_back.jpg') center;
+  h1 {
+    color: white;
+  }
+  .carousel-inner {
+    img {
+      width: 120px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .item {
+      height: 275px;
+    }
+  }
+}
+
 section#footer {
   position: absolute;
   bottom: 0;

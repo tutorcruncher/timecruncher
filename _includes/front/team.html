@@ -1,3 +1,37 @@
-<section id="team" class="bg-primary text-center">
-  <h1>Team</h1>
+<section id="team" class="text-center">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-push-2 col-md-8">
+        <h1>The Team</h1>
+
+        <div id="team-carousel" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#team-carousel" data-slide-to="0" class="active"></li>
+            {% for i in (1..site.data.team.size) %}
+              {% if forloop.last == false %}
+                <li data-target="#team-carousel" data-slide-to="{{ i - 1 }}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+
+          <div class="carousel-inner" role="listbox">
+            {% for person in site.data.team %}
+              <div class="item {% if forloop.index == 1 %}active{% endif %}">
+                <img src="{{ person.img }}" alt="{{ person.name }}">
+                <div class="carousel-caption">
+                  <h3>{{ person.name }}, {{ person.title }}</h3>
+                  <p>
+                    {{ person.bio }}
+                  </p>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
 </section>
