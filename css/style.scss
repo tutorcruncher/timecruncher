@@ -49,6 +49,12 @@ hr.light {
     &:hover {
       background-color: darken($main-colour, 5%);
     }
+    img {
+      height: 35px;
+      margin-top: -10px;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
   }
 
   .navbar-nav > .active > a, .navbar-nav > .active > a:focus, .navbar-nav > .active > a:hover {
@@ -69,6 +75,11 @@ hr.light {
     .navbar-brand {
       height: 60px;
       padding-top: 18px;
+      img {
+        height: 46px;
+        padding-right: 10px;
+        padding-left: 0;
+      }
     }
     .navbar-toggle {
       margin-top: 13px;
