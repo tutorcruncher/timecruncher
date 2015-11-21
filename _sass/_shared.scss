@@ -1,3 +1,7 @@
+$main-colour: #016997;
+$dark: #222;
+$footer-height: 180px;
+
 @mixin transition-all() {
   -webkit-transition: all 0.65s;
   -moz-transition: all 0.65s;

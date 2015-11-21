@@ -1,0 +1,13 @@
+<div class="post-meta">
+  <span class="fa fa-calendar">
+    <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ include.date | date: "%b %-d, %Y" }}
+    </time>
+    </span>
+  {% if include.author %}
+  <span class="fa fa-user" itemprop="name">{{ include.author }}</span>
+  {% endif %}
+  {% if include.tags %}
+  <span class="fa fa-tag">{{ include.tags | join: ', ' }}</span>
+  {% endif %}
+</div>

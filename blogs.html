@@ -2,25 +2,33 @@
 layout: page
 title: TutorCruncher Blog
 permalink: /blogs/
-redirect_from: /apple-pie/
+redirect_from: /news-and-updates/how-to-start-a-tutoring-business/
+description: Thoughts, commentary and suggestions about Teaching, Tuition, the Tuition Industry and How to manage
+    a tutoring company from TutorCruncher and friends.
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<h1>
+  {{ page.title }}
+</h1>
+<aside class="text-muted">
+  <p>{{ page.description }}</p>
+  <p class="rss-subscribe">Subscribe <a href="{{ '/feed.xml' }}">via RSS</a></p>
+</aside>
+<div>
+  {% for post in site.posts limit: 20 %}
+    <div>
+      <h3>
+        <a class="post-link" href="{{ post.url }}" itemscope itemtype="http://schema.org/Article">
+          {{ post.title }}
+        </a>
+      </h3>
+      {% include post_meta.html date=post.date author=post.author tags=post.tags %}
+      <div class="post-preview">
+        {{ post.excerpt }}
+      </div>
+    </div>
+    {% if forloop.last == false %}
+      <hr/>
+    {% endif %}
+  {% endfor %}
 </div>
+

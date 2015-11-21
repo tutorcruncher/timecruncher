@@ -12,7 +12,7 @@
     <ul class="nav navbar-nav navbar-right">
       <li><a href="/#pricing" class="page-scroll">Pricing</a></li>
       <li><a href="/#features" class="page-scroll">Features</a></li>
-      <li><a href="/blogs">Blog</a></li>
+      <li{% if page.path == 'blogs.html' or page.path contains '_posts/' %} class="active"{% endif %}><a href="/blogs">Blog</a></li>
       <li><a href="/directory">Tutoring Directory</a></li>
       <li><a href="http://help.tutorcruncher.com/" target="_blank">Help</a></li>
       <li><a href="/#contact" class="page-scroll">Contact</a></li>
