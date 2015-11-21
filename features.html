@@ -1,0 +1,27 @@
+---
+layout: page
+title: TutorCruncher Features
+permalink: /features/
+---
+<div class="row">
+  <div class="col-lg-12 text-center">
+    <h2 class="section-heading">Features</h2>
+    <hr class="primary">
+  </div>
+</div>
+
+<div class="row">
+  {% for feature in site.data.features %}
+    {% include mixins/feature_block.html feature=feature %}
+  {% endfor %}
+</div>
+
+<div class="row">
+  <div class="col-lg-12 text-center">
+    <hr class="primary">
+    <h2>
+      We do so much more than this, get in touch to learn how TutorCruncher can transform your business.
+    </h2>
+    <a href="/#contact" class="btn btn-primary btn-xl">Contact us</a>
+  </div>
+</div>

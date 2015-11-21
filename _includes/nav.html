@@ -6,17 +6,29 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a href="/#page-top" class="navbar-brand page-scroll">TutorCruncher</a>
+    <a href="{% if page.url == '/index.html' %}#page-top{% else %}/{% endif %}" class="navbar-brand page-scroll">TutorCruncher</a>
   </div>
   <div id="navbar" class="collapse navbar-collapse">
     <ul class="nav navbar-nav navbar-right">
       <li><a href="/#pricing" class="page-scroll">Pricing</a></li>
-      <li><a href="/#features" class="page-scroll">Features</a></li>
-      <li{% if page.path == 'blogs.html' or page.path contains '_posts/' %} class="active"{% endif %}><a href="/blogs">Blog</a></li>
-      <li><a href="/directory">Tutoring Directory</a></li>
-      <li><a href="http://help.tutorcruncher.com/" target="_blank">Help</a></li>
-      <li><a href="/#contact" class="page-scroll">Contact</a></li>
-      <li><a href="https://secure.tutorcruncher.com/" class="page-scroll">Log in</a></li>
+      <li{% if page.path == 'features.html' %} class="active"{% endif %}>
+        <a href="/features">Features</a>
+      </li>
+      <li{% if page.path == 'blogs.html' or page.path contains '_posts/' %} class="active"{% endif %}>
+        <a href="/blogs">Blog</a>
+      </li>
+      <li>
+        <a href="/directory">Tutoring Directory</a>
+      </li>
+      <li>
+        <a href="http://help.tutorcruncher.com/" target="_blank">Help</a>
+      </li>
+      <li>
+        <a href="/#contact" class="page-scroll">Contact</a>
+      </li>
+      <li>
+        <a href="https://secure.tutorcruncher.com/" class="page-scroll">Log in</a>
+      </li>
     </ul>
   </div>
 </nav>

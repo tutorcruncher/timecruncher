@@ -32,8 +32,11 @@
       </div>
       <div class="col-md-6 links text-right">
 
-        <a href="/#page-top" class="page-scroll">
+        <a href="{% if page.url == '/index.html' %}#page-top{% else %}/{% endif %}" class="page-scroll">
           Home
+        </a>
+        <a href="/features">
+          Features
         </a>
         <a href="/blogs">
           Blog

@@ -1,0 +1,17 @@
+<section id="highlights" class="top-margin-40">
+  <div class="container">
+    {% for highlight in site.data.highlights %}
+      {% include mixins/feature_block.html feature=highlight %}
+    {% endfor %}
+
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <hr class="primary">
+        <h4>
+          Learn more on our features page.
+        </h4>
+        <a href="/features" class="btn btn-primary btn-xl page-scroll">Features</a>
+      </div>
+    </div>
+  </div>
+</section>

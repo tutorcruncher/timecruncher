@@ -45,3 +45,5 @@ CACHE:
 
 NETWORK:
 *
+http://*
+https://*
