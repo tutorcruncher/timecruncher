@@ -16,12 +16,14 @@
     }
   });
 
-  videojs('demo_video').ready(function() {
-    var myPlayer = this;
-    var aspectRatio = 5 / 12; // aspect ratio 12:5 (video frame 960x400)
+  videojs('promo_video').ready(function () {
+    var player = this;
     function resizeVideoJS() {
-        var width = document.getElementById(myPlayer.id()).parentElement.offsetWidth;
-        myPlayer.width(width).height(width * aspectRatio);
+      var width = document.getElementById(player.id()).parentElement.offsetWidth;
+      player.width(width);
+      if ($(document).width() >= 992) {
+        player.height(width * 5 / 12);
+      }
     }
     resizeVideoJS();
     window.onresize = resizeVideoJS;

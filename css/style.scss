@@ -170,6 +170,15 @@ section#signup {
 section#video {
   padding-top: 25px;
   padding-bottom: 20px;
+  @media (min-width: 992px) {
+    .video-js {
+      background-color: white;
+      .vjs-control-bar {
+        width: 50%;
+        margin: auto;
+      }
+    }
+  }
 }
 
 .container.main {
