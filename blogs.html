@@ -1,34 +1,12 @@
 ---
-layout: page
+layout: blog_list
 title: TutorCruncher Blog
 permalink: /blogs/
 redirect_from: /news-and-updates/how-to-start-a-tutoring-business/
 description: Thoughts, commentary and suggestions about Teaching, Tuition, the Tuition Industry and How to manage
     a tutoring company from TutorCruncher and friends.
+limit: 20
 ---
-<h1>
-  {{ page.title }}
-</h1>
-<aside class="text-muted">
-  <p>{{ page.description }}</p>
-  <p class="rss-subscribe">Subscribe <a href="{{ '/feed.xml' }}">via RSS</a></p>
-</aside>
-<div>
-  {% for post in site.posts limit: 20 %}
-    <div>
-      <h3>
-        <a class="post-link" href="{{ post.url }}" itemscope itemtype="http://schema.org/Article">
-          {{ post.title }}
-        </a>
-      </h3>
-      {% include post_meta.html date=post.date author=post.author tags=post.tags %}
-      <div class="post-preview">
-        {{ post.excerpt | strip_html | strip_newlines | truncate: 300 }}
-      </div>
-    </div>
-    {% if forloop.last == false %}
-      <hr/>
-    {% endif %}
-  {% endfor %}
-</div>
-
+<b>
+  Older blog posts and be viewed in the <a href="/archive">archive</a>.
+</b>

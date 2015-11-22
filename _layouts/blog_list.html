@@ -1,0 +1,27 @@
+---
+layout: page
+---
+<h1>
+  {{ page.title }}
+</h1>
+<aside class="text-muted">
+  <i>{{ page.description }}</i>
+  <p class="rss-subscribe">Subscribe <a href="{{ '/feed.xml' }}">via RSS</a></p>
+</aside>
+<div>
+  {% for post in site.posts limit: page.limit %}
+    <div>
+      <h3>
+        <a class="post-link" href="{{ post.url }}" itemscope itemtype="http://schema.org/Article">
+          {{ post.title }}
+        </a>
+      </h3>
+      {% include post_meta.html date=post.date author=post.author tags=post.tags %}
+      <div class="post-preview">
+        {{ post.excerpt | strip_html | strip_newlines | truncate: 300 }}
+      </div>
+    </div>
+    <hr/>
+  {% endfor %}
+</div>
+{{ content }}
