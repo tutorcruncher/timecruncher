@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Approaching your Tutoring Services
+title:  "Approaching your Tutoring Services"
 permalink: approaching-your-tutoring-services
 ---
 Starting a tutoring business is not just a matter of starting a tutoring
@@ -32,7 +32,7 @@ encouraging parents that you are the right tutoring company for their child.
 Once you have consolidated your mission, vision and values and have sourced
 your tutoring team you are on your way.
 
-##  Do you have any tips on how to ensure your tutors match your vision?
+## Do you have any tips on how to ensure your tutors match your vision?
 
 Starting a tutoring business is not just a matter of starting a tutoring
 business. As we started to address in the blog, ‘Find your Niche’, there are
@@ -65,7 +65,7 @@ encouraging parents that you are the right tutoring company for their child.
 Once you have consolidated your mission, vision and values and have sourced
 your tutoring team you are on your way.
 
-##  Do you have any tips on how to ensure your tutors match your vision?
+## Do you have any tips on how to ensure your tutors match your vision?
 
 Starting a tutoring business is not just a matter of starting a tutoring
 business. As we started to address in the blog, ‘Find your Niche’, there are
@@ -98,7 +98,7 @@ encouraging parents that you are the right tutoring company for their child.
 Once you have consolidated your mission, vision and values and have sourced
 your tutoring team you are on your way.
 
-##  Do you have any tips on how to ensure your tutors match your vision?
+## Do you have any tips on how to ensure your tutors match your vision?
 
 Starting a tutoring business is not just a matter of starting a tutoring
 business. As we started to address in the blog, ‘Find your Niche’, there are
@@ -131,4 +131,4 @@ encouraging parents that you are the right tutoring company for their child.
 Once you have consolidated your mission, vision and values and have sourced
 your tutoring team you are on your way.
 
-##  Do you have any tips on how to ensure your tutors match your vision?
+## Do you have any tips on how to ensure your tutors match your vision?

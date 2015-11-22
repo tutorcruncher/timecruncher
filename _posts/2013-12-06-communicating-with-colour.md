@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Communicating with Colour
+title:  "Communicating with Colour"
 permalink: communicating-with-colour
 ---
 This blog will address the aesthetic side of your brand construction. As so

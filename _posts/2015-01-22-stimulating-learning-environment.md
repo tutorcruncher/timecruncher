@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Create a Stimulating Learning Environment
+title:  "How to Create a Stimulating Learning Environment"
 permalink: stimulating-learning-environment
 ---
 Our environments can have a huge impact on how we learn. If your tutoring
@@ -9,7 +9,11 @@ won’t be getting the most from their learning. As well as the physical
 practicalities of creating a suitable space, there are other things that
 tutoring agencies can do to create a stimulating learning environment.
 
-** Core Values **
+
+
+### Core Values
+
+
 
 One way to create a positive learning environment is to practice what you
 preach. Think about the [ core values of your tutoring agency
@@ -21,7 +25,11 @@ and include them in your newsletters, branding and email signatures. If your
 staff and students understand your positioning in the education industry,
 you’ll create a focused, positive place to work.
 
-** Positive Atmosphere **
+
+
+### Positive Atmosphere
+
+
 
 ![Smile](http://www.tutorcruncher.com/wp-content/uploads/2015/01/1280px-
 A_smile_a_day_keeps_the_pain_and_the_doctor_away-300x194.jpg) Having a
@@ -34,7 +42,11 @@ acknowledge those students who have
 
 done well by mentioning them in your email newsletter or office noticeboard.
 
-** Set Expectations **
+
+
+### Set Expectations
+
+
 
 Learning is a two-way street. If your tutors and students understand [ what is
 expected of them ](http://www.tutorcruncher.com/how-to-encourage-students-to-
@@ -46,7 +58,11 @@ your agency expects of them. It’s important that staff as well as students
 don’t become complacent in their roles and that they feel challenged and
 enthused to providing an excellent service.
 
-** Resources **
+
+
+### Resources
+
+
 
 ![Beaver Country Day School - Viewbook](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/BCDS_Laptop-300x200.jpg) Students nowadays are used to

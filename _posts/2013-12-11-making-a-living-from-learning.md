@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Making a Living from Learning
+title:  "Making a Living from Learning"
 permalink: making-a-living-from-learning
 ---
 Tutoring is a lucrative field to work within. Play your cards right and you
@@ -39,7 +39,7 @@ key.
 
 ##
 
-##  ** How did you choose your prices ? **
+## How did you choose your prices ? 
 
 Tutoring is a lucrative field to work within. Play your cards right and you
 will excel. However a lot depends on your [ terms of business
@@ -81,7 +81,7 @@ potential clients. Transparency is key.
 
 ##
 
-##  ** How did you choose your prices ? **
+## How did you choose your prices ? 
 
 Tutoring is a lucrative field to work within. Play your cards right and you
 will excel. However a lot depends on your [ terms of business
@@ -123,7 +123,7 @@ potential clients. Transparency is key.
 
 ##
 
-##  ** How did you choose your prices ? **
+## How did you choose your prices ? 
 
 Tutoring is a lucrative field to work within. Play your cards right and you
 will excel. However a lot depends on your [ terms of business
@@ -165,4 +165,4 @@ potential clients. Transparency is key.
 
 ##
 
-##  ** How did you choose your prices ? **
+## How did you choose your prices ?

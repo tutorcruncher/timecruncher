@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Our Background
+title:  "Our Background"
 permalink: our-background
 ---
 TutorCruncher is a tuition management software designed and built by Malachy

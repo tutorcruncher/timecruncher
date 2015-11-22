@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  20 Mistakes That Kill Start-ups
+title:  "20 Mistakes That Kill Start-ups"
 permalink: 20-mistakes-that-kill-start-ups
 ---
 For every successful business, there have also been a lot of failures before

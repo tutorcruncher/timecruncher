@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  4 Things Every Tutoring Agency Should Know About Marketing
+title:  "4 Things Every Tutoring Agency Should Know About Marketing"
 permalink: 4-things-should-know-marketing
 ---
 One of the most difficult tasks new tutoring agencies face is marketing. The
@@ -31,9 +31,13 @@ effective than simply sending press releases to anyone in the media. Nowadays,
 journalists use press release websites and [ social media to keep track of the
 latest tutoring news ](http://www.tutorcruncher.com/make-the-most-social-
 media/) , so make sure you post your press releases on these platforms too.
-Why go to them if you can get them to come to you? ** ![analysing-market-
+Why go to them if you can get them to come to you? **
+
+![analysing-market-
 research](http://www.tutorcruncher.com/wp-content/uploads/2014/09/analysing-
-market-research-300x300.jpg) Market Research is a Necessity Not an Option **
+market-research-300x300.jpg)
+
+Market Research is a Necessity Not an Option **
 Every tutoring agency should conduct regular market research. Not only does
 this keep you informed about what’s going on in the industry, but it also
 provides you with content to write about on your blog, which helps improve
@@ -41,7 +45,11 @@ your agency’s brand authority. If people see your agency as being at the
 forefront of the latest industry news, they’ll be more likely to trust your
 credentials and pay for your services. Keeping abreast of tutoring news also
 allows you to position your agency in the marketplace more effectively and
-helps you identify gaps in the market. ** Create a Marketing Team ** Creating
+helps you identify gaps in the market. 
+
+### Create a Marketing Team
+
+ Creating
 a team of marketers doesn’t necessarily mean hugely increasing your overheads.
 Nowadays, more and more tutoring agencies outsource their marketing to
 freelancers or marketing agencies to help them achieve their goals. Having a

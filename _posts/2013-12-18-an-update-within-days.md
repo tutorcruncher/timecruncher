@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  An Update Within Days
+title:  "An Update Within Days"
 permalink: an-update-within-days
 ---
 TutorCruncher is about to release its most substantial update within the next
-2 days. New Features: ** Balance and Available Balance **
+2 days. New Features: 
+
+### Balance and Available Balance
+
+
 
   * The balance and available balance features work in a very similar way to most online banking systems. 
   * The balance feature tracks a clients actual balance, i.e. the balance tracks all paid invoices and administration charges and the total of any prepayments a client has made. 
@@ -12,7 +16,11 @@ TutorCruncher is about to release its most substantial update within the next
   * The difference between the two balances shows the total outstanding amount for the client in TutorCruncher. 
   * The new UserBalance option when paying an invoice allows the administrator to pay the invoice with the Clients balance and not log a new payment in the system. It is ideal if your business runs a pre-payment system. 
   * ‘Outstanding balance’ is the tutors equivalent of the clients balance feature, which displays the total outstanding monies due to the tutor calculated from all lessons logged in the system. 
-** Balance feature workflow examples. ** Basic Post-Pay 
+
+
+### Balance feature workflow examples.
+
+ Basic Post-Pay 
 
   * A client opens an account. The balance and available balance equal £0.00. 
   * A £50 administration charge and a £50 lesson are logged. Available balance drops to £-100.00, balance stays at £0.00. (At this point the administrator and client can easily see the full outstanding amount due to payments logged in TutorCruncher) 
@@ -32,16 +40,28 @@ Crediting an Invoice
   * If an invoice has been generated but unpaid and an item is incorrect there are two options. The invoice is deleted and the administrator edits the incorrect item and re-issues the invoice. The available balance will take the change into account. The balance will adjust down to the available balance amount when the new invoice is marked as paid. 
   * The second option, if the full amount is incorrect, is to use the credit function, this will re-adjust the available balance and change the outstanding amount on the invoice accordingly. 
   * If an invoice has been paid there are now two ways to amend the issue, one option would be to refund the client outside the system. The other option is to offer a top-up within the system, the clients balance increases and the extra credit can be used against future lessons. 
-** Commission Sharing. **
+
+
+### Commission Sharing.
+
+
 
   * Commission sharing allows the agency to split their commission with another agency/tutor/client who recommends a new client. 
   * The percentage split is set on the tutors profile. If a client or an agency recommends a client, a basic tutor profile can be created for the client or agency to record the split of commission. 
-** Schedule. **
+
+
+### Schedule.
+
+
 
   * The ‘schedule’ documents all your lessons in a handy calendar format. 
   * Lessons by a specific tutor or client can be found using the search tool. 
   * Lessons can be moved through the ‘drag and drop’ feature. 
-** Other Features: **
+
+
+### Other Features:
+
+
 
   * Ability to not bill a job through the invoicing and billing platform 
   * Many other bug fixes and minor improvements. 

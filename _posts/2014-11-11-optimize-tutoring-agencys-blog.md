@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  How to Optimize Your Tutoring Agency’s Blog
+title:  "How to Optimize Your Tutoring Agency’s Blog"
 permalink: optimize-tutoring-agencys-blog
 ---
 In a digital age where everyone’s obsessed with SEO, we often forget to put
-our blog readers’ ![ps_overview_engage](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/ps_overview_engage-300x206.jpg) experiences at the
+our blog readers’
+
+![ps_overview_engage](http://www.tutorcruncher.com/wp-
+content/uploads/2014/11/ps_overview_engage-300x206.jpg)
+
+experiences at the
 forefront of our efforts. How engaged are your [ blog readers
 ](http://www.tutorcruncher.com/blogging-ideas-tutoring-agency/) with your
 content? Would you like them to be more so? Here are our top tips for
@@ -35,7 +39,11 @@ your agency. In any case, your audience will likely be active on sites that
 you’re not, so you should enable the option for your posts to be shared on
 those sites too. With more and more people now active on social media than
 ever before, you’re missing a trick if you aren’t optimizing your blog for
-social platforms. ** Use Effective Calls to Action ** There’s a reason that
+social platforms. 
+
+### Use Effective Calls to Action
+
+ There’s a reason that
 your tutoring agency has its own blog. Above all else, it’s to promote your
 services. It’s important to make sure that your blog posts have calls to
 action that signpost your readers to get in touch with you or to ask questions

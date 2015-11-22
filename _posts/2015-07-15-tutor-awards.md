@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  Tutor Awards 9th July 2015 House of Lords
+title:  "Tutor Awards 9th July 2015 House of Lords"
 permalink: tutor-awards
 ---
-** Phienas Pett, a 'super tutor' has been  awarded  the best and longest serving tutor in the tutoring industry  awards  last night at the House of Lords, Phineas has been recognised for his contribution to pupils by scooping the National Tutoring  Award  during a prestigious event at the House of Lords yesterday (9th July). ** The annual  awards  , hosted by the National Tutoring Conference ( ** NTC ** ) which bring together key figures from the UK’s fast growing tutoring industry. Phineas Pett has made a valuable contribution to a wide range of pupils , allowing them to maximise their chances of getting their highest scores in the exams. Phienas dedicated to the industry means he now looks to start working with centres and online classes to broaden his access. ![Inline images 1](https://mail.google.com/mail/ca/u/0/?ui=2&ik=004acebe0b&view=fimg&th=14e783fcfcaeecbf&attid=0.1&disp=emb&realattid=ii_14e783b1c101fbd0&attbid=ANGjdJ-MfStjtbwl2XMKfMpFhsac03zseyf7sewScWrd1xtjuaGpoEPoJOilxA8TA_FYh0X6boZteAIqMv_Q-LICW1rMS318hFHleSX7VyM1v5wu7aZRTwgnVtuwqvQ&sz=w1124-h632&ats=1436984746323&rm=14e783fcfcaeecbf&zw&atsh=1)
+### Phienas Pett, a 'super tutor' has been  awarded  the best and longest serving tutor in the tutoring industry  awards  last night at the House of Lords, Phineas has been recognised for his contribution to pupils by scooping the National Tutoring  Award  during a prestigious event at the House of Lords yesterday (9th July).
+
+ The annual  awards  , hosted by the National Tutoring Conference ( 
+
+### NTC
+
+ ) which bring together key figures from the UK’s fast growing tutoring industry. Phineas Pett has made a valuable contribution to a wide range of pupils , allowing them to maximise their chances of getting their highest scores in the exams. Phienas dedicated to the industry means he now looks to start working with centres and online classes to broaden his access. ![Inline images 1](https://mail.google.com/mail/ca/u/0/?ui=2&ik=004acebe0b&view=fimg&th=14e783fcfcaeecbf&attid=0.1&disp=emb&realattid=ii_14e783b1c101fbd0&attbid=ANGjdJ-MfStjtbwl2XMKfMpFhsac03zseyf7sewScWrd1xtjuaGpoEPoJOilxA8TA_FYh0X6boZteAIqMv_Q-LICW1rMS318hFHleSX7VyM1v5wu7aZRTwgnVtuwqvQ&sz=w1124-h632&ats=1436984746323&rm=14e783fcfcaeecbf&zw&atsh=1)
 
 Gerard Kelly, Former editor of the TES who presented the  award  : "We are
 delighted to present Phineas with this this  award  . Phineas like so many

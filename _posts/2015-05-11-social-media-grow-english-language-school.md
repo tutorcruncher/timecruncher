@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 Ways Social Media Can Help Grow Your English Language School
+title:  "3 Ways Social Media Can Help Grow Your English Language School"
 permalink: social-media-grow-english-language-school
 ---
 _ Your English language school may already be using social media as a matter
@@ -11,13 +11,21 @@ _ For many, social media is still an untapped resource just waiting to be
 unleashed as part of an effective marketing strategy. Here is our guide to
 some of the ways social media can help grow your English language school. _
 
-** 1\. Improve your Business and Student Outreach **
+
+
+### 1\. Improve your Business and Student Outreach
+
+
 
 The larger the audience you have on social media, the more potential students
 and business partners you can reach. By sharing valuable content with your
 followers, you’ll increase your brand awareness and encourage more people sign
-up to your courses. ![Tutor Social Media](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/images-3-150x150.jpeg) ** **
+up to your courses.
+
+![Tutor Social Media](http://www.tutorcruncher.com/wp-
+content/uploads/2015/05/images-3-150x150.jpeg)
+
+** **
 
 By being proactive and sharing your latest blog posts, school news and course
 details, you’ll also encourage people to share your content with their
@@ -26,7 +34,11 @@ Make a point of seeking out your competition on social media and see who’s
 following them. By requesting friendships with your competitors’ followers,
 you may be able to convert them to using your services instead.
 
-** 2\. Increase Click Throughs to Targeted Pages **
+
+
+### 2\. Increase Click Throughs to Targeted Pages
+
+
 
 Social media can be a great way to drive traffic to a particular page on your
 website and promote your latest course or product. Having more traffic to your
@@ -40,7 +52,11 @@ additional advertising opportunities. The more visitors your website receives
 every month, the more you can charge other businesses for advertising on your
 site.
 
-** 3\. Improve Your Students’ Experience [ ![Happy Experience Tutoring](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg) ](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg) **
+** 3\. Improve Your Students’ Experience [
+
+![Happy Experience Tutoring](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg)
+
+](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg) **
 
 Think about your social media accounts as an extension of your customer
 service. Nowadays, when people contact businesses through Facebook and

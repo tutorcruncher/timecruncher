@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Is your Tutoring Agency Making Use of These New Technologies
+title:  "Is your Tutoring Agency Making Use of These New Technologies"
 permalink: tutoring-agency-technology
 ---
 _ The face of education is changing and it looks like its set to go truly
@@ -9,7 +9,11 @@ education technology ](http://www.tutorcruncher.com/technology-teaching-ideas-
 for-private-tutors/) , nowadays, it’s all about syncing individual devices
 through mobile platforms.  _
 
-** Cloud Storage [ ![cloud](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif) ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif) **
+** Cloud Storage [
+
+![cloud](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif)
+
+](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif) **
 
 Is your tutoring agency still using spreadsheets to keep track of your
 administration? If so, you could save yourself hours of inputting functions
@@ -20,7 +24,11 @@ world, using any device. Our very own [ tutoring agency software
 means that all your tutor invoicing and student lesson scheduling can be taken
 care of quickly, easily when you’re on the go.
 
-** Mobile Devices **
+
+
+### Mobile Devices
+
+
 
 According to a survey conducted in 2014 by [ Global Web Index
 ](insight.globalwebindex.net/device-q3-2014) , 80% of all online adults now
@@ -31,12 +39,20 @@ will help to grow your tutoring agency. More and more students are also
 starting to use tablets at home and in schools to aid their learning. Does
 your agency have mobile devices on hand for students to use as they need them?
 
-** Online Learning **
 
-[ ![online-learning-XSmall](http://www.tutorcruncher.com/wp-
+
+### Online Learning
+
+
+
+[
+
+![online-learning-XSmall](http://www.tutorcruncher.com/wp-
 content/uploads/2015/03/online-learning-XSmall.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/online-learning-
-XSmall.jpg) Online learning in education is really starting to take off with
+XSmall.jpg)
+
+Online learning in education is really starting to take off with
 MOOCs becoming more and more established in the private tuition industry.
 Making use of online or virtual classrooms can be a great way for tutoring
 agencies to attract more business out with their local area. With online

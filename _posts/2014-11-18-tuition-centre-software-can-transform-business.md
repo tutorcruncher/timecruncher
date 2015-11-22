@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  How Tuition Centre Software Can Transform Your Tutoring Business
+title:  "How Tuition Centre Software Can Transform Your Tutoring Business"
 permalink: tuition-centre-software-can-transform-business
 ---
-[ ![Paper Desk](http://www.tutorcruncher.com/wp-
+[
+
+![Paper Desk](http://www.tutorcruncher.com/wp-
 content/uploads/2014/11/John_Ellis_at_CERN.jpg)
 ](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/John_Ellis_at_CERN.jpg) Using industry standard
+content/uploads/2014/11/John_Ellis_at_CERN.jpg)
+
+Using industry standard
 software has many advantages. As well as offering ongoing, unlimited access to
 technical support, tuition centre software can also help your tutoring agency
 solve several problems. Here’s why at TutorCruncher, we believe that tuition
@@ -18,7 +22,11 @@ tasks. With tuition centre software, you’ll be better organised, which means
 your business operations will run more smoothly. TutorCruncher’s tutoring
 software takes care of everything from [ tutor invoices
 ](http://www.tutorcruncher.com/features/automated-invoicing-payroll/) to
-student lessons and data profiles. ** Reducing Errors ** As with any business,
+student lessons and data profiles. 
+
+### Reducing Errors
+
+ As with any business,
 errors can cost valuable time and money. Tutoring agency software can
 safeguard you from common errors, improving the overall efficiency of your
 agency’s operations. By our very nature, we humans make mistakes. However, in

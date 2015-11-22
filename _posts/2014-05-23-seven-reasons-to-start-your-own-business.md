@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  Seven Reasons to Start your Own Business
+title:  "Seven Reasons to Start your Own Business"
 permalink: seven-reasons-to-start-your-own-business
 ---
 Each month, about 543,000 new businesses are opened. Becoming a business owner
 can be very advantageous. This might be something you have never thought about
 and if you're not entirely convinced yet here a list of benefits that owning
-your business could bring you. ** Choose your Future ** This may be both
+your business could bring you. 
+
+### Choose your Future
+
+ This may be both
 frightening and exciting. You may be used to follow the path of others in your
 life, however, being entrepreneur means taking control of every decision you
 make and manage your business the way you want. This requires a lot of
@@ -21,14 +25,26 @@ of time to dedicate to your family. This is one of the most important
 opportunities for 75-80% of the new owners who happen to be young mums. This
 allows them to look after their children and their company at the same time.
 By being your own boss you can keep on growing your business while focusing on
-the important things. ** Follow your Passion ** One of the most important
+the important things. 
+
+### Follow your Passion
+
+ One of the most important
 reasons for running your own business is to follow your dreams. Doing what you
 love will bring a new light to your life; it will speed the working hours and
-you won't feel like working at all. ** Make More Money ** Launching your own
+you won't feel like working at all. 
+
+### Make More Money
+
+ Launching your own
 business may be risky, but successful start-up can make huge benefits. The
 more you are involved in the industry, the more you will learn about how to
 judge if opportunities are good or not. Then you will quickly manage to limit
-the risk and make quick money. ** Choose your Co-workers Wisely ** If you are
+the risk and make quick money. 
+
+### Choose your Co-workers Wisely
+
+ If you are
 an employee, you'll have to deal with all the people your boss will hire. If
 unfortunately you do not like them, the only thing you can do is either learn
 to stand them or start sending out resumes. However, by being your own boss
@@ -38,7 +54,11 @@ as if it were theirs. A startup cannot afford having employees who work like
 machines and stick to their schedules. You will need awake and creative minds,
 out of the box thinkers and hard workers. By choosing the right person who
 shares your same values and vision, the business will just keep moving
-forward. ** Work Faster ** Another advantage of small businesses is that they
+forward. 
+
+### Work Faster
+
+ Another advantage of small businesses is that they
 can react quickly to industry changes. It gives them a crucial advantage over
 larger companies. All the new ideas, technologies or strategies you have may
 be implemented in a few days, or even a few hours! ** Opportunity to Give Back
@@ -58,7 +78,11 @@ _ Seven reasons to start your own business, TutorCruncher _
 Each month, about 543,000 new businesses are opened. Becoming a business owner
 can be very advantageous. This might be something you have never thought about
 and if you're not entirely convinced yet here a list of benefits that owning
-your business could bring you. ** Choose your Future ** This may be both
+your business could bring you. 
+
+### Choose your Future
+
+ This may be both
 frightening and exciting. You may be used to follow the path of others in your
 life, however, being entrepreneur means taking control of every decision you
 make and manage your business the way you want. This requires a lot of
@@ -73,14 +97,26 @@ of time to dedicate to your family. This is one of the most important
 opportunities for 75-80% of the new owners who happen to be young mums. This
 allows them to look after their children and their company at the same time.
 By being your own boss you can keep on growing your business while focusing on
-the important things. ** Follow your Passion ** One of the most important
+the important things. 
+
+### Follow your Passion
+
+ One of the most important
 reasons for running your own business is to follow your dreams. Doing what you
 love will bring a new light to your life; it will speed the working hours and
-you won't feel like working at all. ** Make More Money ** Launching your own
+you won't feel like working at all. 
+
+### Make More Money
+
+ Launching your own
 business may be risky, but successful start-up can make huge benefits. The
 more you are involved in the industry, the more you will learn about how to
 judge if opportunities are good or not. Then you will quickly manage to limit
-the risk and make quick money. ** Choose your Co-workers Wisely ** If you are
+the risk and make quick money. 
+
+### Choose your Co-workers Wisely
+
+ If you are
 an employee, you'll have to deal with all the people your boss will hire. If
 unfortunately you do not like them, the only thing you can do is either learn
 to stand them or start sending out resumes. However, by being your own boss
@@ -90,7 +126,11 @@ as if it were theirs. A startup cannot afford having employees who work like
 machines and stick to their schedules. You will need awake and creative minds,
 out of the box thinkers and hard workers. By choosing the right person who
 shares your same values and vision, the business will just keep moving
-forward. ** Work Faster ** Another advantage of small businesses is that they
+forward. 
+
+### Work Faster
+
+ Another advantage of small businesses is that they
 can react quickly to industry changes. It gives them a crucial advantage over
 larger companies. All the new ideas, technologies or strategies you have may
 be implemented in a few days, or even a few hours! ** Opportunity to Give Back
@@ -108,7 +148,11 @@ consult our article about How to make a Business Plan to help you.
 Each month, about 543,000 new businesses are opened. Becoming a business owner
 can be very advantageous. This might be something you have never thought about
 and if you're not entirely convinced yet here a list of benefits that owning
-your business could bring you. ** Choose your Future ** This may be both
+your business could bring you. 
+
+### Choose your Future
+
+ This may be both
 frightening and exciting. You may be used to follow the path of others in your
 life, however, being entrepreneur means taking control of every decision you
 make and manage your business the way you want. This requires a lot of
@@ -123,14 +167,26 @@ of time to dedicate to your family. This is one of the most important
 opportunities for 75-80% of the new owners who happen to be young mums. This
 allows them to look after their children and their company at the same time.
 By being your own boss you can keep on growing your business while focusing on
-the important things. ** Follow your Passion ** One of the most important
+the important things. 
+
+### Follow your Passion
+
+ One of the most important
 reasons for running your own business is to follow your dreams. Doing what you
 love will bring a new light to your life; it will speed the working hours and
-you won't feel like working at all. ** Make More Money ** Launching your own
+you won't feel like working at all. 
+
+### Make More Money
+
+ Launching your own
 business may be risky, but successful start-up can make huge benefits. The
 more you are involved in the industry, the more you will learn about how to
 judge if opportunities are good or not. Then you will quickly manage to limit
-the risk and make quick money. ** Choose your Co-workers Wisely ** If you are
+the risk and make quick money. 
+
+### Choose your Co-workers Wisely
+
+ If you are
 an employee, you'll have to deal with all the people your boss will hire. If
 unfortunately you do not like them, the only thing you can do is either learn
 to stand them or start sending out resumes. However, by being your own boss
@@ -140,7 +196,11 @@ as if it were theirs. A startup cannot afford having employees who work like
 machines and stick to their schedules. You will need awake and creative minds,
 out of the box thinkers and hard workers. By choosing the right person who
 shares your same values and vision, the business will just keep moving
-forward. ** Work Faster ** Another advantage of small businesses is that they
+forward. 
+
+### Work Faster
+
+ Another advantage of small businesses is that they
 can react quickly to industry changes. It gives them a crucial advantage over
 larger companies. All the new ideas, technologies or strategies you have may
 be implemented in a few days, or even a few hours! ** Opportunity to Give Back
@@ -158,7 +218,11 @@ consult our article about How to make a Business Plan to help you.
 Each month, about 543,000 new businesses are opened. Becoming a business owner
 can be very advantageous. This might be something you have never thought about
 and if you're not entirely convinced yet here a list of benefits that owning
-your business could bring you. ** Choose your Future ** This may be both
+your business could bring you. 
+
+### Choose your Future
+
+ This may be both
 frightening and exciting. You may be used to follow the path of others in your
 life, however, being entrepreneur means taking control of every decision you
 make and manage your business the way you want. This requires a lot of
@@ -173,14 +237,26 @@ of time to dedicate to your family. This is one of the most important
 opportunities for 75-80% of the new owners who happen to be young mums. This
 allows them to look after their children and their company at the same time.
 By being your own boss you can keep on growing your business while focusing on
-the important things. ** Follow your Passion ** One of the most important
+the important things. 
+
+### Follow your Passion
+
+ One of the most important
 reasons for running your own business is to follow your dreams. Doing what you
 love will bring a new light to your life; it will speed the working hours and
-you won't feel like working at all. ** Make More Money ** Launching your own
+you won't feel like working at all. 
+
+### Make More Money
+
+ Launching your own
 business may be risky, but successful start-up can make huge benefits. The
 more you are involved in the industry, the more you will learn about how to
 judge if opportunities are good or not. Then you will quickly manage to limit
-the risk and make quick money. ** Choose your Co-workers Wisely ** If you are
+the risk and make quick money. 
+
+### Choose your Co-workers Wisely
+
+ If you are
 an employee, you'll have to deal with all the people your boss will hire. If
 unfortunately you do not like them, the only thing you can do is either learn
 to stand them or start sending out resumes. However, by being your own boss
@@ -190,7 +266,11 @@ as if it were theirs. A startup cannot afford having employees who work like
 machines and stick to their schedules. You will need awake and creative minds,
 out of the box thinkers and hard workers. By choosing the right person who
 shares your same values and vision, the business will just keep moving
-forward. ** Work Faster ** Another advantage of small businesses is that they
+forward. 
+
+### Work Faster
+
+ Another advantage of small businesses is that they
 can react quickly to industry changes. It gives them a crucial advantage over
 larger companies. All the new ideas, technologies or strategies you have may
 be implemented in a few days, or even a few hours! ** Opportunity to Give Back

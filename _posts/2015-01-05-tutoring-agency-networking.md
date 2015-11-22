@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Offline Networking Can Grow Your Tutoring Agency
+title:  "How Offline Networking Can Grow Your Tutoring Agency"
 permalink: tutoring-agency-networking
 ---
 In this digital age, when people hear the word ‘networking’, online forums,
@@ -18,7 +18,11 @@ may be able work alongside to grow your business. These events can create
 opportunities for partnerships, advertising, customer referrals or simply to
 spread the word about your. If you do attend a networking event, make sure you
 have business cards created so you can give them to anyone who shows an
-interest in the services you offer. ** Useful Advice and Information ** There
+interest in the services you offer. 
+
+### Useful Advice and Information
+
+ There
 are some questions that Google simply can’t answer and that’s where face to
 face conversation really has its advantages. Making new contacts gives you the
 opportunity to ask for advice and get solutions instantly. Even if people
@@ -28,7 +32,11 @@ great for finding out local information. For example, maybe there’s a new
 office space for lease that would be perfect for your agency? Or perhaps there
 are plans to build a new school in the area that would really help improve
 your business? This kind of information is priceless and can only be gained
-from talking to people face to face. ** Improve Communication ** The internet
+from talking to people face to face. 
+
+### Improve Communication
+
+ The internet
 is a huge place and with so much noise, people don’t always get the
 opportunity to ask the questions they want to ask about a business because of
 all the distractions online. By meeting people in person, you instantly [

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tutorcruncher is in the news!
+title:  "Tutorcruncher is in the news!"
 permalink: tutorcruncher-is-in-the-news
 ---
 Tutor to the rich and famous, Thomas Murr has written a thought-provoking

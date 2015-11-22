@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  Marketing via Print and Online
+title:  "Marketing via Print and Online"
 permalink: marketing-via-print-and-online
 ---
-#  ** Media Selection – offline **
+# 
+
+### Media Selection – offline
+
+
 
   * Newspapers: Many ad sizes are available, quick placement and you can target locally. 
   * Magazines: High-quality, graphic, prestige factor, credibility, colour and target marketing. Look for education magazines. 
@@ -12,14 +16,14 @@ permalink: marketing-via-print-and-online
   * Direct Mail: Measurable and you are able to use graphics, colours and highly personal, which customers like. Direct Mail is very time consuming, but a great and cheap way to reach customers. 
   * Outdoor: Local targeting, graphics, colours and simple message. It could be an ad at a bus stop in front of a school or a highly popular bus stop for students and parents on their way to school. 
 
-##  Online channels
+## Online channels
 
   * Social media: Facebook, LinkedIn, Twitter etc. Create a profile or group to promote your tutoring service. The social media will give you the opportunity to update and post about your business, and then to get share and liked by others. 
   * Newsletters or press releases 
   * Video e.g. Youtube. Upload videos from a day with your students. People will be able to share videos too. 
   * Banner advertising 
 
-##  Top Tips:
+## Top Tips:
 
   * Be aware of how to write on the internet 
   * Use images and text consciously together 
@@ -27,7 +31,11 @@ permalink: marketing-via-print-and-online
   * Be aware of trust in connection to call-to-action 
   * Prioritise channels from effect and price 
 
-#  ** Media Selection – offline **
+# 
+
+### Media Selection – offline
+
+
 
   * Newspapers: Many ad sizes are available, quick placement and you can target locally. 
   * Magazines: High-quality, graphic, prestige factor, credibility, colour and target marketing. Look for education magazines. 
@@ -36,14 +44,14 @@ permalink: marketing-via-print-and-online
   * Direct Mail: Measurable and you are able to use graphics, colours and highly personal, which customers like. Direct Mail is very time consuming, but a great and cheap way to reach customers. 
   * Outdoor: Local targeting, graphics, colours and simple message. It could be an ad at a bus stop in front of a school or a highly popular bus stop for students and parents on their way to school. 
 
-##  Online channels
+## Online channels
 
   * Social media: Facebook, LinkedIn, Twitter etc. Create a profile or group to promote your tutoring service. The social media will give you the opportunity to update and post about your business, and then to get share and liked by others. 
   * Newsletters or press releases 
   * Video e.g. Youtube. Upload videos from a day with your students. People will be able to share videos too. 
   * Banner advertising 
 
-##  Top Tips:
+## Top Tips:
 
   * Be aware of how to write on the internet 
   * Use images and text consciously together 
@@ -51,7 +59,11 @@ permalink: marketing-via-print-and-online
   * Be aware of trust in connection to call-to-action 
   * Prioritise channels from effect and price 
 
-#  ** Media Selection – offline **
+# 
+
+### Media Selection – offline
+
+
 
   * Newspapers: Many ad sizes are available, quick placement and you can target locally. 
   * Magazines: High-quality, graphic, prestige factor, credibility, colour and target marketing. Look for education magazines. 
@@ -60,14 +72,14 @@ permalink: marketing-via-print-and-online
   * Direct Mail: Measurable and you are able to use graphics, colours and highly personal, which customers like. Direct Mail is very time consuming, but a great and cheap way to reach customers. 
   * Outdoor: Local targeting, graphics, colours and simple message. It could be an ad at a bus stop in front of a school or a highly popular bus stop for students and parents on their way to school. 
 
-##  Online channels
+## Online channels
 
   * Social media: Facebook, LinkedIn, Twitter etc. Create a profile or group to promote your tutoring service. The social media will give you the opportunity to update and post about your business, and then to get share and liked by others. 
   * Newsletters or press releases 
   * Video e.g. Youtube. Upload videos from a day with your students. People will be able to share videos too. 
   * Banner advertising 
 
-##  Top Tips:
+## Top Tips:
 
   * Be aware of how to write on the internet 
   * Use images and text consciously together 
@@ -75,7 +87,11 @@ permalink: marketing-via-print-and-online
   * Be aware of trust in connection to call-to-action 
   * Prioritise channels from effect and price 
 
-#  ** Media Selection – offline **
+# 
+
+### Media Selection – offline
+
+
 
   * Newspapers: Many ad sizes are available, quick placement and you can target locally. 
   * Magazines: High-quality, graphic, prestige factor, credibility, colour and target marketing. Look for education magazines. 
@@ -84,14 +100,14 @@ permalink: marketing-via-print-and-online
   * Direct Mail: Measurable and you are able to use graphics, colours and highly personal, which customers like. Direct Mail is very time consuming, but a great and cheap way to reach customers. 
   * Outdoor: Local targeting, graphics, colours and simple message. It could be an ad at a bus stop in front of a school or a highly popular bus stop for students and parents on their way to school. 
 
-##  Online channels
+## Online channels
 
   * Social media: Facebook, LinkedIn, Twitter etc. Create a profile or group to promote your tutoring service. The social media will give you the opportunity to update and post about your business, and then to get share and liked by others. 
   * Newsletters or press releases 
   * Video e.g. Youtube. Upload videos from a day with your students. People will be able to share videos too. 
   * Banner advertising 
 
-##  Top Tips:
+## Top Tips:
 
   * Be aware of how to write on the internet 
   * Use images and text consciously together 

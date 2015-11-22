@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  How Will Your Tutoring Agency Use Social Media in 2015?
+title:  "How Will Your Tutoring Agency Use Social Media in 2015?"
 permalink: tutoring-agency-social-media
 ---
-[ ![Social Media](http://www.tutorcruncher.com/wp-
+[
+
+![Social Media](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/social_media_marketing_2015_11.png)
 ](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/social_media_marketing_2015_11.png) According to
+content/uploads/2015/01/social_media_marketing_2015_11.png)
+
+According to
 social media experts [ Social Media Examiner
 ](http://www.socialmediaexaminer.com/social-media-marketing-predictions-
 for-2015/) , big changes are afoot in the world of social media this year.
@@ -28,7 +32,11 @@ another platform. How-to presentations are particularly popular and really
 shareable, so dig out those old presentations that you have lurking in your
 PowerPoint folder and upload them to the platform. With the rise in
 interactive online learning, SlideShare is a good tip for marketing your
-agency in 2015. ** Claim your Local Search Listing ** The way in which Google
+agency in 2015. 
+
+### Claim your Local Search Listing
+
+ The way in which Google
 displays your business in their search engine is changing. If you haven’t
 already created a Google Places page for your business then we advise you do
 so this year. When people search for tutoring agencies in your area using
@@ -37,7 +45,11 @@ appears in the rankings. We suggest that a focus on good customer service this
 year will really help encourage people to leave positive reviews about your
 agency and consequently [ improve your search engine rankings
 ](http://www.tutorcruncher.com/local-seo-marketing-your-tuition-agency-
-online/) . ** Personally Interact ** It’s been a long time coming but [ the
+online/) . 
+
+### Personally Interact
+
+ It’s been a long time coming but [ the
 future of social media ](http://www.tutorcruncher.com/social-media-strategy-
 for-tutoring-businesses/) looks to be about out personalisation. Does your
 agency actively share other people’s content? Or do you spend all day linking

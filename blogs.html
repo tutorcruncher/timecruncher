@@ -23,7 +23,7 @@ description: Thoughts, commentary and suggestions about Teaching, Tuition, the T
       </h3>
       {% include post_meta.html date=post.date author=post.author tags=post.tags %}
       <div class="post-preview">
-        {{ post.excerpt }}
+        {{ post.excerpt | strip_html | strip_newlines | truncate: 300 }}
       </div>
     </div>
     {% if forloop.last == false %}

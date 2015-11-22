@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  What Makes Good Tutoring Management Software?
+title:  "What Makes Good Tutoring Management Software?"
 permalink: good-tutoring-management-software
 ---
-[ ![software](http://www.tutorcruncher.com/wp-
+[
+
+![software](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-500956_640.jpg)
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-500956_640.jpg)
@@ -18,17 +20,19 @@ software.
 
 ######
 
-######  ** Access to Support  **
+Access to Support  
 
 We’re not just talking good supporting documents here, but access to live
 online and telephone support, whenever you need it.  Finding solutions to
 technical problems  could take you hours  but  can be cleared up in a matter
 of minutes if you have access to a techn  ical support team. At TutorCrun  c
 h  er, we offer  telephone  and email support as well as providing  [ online
-tutorials  ](http://www.tutorcruncher.com/tutorials/) and  a  [ user guide
+tutorials  ](http://www.tutorcruncher.com/tutorials/)
+
+and  a  [ user guide
 ](http://www.tutorcruncher.com/user-guide/) for our customers.
 
-######  ** Usability  **
+Usability  
 
 A business management system may pull out all the stops when it comes to
 offering the latest technology, but at its core, unless it offers ease  of
@@ -42,7 +46,7 @@ thoroughly test our product whenever we introduce any new  updates or add any
 new features. This ensures  that our customers  are happy with the changes and
 more importantly, will find them useful.
 
-######  ** Functionality  **
+Functionality  
 
 Second to usability, tutoring software needs to actually fulfil a purpose and
 make  business operations run smoothly. It needs to address the most common
@@ -54,7 +58,7 @@ customers to ensure that their products meet the needs of the industry.
 ![](http://upload.wikimedia.org/wikipedia/commons/5/57/Project_Management_\(pr
 oject_control\).png)
 
-######  ** Accuracy and  Reliability  **
+Accuracy and  Reliability  
 
 When a user subscribes to a new software programme, they  want  it to work as
 planned, every time, without any issues. The software needs to do exactly as
@@ -64,7 +68,7 @@ making it accessible from anywhere in the world. Our tutoring business
 software is hosted on the cloud, so that users aren’t restricted to accessing
 their database only from their own PC or laptop.
 
-######  ** Value for Money  **
+Value for Money  
 
 Whatever  [ tutoring business software
 ](http://www.tutorcruncher.com/5-advantages-using-tuition-centre-software/)

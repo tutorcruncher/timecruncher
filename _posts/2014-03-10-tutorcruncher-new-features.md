@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TutorCruncher New Features
+title:  "TutorCruncher New Features"
 permalink: tutorcruncher-new-features
 ---
 In order to improve our online software and make it more user-friendly, we are

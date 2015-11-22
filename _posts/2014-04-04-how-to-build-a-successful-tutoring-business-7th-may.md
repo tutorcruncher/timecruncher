@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  How to Build a Successful Tutoring Business: 7th May
+title:  "How to Build a Successful Tutoring Business: 7th May"
 permalink: how-to-build-a-successful-tutoring-business-7th-may
 ---
-** "How to Build a Successful Tutoring Business" **
+### "How to Build a Successful Tutoring Business"
+
+
 
 5 - 7 pm Wednesday 7th May 1-6 Yarmouth Place, W1J 7BU
 
@@ -21,7 +23,11 @@ master class on managing large volumes of tutors, students and parents. * What
 it takes to deliver real profits and what pitfalls to avoid. * Franchise
 opportunities.
 
-** "How to Build a Successful Tutoring Business" **
+
+
+### "How to Build a Successful Tutoring Business"
+
+
 
 5 - 7 pm Wednesday 7th May 1-6 Yarmouth Place, W1J 7BU
 
@@ -39,7 +45,11 @@ master class on managing large volumes of tutors, students and parents. * What
 it takes to deliver real profits and what pitfalls to avoid. * Franchise
 opportunities.
 
-** "How to Build a Successful Tutoring Business" **
+
+
+### "How to Build a Successful Tutoring Business"
+
+
 
 5 - 7 pm Wednesday 7th May 1-6 Yarmouth Place, W1J 7BU
 
@@ -57,7 +67,11 @@ master class on managing large volumes of tutors, students and parents. * What
 it takes to deliver real profits and what pitfalls to avoid. * Franchise
 opportunities.
 
-** "How to Build a Successful Tutoring Business" **
+
+
+### "How to Build a Successful Tutoring Business"
+
+
 
 5 - 7 pm Wednesday 7th May 1-6 Yarmouth Place, W1J 7BU
 

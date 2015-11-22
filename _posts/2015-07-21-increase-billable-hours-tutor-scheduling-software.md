@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Increase Your Billable Hours with Tutor Scheduling Software
+title:  "How to Increase Your Billable Hours with Tutor Scheduling Software"
 permalink: increase-billable-hours-tutor-scheduling-software
 ---
 One of the downsides to running a tutoring business is that you only get paid
@@ -11,9 +11,17 @@ this is all just part of running a business and there’s nothing you can really
 do about it. Or is there? TutorCruncher’s tutor scheduling software
 streamlines the whole business of running a tutoring agency, which frees up
 your time to focus on building your client-base and increasing the number of
-billable hours you can charge for. ![TutorCruncher
+billable hours you can charge for.
+
+![TutorCruncher
 Graph](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
-graph.jpg) ** Find Key Information Quicker ** With TutorCruncher’s [ data
+graph.jpg)
+
+
+
+### Find Key Information Quicker
+
+ With TutorCruncher’s [ data
 reporting tool for tutors ](http://www.tutorcruncher.com/features/records-and-
 analytics/) , you can access any element of your data instantly. Our software
 enables tutoring businesses to generate graphical reports, so you can keep a
@@ -25,7 +33,11 @@ of spreadsheets. Our data reporting feature lets you find information quickly
 and easily, which in turn allows you to spend more time increasing your
 billable hours. With our data reporting features, you can keep up-to-date with
 student and tutor records and lesson transactions all at the click of a mouse.
-** Automate Your Emails to Parents, Students and Tutors ** If you’re still
+
+
+### Automate Your Emails to Parents, Students and Tutors
+
+ If you’re still
 sending individual emails to parents every time student reports come around,
 you need to change your strategy. With our [ automated email system for
 tutoring companies ](http://www.tutorcruncher.com/features/automated-emails/)
@@ -45,7 +57,11 @@ automatically [ generate invoices and payslips
 you need to. Hours are logged automatically into our invoices, which means
 that you can save hours transferring data from timesheets over to your
 invoices. Our system also allows you to add your own company branding to your
-invoices. ** Get Things Done Before You Reach the Office ** Who says that you
+invoices. 
+
+### Get Things Done Before You Reach the Office
+
+ Who says that you
 should wait until you reach the office before you start taking care of your
 admin? With the [ TutorCruncher Mobile App
 ](http://www.tutorcruncher.com/features/mobile-app/) , you can access any of

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Best Practices For Checking a Tutor’s Qualifications
+title:  "Best Practices For Checking a Tutor’s Qualifications"
 permalink: best-practices-tutors-qualifications
 ---
 According to [ a survey published in the Independent
@@ -15,7 +15,11 @@ best practices for checking a tutor’s qualifications.
 ![reach your full potential](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/reach-your-full-potential.jpg)
 
-** 1\. Explain Your Verification Process to Applicants **
+
+
+### 1\. Explain Your Verification Process to Applicants
+
+
 
 Outlining your methods for checking tutors’ qualifications is an effective way
 of encouraging applicants to be forthcoming with their credentials. Before
@@ -25,7 +29,11 @@ position with your company. It can also be useful to outline your criteria so
 that tutors know whether they are the type of candidate that you’re looking
 for. This will also discourage anyone from exaggerating their grades.
 
-** 2\. Verify Quickly **
+
+
+### 2\. Verify Quickly
+
+
 
 There are several advantages to carrying out your verification process
 quickly. Firstly, it means that you can hire someone sooner, improving your
@@ -37,7 +45,11 @@ about it. In some cases, the tutor may have made an honest mistake and you’ll
 have the chance to speak to discuss the matter and decide whether it was a
 genuine mistake.
 
-** 3\. Check Tutors’ Qualifications at Source **
+
+
+### 3\. Check Tutors’ Qualifications at Source
+
+
 
 Whereas asking to see a physical copy of a tutor’s qualifications can provide
 the evidence you need to determine their suitability for your agency, this
@@ -52,7 +64,11 @@ and professional bodies, guaranteeing that candidates actually hold the
 qualifications they claim. Not only does this save you time but it provides
 you with an accurate record of your tutors’ credentials.
 
-** 4\. Provide Feedback **
+
+
+### 4\. Provide Feedback
+
+
 
 Once you’ve received your verification from Qualification Check, you should
 discuss the results with the candidate even it’s only to confirm that the

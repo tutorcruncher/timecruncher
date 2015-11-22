@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Recruiting your Tutor-Team
+title:  "Recruiting your Tutor-Team"
 permalink: recruiting-your-tutor-team
 ---
 One of the most important parts of building a tutoring business is sourcing

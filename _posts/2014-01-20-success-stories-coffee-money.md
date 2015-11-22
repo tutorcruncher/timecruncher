@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Success stories : Coffee Money
+title:  "Success stories : Coffee Money"
 permalink: success-stories-coffee-money
 ---
 We have gathered testimonials from people who actually succeeded in the
@@ -28,18 +28,38 @@ expertise and began teaching and running online classes myself.  Having
 experienced both online and offline tutoring, these are some skills he would
 highly recommend having if you want to succeed in that field :
 
-  * ** Subject Knowledge **
-  * ** Lesson Planning ** \- setting goals, objectives and deliverables. 
-  * ** Communication skills ** \- prior to, during and post tutoring- in order to get the best out of everyone involved 
-  * ** Time management ** \- critical both online and offline. Online, the added concern here is often working with different time zones. 
-  * ** Coaching ** \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+  * 
 
-###  ** Neil Ashworth teaches small business owners how to grow their business
+### Subject Knowledge
+
+
+  * 
+
+### Lesson Planning
+
+ \- setting goals, objectives and deliverables. 
+  * 
+
+### Communication skills
+
+ \- prior to, during and post tutoring- in order to get the best out of everyone involved 
+  * 
+
+### Time management
+
+ \- critical both online and offline. Online, the added concern here is often working with different time zones. 
+  * 
+
+### Coaching
+
+ \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+
+### Neil Ashworth teaches small business owners how to grow their business
 online. Learn more about him on [ Google+
 ](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [
 website ](http://www.coffeemoney.co.uk/) **
 
-###  ** Comment to share your own success story with us ! **
+### Comment to share your own success story with us ! 
 
 We have gathered testimonials from people who actually succeeded in the
 tutoring industry, hoping you can learn the ropes of managing your own
@@ -76,18 +96,38 @@ online classes myself.
 Having experienced both online and offline tutoring, these are some skills he
 would highly recommend having if you want to succeed in that field :
 
-  * ** Subject Knowledge **
-  * ** Lesson Planning ** \- setting goals, objectives and deliverables. 
-  * ** Communication skills ** \- prior to, during and post tutoring- in order to get the best out of everyone involved 
-  * ** Time management ** \- critical both online and offline. Online, the added concern here is often working with different time zones. 
-  * ** Coaching ** \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+  * 
 
-###  ** Neil Ashworth teaches small business owners how to grow their business
+### Subject Knowledge
+
+
+  * 
+
+### Lesson Planning
+
+ \- setting goals, objectives and deliverables. 
+  * 
+
+### Communication skills
+
+ \- prior to, during and post tutoring- in order to get the best out of everyone involved 
+  * 
+
+### Time management
+
+ \- critical both online and offline. Online, the added concern here is often working with different time zones. 
+  * 
+
+### Coaching
+
+ \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+
+### Neil Ashworth teaches small business owners how to grow their business
 online. Learn more about him on [ Google+
 ](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [
 website ](http://www.coffeemoney.co.uk/) **
 
-###  ** Comment to share your own success story with us ! **
+### Comment to share your own success story with us ! 
 
 We have gathered testimonials from people who actually succeeded in the
 tutoring industry, hoping you can learn the ropes of managing your own
@@ -124,18 +164,38 @@ online classes myself.
 Having experienced both online and offline tutoring, these are some skills he
 would highly recommend having if you want to succeed in that field :
 
-  * ** Subject Knowledge **
-  * ** Lesson Planning ** \- setting goals, objectives and deliverables. 
-  * ** Communication skills ** \- prior to, during and post tutoring- in order to get the best out of everyone involved 
-  * ** Time management ** \- critical both online and offline. Online, the added concern here is often working with different time zones. 
-  * ** Coaching ** \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+  * 
 
-###  ** Neil Ashworth teaches small business owners how to grow their business
+### Subject Knowledge
+
+
+  * 
+
+### Lesson Planning
+
+ \- setting goals, objectives and deliverables. 
+  * 
+
+### Communication skills
+
+ \- prior to, during and post tutoring- in order to get the best out of everyone involved 
+  * 
+
+### Time management
+
+ \- critical both online and offline. Online, the added concern here is often working with different time zones. 
+  * 
+
+### Coaching
+
+ \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+
+### Neil Ashworth teaches small business owners how to grow their business
 online. Learn more about him on [ Google+
 ](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [
 website ](http://www.coffeemoney.co.uk/) **
 
-###  ** Comment to share your own success story with us ! **
+### Comment to share your own success story with us ! 
 
 We have gathered testimonials from people who actually succeeded in the
 tutoring industry, hoping you can learn the ropes of managing your own
@@ -172,15 +232,35 @@ online classes myself.
 Having experienced both online and offline tutoring, these are some skills he
 would highly recommend having if you want to succeed in that field :
 
-  * ** Subject Knowledge **
-  * ** Lesson Planning ** \- setting goals, objectives and deliverables. 
-  * ** Communication skills ** \- prior to, during and post tutoring- in order to get the best out of everyone involved 
-  * ** Time management ** \- critical both online and offline. Online, the added concern here is often working with different time zones. 
-  * ** Coaching ** \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+  * 
 
-###  ** Neil Ashworth teaches small business owners how to grow their business
+### Subject Knowledge
+
+
+  * 
+
+### Lesson Planning
+
+ \- setting goals, objectives and deliverables. 
+  * 
+
+### Communication skills
+
+ \- prior to, during and post tutoring- in order to get the best out of everyone involved 
+  * 
+
+### Time management
+
+ \- critical both online and offline. Online, the added concern here is often working with different time zones. 
+  * 
+
+### Coaching
+
+ \- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
+
+### Neil Ashworth teaches small business owners how to grow their business
 online. Learn more about him on [ Google+
 ](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [
 website ](http://www.coffeemoney.co.uk/) **
 
-###  ** Comment to share your own success story with us ! **
+### Comment to share your own success story with us !

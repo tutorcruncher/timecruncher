@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Encourage Students to Take Control of Their Learning
+title:  "How to Encourage Students to Take Control of Their Learning"
 permalink: how-to-encourage-students-to-take-control-of-their-learning
 ---
 Students often become disillusioned with their learning and can feel
@@ -9,7 +9,11 @@ tutor, how can you help students become successful and find joy in learning?
 Tutors can help by setting realistic expectations and helping them to develop
 independent work habits.
 
-** Developing Good Study Habits **
+
+
+### Developing Good Study Habits
+
+
 
 Developing independent study habits enables a student to feel like a
 successful learner. Feelings of achievement and success encourage students to
@@ -33,7 +37,15 @@ future can be a good way to start setting goals. If your student has
 aspirations to work in a certain profession, you can use those ambitions as
 motivation for setting educational targets.
 
-** Focus On the Positives ** It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. ** Create an Actionable Plan **
+
+
+### Focus On the Positives
+
+ It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. 
+
+### Create an Actionable Plan
+
+
 
 Often, having a plan to refer to can be a good way of encouraging students to
 take responsibility for their learning. The best laid plans are always the
@@ -53,7 +65,11 @@ tutor, how can you help students become successful and find joy in learning?
 Tutors can help by setting realistic expectations and helping them to develop
 independent work habits.
 
-** Developing Good Study Habits **
+
+
+### Developing Good Study Habits
+
+
 
 Developing independent study habits enables a student to feel like a
 successful learner. Feelings of achievement and success encourage students to
@@ -77,7 +93,15 @@ future can be a good way to start setting goals. If your student has
 aspirations to work in a certain profession, you can use those ambitions as
 motivation for setting educational targets.
 
-** Focus On the Positives ** It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. ** Create an Actionable Plan **
+
+
+### Focus On the Positives
+
+ It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. 
+
+### Create an Actionable Plan
+
+
 
 Often, having a plan to refer to can be a good way of encouraging students to
 take responsibility for their learning. The best laid plans are always the
@@ -97,7 +121,11 @@ tutor, how can you help students become successful and find joy in learning?
 Tutors can help by setting realistic expectations and helping them to develop
 independent work habits.
 
-** Developing Good Study Habits **
+
+
+### Developing Good Study Habits
+
+
 
 Developing independent study habits enables a student to feel like a
 successful learner. Feelings of achievement and success encourage students to
@@ -121,7 +149,15 @@ future can be a good way to start setting goals. If your student has
 aspirations to work in a certain profession, you can use those ambitions as
 motivation for setting educational targets.
 
-** Focus On the Positives ** It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. ** Create an Actionable Plan **
+
+
+### Focus On the Positives
+
+ It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. 
+
+### Create an Actionable Plan
+
+
 
 Often, having a plan to refer to can be a good way of encouraging students to
 take responsibility for their learning. The best laid plans are always the
@@ -141,7 +177,11 @@ tutor, how can you help students become successful and find joy in learning?
 Tutors can help by setting realistic expectations and helping them to develop
 independent work habits.
 
-** Developing Good Study Habits **
+
+
+### Developing Good Study Habits
+
+
 
 Developing independent study habits enables a student to feel like a
 successful learner. Feelings of achievement and success encourage students to
@@ -165,7 +205,15 @@ future can be a good way to start setting goals. If your student has
 aspirations to work in a certain profession, you can use those ambitions as
 motivation for setting educational targets.
 
-** Focus On the Positives ** It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. ** Create an Actionable Plan **
+
+
+### Focus On the Positives
+
+ It can be easy for students to become complacent about their learning when they feel they aren’t getting the results they want. Sometimes all it takes is some encouraging words to put things back on track again. Every student has their strengths and when someone loses control of their learning, focusing on what has went well so far can be a productive step in regaining a feeling of ownership. As a tutor, by reinforcing what your student is already doing well, you’ll help them see that they are capable of achieving their goals with a little extra effort and a positive attitude. 
+
+### Create an Actionable Plan
+
+
 
 Often, having a plan to refer to can be a good way of encouraging students to
 take responsibility for their learning. The best laid plans are always the

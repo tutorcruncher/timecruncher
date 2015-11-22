@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How a Learning Centre Can Improve a Student’s Grades
+title:  "How a Learning Centre Can Improve a Student’s Grades"
 permalink: learning-centre
 ---
 Having access to a dedicated learning space outside of school can really help
@@ -11,11 +11,15 @@ For those who haven’t used a [ learning centre
 business/) before, we’ve put together a list of some of the ways they can help
 improve a student’s grades.
 
-[ ![A](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/pen-162124_640.png) ](http://www.tutorcruncher.com/wp-
+[
+
+![A](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/pen-162124_640.png)
 
-######  ** Complement School Work **
+](http://www.tutorcruncher.com/wp-
+content/uploads/2015/01/pen-162124_640.png)
+
+Complement School Work 
 
 We’ve all been there, sat in a class, scratching our heads, too embarrassed to
 ask the teacher to explain. One of the biggest benefits of using a learning
@@ -28,7 +32,7 @@ more attention. Because learning centres provide one to one tutoring, students
 are able to ask those questions that they wouldn’t otherwise ask in class and
 receive an answer immediately, followed by a demonstration.
 
-######  ** Focused Learning **
+Focused Learning 
 
 Unlike in school, where all students are taught the same subjects in the same
 way and at the same time, learning centres are able to tailor lessons
@@ -40,7 +44,7 @@ on evidence from schoolwork and assessments. Learning centres can also take
 the time to understand each student’s personal learning style and adapt their
 tutoring approach to suit individual needs.
 
-######  ** Enhance Overall Understanding **
+Enhance Overall Understanding 
 
 As is often the case in school, once a topic is completed, the whole class
 move on to the next phase of learning. However, any gaps in a student’s
@@ -50,7 +54,7 @@ elements that they missed or didn’t fully understand. This extra support helps
 ensure that students are always on top of the learning and don’t become
 weighed down by a lack of knowledge.
 
-######  ** Learning at the Student’s Pace **
+Learning at the Student’s Pace 
 
 One of the great things about learning centres is that they encourage flexible
 learning. Not all students learn effectively from a rigid school routine.
@@ -59,7 +63,7 @@ school by opening later in the evenings and offering flexibility around lesson
 times. Many learning centres also offer a home tutoring service, where tutors
 travel to students’ homes to save students travel time.
 
-######  ** Making Use of Resources **
+Making Use of Resources 
 
 Most learning centres will have different resources on hand for students to
 use as they need them, which is perfect for those who share computers at home.

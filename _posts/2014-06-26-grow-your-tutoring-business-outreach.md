@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Grow Your Tutoring Business Outreach
+title:  "How to Grow Your Tutoring Business Outreach"
 permalink: grow-your-tutoring-business-outreach
 ---
 After [ starting your brand new tuition agency
@@ -20,7 +20,7 @@ business/#.U6vedha5-Xr) and [ Veronika Noize
 articles), we have outlined some of the best tips to grow your tutoring
 business outreach and increase your influence in the market.
 
-###  Networking
+### Networking
 
 If you want to grow your tutoring business outreach, you can’t prevent from
 networking with others local communities such as schools, nurseries, civic
@@ -31,7 +31,7 @@ In the same vein, it is worth joining and participating in virtual networking
 groups on LinkedIn, Facebook, Twitter and other websites if they are relevant
 for your potential customers.
 
-###  Spread (a bit of) Your Knowledge
+### Spread (a bit of) Your Knowledge
 
 Undoubtedly, after years and years of experience you have a strong knowledge
 about your area of business. This could be completely worthless if nobody
@@ -43,18 +43,26 @@ conversations not only about your brand, but also about the problems your
 customers are facing every day. This is a good strategy to grow your tutoring
 business outreach and also get some new clients.
 
-###  Develop Relationships with Other Influencers
+### Develop Relationships with Other Influencers
 
 Find the existing influencers in your niche and get in contact with them
 trying to establish long-lasting relationships. If people see you are close to
 those people, they will start thinking about you as an influencer, too. You
 can find other influencers through different channels and media, both online
 (social media) and offline (magazines, TV, radio). It might takes a long time
-to develop and ** grow your tutoring business outreach ** , but it’s
+to develop and 
+
+### grow your tutoring business outreach
+
+ , but it’s
 definitely worth it in terms of the advantages you will be able to get in the
-long term. And by following our few tips, it can be easier. [ ![grow-your-
+long term. And by following our few tips, it can be easier. [
+
+![grow-your-
 tutoring-business-outreach](http://www.tutorcruncher.com/wp-
 content/uploads/2014/06/IMG_9505-1024x371.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2014/06/IMG_9505.jpg) _ If
+](http://www.tutorcruncher.com/wp-content/uploads/2014/06/IMG_9505.jpg)
+
+_ If
 you have any other idea for growing your tutoring business outreach, please
 share it below. We'd love to hear your opinion. _

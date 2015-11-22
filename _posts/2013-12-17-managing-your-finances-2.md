@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Managing your Finances
+title:  "Managing your Finances"
 permalink: managing-your-finances-2
 ---
 A lot of people avoid monitoring the financial side of their initial business
@@ -21,7 +21,11 @@ If you fail to meet these monthly objectives then your business plan targets
 will allow you to realise this. It’s important to keep track of how you may
 not be fulfilling these aims. When you are made aware of the problem early
 enough you can solve it. For example, if you haven’t got ten new clients this
-month and that was your goal ask yourself ** why ** and do something about it.
+month and that was your goal ask yourself 
+
+### why
+
+ and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
 group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
 id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your
@@ -53,7 +57,11 @@ If you fail to meet these monthly objectives then your business plan targets
 will allow you to realise this. It’s important to keep track of how you may
 not be fulfilling these aims. When you are made aware of the problem early
 enough you can solve it. For example, if you haven’t got ten new clients this
-month and that was your goal ask yourself ** why ** and do something about it.
+month and that was your goal ask yourself 
+
+### why
+
+ and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
 group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
 id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your
@@ -85,7 +93,11 @@ If you fail to meet these monthly objectives then your business plan targets
 will allow you to realise this. It’s important to keep track of how you may
 not be fulfilling these aims. When you are made aware of the problem early
 enough you can solve it. For example, if you haven’t got ten new clients this
-month and that was your goal ask yourself ** why ** and do something about it.
+month and that was your goal ask yourself 
+
+### why
+
+ and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
 group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
 id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your
@@ -117,7 +129,11 @@ If you fail to meet these monthly objectives then your business plan targets
 will allow you to realise this. It’s important to keep track of how you may
 not be fulfilling these aims. When you are made aware of the problem early
 enough you can solve it. For example, if you haven’t got ten new clients this
-month and that was your goal ask yourself ** why ** and do something about it.
+month and that was your goal ask yourself 
+
+### why
+
+ and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
 group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
 id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your

@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  Software Engineer Internship
+title:  "Software Engineer Internship"
 permalink: software-engineer-internship
 ---
-[ ![](http://www.tutorcruncher.com/wp-
+[
+
+![](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/tutorcruncher_big_logo-300x131.jpg)
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/tutorcruncher_big_logo.jpg)
 
-** Software Engineer Internship Opportunity: **
+
+
+### Software Engineer Internship Opportunity:
+
+
 
 ** **
 
@@ -25,18 +31,44 @@ mobile applications and you will have contact with people across the company.
 Previous interns have worked on mobile applications, data security and
 messaging.
 
-** Requirements for the internship: ** Ideally undergraduate or recent graduate in engineering, computer science, business information systems or a course which is similar. A healthy interest in programming language, ideally with some understanding of Phython, Django, C#. Natural interpersonal and communication skills. A good grasp of English. A high level of problem solving and a ‘can do’ attitude which translate into software applications. 
 
-** Application process: ** Please send your CV and a short cover letter to: ** [ admin@tutorcruncher.com ](mailto:admin@tutorcruncher.com) . **
 
-** Roles are on going. **
+### Requirements for the internship:
 
-** Duration: Up to 12 Months **
+ Ideally undergraduate or recent graduate in engineering, computer science, business information systems or a course which is similar. A healthy interest in programming language, ideally with some understanding of Phython, Django, C#. Natural interpersonal and communication skills. A good grasp of English. A high level of problem solving and a ‘can do’ attitude which translate into software applications. 
 
-** Salary Competitive. Location: Central London, 8a Lower Grosvenor Place, SW1W OEN. **
 
-[caption id="attachment_4035" align="aligncenter" width="344"] [ ![software
+
+### Application process:
+
+ Please send your CV and a short cover letter to: ** [ admin@tutorcruncher.com ](mailto:admin@tutorcruncher.com)
+
+. **
+
+
+
+### Roles are on going.
+
+
+
+
+
+### Duration: Up to 12 Months
+
+
+
+
+
+### Salary Competitive. Location: Central London, 8a Lower Grosvenor Place, SW1W OEN.
+
+
+
+[caption id="attachment_4035" align="aligncenter" width="344"] [
+
+![software
 engineer internship](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/Screenshot-from-2015-01-06-15-55-59.png)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/Screenshot-
-from-2015-01-06-15-55-59.png) software engineer internship[/caption]
+from-2015-01-06-15-55-59.png)
+
+software engineer internship[/caption]

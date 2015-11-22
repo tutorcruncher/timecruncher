@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Maintaining and Managing your Tutoring Community…
+title:  "Maintaining and Managing your Tutoring Community…"
 permalink: maintaining-and-managing-your-tutoring-community
 ---
 As you, our audience, will be well aware, tutoring really is a people-

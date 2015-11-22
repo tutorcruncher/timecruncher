@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  How to Choose the Best Tuition Centre Software
+title:  "How to Choose the Best Tuition Centre Software"
 permalink: choose-best-tuition-centre-software
 ---
-[ ![software](http://www.tutorcruncher.com/wp-
+[
+
+![software](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-500956_640-229x300.jpg)
 ](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-500956_640.jpg) When it comes to choosing [
+content/uploads/2014/12/software-500956_640.jpg)
+
+When it comes to choosing [
 software for your tutoring agency ](http://www.tutorcruncher.com/) , you want
 a product that makes your everyday business operations more streamline. Here
 are our tips on how to choose the best tuition centre software for your
-tutoring agency: ** Consider What Your Needs Are ** Think about what you need
+tutoring agency: 
+
+### Consider What Your Needs Are
+
+ Think about what you need
 your software to do. Are your needs fairly basic or do you need software that
 can handle more complex operations? Write down a list of features that you
 need your tuition software to have and give each one a priority, these are the

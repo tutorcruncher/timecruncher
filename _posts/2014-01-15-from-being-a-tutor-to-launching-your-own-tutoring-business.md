@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  From Being a Tutor to Launching your own Tutoring Business
+title:  "From Being a Tutor to Launching your own Tutoring Business"
 permalink: from-being-a-tutor-to-launching-your-own-tutoring-business
 ---
-Going from being a tutor to ** launching your own tutoring business ** is a
+Going from being a tutor to 
+
+### launching your own tutoring business
+
+ is a
 big step to make. Here’s a post for those who are still hesitating.
 
-###  What to Expect in the Future?
+### What to Expect in the Future?
 
 There are lots of opportunities in the global tutoring field. [ Tutoring
 ](http://www.strategyr.com/pressMCP-1597.asp) is listed as one of the top 16
@@ -20,7 +24,7 @@ so there's no doubt that you will benefit from market trend. On top of that,
 since there are more and more students willing to enter in highly rated
 universities as competition increases.
 
-###  What Will Change for You?
+### What Will Change for You?
 
 Since you won’t be only teaching, you’ll have to adapt and not only think as a
 tutor but as a business person. Even though, having experience in tutoring
@@ -28,7 +32,11 @@ will help you a lot - for building your own tutor team for instance - you’ll
 have to get familiar with management, accounting and administration. Once
 again, TutorCruncher is here to help you out with those aspects. Let us know
 if you've tried going from a tutor to launching your own tutoring business in
-the comments below. [ ![how-to-start-a-tutoring-
+the comments below. [
+
+![how-to-start-a-tutoring-
 business](http://www.tutorcruncher.com/wp-content/uploads/2014/01/how-to-
-start-a-tutoring-business.jpg) ](http://www.tutorcruncher.com/wp-
+start-a-tutoring-business.jpg)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2014/01/how-to-start-a-tutoring-business.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Online Tutoring
+title:  "Online Tutoring"
 permalink: online-tutoring
 ---
 You may want to expand your tutoring services by offering online tuition. This
@@ -24,7 +24,7 @@ agree with tutors to charge less for online tutoring sessions.
 Even with online tutoring it would be important to speak to your tutors to
 ensure that they are providing the service you expect.
 
-##  ** Express yourself. What's your opinion on Online Tutoring ? **
+## Express yourself. What's your opinion on Online Tutoring ? 
 
 You may want to expand your tutoring services by offering online tuition. This
 may be an area of growth for existing and prospective tutors. [ Online
@@ -47,7 +47,7 @@ agree with tutors to charge less for online tutoring sessions.
 Even with online tutoring it would be important to speak to your tutors to
 ensure that they are providing the service you expect.
 
-##  ** Express yourself. What's your opinion on Online Tutoring ? **
+## Express yourself. What's your opinion on Online Tutoring ? 
 
 You may want to expand your tutoring services by offering online tuition. This
 may be an area of growth for existing and prospective tutors. [ Online
@@ -70,7 +70,7 @@ agree with tutors to charge less for online tutoring sessions.
 Even with online tutoring it would be important to speak to your tutors to
 ensure that they are providing the service you expect.
 
-##  ** Express yourself. What's your opinion on Online Tutoring ? **
+## Express yourself. What's your opinion on Online Tutoring ? 
 
 You may want to expand your tutoring services by offering online tuition. This
 may be an area of growth for existing and prospective tutors. [ Online
@@ -93,4 +93,4 @@ agree with tutors to charge less for online tutoring sessions.
 Even with online tutoring it would be important to speak to your tutors to
 ensure that they are providing the service you expect.
 
-##  ** Express yourself. What's your opinion on Online Tutoring ? **
+## Express yourself. What's your opinion on Online Tutoring ?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Get Students On Board With Your Lessons
+title:  "How to Get Students On Board With Your Lessons"
 permalink: engage-students-in-learning
 ---
 As a tutor, it can be frustrating when a student loses interest in your
@@ -10,7 +10,11 @@ can make all the difference to their learning. You need to gain their trust
 and promote a clear communication channel to ensure that they feel comfortable
 asking questions during your lessons.
 
-** Share Your Interests **
+
+
+### Share Your Interests
+
+
 
 One of the most effective ways to get a ‘buy in’ from your students is to
 share a little information about yourself. This can make students feel more at
@@ -20,7 +24,11 @@ get in the way of your student’s learning. Sharing your interests with
 students enables them see you as less of an authority figure and gives them
 common ground to connect. Dropping in little pieces of information that they
 may find interesting throughout your lessons can help strengthen your
-connection. ** Give Students Your Full Attention **
+connection. 
+
+### Give Students Your Full Attention
+
+
 
 If you want a student to be fully engaged with your lessons then you need to
 give them your full attention and reassure them that you’re there to help.
@@ -32,7 +40,11 @@ needs, which in turn, should help realign their focus. Try to remove any
 distraction from your working area that might act as obstacle to your
 student’s learning.
 
-** Ask Open Questions **
+
+
+### Ask Open Questions
+
+
 
 For certain subjects that require analytical thinking, try asking open
 questions to prompt your student to share their opinions on the material being
@@ -43,7 +55,11 @@ the opportunity to signpost their answer and re-engage them in the content of
 your lesson. Ask your student to explain the meaning or the idea behind a
 particular question even if that’s not what is being directly asked. By
 encouraging discussion, students often find themselves in a more resourceful
-position and more able to engage with the lesson. ** Take Things Slowly **
+position and more able to engage with the lesson. 
+
+### Take Things Slowly
+
+
 
 As a tutor, it can be tempting to cover as much material as possible during
 lessons. However, try not to overload your student with too much information
@@ -66,7 +82,11 @@ can make all the difference to their learning. You need to gain their trust
 and promote a clear communication channel to ensure that they feel comfortable
 asking questions during your lessons.
 
-** Share Your Interests **
+
+
+### Share Your Interests
+
+
 
 One of the most effective ways to get a ‘buy in’ from your students is to
 share a little information about yourself. This can make students feel more at
@@ -76,7 +96,11 @@ get in the way of your student’s learning. Sharing your interests with
 students enables them see you as less of an authority figure and gives them
 common ground to connect. Dropping in little pieces of information that they
 may find interesting throughout your lessons can help strengthen your
-connection. ** Give Students Your Full Attention **
+connection. 
+
+### Give Students Your Full Attention
+
+
 
 If you want a student to be fully engaged with your lessons then you need to
 give them your full attention and reassure them that you’re there to help.
@@ -88,7 +112,11 @@ needs, which in turn, should help realign their focus. Try to remove any
 distraction from your working area that might act as obstacle to your
 student’s learning.
 
-** Ask Open Questions **
+
+
+### Ask Open Questions
+
+
 
 For certain subjects that require analytical thinking, try asking open
 questions to prompt your student to share their opinions on the material being
@@ -99,7 +127,11 @@ the opportunity to signpost their answer and re-engage them in the content of
 your lesson. Ask your student to explain the meaning or the idea behind a
 particular question even if that’s not what is being directly asked. By
 encouraging discussion, students often find themselves in a more resourceful
-position and more able to engage with the lesson. ** Take Things Slowly **
+position and more able to engage with the lesson. 
+
+### Take Things Slowly
+
+
 
 As a tutor, it can be tempting to cover as much material as possible during
 lessons. However, try not to overload your student with too much information
@@ -120,7 +152,11 @@ can make all the difference to their learning. You need to gain their trust
 and promote a clear communication channel to ensure that they feel comfortable
 asking questions during your lessons.
 
-** Share Your Interests **
+
+
+### Share Your Interests
+
+
 
 One of the most effective ways to get a ‘buy in’ from your students is to
 share a little information about yourself. This can make students feel more at
@@ -130,7 +166,11 @@ get in the way of your student’s learning. Sharing your interests with
 students enables them see you as less of an authority figure and gives them
 common ground to connect. Dropping in little pieces of information that they
 may find interesting throughout your lessons can help strengthen your
-connection. ** Give Students Your Full Attention **
+connection. 
+
+### Give Students Your Full Attention
+
+
 
 If you want a student to be fully engaged with your lessons then you need to
 give them your full attention and reassure them that you’re there to help.
@@ -142,7 +182,11 @@ needs, which in turn, should help realign their focus. Try to remove any
 distraction from your working area that might act as obstacle to your
 student’s learning.
 
-** Ask Open Questions **
+
+
+### Ask Open Questions
+
+
 
 For certain subjects that require analytical thinking, try asking open
 questions to prompt your student to share their opinions on the material being
@@ -153,7 +197,11 @@ the opportunity to signpost their answer and re-engage them in the content of
 your lesson. Ask your student to explain the meaning or the idea behind a
 particular question even if that’s not what is being directly asked. By
 encouraging discussion, students often find themselves in a more resourceful
-position and more able to engage with the lesson. ** Take Things Slowly **
+position and more able to engage with the lesson. 
+
+### Take Things Slowly
+
+
 
 As a tutor, it can be tempting to cover as much material as possible during
 lessons. However, try not to overload your student with too much information
@@ -174,7 +222,11 @@ can make all the difference to their learning. You need to gain their trust
 and promote a clear communication channel to ensure that they feel comfortable
 asking questions during your lessons.
 
-** Share Your Interests **
+
+
+### Share Your Interests
+
+
 
 One of the most effective ways to get a ‘buy in’ from your students is to
 share a little information about yourself. This can make students feel more at
@@ -184,7 +236,11 @@ get in the way of your student’s learning. Sharing your interests with
 students enables them see you as less of an authority figure and gives them
 common ground to connect. Dropping in little pieces of information that they
 may find interesting throughout your lessons can help strengthen your
-connection. ** Give Students Your Full Attention **
+connection. 
+
+### Give Students Your Full Attention
+
+
 
 If you want a student to be fully engaged with your lessons then you need to
 give them your full attention and reassure them that you’re there to help.
@@ -196,7 +252,11 @@ needs, which in turn, should help realign their focus. Try to remove any
 distraction from your working area that might act as obstacle to your
 student’s learning.
 
-** Ask Open Questions **
+
+
+### Ask Open Questions
+
+
 
 For certain subjects that require analytical thinking, try asking open
 questions to prompt your student to share their opinions on the material being
@@ -207,7 +267,11 @@ the opportunity to signpost their answer and re-engage them in the content of
 your lesson. Ask your student to explain the meaning or the idea behind a
 particular question even if that’s not what is being directly asked. By
 encouraging discussion, students often find themselves in a more resourceful
-position and more able to engage with the lesson. ** Take Things Slowly **
+position and more able to engage with the lesson. 
+
+### Take Things Slowly
+
+
 
 As a tutor, it can be tempting to cover as much material as possible during
 lessons. However, try not to overload your student with too much information

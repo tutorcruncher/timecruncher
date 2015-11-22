@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Integration
+title:  "Integration"
 permalink: integration
 ---
-#  Integration
+# Integration
 
 Stripe allows clients to pay invoices and top up using TutorCruncherXero
 export allows you to bring your data into the UK's leading online accounting

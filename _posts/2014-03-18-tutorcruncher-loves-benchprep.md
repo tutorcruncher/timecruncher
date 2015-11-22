@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TutorCruncher loves BenchPrep!
+title:  "TutorCruncher loves BenchPrep!"
 permalink: tutorcruncher-loves-benchprep
 ---
 BenchPrep, a US learning platform for American exams, is an awesome example of

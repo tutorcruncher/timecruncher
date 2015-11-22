@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Conceptualise your Brand...
+title:  "Conceptualise your Brand..."
 permalink: conceptualise-your-brand
 ---
 Having found your unique position in your target market and established the

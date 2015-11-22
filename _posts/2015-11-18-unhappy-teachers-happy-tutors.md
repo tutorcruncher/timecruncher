@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Unhappy teachers = happy tutors?
+title:  "Unhappy teachers = happy tutors?"
 permalink: unhappy-teachers-happy-tutors
 ---
 As a profession teaching has a reputation for long hours (holidays excepted)

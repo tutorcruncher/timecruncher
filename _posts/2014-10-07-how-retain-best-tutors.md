@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Your Tutoring Agency Can Retain its Best Tutors
+title:  "How Your Tutoring Agency Can Retain its Best Tutors"
 permalink: how-retain-best-tutors
 ---
 A recent survey by Monster Jobs, found that [ 70% of people
@@ -9,7 +9,11 @@ vacation-start-job-search) are more likely to look for a new job after a
 holiday period. So, with the summer holidays now over and Christmas just
 around the corner, how can you ensure that your agency retains its staff?
 We’ve put together a list of ways you can help improve your tutors’ loyalty.
-** Give Your Tutor’s Ownership **
+
+
+### Give Your Tutor’s Ownership
+
+
 
 ![](http://www.gymnasedumanagement.com/doc/excamino/chroniques/6-_travail_rend
 _heureux.jpg)
@@ -23,7 +27,11 @@ launch that someone in your team could help with? Or perhaps there’s an
 opening for another management position within the agency that you know would
 be perfect for one of your tutors?
 
-** Create an Open Culture **
+
+
+### Create an Open Culture
+
+
 
 [ Private tutoring is all about communication
 ](http://www.tutorcruncher.com/communication-is-key/) , not only between
@@ -33,7 +41,11 @@ business and encourage people to ask questions and share ideas. A mistrust of
 management is one the main reasons people look for jobs elsewhere, so be open
 and honest about where the agency is at the moment and what its future plans
 are. If your tutors see potential opportunities opening up in the future,
-they’ll be more likely to stay with your company. ** Share Your Mission **
+they’ll be more likely to stay with your company. 
+
+### Share Your Mission
+
+
 What was it that inspired you to [ start a tutoring agency
 ](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
 business/) in the first place? Whatever your reason, telling your tutors your
@@ -44,7 +56,11 @@ they’re a part of something bigger and are making a difference with the work
 that they do, they’ll be more likely to continue working for your agency over
 the long-term. Encourage your staff to adopt your agency’s values and arrange
 regular sessions where people can reflect on their achievements over the last
-few months. ** Ask for Feedback ** Giving your employees the opportunity to
+few months. 
+
+### Ask for Feedback
+
+ Giving your employees the opportunity to
 say what’s on their mind can help inspire trust. Asking for anonymous feedback
 can be a great way to gather the thoughts and feelings of your staff and can
 help identify any problems or issues within the team. This gives you the

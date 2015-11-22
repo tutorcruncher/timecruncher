@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  5 Advantages of Using Tuition Centre Software
+title:  "5 Advantages of Using Tuition Centre Software"
 permalink: 5-advantages-using-tuition-centre-software
 ---
 Shortly after you make the decision to start your own tutoring agency, you’ll
@@ -37,7 +37,11 @@ audience, you’ll usually find that the company you buy from have a strong
 customer focus and are flexible in their approach to your needs. Working with
 a company that offers a personalised approach means that you don’t need to
 adjust your business operations to suit your software - you software will
-adjust to fit the way you like to operate. ** Readily Available Support **
+adjust to fit the way you like to operate. 
+
+### Readily Available Support
+
+
 Using tuition centre software means there’s less of a learning curve for
 users. The software you use will already have benefited from several upgrades,
 fixes and improvements, meaning the product you buy will guarantee high

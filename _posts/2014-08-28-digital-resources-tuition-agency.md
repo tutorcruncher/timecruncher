@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Digital Resources for a Tuition Agency
+title:  "Digital Resources for a Tuition Agency"
 permalink: digital-resources-tuition-agency
 ---
 With so many digital resources out there, it can sometimes be difficult for
@@ -9,7 +9,11 @@ right direction, we’ve put together a list of resources that will prove useful
 in [ running your tutoring agency ](http://www.tutorcruncher.com/digital-
 marketing-strategy-can-help-grow-tuition-agency/) .
 
-** Twitter Chats **
+
+
+### Twitter Chats
+
+
 
 When it comes to social media, Twitter is one of the most popular networking
 sites out there. But are you using it to its full potential? [ Twitter chats
@@ -23,11 +27,17 @@ tuition in general with a new audience. And of course, you don’t need to
 participate if you don’t want to. Many people simply follow the chat’s hashtag
 and observe what others are saying.
 
-[ ![twitter2](http://www.tutorcruncher.com/wp-
+[
+
+![twitter2](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/twitter2-300x300.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/twitter2.jpg)
 
-** Podcasts **
+
+
+### Podcasts
+
+
 
 Podcasts are a great resource to help you keep up with the latest education
 news and developments. They’re particularly good for listening to interviews
@@ -41,10 +51,16 @@ from work, while you’re in the office or even when you’re at the gym.
 content/uploads/2014/08/podcast-273x300.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/podcast.jpg)
 
-** Business Blogs **
+
+
+### Business Blogs
+
+
 
 One of the best resources for private tuition agencies is [ education blogs
-](http://www.tutorcruncher.com/tutoring-agency-needs-blog/) . Make a list of
+](http://www.tutorcruncher.com/tutoring-agency-needs-blog/)
+
+. Make a list of
 your favourite blogs and try to visit them at least once a week to keep up
 with their latest news. Better, still, follow them on social media and read
 their posts through your social feeds. Following business blogs can be a great
@@ -56,7 +72,11 @@ readers and driving traffic to their site.
 [ ![blog](http://www.tutorcruncher.com/wp-content/uploads/2014/08/blog.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/blog.jpg)
 
-** Audiobooks **
+
+
+### Audiobooks
+
+
 
 Don’t have the time to sit down and read all the business books that you’d
 like to? Well, audiobooks can be a great alternative. As with a podcast, you

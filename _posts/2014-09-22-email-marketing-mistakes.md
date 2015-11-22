@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Is Your Tutoring Agency Making These Email Marketing Mistakes?
+title:  "Is Your Tutoring Agency Making These Email Marketing Mistakes?"
 permalink: email-marketing-mistakes
 ---
 Email marketing can be a hugely effective way for tutoring agencies to
@@ -19,8 +19,12 @@ sure that you’ve firmly established a trusted connection with your
 distribution list before you send them promotional information. If your
 customers trust you and see that your goal is to offer them value, then
 they’ll be less likely to unsubscribe from your email list and report your
-emails as spam. ** ![starmail](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/starmail-300x268.jpg) Sending Too Many Emails Too
+emails as spam. **
+
+![starmail](http://www.tutorcruncher.com/wp-
+content/uploads/2014/09/starmail-300x268.jpg)
+
+Sending Too Many Emails Too
 Often ** One sure fire way of encouraging people to unsubscribe from your
 emails is to bombard them with promotions every day. Knowing the best time to
 send an email can greatly improve the success of your campaigns. According to
@@ -30,7 +34,11 @@ quarterly-benchmark-study-q4-2012.pdf) , people are more likely to respond to
 promotional emails they receive over the weekend – when the amount of emails
 they receive is at its lowest. Given this information, consider what type of
 email your agency normally sends during the week – is it promotional or
-relationship building? ** Misleading or Spam Subject Lines ** An often
+relationship building? 
+
+### Misleading or Spam Subject Lines
+
+ An often
 overlooked aspectof email marketing is the subject line. Statistically, only
 20% of people read past an email subject line, so you need to ensure that what
 you write grabs people’s attention. And of course, you’ll want to ensure that

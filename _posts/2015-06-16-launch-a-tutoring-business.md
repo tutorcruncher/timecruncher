@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  Launch A Tutoring Business Overnight With No Start Up Capital
+title:  "Launch A Tutoring Business Overnight With No Start Up Capital"
 permalink: launch-a-tutoring-business
 ---
-** ![jeevansingh](http://www.tutorcruncher.com/wp-content/uploads/2015/06/jeevansingh.jpg) By Jeevan Singh ** _ Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London. _
+**
+
+![jeevansingh](http://www.tutorcruncher.com/wp-content/uploads/2015/06/jeevansingh.jpg)
+
+By Jeevan Singh ** _ Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London. _
 
 _ He has built a successful business on small marketing budgets and offers his
 advice on how to get your business off the ground. _
@@ -14,7 +18,15 @@ qualifications. You can virtually [ set up a tutoring business overnight
 ](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
 business/) . This is exactly what I did and I'm now regarded (in my humble
 opinion) as a top tutor in my local area - Hillingdon, West London. Here is
-how you can do the same: ** W ** ** hat level to teach? ** The first question
+how you can do the same: 
+
+### W
+
+ 
+
+### hat level to teach?
+
+ The first question
 that should cross your mind is what levels you're going to cater for? KS2?
 GCSE? A-Level? or a mixture of all 3? To answer this question, I've provided
 some statistics below on the most sought-after level. These statistics are
@@ -46,7 +58,11 @@ in your tutoring business. Another subject you could offer is GCSE Science as
 this subject is compulsory until the age of 16. Note, to teach a subject at
 GCSE level, you must (in my opinion) achieve at least a grade A in that chosen
 subject. So, if you would like to offer GCSE maths tuition, you (or your
-tutor) must have an 'A' grade at this level. ** Premises ** You can operate
+tutor) must have an 'A' grade at this level. 
+
+### Premises
+
+ You can operate
 from home (this is what I do) or you can visit the student's residence. If you
 choose to operate from home, make sure you have a clean, spacious environment,
 which is free from distractions. Also, introduce the tutee and his/her parents
@@ -54,9 +70,13 @@ to the rest of the family. This is important because parents, in general, find
 it uncomfortable sending their kids to a stranger's house. By showing them
 that there are other family members around, it should give them peace of mind.
 If you're travelling to a student’s home, charge travel expenses. A good rule
-of thumb is £1 per mile. ** ![TutorCruncher
+of thumb is £1 per mile. **
+
+![TutorCruncher
 Workspace](http://www.tutorcruncher.com/wp-
-content/uploads/2015/06/TutorCruncher-Workspace-1024x688.png) ** ** Equipment
+content/uploads/2015/06/TutorCruncher-Workspace-1024x688.png)
+
+** ** Equipment
 ** When setting up, you don't need any specialist equipment. Basic stationary
 and a workbook is all you need to carry out an effective tuition session. You
 may still have some lying around the house (from your studying days). If not,
@@ -64,7 +84,11 @@ pick them up from your local WHSmith. Choose a textbook which has plenty of
 exercises. You can use the chapters in the book to structure your lessons
 going forward. For thousands of [ other free resources
 ](http://www.tutorcruncher.com/modernising-tutoring-business-operations/) , I
-would highly recommend [ www.tes.co.uk ](http://www.tes.co.uk) . ** Contact **
+would highly recommend [ www.tes.co.uk ](http://www.tes.co.uk) . 
+
+### Contact
+
+
 How are parents going to contact you? You can use your personal mobile phone
 but I tend to keep my personal line and business line separate. Insert a new
 SIM card into an old mobile phone and you now have a new business line. **

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why Your Tutoring Agency Needs a Blog
+title:  "Why Your Tutoring Agency Needs a Blog"
 permalink: tutoring-agency-needs-blog
 ---
 So, your tuition agency has a website and explains all your services. You even
@@ -9,8 +9,12 @@ engines? One way to improve your agency’s visibility online is to [ create a
 blog ](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
 business/) . It’ll help drive traffic to your site and improve your conversion
 rates too. Here are our top reasons for adding a blog to your agency’s
-website. ![wordpress-blogging](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/wordpress-265132_640.jpg) ** Improves Your Website’s
+website.
+
+![wordpress-blogging](http://www.tutorcruncher.com/wp-
+content/uploads/2014/08/wordpress-265132_640.jpg)
+
+** Improves Your Website’s
 Search Rankings ** By regularly posting articles on your website, you’ll be
 continually optimizing your site for important keywords that relate to the
 private tuition industry. By carrying out a little keyword research, you’ll

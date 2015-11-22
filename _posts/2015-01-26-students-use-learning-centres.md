@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why do Students Use Learning Centres?
+title:  "Why do Students Use Learning Centres?"
 permalink: students-use-learning-centres
 ---
 Students decide to use [ learning centres ](http://www.tutorcruncher.com/news-
@@ -9,7 +9,11 @@ reasons. However, during our time as learning centre directors, we’ve noticed
 some common trends in why students decide to seek extra help with their
 studies. Here’s the lowdown:
 
-  * ** To Boost Grades **
+  * 
+
+### To Boost Grades
+
+
 
 The most common reason that students use learning centres is to improve their
 grades. Sometimes they notice a decline in their academic performance and turn
@@ -22,7 +26,11 @@ Having the undivided attention of a private tutor is a great learning resource
 to have. Unlike busy classroom environments, students are able to take their
 time over exercises and really absorb what they’re learning.
 
-  * ** To Improve Time Management Skills **
+  * 
+
+### To Improve Time Management Skills
+
+
 
 We’ve noticed that one of the biggest issues students struggle with is [ time
 management ](http://www.tutorcruncher.com/time-management-techniques/) .
@@ -34,7 +42,11 @@ manageable chunks. Using a learning centre can reinforce good study habits,
 encourage self-motivation and ensure that students submit work within given
 deadlines.
 
-  * ** To Improve Confidence **
+  * 
+
+### To Improve Confidence
+
+
 
 Sometimes all a student needs to improve their grades is a little confidence
 in their own abilities. If a student feels equipped to deal with assignments
@@ -44,7 +56,11 @@ often use their services to help with confidence issues. What’s more, as their
 confidence grows, they usually begin to notice an improvement in their ability
 to adapt to new learning styles and approaches.
 
-  * ** To Learn Exam Skills **
+  * 
+
+### To Learn Exam Skills
+
+
 
 We always find it surprising how many students feel they don’t have the
 necessary [ skills to prepare for exams ](http://www.tutorcruncher.com/exams-

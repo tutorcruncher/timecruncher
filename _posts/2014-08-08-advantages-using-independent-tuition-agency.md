@@ -1,20 +1,28 @@
 ---
 layout: post
-title:  The Advantages of Using an Independent Tuition Agency
+title:  "The Advantages of Using an Independent Tuition Agency"
 permalink: advantages-using-independent-tuition-agency
 ---
 There are several advantages to using an independent tuition agency not least
 that students receive a custom made learning experience that they don’t get
 elsewhere. When we talk about an independent tutoring agency, we mean one that
 has been set up to stand alone and isn’t part of a franchise or other larger
-group of businesses. ** Tailor Made Learning ** Independent agencies often
+group of businesses. 
+
+### Tailor Made Learning
+
+ Independent agencies often
 specialise in specific subjects that schools and franchises don’t. They’re
 often more flexible and more able to adapt their lessons to suit the learning
 preferences of individual students. Every student has their own learning style
 and independent agencies are better able to match students with tutors.
 There’s much to be said for the flexibility that independent agencies offer
 and this one of the main attractions for parents in choosing them for their
-children. ** Investment in Resources ** You’ll normally find that independent
+children. 
+
+### Investment in Resources
+
+ You’ll normally find that independent
 tutoring agencies continually invest in their business, which means that they
 keep up to date with the [ latest educational materials and technologies
 ](http://www.tutorcruncher.com/technology-teaching-ideas-for-private-tutors/
@@ -35,7 +43,11 @@ struggling with a specific aspect of a subject, a tuition agency will pick up
 on it right away and give students the opportunity to [ be a part of resolving
 the issue ](http://www.tutorcruncher.com/how-to-encourage-students-to-take-
 control-of-their-learning/ "How to Encourage Students to Take Control of Their
-Learning" ) . ** Creating a Community ** Independent agencies create a
+Learning" ) . 
+
+### Creating a Community
+
+ Independent agencies create a
 learning community in a way that other, larger organisations don’t. Because
 most independent agencies don’t have the budget for TV ads or other forms of
 mass advertising, they rely on word of mouth within a local area. It’s because

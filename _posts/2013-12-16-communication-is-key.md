@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Communication is Key
+title:  "Communication is Key"
 permalink: communication-is-key
 ---
 In the world today an online presence is crucial. Whatever the size or stage
@@ -21,7 +21,7 @@ stick to featuring relevant articles about education. By sharing content that
 is of value to your followers you will build a relationship; thus becoming
 more dimensional than just another tutoring business.
 
-##  ** Is there anything you would add to the topic of communication? How do
+## Is there anything you would add to the topic of communication? How do
 you connect with new clients? **
 
 In the world today an online presence is crucial. Whatever the size or stage
@@ -44,7 +44,7 @@ education. By sharing content that is of value to your followers you will
 build a relationship; thus becoming more dimensional than just another
 tutoring business.
 
-##  ** Is there anything you would add to the topic of communication? How do
+## Is there anything you would add to the topic of communication? How do
 you connect with new clients? **
 
 In the world today an online presence is crucial. Whatever the size or stage
@@ -67,7 +67,7 @@ education. By sharing content that is of value to your followers you will
 build a relationship; thus becoming more dimensional than just another
 tutoring business.
 
-##  ** Is there anything you would add to the topic of communication? How do
+## Is there anything you would add to the topic of communication? How do
 you connect with new clients? **
 
 In the world today an online presence is crucial. Whatever the size or stage
@@ -90,5 +90,5 @@ education. By sharing content that is of value to your followers you will
 build a relationship; thus becoming more dimensional than just another
 tutoring business.
 
-##  ** Is there anything you would add to the topic of communication? How do
+## Is there anything you would add to the topic of communication? How do
 you connect with new clients? **

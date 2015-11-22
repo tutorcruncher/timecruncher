@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Stay Focused on your Tutoring Business
+title:  "How to Stay Focused on your Tutoring Business"
 permalink: tutoring-business-motivation
 ---
 Whether you run a tutoring centre or are a [ solopreneur
@@ -9,9 +9,17 @@ focus to [ grow your tutoring business ](http://www.tutorcruncher.com/how-to-
 grow-your-tuition-agency/) can be challenging. Everyone loses track of their
 goals once in a while and some working days are inevitably more productive
 than others. If you ever find your enthusiasm dwindling and need some help to
-stay focused on your tutoring business, then this post is for you. ![Tutor
+stay focused on your tutoring business, then this post is for you.
+
+![Tutor
 Business Plan](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutor-
-business-plan-1024x372.jpg) ** Revisit your Original Business Plan ** If you
+business-plan-1024x372.jpg)
+
+
+
+### Revisit your Original Business Plan
+
+ If you
 find that you’re losing track of your tutoring business or you’re not quite
 sure where it’s going, it can be useful to revisit your [ original business
 plan ](http://www.tutorcruncher.com/how-to-make-a-business-plan-part-1/) for
@@ -39,7 +47,11 @@ working _ in _ your tutoring business and working _ on _ your business. Giving
 other people more responsibility within your agency helps free up your time to
 focus on other areas, while your [ tutoring business continues to grow
 ](http://www.tutorcruncher.com/tuition-centre-software-can-transform-
-business/) in those existing areas. ** Implement some Business Changes ** As
+business/) in those existing areas. 
+
+### Implement some Business Changes
+
+ As
 the saying goes ‘sometimes a change is as good as a rest’ and adding something
 different to your tutoring business can give help give you a new lease of life
 and keep you inspired. Implementing changes to your business doesn't
@@ -59,7 +71,11 @@ and the opportunity to review where your business is headed. _ What do you do
 to ensure you stay focused on your running your tutoring business? What advice
 do you have for others who are struggling to stay focused? _
 
-** Have you read our eBook, [ how to start a tutoring Business ](http://www.amazon.co.uk/How-Start-Tutoring-Business-starting-ebook/dp/B00SNPQHMO) ? **
+
+
+### Have you read our eBook, [ how to start a tutoring Business ](http://www.amazon.co.uk/How-Start-Tutoring-Business-starting-ebook/dp/B00SNPQHMO) ?
+
+
 
 [ ![TutorCruncher ebook](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/TutorCruncher-ebook.jpg)

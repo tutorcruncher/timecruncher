@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Ensure Your Tutors Reach Their Full Potential
+title:  "How to Ensure Your Tutors Reach Their Full Potential"
 permalink: how-to-ensure-your-tutors-reach-their-full-potential
 ---
 As a tutoring agency directory, you’ll want to enable your tutors to reach
@@ -9,7 +9,11 @@ their full potential and [ inspire their students
 do their best. As a private tutor yourself, you may find it challenging to let
 your tutors find their own way in your agency but allowing them the space to
 discover their own strengths will ensure they tutor to the best of their
-ability. ** Know Their Skills ** Every tutor has a different educational
+ability. 
+
+### Know Their Skills
+
+ Every tutor has a different educational
 background and so has a different skillset. As an agency directory, it’s your
 job to get to know your tutors and understand where their strengths lie. Your
 tutors should be able to [ teach to their strengths
@@ -18,7 +22,11 @@ techniques and methods that they find works best for their students. Although
 having teaching guidelines in place can help steer the structure of lessons,
 giving tutors a certain amount of free reign in how they approach lessons will
 ensure they reach their full potential and get the best out of their students.
-** Empower Your Tutors ** Tutors who feel appreciated at work and are given
+
+
+### Empower Your Tutors
+
+ Tutors who feel appreciated at work and are given
 praise where it’s due, perform better. Sometimes all it takes to ensure your
 tutors perform to their best ability is some encouragement and confirmation
 that what they’re already doing is working well. If there are any aspects of
@@ -41,9 +49,13 @@ potential. Some people are natural leaders and will want to take on more
 responsibility within your agency. In such cases, this ambition should be
 encouraged, as having strong leaders is important within a company. It can
 also give you, as a director, the opportunity to delegate certain tasks to
-ease up your workload. [ ![reach your full
+ease up your workload. [
+
+![reach your full
 potential](http://www.tutorcruncher.com/wp-content/uploads/2014/08/reach-your-
-full-potential-300x200.jpg) ](http://www.tutorcruncher.com/wp-
+full-potential-300x200.jpg)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/reach-your-full-potential.jpg) In what ways do you
 ensure that your tutors reach their full potential? Do you use any of the
 methods listed above? What do you do to empower your staff? And how do you

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Giving a voice to your Brand Story
+title:  "Giving a voice to your Brand Story"
 permalink: giving-a-voice-to-your-brand-story
 ---
 People like stories. They want to be able to put a face to your brand-name.
@@ -42,7 +42,7 @@ can trust you with their children.
 
 Connect with your clients and make them have faith in you.
 
-##  Tell us your brand story...
+## Tell us your brand story...
 
 People like stories. They want to be able to put a face to your brand-name.
 The “About Us” section on your website can be a very powerful means of
@@ -83,7 +83,7 @@ can trust you with their children.
 
 Connect with your clients and make them have faith in you.
 
-##  Tell us your brand story...
+## Tell us your brand story...
 
 People like stories. They want to be able to put a face to your brand-name.
 The “About Us” section on your website can be a very powerful means of
@@ -124,7 +124,7 @@ can trust you with their children.
 
 Connect with your clients and make them have faith in you.
 
-##  Tell us your brand story...
+## Tell us your brand story...
 
 People like stories. They want to be able to put a face to your brand-name.
 The “About Us” section on your website can be a very powerful means of
@@ -165,4 +165,4 @@ can trust you with their children.
 
 Connect with your clients and make them have faith in you.
 
-##  Tell us your brand story...
+## Tell us your brand story...

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Stay Productive as a Tutoring Agency Owner
+title:  "How to Stay Productive as a Tutoring Agency Owner"
 permalink: productive-tutoring-agency
 ---
 One of the most difficult things about running a business is staying
@@ -19,7 +19,11 @@ being distracted by other fruitless avenues. By comparing your progress to
 your initial predictions, you’ll be able to see if any of your business
 operations need adjusted in order to stay on track and move forward. If you
 see that something isn’t working, take it back to basics or try an alternative
-approach. ** Hire a Second Pair of Eyes ** Sometimes there just aren’t enough
+approach. 
+
+### Hire a Second Pair of Eyes
+
+ Sometimes there just aren’t enough
 hours in the day and with all the responsibilities that go with being a [
 tutoring agency owner ](http://www.tutorcruncher.com/what-makes-a-good-
 tuition-agency-director/) , you can’t afford not to spend your days
@@ -27,7 +31,11 @@ productively. One of the best moves you can make to lighten your load is to
 hire a second pair of eyes. Appointing an assistant manager can help ensure
 your focus remains on the tasks at hand while they take care of other aspects
 of the business. If you have a motivated workforce, you won’t be short of
-staff willing to step up the career ladder. ** Use Email Sparingly ** Other
+staff willing to step up the career ladder. 
+
+### Use Email Sparingly
+
+ Other
 than social media, [ checking emails ](http://www.tutorcruncher.com/email-
 marketing-mistakes/) is one of the most distracting aspects of running a
 business. It can be tempting to keep your inbox open all day and deal with
@@ -36,7 +44,11 @@ than good. Although being able to multitask is a useful skill, in order to
 complete a task effectively, you need to give it your full concentration and
 checking your email every 10 minutes only takes away from the task at hand.
 Try checking your email at certain times every day so you get into a routine.
-** Focus on ROI ** One of the best ways to ensure your productivity is to ask
+
+
+### Focus on ROI
+
+ One of the best ways to ensure your productivity is to ask
 yourself why you’re doing each task. If your answer is because it’ll grow your
 business in the long term, then great, but if your answer deviates from this
 at all, they task may not be worthwhile. Every business owner needs to

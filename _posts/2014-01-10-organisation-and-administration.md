@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Organisation and Administration
+title:  "Organisation and Administration"
 permalink: organisation-and-administration
 ---
 Starting a tuition agency involves dealing with many administrative tasks.
@@ -27,7 +27,7 @@ taking care of the boring administrative tasks, you let TutorCruncher do it
 for you. Using this efficient software will enable you to grow your business
 as you grow relationships with your  clients  , instead of managing invoices.
 
-##  How do you manage all your administrative tasks ? ** Comment to let us
+## How do you manage all your administrative tasks ?  Comment to let us
 know. **
 
 Starting a tuition agency involves dealing with many administrative tasks.
@@ -57,7 +57,7 @@ the boring administrative tasks, you let TutorCruncher do it for you. Using
 this efficient software will enable you to grow your business as you grow
 relationships with your  clients  , instead of managing invoices.
 
-##  How do you manage all your administrative tasks ? ** Comment to let us
+## How do you manage all your administrative tasks ?  Comment to let us
 know. **
 
 Starting a tuition agency involves dealing with many administrative tasks.
@@ -87,7 +87,7 @@ the boring administrative tasks, you let TutorCruncher do it for you. Using
 this efficient software will enable you to grow your business as you grow
 relationships with your  clients  , instead of managing invoices.
 
-##  How do you manage all your administrative tasks ? ** Comment to let us
+## How do you manage all your administrative tasks ?  Comment to let us
 know. **
 
 Starting a tuition agency involves dealing with many administrative tasks.
@@ -117,5 +117,5 @@ the boring administrative tasks, you let TutorCruncher do it for you. Using
 this efficient software will enable you to grow your business as you grow
 relationships with your  clients  , instead of managing invoices.
 
-##  How do you manage all your administrative tasks ? ** Comment to let us
+## How do you manage all your administrative tasks ?  Comment to let us
 know. **

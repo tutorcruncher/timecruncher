@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  5 Ways to Improve Your Tutoring Agency’s Blog
+title:  "5 Ways to Improve Your Tutoring Agency’s Blog"
 permalink: improve-your-tutoring-blog
 ---
 ![Blog](http://www.tutorcruncher.com/wp-
@@ -17,7 +17,11 @@ likely to be read first in the industry. One of the easiest ways to ensure
 that you stay ahead of the game is to set up a Google alert for keywords
 relating to the tutoring industry. This will ensure that any new news stories
 are sent straight to your inbox, saving you time searching for keywords and
-news stories individually. ** Don’t Just Write Any Old Content ** If you want
+news stories individually. 
+
+### Don’t Just Write Any Old Content
+
+ If you want
 to establish your blog as the best in the industry, then you need to become a
 thought leader. To do this, you need to [ write blog posts that are forward-
 thinking ](http://www.tutorcruncher.com/blogging-ideas-tutoring-agency/) and
@@ -33,7 +37,11 @@ necessarily need to be active on every social media platform, as your readers
 can grow your reputation for you through sharing your posts. Also, if your
 agency is fairly active on Twitter, consider embedding a ‘tweet this’ link
 within the body of your articles so that people are reminded to share your
-content early on in the post. ** Use Images That Tell a Story ** The most
+content early on in the post. 
+
+### Use Images That Tell a Story
+
+ The most
 intriguing images that you can use on your blog posts are ones that tell a
 story. It can be difficult to think outside the box and find an image that
 intrigues your readers, especially in the tutoring industry, but if you can

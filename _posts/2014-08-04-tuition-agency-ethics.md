@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Code of Ethics for Tuition Agencies
+title:  "A Code of Ethics for Tuition Agencies"
 permalink: tuition-agency-ethics
 ---
 At TutorCruncher, we believe that all tuition agencies should abide by a code
@@ -8,7 +8,11 @@ of ethics to ensure that they deliver the best possible service to their
 customers. Whereas the private tuition industry isn’t regulated by the
 government, it’s up to agencies themselves to set their own standards when it
 comes to offering tuition to students. Here are our recommended guidelines for
-tuition agency standards. ** Safety First ** We believe that safety should be
+tuition agency standards. 
+
+### Safety First
+
+ We believe that safety should be
 the priority for every tuition agency. Because tuition agencies offer their
 services to those under 16 and to other vulnerable members of society, we
 believe that every tutor should undergo a criminal background check from the
@@ -37,7 +41,11 @@ opinions, which [ encourages independent learning
 their-learning/ "Encourage Independent Learning" ) . By taking a student-
 focused approach, students form their own opinions quicker, which can help
 with all aspects of their education including exam preparation and making the
-transition from high school to university. ** A Desire to Succeed ** Every
+transition from high school to university. 
+
+### A Desire to Succeed
+
+ Every
 tuition agency should have a desire for their students to achieve their full
 potential. At the heart of it, that’s the reason that students attend agencies
 in the first place – they want to improve their education. We believe that a

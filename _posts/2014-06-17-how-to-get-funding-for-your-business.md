@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Get Funding for your Business
+title:  "How to Get Funding for your Business"
 permalink: how-to-get-funding-for-your-business
 ---
 When you start your own business, funding is probably the issue you are most

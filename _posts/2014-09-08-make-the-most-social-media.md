@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Your Tutoring Agency Can Make the Most of Social Media
+title:  "How Your Tutoring Agency Can Make the Most of Social Media"
 permalink: make-the-most-social-media
 ---
 Running your own tutoring agency often means you don’t have the time to spend
@@ -16,16 +16,24 @@ isn't [ the best strategy for social media success
 suggest that you’re looking to expand your outreach, encourage people to
 engage with your brand and make enquiries about your services. If you want to
 make the most of social media, you need to tailor your approach to meet these
-goals. ** Go Mobile ** Make sure that you have your [ social media profiles
+goals. 
+
+### Go Mobile
+
+ Make sure that you have your [ social media profiles
 connected to your mobile devices
 ](http://www.tutorcruncher.com/features/mobile-app/) . Download all the apps
 you’ll need to post updates to all the platforms you’re active on. By being
 able to post on the go, you can achieve your goals while you’re in between
 meetings, on the tube or killing time before a conference starts. You probably
 already check your emails during these times, so why not add your social media
-posts into the mix too to ensure that you’re maximising your time. ![social-
+posts into the mix too to ensure that you’re maximising your time.
+
+![social-
 media-on-mobile-phone](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/social-media-on-mobile-phone-300x300.jpg) ** Automate
+content/uploads/2014/09/social-media-on-mobile-phone-300x300.jpg)
+
+** Automate
 Your Social Media Posts ** There are several different tools out there that
 allow you to schedule your social posts whenever you like. Tools such as
 Buffer and HootSuite can be great for freeing up your social media time.

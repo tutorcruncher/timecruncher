@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  UK VAT Ruling on Tutoring Agencies
+title:  "UK VAT Ruling on Tutoring Agencies"
 permalink: uk-vat-tutoring
 ---
 There have been endless discussions in the meeting rooms, accountants, and
@@ -12,8 +12,12 @@ on just the agency's take. As long as you are acting as an agent and not
 employing your tutors or offering services other than introductions, that you
 can only pay VAT on your commission. We have been made aware of
 correspondences with HMRC in which they outline their official ruling on the
-matter. ![HMRC VAT](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/vat-300x225.jpg) Although we do not give tax advice we
+matter.
+
+![HMRC VAT](http://www.tutorcruncher.com/wp-
+content/uploads/2014/12/vat-300x225.jpg)
+
+Although we do not give tax advice we
 are happy to introduce you to our accountant who understands the tuition
 industry well. Many tutoring companies operate as agencies so it is the tutors
 who supply the tuition not the company its self. The following are some steps

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Find your Niche
+title:  "Find your Niche"
 permalink: find-your-niche
 ---
 This is the first blog in our series about HOW to set up your very own
@@ -9,8 +9,20 @@ have brainstormed together and drummed out our top tips for you. We would
 suggest that you ensure you are passionate about all aspects beneath the
 umbrella of education before embarking on this endeavour! If affirmative, read
 on... Time management and a concise business plan are crucial at this stage.
-You need to establish ** what ** you are teaching, ** where ** you will tutor,
-and ** who ** you will teach. For example - do you want to concentrate on
+You need to establish 
+
+### what
+
+ you are teaching, 
+
+### where
+
+ you will tutor,
+and 
+
+### who
+
+ you will teach. For example - do you want to concentrate on
 A-Levels, GCSE’s, IB, or University Applications? We’d suggest focussing on
 one initially and then expanding into other branches in the future as you
 grow. At this point it is probably best to concentrate on the topic/ stage
@@ -42,8 +54,20 @@ umbrella of education before embarking on this endeavour!
 If affirmative, read on...
 
 Time management and a concise business plan are crucial at this stage. You
-need to establish ** what ** you are teaching, ** where ** you will tutor, and
-** who ** you will teach. For example - do you want to concentrate on
+need to establish 
+
+### what
+
+ you are teaching, 
+
+### where
+
+ you will tutor, and
+
+
+### who
+
+ you will teach. For example - do you want to concentrate on
 A-Levels, GCSE’s, IB, or University Applications? We’d suggest focussing on
 one initially and then expanding into other branches in the future as you
 grow. At this point it is probably best to concentrate on the topic/ stage
@@ -80,8 +104,20 @@ umbrella of education before embarking on this endeavour!
 If affirmative, read on...
 
 Time management and a concise business plan are crucial at this stage. You
-need to establish ** what ** you are teaching, ** where ** you will tutor, and
-** who ** you will teach. For example - do you want to concentrate on
+need to establish 
+
+### what
+
+ you are teaching, 
+
+### where
+
+ you will tutor, and
+
+
+### who
+
+ you will teach. For example - do you want to concentrate on
 A-Levels, GCSE’s, IB, or University Applications? We’d suggest focussing on
 one initially and then expanding into other branches in the future as you
 grow. At this point it is probably best to concentrate on the topic/ stage
@@ -118,8 +154,20 @@ umbrella of education before embarking on this endeavour!
 If affirmative, read on...
 
 Time management and a concise business plan are crucial at this stage. You
-need to establish ** what ** you are teaching, ** where ** you will tutor, and
-** who ** you will teach. For example - do you want to concentrate on
+need to establish 
+
+### what
+
+ you are teaching, 
+
+### where
+
+ you will tutor, and
+
+
+### who
+
+ you will teach. For example - do you want to concentrate on
 A-Levels, GCSE’s, IB, or University Applications? We’d suggest focussing on
 one initially and then expanding into other branches in the future as you
 grow. At this point it is probably best to concentrate on the topic/ stage

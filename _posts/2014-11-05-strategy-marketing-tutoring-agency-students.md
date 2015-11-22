@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Strategy for Marketing Your Tutoring Agency to Students
+title:  "A Strategy for Marketing Your Tutoring Agency to Students"
 permalink: strategy-marketing-tutoring-agency-students
 ---
 ![Young men and women holding mobile phones](http://www.tutorcruncher.com/wp-
@@ -14,7 +14,7 @@ steps to [ creating a marketing strategy
 ](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) geared towards attracting students to your agency.
 
-###  Listen to Their Conversations
+### Listen to Their Conversations
 
 We don’t mean eavesdropping here, but it’s important that you know what
 students are talking about as this can provide you with ways of connecting
@@ -25,7 +25,7 @@ on your blog or to interact with them on social media platforms and online
 forums. The more you know about students’ opinions, the better placed you’ll
 be to make your agency’s brand appeal to them.
 
-###  Be Consistent in Your Communication Efforts
+### Be Consistent in Your Communication Efforts
 
 Part of the purpose of communicating with your target audience is to gain
 their trust and one of the best ways to do this is to [ be consistent in your
@@ -37,8 +37,12 @@ email or through regular blog posts, being consistent is the key to engaging
 students in conversation. Before long, they’ll interact with your posts, which
 gives you the opportunity to encourage them to join your agency as a student.
 
-###  ![social-media-marketing-1](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/social-media-marketing-1-300x300.png) Take the
+### 
+
+![social-media-marketing-1](http://www.tutorcruncher.com/wp-
+content/uploads/2014/11/social-media-marketing-1-300x300.png)
+
+Take the
 Personal Approach
 
 Students as a target marketing group are most likely to engage with brands
@@ -50,7 +54,7 @@ opportunity to ask any questions that they have. It can also be a good idea to
 encourage them to review your communication and to give feedback on their
 experiences of interacting with your agency.
 
-###  Be Creative in Your Efforts
+### Be Creative in Your Efforts
 
 Students appreciate creative thinking and enjoy looking for new perspectives
 and new ways to communicate. If you have a unique idea of how you can market

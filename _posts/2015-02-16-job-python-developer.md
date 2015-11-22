@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Job Listing - Python Developer
+title:  "Job Listing - Python Developer"
 permalink: job-python-developer
 ---
-##  TutorCruncher – London SW1W
+## TutorCruncher – London SW1W
 
 Exciting role in startup SAAS based in our office beside Victoria, London SW1W
 Django experience essential. Working with our CTO you will help with UX

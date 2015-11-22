@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why it is so Important Teaching Kids to Code
+title:  "Why it is so Important Teaching Kids to Code"
 permalink: why-it-is-so-important-teaching-kids-to-code
 ---
 Everyone knows young people used to be called _ Digital Natives _ . But what

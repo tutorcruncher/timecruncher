@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Attract the Best Tutors To Your Agency
+title:  "How to Attract the Best Tutors To Your Agency"
 permalink: attract-best-tutors-agency
 ---
 Every tutoring agency wants to have the best tutors and with increasing
@@ -10,7 +10,11 @@ of private tutors and ensure your agency grows a [ reputable reputation
 ](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
 for delivering results.
 
-** Have an Online Presence **
+
+
+### Have an Online Presence
+
+
 
 If you want the best tutors to work for you, then they need to be able to find
 you. These days, that means having a strong online presence. Everyone engages
@@ -25,12 +29,18 @@ not, they do this through [ social media
 the profiles of your current tutors, post photos of your office and encourage
 potential tutors to ask questions about your agency.
 
-[ ![Popular_Social_Networks](http://www.tutorcruncher.com/wp-
+[
+
+![Popular_Social_Networks](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
-** Show Them How They Can Make a Difference **
+
+
+### Show Them How They Can Make a Difference
+
+
 
 By explaining how private tutoring can make a difference to students’
 education, you’ll attract the right kind of tutor to your agency. Whereas
@@ -40,7 +50,11 @@ education. By presenting the bigger picture of what private tutoring actually
 means to students, you’ll ensure that you attract the most suitable tutors to
 join your agency.
 
-** Embrace Change **
+
+
+### Embrace Change
+
+
 
 Education in the UK is always evolving and the school curriculum is constantly
 being refined and updated, with new subjects being added all the time. If you
@@ -54,10 +68,16 @@ to use mobile devices and other interactive e-learning tools and you’ll want
 to cater for tutors who have this skill set.
 
 [ ![e-learning](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/e-learning.jpg) ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/e-learning.jpg)
 
-** Provide Development Opportunities **
+](http://www.tutorcruncher.com/wp-
+content/uploads/2014/08/e-learning.jpg)
+
+
+
+### Provide Development Opportunities
+
+
 
 The best tutors are often those who want to develop their skills and seek out
 new challenges. One way to attract the best tutors for your agency is to offer

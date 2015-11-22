@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What is cloud computing and what can it do for you?
+title:  "What is cloud computing and what can it do for you?"
 permalink: what-is-cloud-computing-and-what-can-it-do-for-you
 ---
 Nowadays the term "cloud computing" is everywhere, but what does it mean? and

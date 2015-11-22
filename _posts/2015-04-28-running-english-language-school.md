@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Five essential steps to running an english language school
+title:  "Five essential steps to running an english language school"
 permalink: running-english-language-school
 ---
 _ Have you ever thought of opening your own language school? At TutorCruncher,
@@ -10,7 +10,11 @@ what it takes to run an education business, so to help you get started in
 setting up your language school, here are our five essential steps that we
 believe you need to follow. _
 
-** Hiring a Teaching Team **
+
+
+### Hiring a Teaching Team
+
+
 
 Finding the right tutors for your English language school is one of the
 biggest challenges you will face. A good language school needs a team that has
@@ -20,7 +24,11 @@ used when teaching English as a Foreign Language. As a language school
 director, you’ll want assurance that your team can maintain high standards and
 provide continuity to students during busy periods.
 
-** Having Processes and Procedures in Place **
+
+
+### Having Processes and Procedures in Place
+
+
 
 When you’re just starting out, you may not view processes as particularly
 important. However, we advise not to wait until your language school grows
@@ -31,7 +39,11 @@ student that attends your classes. Procedures also help set the expectations
 of your tutors and sets boundaries. Your staff need to know what’s expected of
 them and what their specific roles and responsibilities are.
 
-** Taking Care of Administration **
+
+
+### Taking Care of Administration
+
+
 
 If there’s one thing that we wished we had in place before we started our
 education business, a user friendly and reliable administration system would
@@ -41,7 +53,11 @@ lesson schedules, workflow, invoices and payroll quickly and easily. With
 TutorCruncher, you can also run data reports, send automated emails and
 integrate the system with your current CMS.
 
-** Meeting Student’s Needs **
+
+
+### Meeting Student’s Needs
+
+
 
 Running an English language school is all about offering excellent customer
 service. Not only do your students expect to see improvements in their English
@@ -51,7 +67,11 @@ this as a strong focal point during their lessons. If students feel that their
 needs are being met and their opinions are valued, they’ll keep using your
 services.
 
-** Targeting Your Marketing **
+
+
+### Targeting Your Marketing
+
+
 
 Knowing how to effectively market your English language school is one of the
 biggest challenges every new business faces. We advise that you create a

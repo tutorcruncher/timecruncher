@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Tutor Scheduling Software Can Improve your Tutoring Business
+title:  "How Tutor Scheduling Software Can Improve your Tutoring Business"
 permalink: tutor-scheduling-software
 ---
 As the private tutoring industry continues to be disrupted by new technology,
@@ -31,7 +31,11 @@ provided alongside the software. Having all your tutors and staff using the
 same management tool, there’s less scope for error as everyone has access to
 the same information. What’s more, software like TutorCruncher is hosted on
 the cloud, meaning that schedules, data and analytics can be accessed from
-anywhere. ** It Can Help Organise your Workload ** If you’re still using
+anywhere. 
+
+### It Can Help Organise your Workload
+
+ If you’re still using
 spreadsheets and post-it notes to organise your daily tasks, then you’ll be
 amazed at how much more effective tutor scheduling software is. With multi-
 directional timesheets, automated emails and seamless integration with
@@ -40,7 +44,11 @@ with what’s happening internally within your business. With the development of
 the [ TutorCruncher app ](http://www.tutorcruncher.com/features/mobile-app/) ,
 tutors can access their timesheets on the move, enabling them to make more
 informed decisions about their workload without having to access a desktop
-computer first. ** It Can Help you Grow your Business ** In a nutshell, tutor
+computer first. 
+
+### It Can Help you Grow your Business
+
+ In a nutshell, tutor
 scheduling software can help you grow your business by reducing admin time,
 streamlining operations and organising workloads. With all these elements
 taken care of from within one platform, you’ll find yourself with more time on

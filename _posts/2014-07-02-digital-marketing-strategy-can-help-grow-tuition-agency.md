@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How a Digital Marketing Strategy Can Help Grow Your Tuition Agency
+title:  "How a Digital Marketing Strategy Can Help Grow Your Tuition Agency"
 permalink: digital-marketing-strategy-can-help-grow-tuition-agency
 ---
 Nowadays, the first place people look when they need information is Google,
@@ -21,7 +21,11 @@ optimizing your website copy and blog posts for one or two relevant keywords
 and ensure that your meta titles and descriptions contain those keywords too.
 Coupled with original content that adds value to your audience, your website
 will soon start to receive natural backlinks from other sites who find your
-information useful. ** Social Media ** Sometimes it can seem like there’s a
+information useful. 
+
+### Social Media
+
+ Sometimes it can seem like there’s a
 new [ social media website ](http://www.tutorcruncher.com/social-media-
 strategy-for-tutoring-businesses/) springing up every week, so our advice to
 tutoring agencies would be to focus on one or two platforms that work well for
@@ -29,15 +33,27 @@ you. Twitter and Facebook are obvious choices as they are the most widely used
 throughout the UK. Make sure that you use your social media accounts to
 promote your website content but also to engage and reach out to your
 audience. Think about social media as an extension of your agency’s customer
-service. ![social-media-icons-cloud](http://www.tutorcruncher.com/wp-
-content/uploads/2014/07/social-media-icons-cloud-300x256.png) ** Content **
+service.
+
+![social-media-icons-cloud](http://www.tutorcruncher.com/wp-
+content/uploads/2014/07/social-media-icons-cloud-300x256.png)
+
+
+
+### Content
+
+
 Content is arguably the most important part of your website, without it,
 people are unlikely to find your website in search engines. Content is now one
 of the principal elements of digital marketing and thanks to Google’s
 increasingly sophisticated algorithms, content needs to be original, unique
 and above all else, it needs to add value or people won’t read it. Find out
 which aspects of private tuition your customers want to read about and start
-to write content based around their information needs. ** Advertising ** If
+to write content based around their information needs. 
+
+### Advertising
+
+ If
 your tuition agency has a marketing budget then there are several ways you can
 spend your money on advertising online. Pay Per Click (PPC) campaigns are
 still as popular as ever and can be a great way of getting your website on the
@@ -66,7 +82,11 @@ Instead, focus on optimizing your website copy and blog posts for one or two
 relevant keywords and ensure that your meta titles and descriptions contain
 those keywords too. Coupled with original content that adds value to your
 audience, your website will soon start to receive natural backlinks from other
-sites who find your information useful. ** Social Media ** Sometimes it can
+sites who find your information useful. 
+
+### Social Media
+
+ Sometimes it can
 seem like there’s a new [ social media website
 ](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 springing up every week, so our advice to tutoring agencies would be to focus
@@ -74,16 +94,28 @@ on one or two platforms that work well for you. Twitter and Facebook are
 obvious choices as they are the most widely used throughout the UK. Make sure
 that you use your social media accounts to promote your website content but
 also to engage and reach out to your audience. Think about social media as an
-extension of your agency’s customer service. ![social-media-icons-
+extension of your agency’s customer service.
+
+![social-media-icons-
 cloud](http://www.tutorcruncher.com/wp-content/uploads/2014/07/social-media-
-icons-cloud-300x256.png) ** Content ** Content is arguably the most important
+icons-cloud-300x256.png)
+
+
+
+### Content
+
+ Content is arguably the most important
 part of your website, without it, people are unlikely to find your website in
 search engines. Content is now one of the principal elements of digital
 marketing and thanks to Google’s increasingly sophisticated algorithms,
 content needs to be original, unique and above all else, it needs to add value
 or people won’t read it. Find out which aspects of private tuition your
 customers want to read about and start to write content based around their
-information needs. ** Advertising ** If your tuition agency has a marketing
+information needs. 
+
+### Advertising
+
+ If your tuition agency has a marketing
 budget then there are several ways you can spend your money on advertising
 online. Pay Per Click (PPC) campaigns are still as popular as ever and can be
 a great way of getting your website on the first page of Google and increase
@@ -112,7 +144,11 @@ optimizing your website copy and blog posts for one or two relevant keywords
 and ensure that your meta titles and descriptions contain those keywords too.
 Coupled with original content that adds value to your audience, your website
 will soon start to receive natural backlinks from other sites who find your
-information useful. ** Social Media ** Sometimes it can seem like there’s a
+information useful. 
+
+### Social Media
+
+ Sometimes it can seem like there’s a
 new [ social media website ](http://www.tutorcruncher.com/social-media-
 strategy-for-tutoring-businesses/) springing up every week, so our advice to
 tutoring agencies would be to focus on one or two platforms that work well for
@@ -120,15 +156,27 @@ you. Twitter and Facebook are obvious choices as they are the most widely used
 throughout the UK. Make sure that you use your social media accounts to
 promote your website content but also to engage and reach out to your
 audience. Think about social media as an extension of your agency’s customer
-service. ![social-media-icons-cloud](http://www.tutorcruncher.com/wp-
-content/uploads/2014/07/social-media-icons-cloud-300x256.png) ** Content **
+service.
+
+![social-media-icons-cloud](http://www.tutorcruncher.com/wp-
+content/uploads/2014/07/social-media-icons-cloud-300x256.png)
+
+
+
+### Content
+
+
 Content is arguably the most important part of your website, without it,
 people are unlikely to find your website in search engines. Content is now one
 of the principal elements of digital marketing and thanks to Google’s
 increasingly sophisticated algorithms, content needs to be original, unique
 and above all else, it needs to add value or people won’t read it. Find out
 which aspects of private tuition your customers want to read about and start
-to write content based around their information needs. ** Advertising ** If
+to write content based around their information needs. 
+
+### Advertising
+
+ If
 your tuition agency has a marketing budget then there are several ways you can
 spend your money on advertising online. Pay Per Click (PPC) campaigns are
 still as popular as ever and can be a great way of getting your website on the
@@ -157,7 +205,11 @@ Instead, focus on optimizing your website copy and blog posts for one or two
 relevant keywords and ensure that your meta titles and descriptions contain
 those keywords too. Coupled with original content that adds value to your
 audience, your website will soon start to receive natural backlinks from other
-sites who find your information useful. ** Social Media ** Sometimes it can
+sites who find your information useful. 
+
+### Social Media
+
+ Sometimes it can
 seem like there’s a new [ social media website
 ](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 springing up every week, so our advice to tutoring agencies would be to focus
@@ -165,16 +217,28 @@ on one or two platforms that work well for you. Twitter and Facebook are
 obvious choices as they are the most widely used throughout the UK. Make sure
 that you use your social media accounts to promote your website content but
 also to engage and reach out to your audience. Think about social media as an
-extension of your agency’s customer service. ![social-media-icons-
+extension of your agency’s customer service.
+
+![social-media-icons-
 cloud](http://www.tutorcruncher.com/wp-content/uploads/2014/07/social-media-
-icons-cloud-300x256.png) ** Content ** Content is arguably the most important
+icons-cloud-300x256.png)
+
+
+
+### Content
+
+ Content is arguably the most important
 part of your website, without it, people are unlikely to find your website in
 search engines. Content is now one of the principal elements of digital
 marketing and thanks to Google’s increasingly sophisticated algorithms,
 content needs to be original, unique and above all else, it needs to add value
 or people won’t read it. Find out which aspects of private tuition your
 customers want to read about and start to write content based around their
-information needs. ** Advertising ** If your tuition agency has a marketing
+information needs. 
+
+### Advertising
+
+ If your tuition agency has a marketing
 budget then there are several ways you can spend your money on advertising
 online. Pay Per Click (PPC) campaigns are still as popular as ever and can be
 a great way of getting your website on the first page of Google and increase

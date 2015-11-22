@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Most Common Mistakes People Make When Choosing a Tutoring Agency
+title:  "The Most Common Mistakes People Make When Choosing a Tutoring Agency"
 permalink: common-mistakes-choosing-tutoring-agency
 ---
 Using a tuition agency can be a big step for students, so you’ll want to
@@ -19,7 +19,11 @@ learning. It can also help to read online reviews left by other students and
 parents to give you an idea of what it’s like studying there. The more
 research you do of each agency, the more knowledgeable you’ll become about
 their services and the better prepared you’ll be to make a decision on which
-one will be best. ** Not Asking the Correct Questions ** When speaking with a
+one will be best. 
+
+### Not Asking the Correct Questions
+
+ When speaking with a
 tuition agency by phone or in person, many people don’t ask the correct
 questions to determine whether the agency will be suitable. You’ll want to
 know how many students attend the agency, how do they [ select their tutors
@@ -27,7 +31,11 @@ know how many students attend the agency, how do they [ select their tutors
 Students and Tutors" ) and what qualifications do they have, what their
 success rate is and what facilities will be on offer on-site. It can help to
 write down a list of questions you’d like to ask beforehand to help gather
-your thoughts before the conversation. ** Not Asking for a Guided Tour ** One
+your thoughts before the conversation. 
+
+### Not Asking for a Guided Tour
+
+ One
 way of knowing for sure, whether an agency is right for you, is to arrange for
 a tour of the company. Sometimes, tuition agencies arrange open days and
 invite people to take a look around the facility. However, if there are none

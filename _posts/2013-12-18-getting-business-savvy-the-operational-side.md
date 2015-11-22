@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Getting Business Savvy – The Operational Side
+title:  "Getting Business Savvy – The Operational Side"
 permalink: getting-business-savvy-the-operational-side
 ---
 Running a tutoring business is not as easy as it sounds. It requires a lot of
@@ -38,4 +38,4 @@ the payment process to your new client. All of this information MUST be
 succinct, consistent and logically outlined in order to ensure good customer
 service.
 
-##  Where did you start your business? and where are you now?
+## Where did you start your business? and where are you now?

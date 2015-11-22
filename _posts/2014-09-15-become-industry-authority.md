@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Make Your Tutoring Agency an Industry Authority
+title:  "How to Make Your Tutoring Agency an Industry Authority"
 permalink: become-industry-authority
 ---
 When people hear the name of your tutoring agency, what do they think of? Do
@@ -9,8 +9,12 @@ the mill agency? [ Being an authority in the tutoring industry
 ](http://www.tutorcruncher.com/how-to-build-an-online-tutoring-community/)
 means you’ll attract more business and to help you out, we’ve put together a
 list of actions you can take to become an industry leader. ** Report on
-Industry News ![blog-327074_640](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/blog-327074_640-300x211.jpg) ** One of the most
+Industry News
+
+![blog-327074_640](http://www.tutorcruncher.com/wp-
+content/uploads/2014/09/blog-327074_640-300x211.jpg)
+
+** One of the most
 effective ways of ensuring that people turn to your agency for industry
 insights is to report on the latest happenings in the tutoring marketplace. If
 people associate your brand with being up to date and relevant, they’ll be
@@ -18,7 +22,11 @@ more likely to use your services. What’s more, people will start to visit your
 website more often if they know that you make regular posts about the latest
 tutoring news. Your blog can also act as a reference for journalists looking
 for information about the industry from a specific time period, which can
-result in your agency being quoted in articles. ** Interview Market Leaders **
+result in your agency being quoted in articles. 
+
+### Interview Market Leaders
+
+
 Who are the current authorities in the tutoring industry? Once you’ve
 identified them, why not ask if they’d like to be interviewed for your site?
 By including insights from other agencies on your blog, you’ll show your
@@ -35,9 +43,17 @@ people to interact with you. Perhaps you’ll [ make use of social media
 ](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 and actively ask people to contact you for information, or send or out an
 email campaign reminding people that you’re here to help provide advice about
-the industry. ** Be Innovative ** ![3Drenderingofashoppingbasketconnectedtoaco
+the industry. 
+
+### Be Innovative
+
+
+
+![3Drenderingofashoppingbasketconnectedtoaco
 mputermouse](http://www.tutorcruncher.com/wp-content/uploads/2014/09/3drenderi
-ngofashoppingbasketconnectedtoacomputermouse-300x300.jpg) One of the best ways
+ngofashoppingbasketconnectedtoacomputermouse-300x300.jpg)
+
+One of the best ways
 [ to position your tutoring agency an authority
 ](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/) is
 to be on the cutting edge of education and technology. To be a market leader,

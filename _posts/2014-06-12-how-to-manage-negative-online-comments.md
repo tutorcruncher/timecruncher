@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Manage Negative Online Comments?
+title:  "How to Manage Negative Online Comments?"
 permalink: how-to-manage-negative-online-comments
 ---
 Digital Marketing is a tool used by almost every company in the world
@@ -22,26 +22,42 @@ a review from a client who had a bad experience. This is damaging for your
 reputation, and will often require some sort of action. The review is not a
 problem itself without an audience. The problem comes when the review appears
 in the search engine results page (SERP). Below you can find here 5 tips to
-help you improve your digital marketing strategy. ** Social Media ** They can
+help you improve your digital marketing strategy. 
+
+### Social Media
+
+ They can
 have two impacts on your business. At first search engines give more weight to
 real updates. If you are really active, your updates will come first, pushing
 down the negative comments. Secondly, even if you cannot deal with the
 negative review, you can address those comments and try to make it up to the
 customers. There are examples where ignoring comments have exacerbated the
 situation but approaching negative reviewers is a delicate art and your social
-media team should tread carefully here. ** SEO ** Search Engine Optimization
+media team should tread carefully here. 
+
+### SEO
+
+ Search Engine Optimization
 is a process that allows you to get a higher ranking on SERPs. If,
 unfortunately, a negative comment comes on the first page, it means that this
 ranking site is outranking your pages on your site. A good SEO strategy could
 help you improve your ranking for core keywords, but also enhance how your
 content ranks. These will add search value to your site and push the negative
-comments down the SERPs. ** Publishing ** Developing new domains is crucial.
+comments down the SERPs. 
+
+### Publishing
+
+ Developing new domains is crucial.
 Some may already exist on different platforms, you just have to create your
 own page and immerse yourself in the non-stopping world of social media.
 Improve you Wikipedia page, your Twitter, your blog, Facebook, Tumblr,
 Pinterest, Youtube, Google+, etc. The more you interact with your audience,
 the better it will be for your business and the higher you will rank on search
-engines. ** Content ** You need to publish high quality content on every
+engines. 
+
+### Content
+
+ You need to publish high quality content on every
 platform on which you're present. It can be either pictures, videos, blog
 post, or anything related to the industry you're in. We recommend you create a
 SEO agenda and stick to it. It may be easier said than done, but with negative
@@ -68,26 +84,42 @@ a review from a client who had a bad experience. This is damaging for your
 reputation, and will often require some sort of action. The review is not a
 problem itself without an audience. The problem comes when the review appears
 in the search engine results page (SERP). Below you can find here 5 tips to
-help you improve your digital marketing strategy. ** Social Media ** They can
+help you improve your digital marketing strategy. 
+
+### Social Media
+
+ They can
 have two impacts on your business. At first search engines give more weight to
 real updates. If you are really active, your updates will come first, pushing
 down the negative comments. Secondly, even if you cannot deal with the
 negative review, you can address those comments and try to make it up to the
 customers. There are examples where ignoring comments have exacerbated the
 situation but approaching negative reviewers is a delicate art and your social
-media team should tread carefully here. ** SEO ** Search Engine Optimization
+media team should tread carefully here. 
+
+### SEO
+
+ Search Engine Optimization
 is a process that allows you to get a higher ranking on SERPs. If,
 unfortunately, a negative comment comes on the first page, it means that this
 ranking site is outranking your pages on your site. A good SEO strategy could
 help you improve your ranking for core keywords, but also enhance how your
 content ranks. These will add search value to your site and push the negative
-comments down the SERPs. ** Publishing ** Developing new domains is crucial.
+comments down the SERPs. 
+
+### Publishing
+
+ Developing new domains is crucial.
 Some may already exist on different platforms, you just have to create your
 own page and immerse yourself in the non-stopping world of social media.
 Improve you Wikipedia page, your Twitter, your blog, Facebook, Tumblr,
 Pinterest, Youtube, Google+, etc. The more you interact with your audience,
 the better it will be for your business and the higher you will rank on search
-engines. ** Content ** You need to publish high quality content on every
+engines. 
+
+### Content
+
+ You need to publish high quality content on every
 platform on which you're present. It can be either pictures, videos, blog
 post, or anything related to the industry you're in. We recommend you create a
 SEO agenda and stick to it. It may be easier said than done, but with negative
@@ -112,26 +144,42 @@ a review from a client who had a bad experience. This is damaging for your
 reputation, and will often require some sort of action. The review is not a
 problem itself without an audience. The problem comes when the review appears
 in the search engine results page (SERP). Below you can find here 5 tips to
-help you improve your digital marketing strategy. ** Social Media ** They can
+help you improve your digital marketing strategy. 
+
+### Social Media
+
+ They can
 have two impacts on your business. At first search engines give more weight to
 real updates. If you are really active, your updates will come first, pushing
 down the negative comments. Secondly, even if you cannot deal with the
 negative review, you can address those comments and try to make it up to the
 customers. There are examples where ignoring comments have exacerbated the
 situation but approaching negative reviewers is a delicate art and your social
-media team should tread carefully here. ** SEO ** Search Engine Optimization
+media team should tread carefully here. 
+
+### SEO
+
+ Search Engine Optimization
 is a process that allows you to get a higher ranking on SERPs. If,
 unfortunately, a negative comment comes on the first page, it means that this
 ranking site is outranking your pages on your site. A good SEO strategy could
 help you improve your ranking for core keywords, but also enhance how your
 content ranks. These will add search value to your site and push the negative
-comments down the SERPs. ** Publishing ** Developing new domains is crucial.
+comments down the SERPs. 
+
+### Publishing
+
+ Developing new domains is crucial.
 Some may already exist on different platforms, you just have to create your
 own page and immerse yourself in the non-stopping world of social media.
 Improve you Wikipedia page, your Twitter, your blog, Facebook, Tumblr,
 Pinterest, Youtube, Google+, etc. The more you interact with your audience,
 the better it will be for your business and the higher you will rank on search
-engines. ** Content ** You need to publish high quality content on every
+engines. 
+
+### Content
+
+ You need to publish high quality content on every
 platform on which you're present. It can be either pictures, videos, blog
 post, or anything related to the industry you're in. We recommend you create a
 SEO agenda and stick to it. It may be easier said than done, but with negative
@@ -156,26 +204,42 @@ a review from a client who had a bad experience. This is damaging for your
 reputation, and will often require some sort of action. The review is not a
 problem itself without an audience. The problem comes when the review appears
 in the search engine results page (SERP). Below you can find here 5 tips to
-help you improve your digital marketing strategy. ** Social Media ** They can
+help you improve your digital marketing strategy. 
+
+### Social Media
+
+ They can
 have two impacts on your business. At first search engines give more weight to
 real updates. If you are really active, your updates will come first, pushing
 down the negative comments. Secondly, even if you cannot deal with the
 negative review, you can address those comments and try to make it up to the
 customers. There are examples where ignoring comments have exacerbated the
 situation but approaching negative reviewers is a delicate art and your social
-media team should tread carefully here. ** SEO ** Search Engine Optimization
+media team should tread carefully here. 
+
+### SEO
+
+ Search Engine Optimization
 is a process that allows you to get a higher ranking on SERPs. If,
 unfortunately, a negative comment comes on the first page, it means that this
 ranking site is outranking your pages on your site. A good SEO strategy could
 help you improve your ranking for core keywords, but also enhance how your
 content ranks. These will add search value to your site and push the negative
-comments down the SERPs. ** Publishing ** Developing new domains is crucial.
+comments down the SERPs. 
+
+### Publishing
+
+ Developing new domains is crucial.
 Some may already exist on different platforms, you just have to create your
 own page and immerse yourself in the non-stopping world of social media.
 Improve you Wikipedia page, your Twitter, your blog, Facebook, Tumblr,
 Pinterest, Youtube, Google+, etc. The more you interact with your audience,
 the better it will be for your business and the higher you will rank on search
-engines. ** Content ** You need to publish high quality content on every
+engines. 
+
+### Content
+
+ You need to publish high quality content on every
 platform on which you're present. It can be either pictures, videos, blog
 post, or anything related to the industry you're in. We recommend you create a
 SEO agenda and stick to it. It may be easier said than done, but with negative

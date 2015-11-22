@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Create a Social Media Strategy in 6 Steps
+title:  "How to Create a Social Media Strategy in 6 Steps"
 permalink: how-to-create-a-social-media-strategy-in-6-steps
 ---
 By now social media is an essential part of the marketing landscape and having
@@ -8,7 +8,11 @@ a strategy, even for small businesses, has become crucial. If you are trying
 to use social media to achieve your objectives, you need to plan ahead to
 ensure your time spent on these platforms yields real and measurable results.
 Below are 6 tips to create or increase the effectiveness of your social media
-strategy. ** 1 . Conduct a Market Research ** First and foremost, you need to
+strategy. 
+
+### 1 . Conduct a Market Research
+
+ First and foremost, you need to
 gather market information to determine your audience’s interests and which
 platforms will be most effective for reaching them. Then, you can create your
 accounts and establish a virtual relationship, measurable through Likes,
@@ -38,7 +42,11 @@ your Activity ** Set aside time to review the metrics related to your social
 media goals, preferably on a monthly basis. You might focus on number of
 posts, followers growth, clicks to your site / products, page views, post
 likes or shares, impressions, etc. Look at each channel separately and compare
-to your largest competitors. ** 6\. Develop a Dialogue with Your Customer **
+to your largest competitors. 
+
+### 6\. Develop a Dialogue with Your Customer
+
+
 Last but not least, do not ignore any comment posted to your account on
 social, whether positive or negative. In case of complaints, offer an apology
 and a solution: in this way you will get the opportunity to turn a
@@ -50,7 +58,11 @@ a strategy, even for small businesses, has become crucial. If you are trying
 to use social media to achieve your objectives, you need to plan ahead to
 ensure your time spent on these platforms yields real and measurable results.
 Below are 6 tips to create or increase the effectiveness of your social media
-strategy. ** 1 . Conduct a Market Research ** First and foremost, you need to
+strategy. 
+
+### 1 . Conduct a Market Research
+
+ First and foremost, you need to
 gather market information to determine your audience’s interests and which
 platforms will be most effective for reaching them. Then, you can create your
 accounts and establish a virtual relationship, measurable through Likes,
@@ -80,7 +92,11 @@ your Activity ** Set aside time to review the metrics related to your social
 media goals, preferably on a monthly basis. You might focus on number of
 posts, followers growth, clicks to your site / products, page views, post
 likes or shares, impressions, etc. Look at each channel separately and compare
-to your largest competitors. ** 6\. Develop a Dialogue with Your Customer **
+to your largest competitors. 
+
+### 6\. Develop a Dialogue with Your Customer
+
+
 Last but not least, do not ignore any comment posted to your account on
 social, whether positive or negative. In case of complaints, offer an apology
 and a solution: in this way you will get the opportunity to turn a
@@ -92,7 +108,11 @@ a strategy, even for small businesses, has become crucial. If you are trying
 to use social media to achieve your objectives, you need to plan ahead to
 ensure your time spent on these platforms yields real and measurable results.
 Below are 6 tips to create or increase the effectiveness of your social media
-strategy. ** 1 . Conduct a Market Research ** First and foremost, you need to
+strategy. 
+
+### 1 . Conduct a Market Research
+
+ First and foremost, you need to
 gather market information to determine your audience’s interests and which
 platforms will be most effective for reaching them. Then, you can create your
 accounts and establish a virtual relationship, measurable through Likes,
@@ -122,7 +142,11 @@ your Activity ** Set aside time to review the metrics related to your social
 media goals, preferably on a monthly basis. You might focus on number of
 posts, followers growth, clicks to your site / products, page views, post
 likes or shares, impressions, etc. Look at each channel separately and compare
-to your largest competitors. ** 6\. Develop a Dialogue with Your Customer **
+to your largest competitors. 
+
+### 6\. Develop a Dialogue with Your Customer
+
+
 Last but not least, do not ignore any comment posted to your account on
 social, whether positive or negative. In case of complaints, offer an apology
 and a solution: in this way you will get the opportunity to turn a
@@ -134,7 +158,11 @@ a strategy, even for small businesses, has become crucial. If you are trying
 to use social media to achieve your objectives, you need to plan ahead to
 ensure your time spent on these platforms yields real and measurable results.
 Below are 6 tips to create or increase the effectiveness of your social media
-strategy. ** 1 . Conduct a Market Research ** First and foremost, you need to
+strategy. 
+
+### 1 . Conduct a Market Research
+
+ First and foremost, you need to
 gather market information to determine your audience’s interests and which
 platforms will be most effective for reaching them. Then, you can create your
 accounts and establish a virtual relationship, measurable through Likes,
@@ -164,7 +192,11 @@ your Activity ** Set aside time to review the metrics related to your social
 media goals, preferably on a monthly basis. You might focus on number of
 posts, followers growth, clicks to your site / products, page views, post
 likes or shares, impressions, etc. Look at each channel separately and compare
-to your largest competitors. ** 6\. Develop a Dialogue with Your Customer **
+to your largest competitors. 
+
+### 6\. Develop a Dialogue with Your Customer
+
+
 Last but not least, do not ignore any comment posted to your account on
 social, whether positive or negative. In case of complaints, offer an apology
 and a solution: in this way you will get the opportunity to turn a

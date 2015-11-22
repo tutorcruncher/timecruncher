@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  First 'new' grammar school in 50 years
+title:  "First 'new' grammar school in 50 years"
 permalink: first-new-grammar-school-in-50-years
 ---
 On the 15th October it was announced that the first new grammar school is to
@@ -15,9 +15,13 @@ use for determining ability at age 10/11. As tutoring agencies know, you can
 tutor to improve performance for most exams - whether the 11+, GCSEs, common
 entrance, or the American SAT exam - which was specifically designed to
 measure ability, rather than knowledge.  [caption id="attachment_4285"
-align="aligncenter" width="624"] [ ![Artists' impression of the grammar school
+align="aligncenter" width="624"] [
+
+![Artists' impression of the grammar school
 to open in Sevenoaks in September 2017](http://www.tutorcruncher.com/wp-
-content/uploads/2015/10/artists.jpg) ](http://www.tutorcruncher.com/wp-
+content/uploads/2015/10/artists.jpg)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2015/10/artists.jpg) Artists' impression of the grammar school
 to open in Sevenoaks in September 2017[/caption]  The exact requirements for
 the 11+ already differ from county to county, so tutoring companies need to

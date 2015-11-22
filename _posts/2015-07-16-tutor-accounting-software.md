@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why Your Business Needs Tutor Accounting Software
+title:  "Why Your Business Needs Tutor Accounting Software"
 permalink: tutor-accounting-software
 ---
 When it comes to taking care of your finances, spreadsheets and Word documents
@@ -24,7 +24,11 @@ you to automate your invoicing and payroll, run reports on financial data and
 ](http://www.tutorcruncher.com/features/vat-margin-paperwork/) , all at the
 click of a button. Our software is designed to streamline and automate your
 accounting process, ensuring that your finances are accurate and that your
-stress levels are kept to a minimum. ** ** ** Easy Access to Financial Data **
+stress levels are kept to a minimum. 
+
+### **
+
+ Easy Access to Financial Data **
 The problem with keeping manual records of your finances is that it’s
 difficult to see the bigger picture when there’s so much work involved at
 ground level. If all your time is spent chasing up student and parent invoices
@@ -36,7 +40,11 @@ counting the zeros. Our software provides a clear and accurate overview of
 your financial situation at the click of a mouse, which enables you to make
 better business decisions in the long-term. In order to grow your tutoring
 business, you need to know what your current financial situation is like first
-before you can make projections for the future. ** Time and Cost Savings **
+before you can make projections for the future. 
+
+### Time and Cost Savings
+
+
 The amount of time that goes into manually recording financial data soon
 becomes overwhelming, even for the most mathematically-minded business owners.
 The more time you spend working out your finances, the more likely you are to

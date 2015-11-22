@@ -3,7 +3,7 @@ email: info@tutorCruncher.com
 description: TutorCruncher is a tutoring business management software tool with timesheets, invoicing, payroll, scheduling and management applications.
 baseurl: ""
 url: "http://public.tutorcruncher.com"
-exclude: ['grablib.json', 'README.md']
+exclude: ['grablib.json', 'README.md', 'migrate']
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap

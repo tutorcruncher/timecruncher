@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How your Tutoring Agency Can Set Your Students’ Expectations
+title:  "How your Tutoring Agency Can Set Your Students’ Expectations"
 permalink: students-expectations
 ---
 ![5078917830_7f839d015c_b](http://www.tutorcruncher.com/wp-
@@ -13,7 +13,11 @@ empowering learning and simply providing answers. Here are our top tips for
 agencies on [ how to set your students’ expectations
 ](http://www.tutorcruncher.com/tuition-agency-ethics/) of your services.
 
-** Provide a Clear Framework **
+
+
+### Provide a Clear Framework
+
+
 
 [ When a student first joins your agency
 ](http://www.tutorcruncher.com/beginning-school-year-best-time-use-tuition-
@@ -26,7 +30,11 @@ your students’ expectations and ensure that they won’t be disappointed by yo
 service. It can also be useful to discuss best study and revision practices in
 the lead up to exams.
 
-** Clarify Everyone’s Role **
+
+
+### Clarify Everyone’s Role
+
+
 
 Provide your students with information about their roles as students. What
 does studying at your agency actually involve? How many hours per week of
@@ -38,7 +46,11 @@ how they are able to approach lessons. Let your students know that there are
 limitations to how much assistance a tutor can provide without them engaging
 in their own learning too.
 
-** Set Clear Goals **
+
+
+### Set Clear Goals
+
+
 
 At the beginning of a student’s lessons, it can be beneficial to set out some
 short-term goals, so that they have a record of what they’re hoping to achieve
@@ -50,7 +62,11 @@ Continually reviewing your students’ progress throughout their time with your
 agency can also be a great way of ensuring that their expectations are being
 met.
 
-** Have a Two-Way Conversation **
+
+
+### Have a Two-Way Conversation
+
+
 
 While tutoring agencies have a responsibility to set students’ expectations,
 students should also have the opportunity to explain what they expect from

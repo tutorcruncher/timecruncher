@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TutorCruncher Updates: Schedule
+title:  "TutorCruncher Updates: Schedule"
 permalink: tutorcruncher-updates-schedule
 ---
 TutorCruncher has recently developed a new feature for Scheduling, with the

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tuition Agencies: How to Prepare For Busy Periods
+title:  "Tuition Agencies: How to Prepare For Busy Periods"
 permalink: tuition-agencies-how-to-prepare-for-busy-periods
 ---
 Demand for private tuition can often be seasonal, with particularly busy
@@ -16,7 +16,11 @@ looking for extra tuition. This might involve organising extra space within
 your building or arranging for tutors to visit students at home if your
 service doesn't already offer this option. Planning ahead can also ensure that
 stock orders are accurate as larger orders of textbooks, stationary and
-computer equipment might be needed. ** Increase staff ** One way to keep up
+computer equipment might be needed. 
+
+### Increase staff
+
+ One way to keep up
 with demand during busy periods is to take on extra tutors. Having extra staff
 on hand means you can book more lessons without having to add names to your
 waiting list. Many tutors actively look for work in the lead up to exams so
@@ -55,7 +59,11 @@ looking for extra tuition. This might involve organising extra space within
 your building or arranging for tutors to visit students at home if your
 service doesn't already offer this option. Planning ahead can also ensure that
 stock orders are accurate as larger orders of textbooks, stationary and
-computer equipment might be needed. ** Increase staff ** One way to keep up
+computer equipment might be needed. 
+
+### Increase staff
+
+ One way to keep up
 with demand during busy periods is to take on extra tutors. Having extra staff
 on hand means you can book more lessons without having to add names to your
 waiting list. Many tutors actively look for work in the lead up to exams so
@@ -94,7 +102,11 @@ looking for extra tuition. This might involve organising extra space within
 your building or arranging for tutors to visit students at home if your
 service doesn't already offer this option. Planning ahead can also ensure that
 stock orders are accurate as larger orders of textbooks, stationary and
-computer equipment might be needed. ** Increase staff ** One way to keep up
+computer equipment might be needed. 
+
+### Increase staff
+
+ One way to keep up
 with demand during busy periods is to take on extra tutors. Having extra staff
 on hand means you can book more lessons without having to add names to your
 waiting list. Many tutors actively look for work in the lead up to exams so
@@ -133,7 +145,11 @@ looking for extra tuition. This might involve organising extra space within
 your building or arranging for tutors to visit students at home if your
 service doesn't already offer this option. Planning ahead can also ensure that
 stock orders are accurate as larger orders of textbooks, stationary and
-computer equipment might be needed. ** Increase staff ** One way to keep up
+computer equipment might be needed. 
+
+### Increase staff
+
+ One way to keep up
 with demand during busy periods is to take on extra tutors. Having extra staff
 on hand means you can book more lessons without having to add names to your
 waiting list. Many tutors actively look for work in the lead up to exams so

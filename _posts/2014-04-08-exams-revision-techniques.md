@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Exams Revision Techniques
+title:  "Exams Revision Techniques"
 permalink: exams-revision-techniques
 ---
 When exams are approaching students will be more stressed and may want more

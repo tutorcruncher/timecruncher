@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  The Tutor Awards - 9th July
+title:  "The Tutor Awards - 9th July"
 permalink: the-tutor-awards
 ---
 ###
 
-#  The National Tutoring Awards ceremony will be held in the Attlee Room of
+# The National Tutoring Awards ceremony will be held in the Attlee Room of
 the House of Lords on  9th  July  and presented by Gerard Kelly, former Editor
 of The Times Education Supplement. Sp  onsored by [ Education Quizzes
 ](http://m.educationquizzes.com/) .
@@ -44,23 +44,47 @@ of The Times Education Supplement. Sp  onsored by [ Education Quizzes
 #####
 
 We are pleased to announce the partnership with the NTC on ** The Tutor awards
-2015 ** . Please find below the press release for the ** tutor awards ** :
+2015 
+
+### . Please find below the press release for the
+
+ tutor awards ** :
 Note - Location may change.
 
-** The National Tutor Awards **
 
-** 24th June **
 
-** Nutford House, University of London, Brown Street, London W1H 5UL **
+### The National Tutor Awards
+
+
+
+
+
+### 24th June
+
+
+
+
+
+### Nutford House, University of London, Brown Street, London W1H 5UL
+
+
 
 The Awards honour outstanding tutors and teaching and highlight just how vital
 success in education is to the health and wealth of the UK.
 
-Every day at the ** National Tutoring Conference ** we hear of brilliant
+Every day at the 
+
+### National Tutoring Conference
+
+ we hear of brilliant
 tutors who help pupils of all ages reaching their potential, often meeting and
 overcoming considerable challenges along the way.
 
-The ** Tutor Awards ** offers the industry to say “thank you”, to the tutors
+The 
+
+### Tutor Awards
+
+ offers the industry to say “thank you”, to the tutors
 who really make a difference and who has helped them most.
 
 Anyone can be involved. Be it pupils, parents, teachers, tutors, grandparents

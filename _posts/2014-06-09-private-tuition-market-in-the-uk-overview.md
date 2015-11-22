@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Private Tuition Market in the UK: Overview
+title:  "Private Tuition Market in the UK: Overview"
 permalink: private-tuition-market-in-the-uk-overview
 ---
 According to a survey conducted by [ EdPlace

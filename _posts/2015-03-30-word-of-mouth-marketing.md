@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Grow Your Tutoring Business Through Word of Mouth Marketing
+title:  "How to Grow Your Tutoring Business Through Word of Mouth Marketing"
 permalink: word-of-mouth-marketing
 ---
 Digital technology may be the future of marketing but when it comes to private
@@ -16,7 +16,11 @@ exhibitor at a business networking event or act as a sponsor of an educational
 conference? The more involved you become in your [ local community
 ](http://www.tutorcruncher.com/local-seo-marketing-your-tuition-agency-
 online/) , the more people will recognise your brand and start talking about
-your services. ** Pay Extra Special Attention to your Customer Service **
+your services. 
+
+### Pay Extra Special Attention to your Customer Service
+
+
 There’s no better form of marketing in the tutoring industry than a positive
 review from an existing student or parent. Remember, students are one of the
 most influential marketing groups out there, so if you do a good job and help
@@ -35,7 +39,11 @@ students on their lessons if they introduce someone new to your business.
 Other businesses in your community can also be a good source of referrals. Why
 not approach some companies who may be able to provide you with new customers
 and ask if you can take out some advertising space in their newsletter? ** **
-** Create a Buzz Around Your Business ** Carefully thought out PR can be a
+
+
+### Create a Buzz Around Your Business
+
+ Carefully thought out PR can be a
 great way to get people talking about your business. Perhaps your tutoring
 agency has had a record year of students achieving A’s in their exams? Or
 maybe you’ve recently recruited a new employee with an impressive track

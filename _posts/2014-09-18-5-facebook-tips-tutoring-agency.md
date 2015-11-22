@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  5 Facebook Tips for Your Tutoring Agency
+title:  "5 Facebook Tips for Your Tutoring Agency"
 permalink: 5-facebook-tips-tutoring-agency
 ---
 There are currently [ 1.28 billion active Facebook users worldwide
@@ -20,7 +20,11 @@ industry that your Facebook fans might not have seen before. You could also
 try creating a regular feature like a competition or a discount that
 encourages your fans to visit your page every week. You should also share
 other people’s content too as this will help build your authority as a
-valuable industry resource. ** The Shorter the Better ** People don’t like to
+valuable industry resource. 
+
+### The Shorter the Better
+
+ People don’t like to
 read long posts on Facebook. [ The average person has 338 friends on Facebook,
 ](http://www.pewresearch.org/fact-tank/2014/02/03/6-new-facts-about-facebook/)
 so their social feeds are constantly updating, they want short, digestible
@@ -33,7 +37,11 @@ comment on them? Perhaps you could run a caption competition? Reach out to
 your followers and ask them to post some of their photos from the event to
 your page. Not only does this improve engagement with people but it also adds
 to your [ social media content. ](http://www.tutorcruncher.com/social-media-
-strategy-for-tutoring-businesses/) ** Focus on Engagement Not Selling ** Using
+strategy-for-tutoring-businesses/) 
+
+### Focus on Engagement Not Selling
+
+ Using
 Facebook for business is all about engaging with people. Of course, you’ll
 want to increase your online presence and pick up some extra business as a
 result of using the platform, but to do so; you need to be more strategic. Try
@@ -41,7 +49,11 @@ to avoid hard selling or promoting your services too often. Instead, create
 posts around a specific issue in the tutoring industry and ask how others go
 about solving the problem. This gives you the opportunity to express your
 thoughts and to encourage people to contact you for more information on how
-you can help. ** It’s All About Customer Service ** A lot of your agency’s
+you can help. 
+
+### It’s All About Customer Service
+
+ A lot of your agency’s
 students and tutors will turn to Facebook to ask you quick questions about
 your services, so you should be ready to respond to enquiries quickly. Think
 of your Facebook strategy as an extension of your customer service strategy

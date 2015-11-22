@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Advice for Tutors: How to Inspire Learning
+title:  "Advice for Tutors: How to Inspire Learning"
 permalink: advice-for-tutors-how-to-inspire-learning
 ---
 One of the biggest obstacles tutors face is working with students who have
@@ -27,7 +27,11 @@ past. Has your student been a high flyer? Or have they struggled with their
 studies? Perhaps their confidence has taken a knock somewhere along the line
 and they need some positive reinforcement? Parents are a valuable resource in
 a student’s learning and talking to them can often save you hours of detective
-work yourself. ** Make Lessons Interesting ** If a student can’t find anything
+work yourself. 
+
+### Make Lessons Interesting
+
+ If a student can’t find anything
 interesting to hold on to, it can be easy for them to lose faith. Try your
 best to keep lessons stimulating by using references they can relate to. Using
 technical language is often a sure fire way to lose someone’s interest so
@@ -77,7 +81,11 @@ past. Has your student been a high flyer? Or have they struggled with their
 studies? Perhaps their confidence has taken a knock somewhere along the line
 and they need some positive reinforcement? Parents are a valuable resource in
 a student’s learning and talking to them can often save you hours of detective
-work yourself. ** Make Lessons Interesting ** If a student can’t find anything
+work yourself. 
+
+### Make Lessons Interesting
+
+ If a student can’t find anything
 interesting to hold on to, it can be easy for them to lose faith. Try your
 best to keep lessons stimulating by using references they can relate to. Using
 technical language is often a sure fire way to lose someone’s interest so
@@ -125,7 +133,11 @@ past. Has your student been a high flyer? Or have they struggled with their
 studies? Perhaps their confidence has taken a knock somewhere along the line
 and they need some positive reinforcement? Parents are a valuable resource in
 a student’s learning and talking to them can often save you hours of detective
-work yourself. ** Make Lessons Interesting ** If a student can’t find anything
+work yourself. 
+
+### Make Lessons Interesting
+
+ If a student can’t find anything
 interesting to hold on to, it can be easy for them to lose faith. Try your
 best to keep lessons stimulating by using references they can relate to. Using
 technical language is often a sure fire way to lose someone’s interest so
@@ -173,7 +185,11 @@ past. Has your student been a high flyer? Or have they struggled with their
 studies? Perhaps their confidence has taken a knock somewhere along the line
 and they need some positive reinforcement? Parents are a valuable resource in
 a student’s learning and talking to them can often save you hours of detective
-work yourself. ** Make Lessons Interesting ** If a student can’t find anything
+work yourself. 
+
+### Make Lessons Interesting
+
+ If a student can’t find anything
 interesting to hold on to, it can be easy for them to lose faith. Try your
 best to keep lessons stimulating by using references they can relate to. Using
 technical language is often a sure fire way to lose someone’s interest so

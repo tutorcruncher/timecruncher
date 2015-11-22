@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Promote Your Tuition Agency Online Using Google AdWords
+title:  "How to Promote Your Tuition Agency Online Using Google AdWords"
 permalink: promote-tuition-agency-online-using-google-adwords
 ---
 For tuition agencies that want to promote themselves online and don’t have
@@ -12,7 +12,11 @@ AdWords because it operates on a pay-per-click model and you’re only charged
 when a user clicks your ad. Here are our top tips for implementing a
 successful AdWords campaign.
 
-** Choosing Your Keywords **
+
+
+### Choosing Your Keywords
+
+
 
 You should think carefully about which keywords you want your ad to appear
 under. The words you decide upon are those that your ad will appear under in
@@ -32,7 +36,11 @@ choosing-tutoring-agency/) ’ are usually particularly effective. You can use
 the keyword planner within the Adwords interface to help you find more
 keywords when you’re stuck for ideas.
 
-** Target Your Audience Geographically **
+
+
+### Target Your Audience Geographically
+
+
 
 Google AdWords also enables you to appear under searches that that relate to a
 specific area. For example, if your agency is based in Central London and you
@@ -43,7 +51,11 @@ Central London. Geotargeting your AdWords campaign is a clever way to improve
 your conversion rates and ensure that people who click through to your site
 are actually interested in using your agency’s services.
 
-** Device Targeting **
+
+
+### Device Targeting
+
+
 
 The future of online marketing is [ device targeting
 ](http://www.tutorcruncher.com/features/mobile-app/) and things are no
@@ -57,8 +69,12 @@ percentage of web search on tablets and smartphones has been appreciably
 increasing by 5 and 3,5 per cent respectively, in 2013.
 
   
-[ ![Mobile Traffic](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/Mobile-Traffic.png) ](http://www.tutorcruncher.com/wp-
+[
+
+![Mobile Traffic](http://www.tutorcruncher.com/wp-
+content/uploads/2014/08/Mobile-Traffic.png)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/Mobile-Traffic.png)  
   
 

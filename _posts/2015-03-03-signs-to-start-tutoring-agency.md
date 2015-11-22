@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  5 Signs it’s Time to Start your own Tutoring Agency
+title:  "5 Signs it’s Time to Start your own Tutoring Agency"
 permalink: signs-to-start-tutoring-agency
 ---
 _ Knowing when to take your tutoring business to the next level can be
@@ -8,13 +8,17 @@ difficult to determine. To help you identify when you should make the
 transition from a sole trader to a limited company, we’ve put together a list
 of 5 signs that could help you decide when the time is right. _
 
-#####  ** You can no Longer Keep up with Demand [
+You can no Longer Keep up with Demand [
 ![images](http://www.tutorcruncher.com/wp-
 content/uploads/2015/03/images-150x150.jpeg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/images.jpeg) **
 
 When the time comes that you have to turn students down because you don’t have
-any spaces left, you only have ** three ** options:
+any spaces left, you only have 
+
+### three
+
+ options:
 
   1. You gracefully turn students away and don’t hear from them again 
 
@@ -28,7 +32,7 @@ implemented an agency business model into your tutoring by passing on details
 of other tutors to students. In this case, all you need to do is arrange the
 legal side of things and start charging for the service.
 
-#####  ** There’s a Financial Safety Net in Place **
+There’s a Financial Safety Net in Place 
 
 If all your tutoring efforts have paid off and you have enough money put away
 to fund a start-up business then this could be the perfect time to start your
@@ -38,11 +42,15 @@ secure option in the long term. Remember, setting up a tutoring agency doesn’t
 have to cost a fortune, many new agencies start by operating out of their own
 home and existing virtually.
 
-#####  ** Your Students are Achieving Their Goals **
+Your Students are Achieving Their Goals 
 
-[ ![tutoring1](http://www.tutorcruncher.com/wp-
+[
+
+![tutoring1](http://www.tutorcruncher.com/wp-
 content/uploads/2015/03/tutoring1-150x150.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg) If
+](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg)
+
+If
 your students are consistently achieving the grades they hoped for, then you
 know that you’re doing your job well. Having confidence in your own ability
 can often act  as the catalyst for starting new business ventures. If you
@@ -54,7 +62,7 @@ on the back of your previous success a  s a sole trader.
 
 #####
 
-#####  ** You’re Ready to Grow your Income **
+You’re Ready to Grow your Income 
 
 Maybe you’ll know it’s time to start an agency when you feel that you’d like
 to be more financially comfortable. Tutoring agencies are a proven way to make
@@ -62,7 +70,7 @@ money, that’s why there are currently over 500 operating in the UK. Despite
 initial start-up costs, in the long term, setting up an agency can be a great
 way to grow your income.
 
-#####  ** Other Tutors are Asking for your Advice ** [
+Other Tutors are Asking for your Advice  [
 ![dialog-148815_640](http://www.tutorcruncher.com/wp-
 content/uploads/2015/03/dialog-148815_640.png)
 ](http://www.tutorcruncher.com/wp-

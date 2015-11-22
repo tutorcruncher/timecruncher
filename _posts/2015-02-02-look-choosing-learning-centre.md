@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What to Look For When Choosing a Learning Centre
+title:  "What to Look For When Choosing a Learning Centre"
 permalink: look-choosing-learning-centre
 ---
 The benefits of using a learning centre are well documented in parenting
@@ -31,7 +31,11 @@ them how studying at the centre has helped them in their learning. Where
 possible, it’s also a good idea to speak to parents to gauge how successful
 they think the centre’s tutoring programme is. Most learning centres will also
 be able to provide a list of testimonials from previous students that can aid
-your decision. ** Online Reviews ** Over the last few years, there’s been a
+your decision. 
+
+### Online Reviews
+
+ Over the last few years, there’s been a
 significant increase in the number of online review websites. These sites can
 provide you with some useful, unbiased insights into what learning centres are
 really like. Google reviews are a particularly useful source of information as

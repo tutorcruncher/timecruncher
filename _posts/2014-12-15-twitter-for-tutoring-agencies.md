@@ -1,19 +1,27 @@
 ---
 layout: post
-title:  How Your Tutoring Agency Should Use Twitter
+title:  "How Your Tutoring Agency Should Use Twitter"
 permalink: twitter-for-tutoring-agencies
 ---
-[ ![Twitter ](http://www.tutorcruncher.com/wp-
+[
+
+![Twitter ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/twitter-245460_640-300x300.jpg)
 ](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/twitter-245460_640.jpg) [ Twitter is one of the most
+content/uploads/2014/12/twitter-245460_640.jpg)
+
+[ Twitter is one of the most
 influential ](http://www.tutorcruncher.com/digital-resources-tuition-agency/)
 [ social netwo ](http://www.tutorcruncher.com/digital-resources-tuition-
 agency/) [ rks ](http://www.tutorcruncher.com/digital-resources-tuition-
 agency/) out there. Unlike Facebook, it tends to be more focused on business
 and users tend to keep business and personal profiles separate, meaning that
 your audience is much more targeted. Here is our advice on how you can make
-the most of Twitter as a tutoring agency. ** Complete Your Full Profile **
+the most of Twitter as a tutoring agency. 
+
+### Complete Your Full Profile
+
+
 You’ll want to ensure that people associate your profile with your brand. This
 means having a good profile photo, tagline and background image. Consider
 whether it would be more appropriate to have a photo of you as your profile
@@ -32,7 +40,11 @@ company or a person. It doesn’t have to be business 24/7, so consider sharing
 some personal information or photographs that will keep people interested in
 your profile. You should also share other people’s content too. You can become
 a brand leader by associating your agency with other people’s content simply
-by retweeting their best posts. ** Time Your Tweets ** We’ve previously
+by retweeting their best posts. 
+
+### Time Your Tweets
+
+ We’ve previously
 written about [ how to know when to post on social media
 ](http://www.tutorcruncher.com/know-post-social-media-2/) before on this blog,
 and there are a few anomalies you should consider when deciding when to share

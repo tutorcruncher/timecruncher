@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tutoring & Taxation
+title:  "Tutoring & Taxation"
 permalink: tutoring-taxation
 ---
 As previously discussed your tutoring business will depend upon its
@@ -27,7 +27,7 @@ already have, employed tutors. In this case please refer to this [ form
 ](http://www.hmrc.gov.uk/payerti/getting-started-more/index.htm) in order to
 get to grips with your responsibilities as an employer.
 
-##  Although not the most riveting of matters you need to keep business savvy!
+## Although not the most riveting of matters you need to keep business savvy!
 Let us know how you keep on top of your taxes...
 
 As previously discussed your tutoring business will depend upon its
@@ -57,7 +57,7 @@ already have, employed tutors. In this case please refer to this [ form
 ](http://www.hmrc.gov.uk/payerti/getting-started-more/index.htm) in order to
 get to grips with your responsibilities as an employer.
 
-##  Although not the most riveting of matters you need to keep business savvy!
+## Although not the most riveting of matters you need to keep business savvy!
 Let us know how you keep on top of your taxes...
 
 As previously discussed your tutoring business will depend upon its
@@ -87,7 +87,7 @@ already have, employed tutors. In this case please refer to this [ form
 ](http://www.hmrc.gov.uk/payerti/getting-started-more/index.htm) in order to
 get to grips with your responsibilities as an employer.
 
-##  Although not the most riveting of matters you need to keep business savvy!
+## Although not the most riveting of matters you need to keep business savvy!
 Let us know how you keep on top of your taxes...
 
 As previously discussed your tutoring business will depend upon its
@@ -117,5 +117,5 @@ already have, employed tutors. In this case please refer to this [ form
 ](http://www.hmrc.gov.uk/payerti/getting-started-more/index.htm) in order to
 get to grips with your responsibilities as an employer.
 
-##  Although not the most riveting of matters you need to keep business savvy!
+## Although not the most riveting of matters you need to keep business savvy!
 Let us know how you keep on top of your taxes...

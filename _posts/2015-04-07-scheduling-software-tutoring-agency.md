@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Work Scheduling Software Can Benefit Your Tutoring Agency
+title:  "How Work Scheduling Software Can Benefit Your Tutoring Agency"
 permalink: scheduling-software-tutoring-agency
 ---
 The daily running of a business requires organisation and what better way to
@@ -17,7 +17,11 @@ travelling to and from meetings. Using cloud-based scheduling software also
 enables businesses to outsource their workload more effectively as they’ll
 have the opportunity to hire freelancers and virtual assistants from any
 location. This ensures that you work with the best people for the job, not the
-most convenient. ** You’ll Save Money Using a Dedicated Management System **
+most convenient. 
+
+### You’ll Save Money Using a Dedicated Management System
+
+
 Very few new agencies anticipate how much administration is involved in [
 running a tutoring business ](http://www.tutorcruncher.com/news-and-
 updates/how-to-start-a-tutoring-business/) and as it grows, the admin only
@@ -35,7 +39,11 @@ However, by using a tutor management system, you’ll significantly reduce the
 amount of hours you need to spend scheduling lessons and paying invoices as
 these processes are streamlined and user friendly. In fact, the biggest
 dilemma you’ll face with TutorCruncher is deciding which aspect of your
-business to grow next. ** You’ll Reduce Admin Errors ** From experience, we
+business to grow next. 
+
+### You’ll Reduce Admin Errors
+
+ From experience, we
 know that even the smallest of inaccuracies can completely throw an
 administration process, which can mean cancelling invoices and lessons and
 starting completely from scratch. However, with [ work scheduling software

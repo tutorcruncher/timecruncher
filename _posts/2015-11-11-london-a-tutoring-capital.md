@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  London, a tutoring capital?
+title:  "London, a tutoring capital?"
 permalink: london-a-tutoring-capital
 ---
 A recent poll produced by the social mobility charity The Sutton Trust
@@ -12,9 +12,13 @@ for well-off parents to buy additional educational advantages - an extra
 safety net for “Tim Nice But Dim”. Whilst this may have been true 10 years
 ago, these statistics tell a different story as in London at least, tutoring
 has well and truly entered the mainstream, no longer the exclusive domain of
-the rich and/or privately educated. [ ![library-books-
+the rich and/or privately educated. [
+
+![library-books-
 cardiff](http://www.tutorcruncher.com/wp-content/uploads/2015/11/library-
-books-cardiff.jpg) ](http://www.tutorcruncher.com/wp-
+books-cardiff.jpg)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2015/11/library-books-cardiff.jpg) Rather than being
 denigrated as the facilitators of educational advantage, tutors are the
 quickest growing group of education providers in the UK. What was once over

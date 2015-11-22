@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  How Tutor Timesheets Can Help you Organise your Tutoring Business
+title:  "How Tutor Timesheets Can Help you Organise your Tutoring Business"
 permalink: tutor-timesheets
 ---
 Organisation is the key to running a successful tutoring business. Not only
 does an organised agency create a lasting impression on students and parents,
 but being organised also reassures your tutors and other staff members of your
-agency’s professionalism. [ ![Tutor
+agency’s professionalism. [
+
+![Tutor
 timesheet](http://www.tutorcruncher.com/wp-content/uploads/2015/06/lesson-
-report-full-1024x633.png) ](http://www.tutorcruncher.com/wp-
+report-full-1024x633.png)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/lesson-report-full.png) As every tutoring business
 grows, so does its administration and having organised systems in place from
 the beginning ensures that your business won’t be affected by increasing
@@ -23,7 +27,11 @@ timesheets enable you to easily keep track of any outstanding payments and
 allow you to run data reports on your income. A professional looking invoice
 sent to students on time will show the attention your business pays to detail,
 which in turn, will help maintain the reputation of your brand in the eyes of
-students and parents. ** Tutors are Paid On Time ** As a self-employed tutor,
+students and parents. 
+
+### Tutors are Paid On Time
+
+ As a self-employed tutor,
 chasing up invoices on your own takes a significant amount of time that could
 better spent on other tasks. With tutor timesheets, your agency can arrange
 payments straight away, relieving some of the stress on your tutors. With
@@ -39,7 +47,11 @@ can pay third parties directly from the commission you make on lessons, which
 enables you to keep track of ongoing expenses more effectively as all relevant
 financial data is stored in the one place. As well as helping your agency to
 maintain cash flow, paying third parties on time also encourages them to
-continue to help grow your business. ** Work out What Tax your Agency Owes **
+continue to help grow your business. 
+
+### Work out What Tax your Agency Owes
+
+
 Calculating your tax doesn’t need to be complicated. As most tutoring agency
 models go, you’re only required to pay tax on any profit you make from
 commission fees, assuming that your tutors are self-employed and not employed

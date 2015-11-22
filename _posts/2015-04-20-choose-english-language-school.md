@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to choose a good English Language School?
+title:  "How to choose a good English Language School?"
 permalink: choose-english-language-school
 ---
 _ As more international students choose to study at UK universities, the
@@ -8,13 +8,21 @@ demand for English Language tutors is on the increase. But how do you know
 which language school will best suit your needs? This is our guide to choosing
 a good English Language School. _
 
-[caption id="attachment_3950" align="aligncenter" width="870"] [ ![English
+[caption id="attachment_3950" align="aligncenter" width="870"] [
+
+![English
 Language](http://www.tutorcruncher.com/wp-content/uploads/2015/04/English-
-Language-1024x506.jpg) ](http://www.tutorcruncher.com/wp-
+Language-1024x506.jpg)
+
+](http://www.tutorcruncher.com/wp-
 content/uploads/2015/04/English-Language.jpg) Countries where English is the
 most common language[/caption]
 
-** Find out What the Classes Involve **
+
+
+### Find out What the Classes Involve
+
+
 
 ![4388222172_8a7467fa06](http://www.tutorcruncher.com/wp-
 content/uploads/2015/04/4388222172_8a7467fa06-150x150.jpg) Knowing what to
@@ -28,7 +36,11 @@ they’d be better suited to a lower level class. The more information you can
 find out about classes before committing to an English Language school, the
 better.
 
-** What Does the Price Include? **
+
+
+### What Does the Price Include?
+
+
 
 You should also know what the cost of your course covers. Do you have to bring
 your own materials: stationary, laptops etc. or are the provided? Are you
@@ -40,7 +52,11 @@ your own utility bills? Will you be provided with food? It’s important to
 consider all your needs when choosing an English Language school so that you
 can make the most of your time studying in the UK.
 
-** Ask What Methodology the Language School uses **
+
+
+### Ask What Methodology the Language School uses
+
+
 
 Every language school teaches in a different way. Many schools subscribe to a
 very specific method of learning English. For example, some exclusively use
@@ -51,7 +67,11 @@ humanistic approaches which are more holistic or modern approaches like
 principled eclecticism, where teaching is adapted to the student’s particular
 combination of learning styles.
 
-** What Qualifications do the Teachers Have? **
+
+
+### What Qualifications do the Teachers Have?
+
+
 
 Knowing how qualified a language school’s teachers are is also important as it
 could have a bearing on the quality of teaching that you receive. In the UK,
