@@ -1,0 +1,37 @@
+---
+layout: page
+title: TutorCruncher Company Directory
+permalink: /companies/
+redirect_from: /tutor-agencies/
+description: Directory of UK and global tutoring companies including agencies and tuition centers.
+---
+<h1>{{ page.title }}</h1>
+<i>
+  Below is a growing list of tutoring companies in the UK. If your company is not listed then
+  please email <a href="mailto:info@tutorcuncher.com">info@tutorcuncher.com</a> so we can add your details.
+  These companies do not necessarily have any affiliation with TutorCruncher
+</i>
+<table class="table">
+  <thead>
+    <th>
+      Name
+    </th>
+    <th>
+      Address
+    </th>
+  </thead>
+  <tbody>
+    {% for page in site.pages %}
+     {% if page.layout == 'company_profile' %}
+      <tr>
+        <td>
+          <a href="{{ page.url }}">{{ page.title }}</a>
+        </td>
+        <td>
+          {{ page.address }}
+        </td>
+      </tr>
+     {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

@@ -8,15 +8,14 @@ demand for English Language tutors is on the increase. But how do you know
 which language school will best suit your needs? This is our guide to choosing
 a good English Language School. _
 
-[caption id="attachment_3950" align="aligncenter" width="870"] [
+[
 
-![English
-Language](http://www.tutorcruncher.com/wp-content/uploads/2015/04/English-
-Language-1024x506.jpg)
+![English Language](http://www.tutorcruncher.com/wp-
+content/uploads/2015/04/English-Language-1024x506.jpg)
+](http://www.tutorcruncher.com/wp-content/uploads/2015/04/English-
+Language.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/04/English-Language.jpg) Countries where English is the
-most common language[/caption]
+Countries where English is the most common language
 
 
 

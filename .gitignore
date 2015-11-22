@@ -3,5 +3,4 @@ _site
 .jekyll-metadata
 env
 .idea
-migrate/posts/
-migrate/posts.csv
+migrate/*.csv

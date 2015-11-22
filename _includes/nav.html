@@ -20,8 +20,8 @@
       <li{% if page.path == 'blogs.html' or page.path contains '_posts/' %} class="active"{% endif %}>
         <a href="/blogs">Blog</a>
       </li>
-      <li>
-        <a href="/directory">Tutoring Directory</a>
+      <li{% if page.path == 'companies.html' or page.path contains 'companies/' %} class="active"{% endif %}>
+        <a href="/companies">Tutoring Directory</a>
       </li>
       <li>
         <a href="http://help.tutorcruncher.com/" target="_blank">Help</a>

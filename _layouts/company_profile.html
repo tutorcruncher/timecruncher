@@ -1,0 +1,77 @@
+---
+layout: page
+---
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <aside class="text-muted">
+      TutorCruncher Tutoring Directory
+    </aside>
+  </header>
+  <div class="row">
+    <div class="col-md-6">
+      {{ content }}
+    </div>
+    <div class="col-md-6">
+      <dl class="dl-horizontal">
+        <dt>Founded</dt>
+        <dd>{{ page.founded }}</dd>
+
+        <dt>Telephone</dt>
+        <dd>{{ page.telephone }}</dd>
+
+        <dt>Email</dt>
+        <dd>
+          {% if page.email != '' %}
+            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+          {% else %}
+            &mdash;
+          {% endif %}
+        </dd>
+
+        <dt>Website</dt>
+        <dd>
+          {% if page.website != '' %}
+            <a href="{{ page.website }}" target="_blank">{{ page.website }}</a>
+          {% else %}
+            &mdash;
+          {% endif %}
+        </dd>
+
+        <dt>Address</dt>
+        <dd>
+          <address>
+            {{ page.address }}
+          </address>
+        </dd>
+      </dl>
+      <div class="map-container">
+        <div id="company-map"></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+{% if page.map_address != '' %}
+<script>
+  function init_map() {
+    var geocoder = new google.maps.Geocoder();
+    geocoder.geocode( { 'address': '{{ page.map_address }}'}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+        var pos = results[0].geometry.location;
+        var map = new google.maps.Map(document.getElementById('company-map'), {
+          center: pos,
+          scrollwheel: false,
+          zoom: 8
+        });
+        var marker = new google.maps.Marker({
+            map: map,
+            position: pos,
+            title: '{{ page.title }}'
+        });
+      }
+    });
+  }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWaPGLG--T9LU2sWVkz_8l3YqudOHn8iQ&callback=init_map"></script>
+{% endif %}

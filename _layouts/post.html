@@ -4,16 +4,7 @@ layout: page
 <article itemscope itemtype="http://schema.org/BlogPosting">
   <header>
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-      {% include post_meta.html date=page.date author=page.author tags=page.tags %}
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: "%b %-d, %Y" }}</time>
-      {% if page.author %} •
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span itemprop="name">{{ page.author }}</span>
-        </span>
-      {% endif %}
-    </p>
+    {% include post_meta.html date=page.date author=page.author tags=page.tags %}
   </header>
   <div itemprop="articleBody">
     {{ content }}

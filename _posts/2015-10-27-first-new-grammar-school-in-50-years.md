@@ -14,20 +14,16 @@ planned opening has reignited the conversation about the methods currently in
 use for determining ability at age 10/11. As tutoring agencies know, you can
 tutor to improve performance for most exams - whether the 11+, GCSEs, common
 entrance, or the American SAT exam - which was specifically designed to
-measure ability, rather than knowledge.  [caption id="attachment_4285"
-align="aligncenter" width="624"] [
-
-![Artists' impression of the grammar school
-to open in Sevenoaks in September 2017](http://www.tutorcruncher.com/wp-
-content/uploads/2015/10/artists.jpg)
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/10/artists.jpg) Artists' impression of the grammar school
-to open in Sevenoaks in September 2017[/caption]  The exact requirements for
-the 11+ already differ from county to county, so tutoring companies need to
-apply some local knowledge to their students’ situations. But if the current
-government commits to expanding grammar schools significantly it seems likely
-that this will come with some centralization and rationalization of entrance
-criteria. The potential market for tutoring the 11+ is already big and only
-set to get bigger - but  tutoring agencies will have to watch this space
-carefully and adapt to the changes in their client’s needs.
+measure ability, rather than knowledge.  [ ![Artists' impression of the
+grammar school to open in Sevenoaks in September
+2017](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
+](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
+Artists' impression of the grammar school to open in Sevenoaks in September
+2017  The exact requirements for the 11+ already differ from county to county,
+so tutoring companies need to apply some local knowledge to their students’
+situations. But if the current government commits to expanding grammar schools
+significantly it seems likely that this will come with some centralization and
+rationalization of entrance criteria. The potential market for tutoring the
+11+ is already big and only set to get bigger - but  tutoring agencies will
+have to watch this space carefully and adapt to the changes in their client’s
+needs.

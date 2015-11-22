@@ -101,6 +101,10 @@ hr.light {
   color: $main-colour;
 }
 
+header aside {
+  margin-bottom: 20px;
+}
+
 .btn-xl {
   border: none;
   border-radius: 300px;
@@ -171,3 +175,16 @@ section#footer {
   }
 }
 
+address {
+  margin-bottom: 0;
+}
+
+.map-container {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px;
+  #company-map {
+    width: 100%;
+    height: 300px;
+  }
+}

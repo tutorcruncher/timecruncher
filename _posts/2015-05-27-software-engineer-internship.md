@@ -63,12 +63,11 @@ messaging.
 
 
 
-[caption id="attachment_4035" align="aligncenter" width="344"] [
+[
 
-![software
-engineer internship](http://www.tutorcruncher.com/wp-
+![software engineer internship](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/Screenshot-from-2015-01-06-15-55-59.png)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/Screenshot-
 from-2015-01-06-15-55-59.png)
 
-software engineer internship[/caption]
+software engineer internship

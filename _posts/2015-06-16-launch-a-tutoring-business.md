@@ -42,21 +42,24 @@ don't, you're missing out on a lion's share of the market. Although these
 statistics are taken from West London, you should expect similar results
 across all parts of the UK. Tools like TutorCruncher can provide useful
 insights and analytics into your business performance and guide your marketing
-efforts: [caption id="attachment_4090" align="aligncenter" width="586"] [
+efforts: [
+
 ![TutorCruncher Graph](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/tutorcruncher-graph.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
-graph.jpg) A screenshot from the TutorCruncher Dashboard[/caption] ** What
-subject to teach? ** There is no point offering GCSE tuition if you're not
-going to offer the right subjects. In my experience, Maths and English have
-been the top two subjects on a parent’s wishlist. I guess it's because these
-two subjects (again according to statistics) are the hardest GCSE subjects to
-pass. As of September 2015, students who fail their GCSE Maths and English
-will continue to study these subjects until the age of 18. Hence, providing a
-bigger opportunity for tutors. Make sure you offer GCSE Maths or/and English
-in your tutoring business. Another subject you could offer is GCSE Science as
-this subject is compulsory until the age of 16. Note, to teach a subject at
-GCSE level, you must (in my opinion) achieve at least a grade A in that chosen
+graph.jpg)
+
+A screenshot from the TutorCruncher Dashboard ** What subject to
+teach? ** There is no point offering GCSE tuition if you're not going to offer
+the right subjects. In my experience, Maths and English have been the top two
+subjects on a parent’s wishlist. I guess it's because these two subjects
+(again according to statistics) are the hardest GCSE subjects to pass. As of
+September 2015, students who fail their GCSE Maths and English will continue
+to study these subjects until the age of 18. Hence, providing a bigger
+opportunity for tutors. Make sure you offer GCSE Maths or/and English in your
+tutoring business. Another subject you could offer is GCSE Science as this
+subject is compulsory until the age of 16. Note, to teach a subject at GCSE
+level, you must (in my opinion) achieve at least a grade A in that chosen
 subject. So, if you would like to offer GCSE maths tuition, you (or your
 tutor) must have an 'A' grade at this level. 
 
