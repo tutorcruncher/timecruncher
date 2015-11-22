@@ -8,7 +8,7 @@ telephone: "1483312593"
 email: ""
 website: "http://tutordoctor-surrey.co.uk/"
 address: ""
-map_address: ", United Kingdom"
+map_address: ""
 description: "TutorDoctor-Guildford TutorCruncher Company Profile"
 categories: company
 ---

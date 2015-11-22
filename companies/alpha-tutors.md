@@ -8,7 +8,7 @@ telephone: "0844 567 1454"
 email: ""
 website: "http://www.alphatutors.co.uk/"
 address: ""
-map_address: ", United Kingdom"
+map_address: ""
 description: "Alpha tutors TutorCruncher Company Profile"
 categories: company
 ---

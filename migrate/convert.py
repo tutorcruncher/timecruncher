@@ -118,7 +118,7 @@ telephone: "{telephone}"
 email: "{email}"
 website: "{website}"
 address: "{address}"
-map_address: "{address}, United Kingdom"
+map_address: "{map_address}"
 description: "{title} TutorCruncher Company Profile"
 categories: company
 ---
@@ -151,6 +151,7 @@ categories: company
                 telephone=get_next_by_name(soup, 'telephone') or '',
                 website=get_next_by_name(soup, 'web-site') or '',
                 address=address or '',
+                map_address='{}, United Kingdom'.format(address) if address else '',
                 content=get_description(soup) or '',
             )
             text = template.format(**data)

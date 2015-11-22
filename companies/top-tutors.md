@@ -8,7 +8,7 @@ telephone: "0208 3492148"
 email: "top.tutors@btconnect.com"
 website: "http://www.toptutors.co.uk/"
 address: ""
-map_address: ", United Kingdom"
+map_address: ""
 description: "Top Tutors TutorCruncher Company Profile"
 categories: company
 ---

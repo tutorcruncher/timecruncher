@@ -5,8 +5,7 @@
   </div>
 
   <div>
-    <div class="map-overlay" onClick="style.pointerEvents='none'"></div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19870.213790046575!2d-0.14633393519593246!3d51.49896467826006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876052138e03c3f%3A0x2ca9888d0df701dd!2s8+Lower+Grosvenor+Pl%2C+London+SW1W%2C+UK!5e0!3m2!1sen!2suk!4v1448028981582" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <div id="map"></div>
   </div>
   <div class="container">
     <div class="row top-margin-40">
@@ -16,3 +15,19 @@
     </div>
   </div>
 </section>
+<script>
+  function init_map() {
+    var pos = {lat: 51.498146, lng: -0.144880};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: pos,
+      scrollwheel: false,
+      zoom: 12
+    });
+    new google.maps.Marker({
+        map: map,
+        position: pos,
+        title: 'TutorCruncher'
+    });
+  }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWaPGLG--T9LU2sWVkz_8l3YqudOHn8iQ&callback=init_map"></script>

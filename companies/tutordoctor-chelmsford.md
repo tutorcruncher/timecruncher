@@ -8,7 +8,7 @@ telephone: "1245526326"
 email: ""
 website: "http://www.tutordoctorchelmsford.co.uk/"
 address: ""
-map_address: ", United Kingdom"
+map_address: ""
 description: "TutorDoctor-Chelmsford TutorCruncher Company Profile"
 categories: company
 ---

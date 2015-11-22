@@ -8,7 +8,7 @@ telephone: "01978 716 997"
 email: "admin@tutordoctor.co.uk"
 website: "http://www.tutordoctor.co.uk/"
 address: ""
-map_address: ", United Kingdom"
+map_address: ""
 description: "Tutor Doctor TutorCruncher Company Profile"
 categories: company
 ---

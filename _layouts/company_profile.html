@@ -5,7 +5,7 @@ layout: page
   <header>
     <h1>{{ page.title }}</h1>
     <aside class="text-muted">
-      TutorCruncher Tutoring Directory
+      TutorCruncher Company Profile
     </aside>
   </header>
   <div class="row">
@@ -45,9 +45,11 @@ layout: page
           </address>
         </dd>
       </dl>
+      {% if page.map_address != '' %}
       <div class="map-container">
         <div id="company-map"></div>
       </div>
+      {% endif %}
     </div>
   </div>
 </article>
@@ -64,7 +66,7 @@ layout: page
           scrollwheel: false,
           zoom: 8
         });
-        var marker = new google.maps.Marker({
+        new google.maps.Marker({
             map: map,
             position: pos,
             title: '{{ page.title }}'
