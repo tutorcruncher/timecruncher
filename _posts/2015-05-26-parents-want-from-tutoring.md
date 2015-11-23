@@ -11,7 +11,6 @@ and how companies can meet those expectations.
 
 ### Regular Contact
 
-
 Understandably, parents want to maintain regular contact with their child’s
 tutoring company. Parents like to receive regular updates and progress reports
 on how their child is progressing. As a tutoring business, you should consider
@@ -25,10 +24,7 @@ their child’s progress.
 Tutors](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/IMG_9214-300x300.jpg)
 
-
-
 ### Well-Trained Tutors
-
 
 Parents who use tutoring companies expect the tutors to be suitably qualified,
 have an up-to-date DBS certificate and to have undergone some form of
@@ -41,7 +37,6 @@ training opportunities, you’ll ensure that your tutors stay ahead of the game
 and offer the best possible service to students. 
 
 ### Good Customer Service
-
 
 This should come as standard but one thing that all parents expect from a
 tutoring company is [ good customer service
@@ -60,10 +55,7 @@ throughout your organisation to maintain a high standard of service.
 Improving](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/IMG_8904-300x300.jpg)
 
-
-
 ### To see Students Improve
-
 
 Perhaps the most important point on the list is progress. All parents want to
 see their child’s grades improving as a result of private tutoring. It’s

@@ -7,20 +7,18 @@ permalink: tuition-centre-software
 
 ![software](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-417880_640-300x280.jpg)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-417880_640.jpg)
 
-You’ve probably heard about
+](http://www.tutorcruncher.com/wp-
+content/uploads/2014/12/software-417880_640.jpg) You’ve probably heard about
 online accounting software that enables you to take care of your books.
 Software like KashFlow, Sage and ClearBooks all offer some great accounting
 features but you’re running a tutoring agency, so what you need is software
 that’s been designed specifically with your needs in mind. Here’s what tuition
 centre software can do for your agency that other accounting software can’t.
 
-
 ### Manage Tutor, Parent and Pupil Profiles
 
- Our tuition centre software
+Our tuition centre software
 makes your administration much more manageable. Our software enables your
 tutors to update their own profiles, apply for jobs, plan their own lessons
 and claim their own expenses. They can also create timesheets after every
@@ -31,10 +29,9 @@ parents to keep up to date with their children’s progress through accessing
 reports via our online portal. What’s more, parents can also see their child’s
 study schedule and pay any outstanding invoices using the same access point.
 
-
 ### Invoicing and Payroll
 
- Okay, so most accounting software offers invoicing
+Okay, so most accounting software offers invoicing
 and payroll facilities, but how many cater specifically to the needs of
 tutoring agencies? Our tuition centre software splits timesheets into
 individual parts and enables agencies to keep track of everyone who needs to

@@ -13,18 +13,18 @@ strived to perfect the system, making it as effective and business friendly as
 possible.  Below is an overview of the main features of the system, guaranteed
 to speed up any agency's organisational tasks.
 
-  * Cloud Based 
-  * Tutor CRM and Registration Management 
-  * Client database/CRM 
-  * Pupil CRM/database 
-  * Live Jobs Board for Available work 
-  * Time sheets 
-  * Lesson Reports 
-  * Invoice and Credit Management 
-  * Credit Card payments 
-  * VAT on Commission only 
-  * Financial Reporting 
-  * Mobile Apps for Tutors and Clients 
+* Cloud Based 
+* Tutor CRM and Registration Management 
+* Client database/CRM 
+* Pupil CRM/database 
+* Live Jobs Board for Available work 
+* Time sheets 
+* Lesson Reports 
+* Invoice and Credit Management 
+* Credit Card payments 
+* VAT on Commission only 
+* Financial Reporting 
+* Mobile Apps for Tutors and Clients 
 We have a simple monthly fee with no long contracts. Do get in touch if you or
 anyone else would like a full demonstration of the software or to trial it in
 your own office. Do get in touch if you would like a full demonstration of the

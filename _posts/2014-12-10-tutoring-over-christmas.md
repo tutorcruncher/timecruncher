@@ -17,10 +17,9 @@ to drop off a little. Not surprisingly, as a [ tutor agency director
 you might find yourself with a little bit more time on your hands than usual.
 We suggest you take advantage of the Christmas drop off in the following ways:
 
-
 ### Tidy up Paperwork
 
- With so much admin to keep on top of throughout the
+With so much admin to keep on top of throughout the
 year, it’s easy to put off seemingly less important tasks until the end of the
 year. Well, now is the time to attend to those tax returns, pay those
 outstanding invoices and generally make sure that all your finances are up to
@@ -31,7 +30,7 @@ holidays.
 
 ### Create your Marketing Strategy for the New Year
 
- For any
+For any
 business, December is a time for reflection, for calculating your growth and
 for patting yourself on the back for a job well done. However, it’s also a
 time for looking ahead and deciding what your [ marketing strategy
@@ -46,7 +45,7 @@ success.
 
 ### Consider a Recruitment Drive
 
- Did you know that Monday the 7  th
+Did you know that Monday the 7  th
 January is the day that most people start looking for new jobs? For a tutoring
 agency, this could be good and bad in equal measure. Some tutors who work part
 time may decide that it’s time for them to move on, whereas others may find
@@ -59,7 +58,7 @@ enough staff to meet with demand.
 
 ### Plan New Year Promotions
 
- January is
+January is
 the perfect time to run promotions to encourage an uptake of your services.
 Take advantage of a slow December by planning how you’re going to attract new
 business in the New Year. What special offers and promotions will you run? It

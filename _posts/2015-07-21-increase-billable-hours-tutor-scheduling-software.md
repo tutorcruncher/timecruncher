@@ -17,11 +17,9 @@ billable hours you can charge for.
 Graph](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
 graph.jpg)
 
-
-
 ### Find Key Information Quicker
 
- With TutorCruncher’s [ data
+With TutorCruncher’s [ data
 reporting tool for tutors ](http://www.tutorcruncher.com/features/records-and-
 analytics/) , you can access any element of your data instantly. Our software
 enables tutoring businesses to generate graphical reports, so you can keep a
@@ -34,10 +32,9 @@ and easily, which in turn allows you to spend more time increasing your
 billable hours. With our data reporting features, you can keep up-to-date with
 student and tutor records and lesson transactions all at the click of a mouse.
 
-
 ### Automate Your Emails to Parents, Students and Tutors
 
- If you’re still
+If you’re still
 sending individual emails to parents every time student reports come around,
 you need to change your strategy. With our [ automated email system for
 tutoring companies ](http://www.tutorcruncher.com/features/automated-emails/)
@@ -61,7 +58,7 @@ invoices.
 
 ### Get Things Done Before You Reach the Office
 
- Who says that you
+Who says that you
 should wait until you reach the office before you start taking care of your
 admin? With the [ TutorCruncher Mobile App
 ](http://www.tutorcruncher.com/features/mobile-app/) , you can access any of

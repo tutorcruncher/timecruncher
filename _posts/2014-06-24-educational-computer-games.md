@@ -7,7 +7,7 @@ Arguing that
 
 ### computer and video games
 
- are extremely useful tools to
+are extremely useful tools to
 stimulate learning processes may still be considered hazardous. But new
 learners, grown up with technology at their fingertips, are deeply different
 from those from the past.
@@ -32,11 +32,9 @@ offering a new type of experiential learning based on the ability of students
 to sink in and apply their knowledge to situations that simulate the real
 world.
 
-
-
 ### Educational computer and video games
 
- are able to grab the attention of the learner and, at the same time, provide them with the tools for understanding the consequences of their actions. 
+are able to grab the attention of the learner and, at the same time, provide them with the tools for understanding the consequences of their actions. 
 
 When dived into an effective game-based learning environment, students are
 free to make mistakes without risks and learn the right way to do things
@@ -60,8 +58,11 @@ computer games in their classrooms, in order to better engage their students.
 With the help of the infographic below, we’ve tried to summarize some of the
 key findings of the research.
 
-[ ![tutor-cruncher-digital-game-learning](http://www.tutorcruncher.com/wp-
+[
+
+![tutor-cruncher-digital-game-learning](http://www.tutorcruncher.com/wp-
 content/uploads/2014/06/tutor-cruncher-digital-game-learning-559x1024.jpg)
+
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutor-cruncher-
 digital-game-learning.jpg)
 

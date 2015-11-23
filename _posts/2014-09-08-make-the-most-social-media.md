@@ -20,7 +20,7 @@ goals.
 
 ### Go Mobile
 
- Make sure that you have your [ social media profiles
+Make sure that you have your [ social media profiles
 connected to your mobile devices
 ](http://www.tutorcruncher.com/features/mobile-app/) . Download all the apps
 you’ll need to post updates to all the platforms you’re active on. By being

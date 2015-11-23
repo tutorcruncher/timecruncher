@@ -13,10 +13,9 @@ business. [
 
 ![Tutor Scheduling](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/calendar_screenshot-1024x537.png)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/06/calendar_screenshot.png)
 
-Tutor Scheduling ** It Can
+](http://www.tutorcruncher.com/wp-
+content/uploads/2015/06/calendar_screenshot.png) Tutor Scheduling ** It Can
 Reduce your Administration Time ** As your business grows, so does your
 administration, which means that you end up spending more time completing
 paperwork than actually bringing in new business. With tutor scheduling
@@ -38,7 +37,7 @@ anywhere.
 
 ### It Can Help Organise your Workload
 
- If you’re still using
+If you’re still using
 spreadsheets and post-it notes to organise your daily tasks, then you’ll be
 amazed at how much more effective tutor scheduling software is. With multi-
 directional timesheets, automated emails and seamless integration with
@@ -51,7 +50,7 @@ computer first.
 
 ### It Can Help you Grow your Business
 
- In a nutshell, tutor
+In a nutshell, tutor
 scheduling software can help you grow your business by reducing admin time,
 streamlining operations and organising workloads. With all these elements
 taken care of from within one platform, you’ll find yourself with more time on

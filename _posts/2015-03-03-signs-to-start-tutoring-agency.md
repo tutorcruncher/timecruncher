@@ -18,13 +18,13 @@ any spaces left, you only have
 
 ### three
 
- options:
+options:
 
-  1. You gracefully turn students away and don’t hear from them again 
+1. You gracefully turn students away and don’t hear from them again 
 
-  2. You pass them details of other tutors who operate in your area 
+2. You pass them details of other tutors who operate in your area 
 
-  3. You set up a business model where you earn a commission on every lesson you organize between st  udents and other tutors 
+3. You set up a business model where you earn a commission on every lesson you organize between st  udents and other tutors 
 
 The third option is certainly the one with most to offer you in terms of
 financial reward. Without really being aware of it, you may have already
@@ -48,9 +48,8 @@ Your Students are Achieving Their Goals
 
 ![tutoring1](http://www.tutorcruncher.com/wp-
 content/uploads/2015/03/tutoring1-150x150.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg)
 
-If
+](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg) If
 your students are consistently achieving the grades they hoped for, then you
 know that you’re doing your job well. Having confidence in your own ability
 can often act  as the catalyst for starting new business ventures. If you

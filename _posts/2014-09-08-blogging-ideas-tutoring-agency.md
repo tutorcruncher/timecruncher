@@ -18,7 +18,7 @@ content/uploads/2014/09/images.jpg)
 
 ### Comment on New Developments
 
- Private
+Private
 tutoring is always in the news, which gives you the perfect opportunity to
 give your opinion on the latest industry trends. By reporting on tutoring
 issues, your company will come to be seen as an authority in the marketplace,
@@ -45,7 +45,7 @@ content/uploads/2014/09/faq.png)
 
 ### Review New Technology
 
- If you want your
+If you want your
 tutoring agency to be on the cutting edge of education then you need to [
 adapt to using new technology ](http://www.tutorcruncher.com/technology-
 teaching-ideas-for-private-tutors/) . Why not be the first in the industry to
@@ -56,7 +56,6 @@ stream of topics to write about as the tech industry is constantly evolving
 and new products are being launched every week. 
 
 ### Create ‘Best of’ Lists
-
 
 Compiling your [ favourite resources in one place
 ](http://www.tutorcruncher.com/great-tutoring-websites-and-blogs/) can form

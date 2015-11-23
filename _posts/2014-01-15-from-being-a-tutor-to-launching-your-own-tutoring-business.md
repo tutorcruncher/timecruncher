@@ -7,7 +7,7 @@ Going from being a tutor to
 
 ### launching your own tutoring business
 
- is a
+is a
 big step to make. Here’s a post for those who are still hesitating.
 
 ### What to Expect in the Future?

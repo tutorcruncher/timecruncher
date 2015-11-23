@@ -35,7 +35,7 @@ your decision.
 
 ### Online Reviews
 
- Over the last few years, there’s been a
+Over the last few years, there’s been a
 significant increase in the number of online review websites. These sites can
 provide you with some useful, unbiased insights into what learning centres are
 really like. Google reviews are a particularly useful source of information as

@@ -28,7 +28,7 @@ stress levels are kept to a minimum.
 
 ### **
 
- Easy Access to Financial Data **
+Easy Access to Financial Data **
 The problem with keeping manual records of your finances is that it’s
 difficult to see the bigger picture when there’s so much work involved at
 ground level. If all your time is spent chasing up student and parent invoices
@@ -43,7 +43,6 @@ business, you need to know what your current financial situation is like first
 before you can make projections for the future. 
 
 ### Time and Cost Savings
-
 
 The amount of time that goes into manually recording financial data soon
 becomes overwhelming, even for the most mathematically-minded business owners.

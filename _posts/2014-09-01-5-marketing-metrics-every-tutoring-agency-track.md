@@ -10,11 +10,7 @@ tuition-agency/) , but what if your efforts could be better served in other
 areas? How would you know? These are our top 5 marketing metrics that we
 believe every tutoring agency should track using analytics software.
 
-
-
 ### Website Traffic
-
-
 
 The amount of visitors you receive to your website can provide your agency
 with some interesting insights as to how your web pages are performing. For
@@ -24,11 +20,7 @@ sales pages for maximum conversion. Tracking your website traffic can be a
 great way to measure the success of your online marketing campaigns,
 particularly if you’ve recently paid for advertising.
 
-
-
 ### Content Effectiveness
-
-
 
 Content is the reason that people use the internet and that’s why it’s so
 important that your [ tutoring ](http://www.tutorcruncher.com/tutoring-agency-
@@ -39,11 +31,7 @@ providing you with insights about which keywords your content has been
 successfully optimized for and can help you decide which search terms you need
 to focus on more.
 
-
-
 ### Demographics
-
-
 
 Knowing exactly who your customers are is essential for any tutoring agency.
 Your analytics software will be able to tell you the typical age and gender of
@@ -53,11 +41,7 @@ years old, which may or may not be your target audience. This will also have
 some bearing on the tone of your website copy and other navigational aspects
 of your website.
 
-
-
 ### Geographics
-
-
 
 Unless your tutoring agency is national, you’ll want your website to rank well
 in searches relating to your local area. By tracking the geographics of your
@@ -68,11 +52,7 @@ For more information on how to improve your local search presence, read our
 post on [ how to optimize your ](http://www.tutorcruncher.com/local-seo-
 marketing-your-tuition-agency-online/) website for local search.
 
-
-
 ### Referrals
-
-
 
 Keeping tabs on other websites that refer traffic to you can provide you with
 useful information about how valued your services are. If you receive

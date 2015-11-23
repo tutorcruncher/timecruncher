@@ -20,8 +20,8 @@ def strip_square_brackets(text):
 
 
 def correct_md(text):
-    # put all images on seperate lines
-    text = re.sub(' (!\[.*?\)) ', r'\n\n\1\n\n', text, 0, re.DOTALL)
+    # put all images on separate lines
+    text = re.sub(' (!\[.*?\))', r'\n\n\1\n\n', text, 0, re.DOTALL)
 
     # remove bold from titles
     for _ in range(4):
@@ -33,10 +33,15 @@ def correct_md(text):
 
     # bold seems to mainly be headers
     text = re.sub('\*\* (.*?) \*\*', r'\n\n### \1\n\n', text)
+
+    # remove excessive new lines
+    text = re.sub('^ +', '', text, 0, re.MULTILINE)
+    text = re.sub('\n{3,}', '\n\n', text)
     return text
 
 
 def clean(text):
+    text = strip_lang(text)
     html = strip_square_brackets(text)
     soup = BeautifulSoup(html, 'html.parser')
     html = soup.prettify()

@@ -7,9 +7,8 @@ permalink: safe-tutoring-agency
 
 ![tutoring-matters](http://www.tutorcruncher.com/wp-
 content/uploads/2014/04/IMG_9263-1024x614.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg)
 
-One of
+](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) One of
 the most essential things that students look for when choosing a tutoring
 agency is how safe the learning environment is. As an agency, it’s your
 responsibility to ensure that you provide [ a safe, secure place for students
@@ -19,7 +18,7 @@ ticked.
 
 ### General Office Safety
 
- All the principles of office safety apply
+All the principles of office safety apply
 to tutoring agencies too. Make sure that all new students are given a tour of
 your agency where you make them aware of all the emergency exits and fire
 evacuation points. You should also ensure that students are trained in how to
@@ -31,7 +30,7 @@ avoid the potential for accidents.
 
 ### DBS Checks for Tutors
 
- Students and
+Students and
 parents will want to know that the tutors you employ have been appropriately
 vetted. A good tutoring agency will ensure that each of their staff undergoes
 a Disclosure and Barring Service Check (DBS) as part of their [ recruitment
@@ -42,7 +41,7 @@ background checks.
 
 ### Data Protection
 
- Because tutoring agencies work with
+Because tutoring agencies work with
 young people, staff should be aware of your agency’s data protection policy.
 They should be aware of what information they are able to disclose to parents
 and other organisations and which disclosures would be considered a breach of
@@ -54,7 +53,7 @@ guardian’s consent.
 
 ### Create Open Spaces
 
- Students are more likely to feel
+Students are more likely to feel
 secure [ studying in an open plan environment
 ](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
 where they are in full view of the rest of the office. It can be a good idea

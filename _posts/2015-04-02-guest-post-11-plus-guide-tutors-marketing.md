@@ -6,11 +6,7 @@ permalink: guest-post-11-plus-guide-tutors-marketing
 Now and again Tutorcruncher invites other providers in the tuition space to
 write a guest blog. Here we have the 11 plus guide's guest blog post:
 
-
-
 ### Successful tutors make use of free marketing channels  . 
-
-
 
 Any tutor will find that they are operating in an increasingly competitive
 market with more and more tutors opening for business every day. In such an

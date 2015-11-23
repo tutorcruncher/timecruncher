@@ -20,12 +20,11 @@ the  11  plus  Kent Test exam. Speakers confirmed:
 
 ### Peter Read:
 
- Retired
+Retired
 grammar school headteacher. Education Consultant and writer on education in
 Kent, focusing on school admissions and appeals. 
 
 ### Matthew Bartlett:
-
 
 Headteacher ** ** Dover Grammar School for Girls; Outstanding OFSTED;
 regularly one of the highest Kent grammar performers at GCSE and A Level **
@@ -35,7 +34,7 @@ transfer and appeals.
 
 ### Marylyn Atkins
 
- : Retired grammar school
+: Retired grammar school
 headteacher; independent appeal panel administrator having organised appeals
 at six Kent grammar schools. The  Conference  will take place a week after the
 second ‘new’ Kent Test results are published and there will be some

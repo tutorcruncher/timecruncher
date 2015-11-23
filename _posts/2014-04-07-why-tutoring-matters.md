@@ -7,7 +7,7 @@ In London, 43% of students use a
 
 ### private tutor
 
- , but knowing when to
+, but knowing when to
 approach a tuition agency for extra help can be tricky. There’s no doubt that
 one-to-one support can increase confidence and boost a student’s grades but
 timing is often a major factor in getting the most out of private tuition.
@@ -27,7 +27,7 @@ a
 
 ### tutoring agency
 
- can really lift a student’s grades as having a
+can really lift a student’s grades as having a
 structured study programme in place ensures commitment to learning. For many
 students, falling grades is often due to a lack of confidence in asking
 questions in the classroom. Having a tutor’s full attention throughout the
@@ -81,7 +81,7 @@ often employ
 
 ### tutors who are specialists
 
- in working with children with
+in working with children with
 learning disabilities. Having a tutor who understands which techniques work
 best with students can be invaluable in helping them get back on track with
 their studies and enjoying their lessons more. Tutoring can really make a
@@ -89,9 +89,8 @@ difference. [
 
 ![tutoring-matters](http://www.tutorcruncher.com/wp-
 content/uploads/2014/04/IMG_9263-1024x614.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg)
 
-_ Have
+](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) _ Have
 you ever used a private tuition agency? When did you know it was time to seek
 extra help? How did extra tutoring help with your confidence levels? We’d like
 to hear about your experiences. _

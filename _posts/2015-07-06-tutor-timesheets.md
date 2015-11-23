@@ -31,7 +31,7 @@ students and parents.
 
 ### Tutors are Paid On Time
 
- As a self-employed tutor,
+As a self-employed tutor,
 chasing up invoices on your own takes a significant amount of time that could
 better spent on other tasks. With tutor timesheets, your agency can arrange
 payments straight away, relieving some of the stress on your tutors. With
@@ -50,7 +50,6 @@ maintain cash flow, paying third parties on time also encourages them to
 continue to help grow your business. 
 
 ### Work out What Tax your Agency Owes
-
 
 Calculating your tax doesn’t need to be complicated. As most tutoring agency
 models go, you’re only required to pay tax on any profit you make from

@@ -20,7 +20,6 @@ your services.
 
 ### Pay Extra Special Attention to your Customer Service
 
-
 There’s no better form of marketing in the tutoring industry than a positive
 review from an existing student or parent. Remember, students are one of the
 most influential marketing groups out there, so if you do a good job and help
@@ -40,10 +39,9 @@ Other businesses in your community can also be a good source of referrals. Why
 not approach some companies who may be able to provide you with new customers
 and ask if you can take out some advertising space in their newsletter? ** **
 
-
 ### Create a Buzz Around Your Business
 
- Carefully thought out PR can be a
+Carefully thought out PR can be a
 great way to get people talking about your business. Perhaps your tutoring
 agency has had a record year of students achieving A’s in their exams? Or
 maybe you’ve recently recruited a new employee with an impressive track

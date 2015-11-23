@@ -13,10 +13,9 @@ should focus on. [
 
 ![Goal's Target](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/target-418917_640.jpg)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/target-418917_640.jpg)
 
-** Share Your Goals with Others
+](http://www.tutorcruncher.com/wp-
+content/uploads/2015/01/target-418917_640.jpg) ** Share Your Goals with Others
 ** Whether you have a specific plan in place or not, sharing your goals for
 the coming year will benefit your business in several ways. First of all,
 it’ll motivate your tutors to help you succeed in your quest and it’ll show
@@ -29,7 +28,7 @@ you achieve them.
 
 ### Improve Your Internal and External Communication
 
- Every
+Every
 business can benefit from improved communication. How will you ensure that
 your tutors and students are kept updated with your announcements this year?
 Perhaps it’s time to embrace that new technology or [ social media platform
@@ -42,7 +41,7 @@ Year.
 
 ### Talk Less, Listen More
 
- With all the challenges of running a
+With all the challenges of running a
 tutoring agency, it can be easy to forget to listen to what others are saying
 around you. Asking your tutors and students for feedback on how your agency is
 performing in terms of customer and staff satisfaction as well as market

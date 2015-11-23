@@ -4,8 +4,10 @@
     var $anchor = $(this);
     var id = $anchor.attr('href');
     id = id.replace(/^\//, '');
+    var el = $(id);
+    var top_adjust = el.data('top-adjust') || 0;
     $('html, body').stop().animate({
-      scrollTop: $(id).offset().top
+      scrollTop: $(id).offset().top - top_adjust
     }, 1250, 'easeInOutExpo');
     event.preventDefault();
   });

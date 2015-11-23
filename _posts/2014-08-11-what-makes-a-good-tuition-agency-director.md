@@ -13,7 +13,7 @@ director.
 
 ### Good Leadership Skills
 
- As an agency director, you need to have
+As an agency director, you need to have
 good leadership skills in order to grow your business. You’ll need to be a
 team player but you’ll also need to be able to call the shots when it matters.
 A good director is able to delegate tasks to the right people and make
@@ -26,7 +26,7 @@ term.
 
 ### The Ability to Solve Problems
 
- Any manager will tell you that a
+Any manager will tell you that a
 huge part of their job is to come up with ways to solve problems. As a
 tutoring agency director, you’ll be faced with many hurdles throughout your
 career so you’ll need to be resourceful enough to come up with practical
@@ -38,7 +38,7 @@ of influencing the outcome of a problem.
 
 ### A Clear Communicator
 
- As your
+As your
 tuition agency grows, you’ll need to take on more staff, which means that
 there’ll be more people in the supply chain of your business. It’s therefore
 important that you have [ clear communication skills
@@ -50,7 +50,7 @@ networking and meeting new people.
 
 ### A Passion for the Agency
 
- Perhaps the
+Perhaps the
 most important quality that makes a good director is passion. If you love what
 you do then other people will recognise your enthusiasm and take an interest
 in your business. Having a positive attitude and staying optimistic can help

@@ -22,11 +22,9 @@ how you can do the same:
 
 ### W
 
- 
-
 ### hat level to teach?
 
- The first question
+The first question
 that should cross your mind is what levels you're going to cater for? KS2?
 GCSE? A-Level? or a mixture of all 3? To answer this question, I've provided
 some statistics below on the most sought-after level. These statistics are
@@ -46,10 +44,9 @@ efforts: [
 
 ![TutorCruncher Graph](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/tutorcruncher-graph.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
-graph.jpg)
 
-A screenshot from the TutorCruncher Dashboard ** What subject to
+](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
+graph.jpg) A screenshot from the TutorCruncher Dashboard ** What subject to
 teach? ** There is no point offering GCSE tuition if you're not going to offer
 the right subjects. In my experience, Maths and English have been the top two
 subjects on a parent’s wishlist. I guess it's because these two subjects
@@ -65,7 +62,7 @@ tutor) must have an 'A' grade at this level.
 
 ### Premises
 
- You can operate
+You can operate
 from home (this is what I do) or you can visit the student's residence. If you
 choose to operate from home, make sure you have a clean, spacious environment,
 which is free from distractions. Also, introduce the tutee and his/her parents
@@ -90,7 +87,6 @@ going forward. For thousands of [ other free resources
 would highly recommend [ www.tes.co.uk ](http://www.tes.co.uk) . 
 
 ### Contact
-
 
 How are parents going to contact you? You can use your personal mobile phone
 but I tend to keep my personal line and business line separate. Insert a new

@@ -22,57 +22,55 @@ innovative school intranet solutions. These improvements keep the door firmly
 wide open to enable paper examinations to move into the digital age. **
 Advantages **
 
-  * Provides examination authors with a high level of 
+* Provides examination authors with a high level of 
 
 ### flexibility
 
- via online. 
-  * Auto-marking means that results are 
+via online. 
+* Auto-marking means that results are 
 
 ### available on demand
 
- . 
-  * Saves examination boards and senior schools considerable amounts of 
+. 
+* Saves examination boards and senior schools considerable amounts of 
 
 ### time
 
- . 
-  * Examinations available in 
+. 
+* Examinations available in 
 
 ### colour
 
- with attractive look and feel. 
-  * 
+with attractive look and feel. 
+* 
 
 ### No requirement
 
- for dispatch of examination papers, which is both expensive and open to risk. 
-  * Works on 
+for dispatch of examination papers, which is both expensive and open to risk. 
+* Works on 
 
 ### PC, Mac, Chromebook, Android and iPad tablets
 
-
-  * 
+* 
 
 ### Detailed insight
 
- into the results, offering comparative data analysis and breakdown. 
+into the results, offering comparative data analysis and breakdown. 
 In September 2013, the ISEB agreed to trial an online 
 
 ### Mandarin Chinese
-
 
 Level 1 specimen examination in preparatory schools. The Board has
 subsequently agreed to run Mandarin Chinese as a 
 
 ### live
 
- exam this academic
+exam this academic
 year and to provide 
 
 ### Spanish
 
- as an online Level 1 specimen examination to
+as an online Level 1 specimen examination to
 further gauge interest amongst prep school pupils and teachers. Please see [
 www.e2focus.com/ISEB ](http://www.e2focus.com/ISEB) for examples of the auto-
 marking examination papers available to date. _ “The online trial versions of

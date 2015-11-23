@@ -11,7 +11,7 @@ group of businesses.
 
 ### Tailor Made Learning
 
- Independent agencies often
+Independent agencies often
 specialise in specific subjects that schools and franchises don’t. They’re
 often more flexible and more able to adapt their lessons to suit the learning
 preferences of individual students. Every student has their own learning style
@@ -22,7 +22,7 @@ children.
 
 ### Investment in Resources
 
- You’ll normally find that independent
+You’ll normally find that independent
 tutoring agencies continually invest in their business, which means that they
 keep up to date with the [ latest educational materials and technologies
 ](http://www.tutorcruncher.com/technology-teaching-ideas-for-private-tutors/
@@ -47,7 +47,7 @@ Learning" ) .
 
 ### Creating a Community
 
- Independent agencies create a
+Independent agencies create a
 learning community in a way that other, larger organisations don’t. Because
 most independent agencies don’t have the budget for TV ads or other forms of
 mass advertising, they rely on word of mouth within a local area. It’s because

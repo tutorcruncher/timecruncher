@@ -21,7 +21,7 @@ news stories individually.
 
 ### Don’t Just Write Any Old Content
 
- If you want
+If you want
 to establish your blog as the best in the industry, then you need to become a
 thought leader. To do this, you need to [ write blog posts that are forward-
 thinking ](http://www.tutorcruncher.com/blogging-ideas-tutoring-agency/) and
@@ -41,7 +41,7 @@ content early on in the post.
 
 ### Use Images That Tell a Story
 
- The most
+The most
 intriguing images that you can use on your blog posts are ones that tell a
 story. It can be difficult to think outside the box and find an image that
 intrigues your readers, especially in the tutoring industry, but if you can

@@ -7,6 +7,7 @@ permalink: benefits-using-independent-learning-centre
 
 ![tutoring-session](http://www.tutorcruncher.com/wp-
 content/uploads/2014/06/tutoring-session.jpg)
+
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutoring-
 session.jpg)
 
@@ -18,9 +19,7 @@ tailoring lessons to students’ specific needs.
 A Tailored Approach to Tutoring 
 
 [ Independent learning centres ](http://www.tutorcruncher.com/students-use-
-learning-centres/)
-
-have more flexibility in their approach to teaching. Tutors
+learning-centres/) have more flexibility in their approach to teaching. Tutors
 are often given the scope to adopt their own learning styles, which means that
 students can be better matched to a tutor who suits their way of working. At
 the beginning of a block of lessons, tutors will normally create a tailored
@@ -72,11 +71,9 @@ be involved in. Using an independent learning centre means widening your
 educational circle, which broadens your horizons and motivates you to achieve
 your academic goals.
 
-
-
 ### **
 
- **
+**
 
 _ What do you see as being the biggest advantages to using an independent
 learning centre? What other benefits are there to using an agency that’s part

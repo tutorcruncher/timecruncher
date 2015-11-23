@@ -21,7 +21,6 @@ according to market trends and recent developments.
 
 ### Marketing Materials
 
-
 Whether most of your marketing is done online or offline, you need to keep
 your marketing materials up to date. In the online world, this means ensuring
 that your website is regularly updated with new content and its design is in
@@ -34,7 +33,6 @@ agency as best they can.
 
 ### Face to Face Networking￼
 
-
 ![](http://www.exordo.com/blog/wp-content/uploads/2013/11/networking.jpg) In
 the digital world, it can be easy to ignore one to one networking in favour of
 social media or email. However, face to face relationship building still plays
@@ -46,7 +44,7 @@ of them about the services you offer.
 
 ### Email Marketing
 
- [ Promoting your
+[ Promoting your
 tutoring services by email ](http://www.tutorcruncher.com/email-marketing-
 mistakes/) remains one of the most effective ways of generating new business
 for your agency. Let your distribution list know about any offers or
@@ -58,7 +56,7 @@ there to help.
 
 ### Social Media Marketing
 
- Definitely one of the core
+Definitely one of the core
 strategies of any [ tutoring agency’s marketing strategy
 ](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) , social media can play a significant role in the way you

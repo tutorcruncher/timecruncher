@@ -24,12 +24,12 @@ who supply the tuition not the company its self. The following are some steps
 you might take towards establishing your company as an agency and make it
 clear that your company is not the supplier of tuition services.
 
-  * the tutor is registered as self employed 
-  * the tutor contracts directly with the client to provide his/her services to that client 
-  * Any contracts make it clear that your companies role is limited to introducing the tutor to the client 
-  * You invoice clients on behalf of the tutors using the TutorCruncher paperwork layout and calculations. 
-  * You invoice the tutors for a commission (plus VAT depending on your turn over) rather than invoicing the clients for tuition 
-  * You do not control the tutors supply of tuition services ie you don't supply materials, you don't tell them what time to teach where etc 
+* the tutor is registered as self employed 
+* the tutor contracts directly with the client to provide his/her services to that client 
+* Any contracts make it clear that your companies role is limited to introducing the tutor to the client 
+* You invoice clients on behalf of the tutors using the TutorCruncher paperwork layout and calculations. 
+* You invoice the tutors for a commission (plus VAT depending on your turn over) rather than invoicing the clients for tuition 
+* You do not control the tutors supply of tuition services ie you don't supply materials, you don't tell them what time to teach where etc 
 HMRC will not give a general ruling due the subtlties of how you manage your
 tutors and whether they deem that you control them or not. However if you do
 manage to maintain a position as an agent for tutors then you could save

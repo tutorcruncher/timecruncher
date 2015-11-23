@@ -25,7 +25,7 @@ month and that was your goal ask yourself
 
 ### why
 
- and do something about it.
+and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
 group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
 id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your

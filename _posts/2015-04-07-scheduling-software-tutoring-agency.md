@@ -21,7 +21,6 @@ most convenient.
 
 ### You’ll Save Money Using a Dedicated Management System
 
-
 Very few new agencies anticipate how much administration is involved in [
 running a tutoring business ](http://www.tutorcruncher.com/news-and-
 updates/how-to-start-a-tutoring-business/) and as it grows, the admin only
@@ -43,7 +42,7 @@ business to grow next.
 
 ### You’ll Reduce Admin Errors
 
- From experience, we
+From experience, we
 know that even the smallest of inaccuracies can completely throw an
 administration process, which can mean cancelling invoices and lessons and
 starting completely from scratch. However, with [ work scheduling software

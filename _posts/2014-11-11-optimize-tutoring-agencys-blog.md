@@ -43,7 +43,7 @@ social platforms.
 
 ### Use Effective Calls to Action
 
- There’s a reason that
+There’s a reason that
 your tutoring agency has its own blog. Above all else, it’s to promote your
 services. It’s important to make sure that your blog posts have calls to
 action that signpost your readers to get in touch with you or to ask questions

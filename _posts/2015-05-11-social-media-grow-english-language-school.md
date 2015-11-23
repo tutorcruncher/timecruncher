@@ -11,11 +11,7 @@ _ For many, social media is still an untapped resource just waiting to be
 unleashed as part of an effective marketing strategy. Here is our guide to
 some of the ways social media can help grow your English language school. _
 
-
-
 ### 1\. Improve your Business and Student Outreach
-
-
 
 The larger the audience you have on social media, the more potential students
 and business partners you can reach. By sharing valuable content with your
@@ -34,11 +30,7 @@ Make a point of seeking out your competition on social media and see who’s
 following them. By requesting friendships with your competitors’ followers,
 you may be able to convert them to using your services instead.
 
-
-
 ### 2\. Increase Click Throughs to Targeted Pages
-
-
 
 Social media can be a great way to drive traffic to a particular page on your
 website and promote your latest course or product. Having more traffic to your

@@ -14,9 +14,12 @@ planned opening has reignited the conversation about the methods currently in
 use for determining ability at age 10/11. As tutoring agencies know, you can
 tutor to improve performance for most exams - whether the 11+, GCSEs, common
 entrance, or the American SAT exam - which was specifically designed to
-measure ability, rather than knowledge.  [ ![Artists' impression of the
+measure ability, rather than knowledge.  [
+
+![Artists' impression of the
 grammar school to open in Sevenoaks in September
 2017](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
+
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
 Artists' impression of the grammar school to open in Sevenoaks in September
 2017  The exact requirements for the 11+ already differ from county to county,

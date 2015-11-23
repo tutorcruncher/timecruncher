@@ -23,7 +23,7 @@ one will be best.
 
 ### Not Asking the Correct Questions
 
- When speaking with a
+When speaking with a
 tuition agency by phone or in person, many people don’t ask the correct
 questions to determine whether the agency will be suitable. You’ll want to
 know how many students attend the agency, how do they [ select their tutors
@@ -35,7 +35,7 @@ your thoughts before the conversation.
 
 ### Not Asking for a Guided Tour
 
- One
+One
 way of knowing for sure, whether an agency is right for you, is to arrange for
 a tour of the company. Sometimes, tuition agencies arrange open days and
 invite people to take a look around the facility. However, if there are none

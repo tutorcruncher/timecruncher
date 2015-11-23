@@ -7,10 +7,9 @@ permalink: mobile-responsive-tutoring-website
 
 ![Mobile responsive web](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/Responsive_Web_Design.png)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/Responsive_Web_Design.png)
 
-In the UK, [ 7 out of 10
+](http://www.tutorcruncher.com/wp-
+content/uploads/2015/01/Responsive_Web_Design.png) In the UK, [ 7 out of 10
 people now own a smartphone ](http://mobilemarketingmagazine.com/7-10-people-
 uk-now-own-smartphone/) . That’s a whole lot of people who could be searching
 for your tutoring agency on their mobiles. In order to increase your traffic,
@@ -28,7 +27,7 @@ that they’re looking for.
 
 ### It Improves SEO
 
- If you want to consistently
+If you want to consistently
 rank well in search engines, your website needs to mobile responsive. In 2012,
 Google suggested that all websites should be mobile friendly and since then,
 mobile responsiveness has started to play a bigger part in Google’s ranking
@@ -44,7 +43,6 @@ for information elsewhere.
 
 ### Mobile Websites Have Better Conversion Rates
 
-
 When people visit your agency’s website, you need to direct them to fulfil a
 specific call to action, whether it be to make contact with you or sign up to
 a newsletter. If your website is mobile responsive, people are [ 67% more
@@ -55,7 +53,7 @@ them into potential leads.
 
 ### Future Proofing for Your Agency
 
- The way in
+The way in
 which people access information online is changing. At the moment, smartphones
 and tablets are the latest trend for finding information online but in the
 future, other devices will be introduced into the market that you’ll want your

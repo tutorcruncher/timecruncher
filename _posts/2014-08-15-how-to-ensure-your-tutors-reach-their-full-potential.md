@@ -13,7 +13,7 @@ ability.
 
 ### Know Their Skills
 
- Every tutor has a different educational
+Every tutor has a different educational
 background and so has a different skillset. As an agency directory, it’s your
 job to get to know your tutors and understand where their strengths lie. Your
 tutors should be able to [ teach to their strengths
@@ -23,10 +23,9 @@ having teaching guidelines in place can help steer the structure of lessons,
 giving tutors a certain amount of free reign in how they approach lessons will
 ensure they reach their full potential and get the best out of their students.
 
-
 ### Empower Your Tutors
 
- Tutors who feel appreciated at work and are given
+Tutors who feel appreciated at work and are given
 praise where it’s due, perform better. Sometimes all it takes to ensure your
 tutors perform to their best ability is some encouragement and confirmation
 that what they’re already doing is working well. If there are any aspects of

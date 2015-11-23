@@ -7,29 +7,25 @@ permalink: tutorcrunch
 
 ![Hello my name is TutorCruncher](http://www.tutorcruncher.com/wp-
 content/uploads/2014/11/Hello_my_name_is_by_Kubah-300x186.png)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/Hello_my_name_is_by_Kubah.png)
 
-One of the major things
+](http://www.tutorcruncher.com/wp-
+content/uploads/2014/11/Hello_my_name_is_by_Kubah.png) One of the major things
 that entrepreneurs often get hung up on when they are starting a tutoring
 business is what to call their company. Here at TutorCruncher (or ‘Tutor
 Crunch’ as we’re often called) we have spoken to hundreds of people at this
 stage and have seen how they have progressed after finally settling on a name.
 
-
 ### **
 
- ** The key points to think about are search engine optimisation
+** The key points to think about are search engine optimisation
 (SEO), brand message and ethos, how easily it rolls off the tongue and the
 geographic and cultural restriction or focus. 
 
 ### **
 
- 
-
 ### ** SEO
 
- SEO is
+SEO is
 becoming one of the major focuses of marketing a business. Online is the
 number one way in which people will discover your business and therefore you
 need to make it as easy as possible for them to do this. Therefore, it can be
@@ -41,12 +37,9 @@ against and the general SERP landscape around your future brand name.
 
 ### **
 
-
-
-
 ### ** Brand Message and Ethos
 
- Your company’s name is your first opportunity
+Your company’s name is your first opportunity
 to market yourself to your clients, and your tutors. Therefore you should try
 to communicate your personality, professionalism, friendliness and even price
 within the name. Something like ‘Belgravia Tuition’ sounds slightly higher end
@@ -55,11 +48,9 @@ hear then names.
 
 ### **
 
- 
-
 ### ** Rolling off the Tongue
 
- We decided on
+We decided on
 TutorCruncher as the name for our business a few years ago, after not too much
 thought and we felt it sounded friendly and easy to say. Now we are often
 referred to as TutorCrunch, which on reflection, perhaps sounds better, and
@@ -68,7 +59,7 @@ should become Tutor Crunch in the future.
 
 ### **
 
- ** ** geographic
+** ** geographic
 restriction/focus ** With any business, specialisation and focus can be
 extremely beneficial and advised. It is important, however, to not restrict
 yourself from future expansion with your name. You can spend years building a

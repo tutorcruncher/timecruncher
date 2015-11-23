@@ -54,15 +54,14 @@ to develop and
 
 ### grow your tutoring business outreach
 
- , but it’s
+, but it’s
 definitely worth it in terms of the advantages you will be able to get in the
 long term. And by following our few tips, it can be easier. [
 
 ![grow-your-
 tutoring-business-outreach](http://www.tutorcruncher.com/wp-
 content/uploads/2014/06/IMG_9505-1024x371.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2014/06/IMG_9505.jpg)
 
-_ If
+](http://www.tutorcruncher.com/wp-content/uploads/2014/06/IMG_9505.jpg) _ If
 you have any other idea for growing your tutoring business outreach, please
 share it below. We'd love to hear your opinion. _

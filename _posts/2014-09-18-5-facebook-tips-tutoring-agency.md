@@ -24,7 +24,7 @@ valuable industry resource.
 
 ### The Shorter the Better
 
- People don’t like to
+People don’t like to
 read long posts on Facebook. [ The average person has 338 friends on Facebook,
 ](http://www.pewresearch.org/fact-tank/2014/02/03/6-new-facts-about-facebook/)
 so their social feeds are constantly updating, they want short, digestible
@@ -41,7 +41,7 @@ strategy-for-tutoring-businesses/)
 
 ### Focus on Engagement Not Selling
 
- Using
+Using
 Facebook for business is all about engaging with people. Of course, you’ll
 want to increase your online presence and pick up some extra business as a
 result of using the platform, but to do so; you need to be more strategic. Try
@@ -53,7 +53,7 @@ you can help.
 
 ### It’s All About Customer Service
 
- A lot of your agency’s
+A lot of your agency’s
 students and tutors will turn to Facebook to ask you quick questions about
 your services, so you should be ready to respond to enquiries quickly. Think
 of your Facebook strategy as an extension of your customer service strategy

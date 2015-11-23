@@ -38,7 +38,7 @@ relationship building?
 
 ### Misleading or Spam Subject Lines
 
- An often
+An often
 overlooked aspectof email marketing is the subject line. Statistically, only
 20% of people read past an email subject line, so you need to ensure that what
 you write grabs people’s attention. And of course, you’ll want to ensure that

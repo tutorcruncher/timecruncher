@@ -12,7 +12,7 @@ media.
 
 ### Consider Your Own Social Media Use
 
- Have a think about when you’re
+Have a think about when you’re
 most likely to use [ social media platforms
 ](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 when you’re just browsing. Do you check your profiles first thing in the
@@ -26,7 +26,7 @@ this might impact when you post your updates.
 
 ### Trial and Error
 
- There’s
+There’s
 nothing wrong in experimenting with your posting times. The time of day, day
 of the week and type of content can all have a bearing on how many shares your
 posts receive and sometimes the only way of predicting the success of your
@@ -41,7 +41,7 @@ using software like HootSuite and Buffer.
 
 ### Third Party Research
 
- Of
+Of
 course, you could go down the route of exploring what other companies have
 discovered about the best times to post your social media updates. According
 to content experts [ Add This ](http://www.addthis.com/blog/2014/04/03/whens-

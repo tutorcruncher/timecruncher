@@ -7,10 +7,9 @@ permalink: twitter-for-tutoring-agencies
 
 ![Twitter ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/twitter-245460_640-300x300.jpg)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/twitter-245460_640.jpg)
 
-[ Twitter is one of the most
+](http://www.tutorcruncher.com/wp-
+content/uploads/2014/12/twitter-245460_640.jpg) [ Twitter is one of the most
 influential ](http://www.tutorcruncher.com/digital-resources-tuition-agency/)
 [ social netwo ](http://www.tutorcruncher.com/digital-resources-tuition-
 agency/) [ rks ](http://www.tutorcruncher.com/digital-resources-tuition-
@@ -20,7 +19,6 @@ your audience is much more targeted. Here is our advice on how you can make
 the most of Twitter as a tutoring agency. 
 
 ### Complete Your Full Profile
-
 
 You’ll want to ensure that people associate your profile with your brand. This
 means having a good profile photo, tagline and background image. Consider
@@ -44,7 +42,7 @@ by retweeting their best posts.
 
 ### Time Your Tweets
 
- We’ve previously
+We’ve previously
 written about [ how to know when to post on social media
 ](http://www.tutorcruncher.com/know-post-social-media-2/) before on this blog,
 and there are a few anomalies you should consider when deciding when to share

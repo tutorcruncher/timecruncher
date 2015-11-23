@@ -11,7 +11,7 @@ here:
 
 ### Complements School Work
 
- One of the advantages of [ using a
+One of the advantages of [ using a
 tutoring agency from the beginning of a school year
 ](http://www.tutorcruncher.com/why-tutoring-matters/) is that tutors can plan
 lessons to coincide with a student’s work in school. This enables students to
@@ -25,7 +25,7 @@ schools, to this purpose.
 
 ### Reinforces Good Learning Habits
 
- The longer a
+The longer a
 student goes on practising bad study habits, the more difficult they become to
 change. By using a tuition agency from the start of the year, a tutor will be
 able to identify bad study habits as they happen and put relevant skills in
@@ -37,7 +37,7 @@ addressed accordingly.
 
 ### Encourages a Regular Study Schedule
 
- One of the
+One of the
 most difficult things about studying is [ time management
 ](http://www.tutorcruncher.com/time-management-techniques/) . Many students go
 through their school career without having worked to a study schedule and this
@@ -51,7 +51,7 @@ their studies.
 
 ### Good Preparation for Exams
 
- Many schools don’t set aside
+Many schools don’t set aside
 enough time for exam preparation and this is reflected in the fact that
 tuition agencies are at their busiest during exam time. However, using an
 agency at the beginning of a school year will ensure that when exam time

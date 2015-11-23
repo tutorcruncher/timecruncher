@@ -26,7 +26,6 @@ result in your agency being quoted in articles.
 
 ### Interview Market Leaders
 
-
 Who are the current authorities in the tutoring industry? Once you’ve
 identified them, why not ask if they’d like to be interviewed for your site?
 By including insights from other agencies on your blog, you’ll show your
@@ -46,8 +45,6 @@ email campaign reminding people that you’re here to help provide advice about
 the industry. 
 
 ### Be Innovative
-
-
 
 ![3Drenderingofashoppingbasketconnectedtoaco
 mputermouse](http://www.tutorcruncher.com/wp-content/uploads/2014/09/3drenderi

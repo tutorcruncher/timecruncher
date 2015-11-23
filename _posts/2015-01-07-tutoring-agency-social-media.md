@@ -7,10 +7,9 @@ permalink: tutoring-agency-social-media
 
 ![Social Media](http://www.tutorcruncher.com/wp-
 content/uploads/2015/01/social_media_marketing_2015_11.png)
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/social_media_marketing_2015_11.png)
 
-According to
+](http://www.tutorcruncher.com/wp-
+content/uploads/2015/01/social_media_marketing_2015_11.png) According to
 social media experts [ Social Media Examiner
 ](http://www.socialmediaexaminer.com/social-media-marketing-predictions-
 for-2015/) , big changes are afoot in the world of social media this year.
@@ -36,7 +35,7 @@ agency in 2015.
 
 ### Claim your Local Search Listing
 
- The way in which Google
+The way in which Google
 displays your business in their search engine is changing. If you haven’t
 already created a Google Places page for your business then we advise you do
 so this year. When people search for tutoring agencies in your area using
@@ -49,7 +48,7 @@ online/) .
 
 ### Personally Interact
 
- It’s been a long time coming but [ the
+It’s been a long time coming but [ the
 future of social media ](http://www.tutorcruncher.com/social-media-strategy-
 for-tutoring-businesses/) looks to be about out personalisation. Does your
 agency actively share other people’s content? Or do you spend all day linking

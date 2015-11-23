@@ -49,7 +49,7 @@ helps you identify gaps in the market.
 
 ### Create a Marketing Team
 
- Creating
+Creating
 a team of marketers doesn’t necessarily mean hugely increasing your overheads.
 Nowadays, more and more tutoring agencies outsource their marketing to
 freelancers or marketing agencies to help them achieve their goals. Having a

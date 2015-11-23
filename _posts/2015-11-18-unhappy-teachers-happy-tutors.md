@@ -23,6 +23,8 @@ practical experience and exposure to the system they are attempting to master.
 Whether they are looking for a change of pace and lifestyle, to cut back on
 hours, stress, or just achieve more independence and a significantly higher
 hourly rate, it is clear why making the transition from classroom teaching to
-tutoring would seem attractive.  ![tutor-working-
+tutoring would seem attractive. 
+
+![tutor-working-
 smiling-c](http://www.tutorcruncher.com/wp-content/uploads/2015/11/tutor-
 working-smiling-c.jpg)

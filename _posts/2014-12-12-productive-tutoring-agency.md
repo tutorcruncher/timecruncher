@@ -23,7 +23,7 @@ approach.
 
 ### Hire a Second Pair of Eyes
 
- Sometimes there just aren’t enough
+Sometimes there just aren’t enough
 hours in the day and with all the responsibilities that go with being a [
 tutoring agency owner ](http://www.tutorcruncher.com/what-makes-a-good-
 tuition-agency-director/) , you can’t afford not to spend your days
@@ -35,7 +35,7 @@ staff willing to step up the career ladder.
 
 ### Use Email Sparingly
 
- Other
+Other
 than social media, [ checking emails ](http://www.tutorcruncher.com/email-
 marketing-mistakes/) is one of the most distracting aspects of running a
 business. It can be tempting to keep your inbox open all day and deal with
@@ -45,10 +45,9 @@ complete a task effectively, you need to give it your full concentration and
 checking your email every 10 minutes only takes away from the task at hand.
 Try checking your email at certain times every day so you get into a routine.
 
-
 ### Focus on ROI
 
- One of the best ways to ensure your productivity is to ask
+One of the best ways to ensure your productivity is to ask
 yourself why you’re doing each task. If your answer is because it’ll grow your
 business in the long term, then great, but if your answer deviates from this
 at all, they task may not be worthwhile. Every business owner needs to

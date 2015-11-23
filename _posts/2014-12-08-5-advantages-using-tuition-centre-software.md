@@ -41,7 +41,6 @@ adjust to fit the way you like to operate.
 
 ### Readily Available Support
 
-
 Using tuition centre software means there’s less of a learning curve for
 users. The software you use will already have benefited from several upgrades,
 fixes and improvements, meaning the product you buy will guarantee high

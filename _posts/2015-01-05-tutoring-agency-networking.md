@@ -22,7 +22,7 @@ interest in the services you offer.
 
 ### Useful Advice and Information
 
- There
+There
 are some questions that Google simply can’t answer and that’s where face to
 face conversation really has its advantages. Making new contacts gives you the
 opportunity to ask for advice and get solutions instantly. Even if people
@@ -36,7 +36,7 @@ from talking to people face to face.
 
 ### Improve Communication
 
- The internet
+The internet
 is a huge place and with so much noise, people don’t always get the
 opportunity to ask the questions they want to ask about a business because of
 all the distractions online. By meeting people in person, you instantly [

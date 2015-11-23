@@ -16,7 +16,7 @@ thrive and grow in a dynamic working environment.
 
 ### The Role:
 
- sales
+sales
 associate will have daily responsibility for existing clients as well as
 working hard to find new clients. You will be learning on your feet as well as
 on the road, visiting clients around London, the UK and the world. **
@@ -31,7 +31,7 @@ clients
 
 ### What will you need to apply:
 
- We are looking for as much as a
+We are looking for as much as a
 state of mind than any degrees. A degree helps however and intent to be the
 best Software sales person would be a highly desired quality. An expectation
 to work in a commercial environment motivated by great team work and
