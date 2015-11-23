@@ -13,7 +13,7 @@ services is worthwhile.
 
 Identify Shared Goals and Values
 
-As a  [ tutoring company  ](http://www.tutorcruncher.com/tutor-agencies/) ,
+As a  [tutoring company](http://www.tutorcruncher.com/tutor-agencies/) ,
 it’s important that you appeal to your student’s goals. What do you offer that
 they want? By getting to know your students better, you’ll have a greater
 understanding of what they hope to gain from using your tutoring services.
@@ -23,10 +23,10 @@ raising grades at A level, or do you specialise in helping students gain
 places to top universities? Whatever message your business delivers, it’s
 important that students connect with what you offer.
 
-Be Transparent
+### Be Transparent
 
-According to  [ Fortune Magazine
-](http://fortune.com/2015/07/15/millennials/) , millennials value brand
+According to  [Fortune Magazine](http://fortune.com/2015/07/15/millennials/), 
+millennials value brand
 transparency more than anything else.  The more open and honest you can be
 about your tutoring business, they more likely students will be to continue
 using your services. Sharing your success stories, staff restructuring plans
@@ -36,7 +36,7 @@ marketing is the lifeblood of the tutoring industry and the more positive
 reviews you get from staff, students and tutors, the more likely you’ll be to
 hold on to your existing students.
 
-Offer Constructive Feedback
+### Offer Constructive Feedback
 
 It’s important that students feel that they have learning points to work on
 after lessons. By encouraging your tutors to offer constructive feedback,
@@ -46,12 +46,13 @@ room for improvement. By identifying one or two areas for students to work on,
 they’ll feel that they are gaining something from their lessons without
 feeling overwhelmed by the amount of work ahead.
 
-Make  Lessons Personal
+### Make  Lessons Personal
 
 One of the biggest advantages that private tutoring has over classroom
 learning is that students have a tutor’s attention throughout the whole
-lesson. By encouraging your tutors to  [ plan lessons in advance
-](http://www.tutorcruncher.com/tutor-scheduling-software/) and tailor them to
+lesson. By encouraging your tutors to
+[plan lessons in advance](http://www.tutorcruncher.com/tutor-scheduling-software/)
+and tailor them to
 students’ individual needs, students will feel that attention is being paid to
 their learning.
 

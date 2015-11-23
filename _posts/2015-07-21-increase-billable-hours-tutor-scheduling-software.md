@@ -13,8 +13,7 @@ streamlines the whole business of running a tutoring agency, which frees up
 your time to focus on building your client-base and increasing the number of
 billable hours you can charge for.
 
-![TutorCruncher
-Graph](/img/blogs/tutorcruncher-graph.jpg)
+![TutorCruncher Graph](/img/blogs/tutorcruncher-graph.jpg)
 
 ### Find Key Information Quicker
 
@@ -35,8 +34,8 @@ student and tutor records and lesson transactions all at the click of a mouse.
 
 If you’re still
 sending individual emails to parents every time student reports come around,
-you need to change your strategy. With our [ automated email system for
-tutoring companies ](http://www.tutorcruncher.com/features/automated-emails/)
+you need to change your strategy. With our 
+[automated email system for tutoring companies](http://www.tutorcruncher.com/features/automated-emails/)
 , you can send feedback to parents automatically when the time comes. All you
 need to do is have the email pre-prepared for sending whenever you want. Our
 system enables you to save and update emails as you go, so that you don’t need
@@ -48,9 +47,9 @@ you’re sending a mailer to everyone in your distribution list. ** Save Time
 Sending Student and Parent Invoices ** One of the most time-consuming tasks
 that a tutoring business faces is invoicing. Not just sending them but chasing
 up unpaid ones too. With TutorCruncher, our software enables you to
-automatically [ generate invoices and payslips
-](http://www.tutorcruncher.com/features/automated-invoicing-payroll/) whenever
-you need to. Hours are logged automatically into our invoices, which means
+automatically 
+[generate invoices and payslips](http://www.tutorcruncher.com/features/automated-invoicing-payroll/) 
+whenever you need to. Hours are logged automatically into our invoices, which means
 that you can save hours transferring data from timesheets over to your
 invoices. Our system also allows you to add your own company branding to your
 invoices. 
@@ -59,8 +58,9 @@ invoices.
 
 Who says that you
 should wait until you reach the office before you start taking care of your
-admin? With the [ TutorCruncher Mobile App
-](http://www.tutorcruncher.com/features/mobile-app/) , you can access any of
+admin? With the 
+[TutorCruncher Mobile App](http://www.tutorcruncher.com/features/mobile-app/),
+you can access any of
 the features of our software on the go. We’ve built our scheduling software so
 that everything is fully cloud-based and works on all platforms including
 desktops, laptops, tablets and mobiles. The only thing that you need to access

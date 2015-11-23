@@ -18,23 +18,20 @@ from the new Kent  11  plus  , together with tests for admission for some
 local grammar schools. Bringing together schools, teachers and stakeholders in
 the  11  plus  Kent Test exam. Speakers confirmed: 
 
-### Peter Read:
+### Peter Read: Retired grammar school headteacher. 
 
-Retired
-grammar school headteacher. Education Consultant and writer on education in
+Education Consultant and writer on education in
 Kent, focusing on school admissions and appeals. 
 
-### Matthew Bartlett:
+### Matthew Bartlett: Headteacher 
 
-Headteacher ** ** Dover Grammar School for Girls; Outstanding OFSTED;
+Dover Grammar School for Girls; Outstanding OFSTED;
 regularly one of the highest Kent grammar performers at GCSE and A Level **
 Emma Hickling: ** Headteacher, Kingswood Primary School, Maidstone, and
 Executive Head of two other primary schools with wide experience of secondary
 transfer and appeals. 
 
-### Marylyn Atkins
-
-: Retired grammar school
+### Marylyn Atkins : Retired grammar school
 headteacher; independent appeal panel administrator having organised appeals
 at six Kent grammar schools. The  Conference  will take place a week after the
 second ‘new’ Kent Test results are published and there will be some

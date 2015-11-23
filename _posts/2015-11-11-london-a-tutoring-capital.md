@@ -14,11 +14,9 @@ ago, these statistics tell a different story as in London at least, tutoring
 has well and truly entered the mainstream, no longer the exclusive domain of
 the rich and/or privately educated. [
 
-![library-books-
-cardiff](/img/blogs/library-books-cardiff.jpg)
+![library-books-cardiff](/img/blogs/library-books-cardiff.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/11/library-books-cardiff.jpg) Rather than being
+Rather than being
 denigrated as the facilitators of educational advantage, tutors are the
 quickest growing group of education providers in the UK. What was once over
 seen as post-university stop-gap, tutoring is emerging as a legitimate, if

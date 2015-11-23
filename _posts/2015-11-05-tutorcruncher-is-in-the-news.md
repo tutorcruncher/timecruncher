@@ -21,7 +21,8 @@ Tutorcruncher that optimize and automate administrative tasks will prove
 invaluable as they allow those running tutoring companies to give their energy
 not to the everyday operation of their business, but reaching new markets,
 developing new products, and tackling the inevitable challenges that await in
-the sector. The article can be accessed at [ http://estateandmanor.com/would-
-warren-buffett-buy-a-tuition-agency/ ](http://estateandmanor.com/would-warren-
-buffett-buy-a-tuition-agency/)
+the sector. 
+
+The article can be accessed at [ http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/ ](http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/)
+
 ![warrenbuffett-620x400](/img/blogs/warrenbuffett-620x400.jpg)

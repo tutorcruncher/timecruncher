@@ -25,5 +25,4 @@ hours, stress, or just achieve more independence and a significantly higher
 hourly rate, it is clear why making the transition from classroom teaching to
 tutoring would seem attractive. 
 
-![tutor-working-
-smiling-c](/img/blogs/tutor-working-smiling-c.jpg)
+![tutor-working-smiling-c](/img/blogs/tutor-working-smiling-c.jpg)

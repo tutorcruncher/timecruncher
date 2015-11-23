@@ -3,8 +3,8 @@ layout: post
 title:  "What do Parents Want from a Tutoring Company?"
 permalink: parents-want-from-tutoring
 ---
-Every student has different needs and every parent uses the [ services of a
-tutoring company ](http://www.tutorcruncher.com/) for different reasons.
+Every student has different needs and every parent uses the [services of a
+tutoring company](http://www.tutorcruncher.com/) for different reasons.
 However, there are some constants that parents expect as standard from a
 tutoring business. This post explores what parents want from private tutoring
 and how companies can meet those expectations. 
@@ -20,8 +20,7 @@ business’s routine will ensure that all parents are kept up to date with how
 lessons are going and it gives them the opportunity to ask any questions about
 their child’s progress.
 
-![Well Trained
-Tutors](/img/blogs/IMG_9214-300x300.jpg)
+![Well Trained Tutors](/img/blogs/IMG_9214-300x300.jpg)
 
 ### Well-Trained Tutors
 
@@ -38,8 +37,8 @@ and offer the best possible service to students.
 ### Good Customer Service
 
 This should come as standard but one thing that all parents expect from a
-tutoring company is [ good customer service
-](http://www.tutorcruncher.com/tutoring-business-customer-service/) . This
+tutoring company is [good customer service](http://www.tutorcruncher.com/tutoring-business-customer-service/) . 
+This
 means having staff on hand in your office, who can speak with parents and
 provide useful information. Businesses should also have someone to cover
 reception duties and handle phone calls and emails. People also expect
@@ -50,8 +49,7 @@ your tutors to adopt the same procedures as your other staff. It’s important
 that your business has a documented customer service policy that can be shared
 throughout your organisation to maintain a high standard of service.
 
-![Student
-Improving](/img/blogs/IMG_8904-300x300.jpg)
+![Student Improving](/img/blogs/IMG_8904-300x300.jpg)
 
 ### To see Students Improve
 
@@ -65,4 +63,4 @@ tutor will be able to identify a student’s strengths and weaknesses quickly,
 and create an effective study programme that will help them achieve their
 goals. _ In your experience, what do parents want the most from tutoring
 companies? Which of the points above do you see as being the most important?
-We welcome your thoughts below. _
+We welcome your thoughts below.
