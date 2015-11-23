@@ -153,8 +153,13 @@ def images():
 def get_next_by_name(soup, name, element='span'):
     spans = list(soup.find_all(element))
     for i, span in enumerate(spans):
-        if span.string.lower() == name.lower():
-            return spans[i + 1].string
+        if isinstance(span.string, str) and span.string.lower() == name.lower():
+            try:
+                vspan = spans[i + 1]
+            except IndexError:
+                pass
+            else:
+                return vspan.string
 
 
 def get_description(soup):
@@ -198,8 +203,12 @@ categories: company
                 'email': ''
             }
             text = row['post_content']
+
+            # remove back quotes
+            text = text.replace('``', '')
+
             m = re.search('\[vc_gmaps address="(.*?)"', text, re.DOTALL)
-            address = m and m.groups()[0]
+            address = m and m.groups()[0].strip()
             text = strip_lang(text)
             html = strip_square_brackets(text)
             soup = BeautifulSoup(html, 'html.parser')
