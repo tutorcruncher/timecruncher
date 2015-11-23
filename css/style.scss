@@ -121,6 +121,31 @@ section {
   padding-bottom: 120px;
 }
 
+.container.post {
+  max-width: 730px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  .post-body, .post-preview {
+    font-size: 17px;
+  }
+  .post-body {
+    .img-holder {
+      text-align: center;
+      border: 1px solid #eee;
+      border-radius: 4px;
+      padding: 4px;
+      img {
+        border-radius: 5px;
+      }
+    }
+    .full-width {
+      border: 1px solid #ccc;
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
+
 .feature {
   height: 230px;
 }

@@ -2,6 +2,10 @@
 layout: post
 title:  "London, a tutoring capital?"
 permalink: london-a-tutoring-capital
+author: Mark
+tags:
+  - London
+  - Tutoring
 ---
 A recent poll produced by the social mobility charity The Sutton Trust
 reported that in London, almost half (44%) of children received some private
@@ -12,9 +16,11 @@ for well-off parents to buy additional educational advantages - an extra
 safety net for “Tim Nice But Dim”. Whilst this may have been true 10 years
 ago, these statistics tell a different story as in London at least, tutoring
 has well and truly entered the mainstream, no longer the exclusive domain of
-the rich and/or privately educated. [
+the rich and/or privately educated.
 
-![library-books-cardiff](/img/blogs/library-books-cardiff.jpg)
+<div class="img-holder full-width">
+  <img src="/img/blogs/library-books-cardiff.jpg" alt="Tutoring Capital London"/>
+</div>
 
 Rather than being
 denigrated as the facilitators of educational advantage, tutors are the
@@ -28,7 +34,9 @@ own skills and materials along the way, but sharing and accumulating these
 skills is not straightforward. Agencies play a crucial role in this as they
 will enhance their competitivity by pooling their tutor’s resources and
 fostering excellence among their tutors. It is not hard to imagine soon there
-will be systems for professional organization and accreditation.  Groups like
+will be systems for professional organization and accreditation.
+
+Groups like
 Tutor Voices (  a new democratic national network for educators in the
 Further, Adult, Community and Skills sector)  are helping give FE tutors who
 work independently a voice in the education sector at large - private tutors

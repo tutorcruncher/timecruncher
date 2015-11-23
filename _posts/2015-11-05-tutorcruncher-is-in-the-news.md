@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  "Tutorcruncher is in the news!"
+title:  "TutorCruncher is in the news!"
 permalink: tutorcruncher-is-in-the-news
+author: Mark
+tags:
+  - Investment
+  - TutorCruncher
+  - Tutoring Industry
 ---
 Tutor to the rich and famous, Thomas Murr has written a thought-provoking
 article for estate and manor magazine about the long term prospects for both
@@ -11,6 +16,7 @@ be easy to start and then run with low overheads. However, these things are
 equally true for your rivals and other looking to start out in the industry.
 While at the moment it seems that the number of tutoring companies is
 increasing all the time, so is the apparent demand for tutoring services.
+
 Logic dictates that this cannot carry on in perpetuity and saturation in the
 market will be reached, potentially quite soon. Then the future for tutoring
 agencies is likely to be characterized by intense price and service-driven
@@ -25,4 +31,6 @@ the sector.
 
 The article can be accessed at [ http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/ ](http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/)
 
-![warrenbuffett-620x400](/img/blogs/warrenbuffett-620x400.jpg)
+<div class="img-holder full-width">
+  <img src="/img/blogs/warrenbuffett-620x400.jpg" alt="Warren Buffett"/>
+</div>

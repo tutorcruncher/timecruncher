@@ -2,6 +2,9 @@
 layout: post
 title:  "11 Plus Kent Test Conference"
 permalink: 11-plus-kent-test-conference
+tags:
+  - Grammar Schools
+  - 11 Plus
 ---
 Here at Tutorcruncher we are excited to affiliated with the National
 Tutoring conference. They are organising the 11 plus Kent Test Conference on
