@@ -11,11 +11,9 @@ order to make the most of your tutoring agency’s work scheduling software. _
 
 [
 
-![Scheduling Software](http://www.tutorcruncher.com/wp-
-content/uploads/2015/04/unnamed-1.jpg)
+![Scheduling Software](/img/blogs/unnamed-1.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/04/unnamed-1.jpg)
+](/img/blogs/unnamed-1.jpg)
 
 ### Update Your Schedule Ahead of Time
 

@@ -11,9 +11,9 @@ through mobile platforms.  _
 
 ** Cloud Storage [
 
-![cloud](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif)
+![cloud](/img/blogs/cloud.gif)
 
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/cloud.gif) **
+](/img/blogs/cloud.gif) **
 
 Is your tutoring agency still using spreadsheets to keep track of your
 administration? If so, you could save yourself hours of inputting functions
@@ -39,8 +39,7 @@ your agency have mobile devices on hand for students to use as they need them?
 
 [
 
-![online-learning-XSmall](http://www.tutorcruncher.com/wp-
-content/uploads/2015/03/online-learning-XSmall.jpg)
+![online-learning-XSmall](/img/blogs/online-learning-XSmall.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/online-learning-
 XSmall.jpg) Online learning in education is really starting to take off with

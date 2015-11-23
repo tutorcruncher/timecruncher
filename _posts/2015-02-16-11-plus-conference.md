@@ -9,8 +9,7 @@ Conference:
 
 [
 
-![The National Tutoring Conference](http://www.tutorcruncher.com/wp-
-content/uploads/2015/02/20150210_131828-300x169.jpg)
+![The National Tutoring Conference](/img/blogs/20150210_131828-300x169.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/02/20150210_131828.jpg)
 

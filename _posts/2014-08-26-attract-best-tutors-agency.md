@@ -27,11 +27,9 @@ potential tutors to ask questions about your agency.
 
 [
 
-![Popular_Social_Networks](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
+![Popular_Social_Networks](/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
+](/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
 ### Show Them How They Can Make a Difference
 
@@ -58,11 +56,9 @@ to cater for tutors who have this skill set.
 
 [
 
-![e-learning](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/e-learning.jpg)
+![e-learning](/img/blogs/e-learning.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/e-learning.jpg)
+](/img/blogs/e-learning.jpg)
 
 ### Provide Development Opportunities
 

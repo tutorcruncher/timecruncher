@@ -2,3 +2,4 @@ beautifulsoup4
 html2text
 python-dateutil
 click
+aiohttp

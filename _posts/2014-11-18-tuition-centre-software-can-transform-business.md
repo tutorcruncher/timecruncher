@@ -5,11 +5,9 @@ permalink: tuition-centre-software-can-transform-business
 ---
 [
 
-![Paper Desk](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/John_Ellis_at_CERN.jpg)
+![Paper Desk](/img/blogs/John_Ellis_at_CERN.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/John_Ellis_at_CERN.jpg) Using industry standard
+](/img/blogs/John_Ellis_at_CERN.jpg) Using industry standard
 software has many advantages. As well as offering ongoing, unlimited access to
 technical support, tuition centre software can also help your tutoring agency
 solve several problems. Here’s why at TutorCruncher, we believe that tuition

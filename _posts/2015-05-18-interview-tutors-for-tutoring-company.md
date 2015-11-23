@@ -13,8 +13,7 @@ tutors/) _
 
 [
 
-![Interview Tutors](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/IMG_9468-1024x372.jpg)
+![Interview Tutors](/img/blogs/IMG_9468-1024x372.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/IMG_9468.jpg)
 

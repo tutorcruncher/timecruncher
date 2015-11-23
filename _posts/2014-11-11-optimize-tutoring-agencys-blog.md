@@ -6,8 +6,7 @@ permalink: optimize-tutoring-agencys-blog
 In a digital age where everyone’s obsessed with SEO, we often forget to put
 our blog readers’
 
-![ps_overview_engage](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/ps_overview_engage-300x206.jpg)
+![ps_overview_engage](/img/blogs/ps_overview_engage-300x206.jpg)
 
 experiences at the
 forefront of our efforts. How engaged are your [ blog readers

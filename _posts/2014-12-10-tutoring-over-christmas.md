@@ -5,11 +5,9 @@ permalink: tutoring-over-christmas
 ---
 [
 
-![Christmas Dino](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/Christmas-Dino.jpg)
+![Christmas Dino](/img/blogs/Christmas-Dino.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/Christmas-Dino.jpg) The latter weeks of December are
+](/img/blogs/Christmas-Dino.jpg) The latter weeks of December are
 usually among the quieter times for tutoring agencies. As students and staff
 prepare for the festive season, for a few weeks at least, the industry starts
 to drop off a little. Not surprisingly, as a [ tutor agency director

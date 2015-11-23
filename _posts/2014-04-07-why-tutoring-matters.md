@@ -87,8 +87,7 @@ best with students can be invaluable in helping them get back on track with
 their studies and enjoying their lessons more. Tutoring can really make a
 difference. [
 
-![tutoring-matters](http://www.tutorcruncher.com/wp-
-content/uploads/2014/04/IMG_9263-1024x614.jpg)
+![tutoring-matters](/img/blogs/IMG_9263-1024x614.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) _ Have
 you ever used a private tuition agency? When did you know it was time to seek

@@ -14,8 +14,7 @@ your time to focus on building your client-base and increasing the number of
 billable hours you can charge for.
 
 ![TutorCruncher
-Graph](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
-graph.jpg)
+Graph](/img/blogs/tutorcruncher-graph.jpg)
 
 ### Find Key Information Quicker
 

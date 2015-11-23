@@ -13,11 +13,9 @@ improve a student’s grades.
 
 [
 
-![A](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/pen-162124_640.png)
+![A](/img/blogs/pen-162124_640.png)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/pen-162124_640.png)
+](/img/blogs/pen-162124_640.png)
 
 Complement School Work 
 

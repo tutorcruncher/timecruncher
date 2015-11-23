@@ -5,8 +5,7 @@ permalink: software-engineer-internship
 ---
 [
 
-![](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/tutorcruncher_big_logo-300x131.jpg)
+![](/img/blogs/tutorcruncher_big_logo-300x131.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2015/05/tutorcruncher_big_logo.jpg)
@@ -46,8 +45,7 @@ Please send your CV and a short cover letter to:
 
 [
 
-![software engineer internship](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/Screenshot-from-2015-01-06-15-55-59.png)
+![software engineer internship](/img/blogs/Screenshot-from-2015-01-06-15-55-59.png)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/Screenshot-
 from-2015-01-06-15-55-59.png) software engineer internship

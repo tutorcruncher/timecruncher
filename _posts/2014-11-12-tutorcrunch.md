@@ -5,8 +5,7 @@ permalink: tutorcrunch
 ---
 [
 
-![Hello my name is TutorCruncher](http://www.tutorcruncher.com/wp-
-content/uploads/2014/11/Hello_my_name_is_by_Kubah-300x186.png)
+![Hello my name is TutorCruncher](/img/blogs/Hello_my_name_is_by_Kubah-300x186.png)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/11/Hello_my_name_is_by_Kubah.png) One of the major things

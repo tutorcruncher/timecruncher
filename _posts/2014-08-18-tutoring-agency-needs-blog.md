@@ -11,8 +11,7 @@ business/) . It’ll help drive traffic to your site and improve your conversion
 rates too. Here are our top reasons for adding a blog to your agency’s
 website.
 
-![wordpress-blogging](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/wordpress-265132_640.jpg)
+![wordpress-blogging](/img/blogs/wordpress-265132_640.jpg)
 
 ** Improves Your Website’s
 Search Rankings ** By regularly posting articles on your website, you’ll be
@@ -35,8 +34,7 @@ industry in general. By making regular blog posts, you’ll show people that you
 take an active interest in the industry and that your agency is constantly
 innovating and evolving. Remember, people are more likely to use the services
 of a company they trust, and a blog is a great way to establish this.
-![blogging](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/blogging-336376_640.jpg) ** Shows Your Skills and
+![blogging](/img/blogs/blogging-336376_640.jpg) ** Shows Your Skills and
 Expertise ** Before students use your tuition agency, they’ll want to know
 that your company knows what it’s doing. By posting industry-related content
 on your blog, you have the opportunity to show your knowledge and expertise.
@@ -56,8 +54,7 @@ differentiate your agency from your competitors? How is your image different
 from other agencies? These factors can be established through the articles you
 post on your website. Branding is an important part of any business and
 blogging is one of the most effective ways to establish yours.
-![start_blogging](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/image_blog.jpg) In what ways do you think your agency
+![start_blogging](/img/blogs/image_blog.jpg) In what ways do you think your agency
 would benefit from having a blog? Perhaps you already have one? What type of
 posts to do you make? How often do you publish new content? We’d be interested
 to hear what advice you might have for other agencies that have yet to make

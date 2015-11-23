@@ -11,11 +11,9 @@ inspiration for how you’ll [ grow your business this year
 tuition-agency/) , here are 4 marketing goals that we think every agency
 should focus on. [
 
-![Goal's Target](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/target-418917_640.jpg)
+![Goal's Target](/img/blogs/target-418917_640.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/target-418917_640.jpg) ** Share Your Goals with Others
+](/img/blogs/target-418917_640.jpg) ** Share Your Goals with Others
 ** Whether you have a specific plan in place or not, sharing your goals for
 the coming year will benefit your business in several ways. First of all,
 it’ll motivate your tutors to help you succeed in your quest and it’ll show

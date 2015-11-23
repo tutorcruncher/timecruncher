@@ -9,8 +9,7 @@ published the eBook on Amazon and it can be downloaded directly to E-readers.
 
 [
 
-![TutorCruncher ebook](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/TutorCruncher-ebook-300x300.jpg)
+![TutorCruncher ebook](/img/blogs/TutorCruncher-ebook-300x300.jpg)
 
 ](http://www.amazon.co.uk/How-Start-Tutoring-Business-starting-ebook/dp/B00SNP
 QHMO/ref=sr_1_6?ie=UTF8&qid=1422269623&sr=8-6&keywords=how+to+start+a+tutoring

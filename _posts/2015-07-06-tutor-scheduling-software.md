@@ -11,8 +11,7 @@ reducing the ever-growing administration tasks that tutoring businesses face.
 This post will look at how tutor scheduling software can help improve your
 business. [
 
-![Tutor Scheduling](http://www.tutorcruncher.com/wp-
-content/uploads/2015/06/calendar_screenshot-1024x537.png)
+![Tutor Scheduling](/img/blogs/calendar_screenshot-1024x537.png)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/calendar_screenshot.png) Tutor Scheduling ** It Can

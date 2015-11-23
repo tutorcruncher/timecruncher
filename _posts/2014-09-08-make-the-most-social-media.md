@@ -30,8 +30,7 @@ already check your emails during these times, so why not add your social media
 posts into the mix too to ensure that you’re maximising your time.
 
 ![social-
-media-on-mobile-phone](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/social-media-on-mobile-phone-300x300.jpg)
+media-on-mobile-phone](/img/blogs/social-media-on-mobile-phone-300x300.jpg)
 
 ** Automate
 Your Social Media Posts ** There are several different tools out there that

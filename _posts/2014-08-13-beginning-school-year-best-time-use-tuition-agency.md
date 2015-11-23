@@ -61,8 +61,8 @@ without them, good students often fall short. [ A good tutoring agency
 ](http://www.tutorcruncher.com/tuition-agency-ethics/) will focus on exam
 preparation before it’s needed to ensure that students feel fully prepared on
 the day and have the confidence to answer questions in the correct way. [
-![exam](http://www.tutorcruncher.com/wp-content/uploads/2014/08/exam.jpg)
-](http://www.tutorcruncher.com/wp-content/uploads/2014/08/exam.jpg) What do
+![exam](/img/blogs/exam.jpg)
+](/img/blogs/exam.jpg) What do
 you see as being the advantages of using a tutoring agency at the beginning of
 the academic year? How important do you think focusing on study schedules and
 exam preparation is from the beginning of the year? We’d be keen to hear your

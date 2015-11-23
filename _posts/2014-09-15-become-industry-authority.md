@@ -11,8 +11,7 @@ means you’ll attract more business and to help you out, we’ve put together a
 list of actions you can take to become an industry leader. ** Report on
 Industry News
 
-![blog-327074_640](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/blog-327074_640-300x211.jpg)
+![blog-327074_640](/img/blogs/blog-327074_640-300x211.jpg)
 
 ** One of the most
 effective ways of ensuring that people turn to your agency for industry
@@ -47,8 +46,7 @@ the industry.
 ### Be Innovative
 
 ![3Drenderingofashoppingbasketconnectedtoaco
-mputermouse](http://www.tutorcruncher.com/wp-content/uploads/2014/09/3drenderi
-ngofashoppingbasketconnectedtoacomputermouse-300x300.jpg)
+mputermouse](/img/blogs/3drenderingofashoppingbasketconnectedtoacomputermouse-300x300.jpg)
 
 One of the best ways
 [ to position your tutoring agency an authority

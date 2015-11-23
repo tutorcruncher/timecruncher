@@ -5,11 +5,9 @@ permalink: tutoring-agency-social-media
 ---
 [
 
-![Social Media](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/social_media_marketing_2015_11.png)
+![Social Media](/img/blogs/social_media_marketing_2015_11.png)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/social_media_marketing_2015_11.png) According to
+](/img/blogs/social_media_marketing_2015_11.png) According to
 social media experts [ Social Media Examiner
 ](http://www.socialmediaexaminer.com/social-media-marketing-predictions-
 for-2015/) , big changes are afoot in the world of social media this year.

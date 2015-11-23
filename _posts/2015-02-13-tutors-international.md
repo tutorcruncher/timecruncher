@@ -3,8 +3,7 @@ layout: post
 title:  "International Tutors"
 permalink: tutors-international
 ---
-![international tutors](http://www.tutorcruncher.com/wp-
-content/uploads/2015/02/Tutors-International.jpg)
+![international tutors](/img/blogs/Tutors-International.jpg)
 
 International Tutors have seen a rise in demand over recent years as more and
 more parents look to continue their children's education beyond just the

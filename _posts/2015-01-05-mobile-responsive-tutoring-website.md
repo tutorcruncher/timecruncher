@@ -5,11 +5,9 @@ permalink: mobile-responsive-tutoring-website
 ---
 [
 
-![Mobile responsive web](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/Responsive_Web_Design.png)
+![Mobile responsive web](/img/blogs/Responsive_Web_Design.png)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/Responsive_Web_Design.png) In the UK, [ 7 out of 10
+](/img/blogs/Responsive_Web_Design.png) In the UK, [ 7 out of 10
 people now own a smartphone ](http://mobilemarketingmagazine.com/7-10-people-
 uk-now-own-smartphone/) . That’s a whole lot of people who could be searching
 for your tutoring agency on their mobiles. In order to increase your traffic,

@@ -2,6 +2,9 @@ import os
 import re
 import csv
 import textwrap
+import asyncio
+
+import aiohttp
 import click
 import html2text
 from bs4 import BeautifulSoup
@@ -92,6 +95,59 @@ permalink: {name}
                 f.write(post)
 
     print('generated {} posts'.format(i))
+
+
+IMG_DIR = os.path.abspath(os.path.join(THIS_DIR, os.pardir, 'img', 'blogs'))
+
+
+@cli.command()
+def images():
+    assert os.path.exists(IMG_DIR), '"{}" does not exist'.format(IMG_DIR)
+    queue = asyncio.Queue()
+
+    async def find_urls():
+        urls = set()
+        for file_name in os.listdir(POST_DIRECTORY):
+            post_path = os.path.join(POST_DIRECTORY, file_name)
+            with open(post_path) as post_file:
+                text = post_file.read()
+                for m in re.finditer(r'!\[.*?\]\((http://www\.tutorcruncher\.com.*?)\)', text, re.DOTALL):
+                    url = m.groups()[0]
+                    if url in urls:
+                        continue
+                    urls.add(url)
+                    await queue.put((post_path, url))
+
+    async def download_files():
+        loop = asyncio.get_event_loop()
+        client = aiohttp.ClientSession(loop=loop)
+        while True:
+            post_path, url = await queue.get()
+            correct_url = url.replace('\n', '')
+            file_name = os.path.basename(correct_url)
+            if len(file_name) > 5:
+                file_path = os.path.join(IMG_DIR, file_name)
+                if not os.path.exists(file_path):
+                    async with client.get(correct_url) as response:
+                        if response.status != 200:
+                            print('error downloading {}, response code: {}'.format(correct_url, response.status))
+                        else:
+                            with open(file_path, 'wb') as f:
+                                f.write(await response.read())
+                new_url = '/img/blogs/{}'.format(file_name)
+                with open(post_path) as f:
+                    text = f.read()
+                print(file_path, new_url)
+                new_text = text.replace(url, new_url)
+                with open(post_path, 'w') as f:
+                    f.write(new_text)
+            queue.task_done()
+
+    loop = asyncio.get_event_loop()
+    loop.create_task(download_files())
+    loop.create_task(find_urls())
+
+    loop.run_until_complete(queue.join())
 
 
 def get_next_by_name(soup, name, element='span'):

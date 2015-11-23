@@ -23,8 +23,7 @@ you’ll create a focused, positive place to work.
 
 ### Positive Atmosphere
 
-![Smile](http://www.tutorcruncher.com/wp-content/uploads/2015/01/1280px-
-A_smile_a_day_keeps_the_pain_and_the_doctor_away-300x194.jpg) Having a
+![Smile](/img/blogs/1280px-A_smile_a_day_keeps_the_pain_and_the_doctor_away-300x194.jpg) Having a
 positive atmosphere in your tutoring agency is important for your students’
 learning. Make sure that your staff are encouraging and do what they can to
 boost students’ confidence. By giving praise where it’s due, your students
@@ -48,8 +47,7 @@ enthused to providing an excellent service.
 
 ### Resources
 
-![Beaver Country Day School - Viewbook](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/BCDS_Laptop-300x200.jpg) Students nowadays are used to
+![Beaver Country Day School - Viewbook](/img/blogs/BCDS_Laptop-300x200.jpg) Students nowadays are used to
 having technology at their fingertips and your tutoring agency should cater
 for this need. If you want your agency to be a stimulating place to learn,
 then you need to [ invest in resources that students will want to use

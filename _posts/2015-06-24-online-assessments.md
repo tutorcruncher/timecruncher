@@ -9,8 +9,7 @@ modernisation of exams and how they can be brought into the online space. **
 Preparatory school examinations in a digital age
 
 ![Online
-Assessents](http://www.tutorcruncher.com/wp-content/uploads/2015/06/online-
-assessents-1024x1024.jpg)
+Assessents](/img/blogs/online-assessents-1024x1024.jpg)
 
 ** Many prep schools have or are in the process of
 either significantly upgrading their IT teaching facilities or moving to a

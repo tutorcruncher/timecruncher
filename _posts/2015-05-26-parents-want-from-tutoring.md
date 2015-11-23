@@ -21,8 +21,7 @@ lessons are going and it gives them the opportunity to ask any questions about
 their child’s progress.
 
 ![Well Trained
-Tutors](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/IMG_9214-300x300.jpg)
+Tutors](/img/blogs/IMG_9214-300x300.jpg)
 
 ### Well-Trained Tutors
 
@@ -52,8 +51,7 @@ that your business has a documented customer service policy that can be shared
 throughout your organisation to maintain a high standard of service.
 
 ![Student
-Improving](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/IMG_8904-300x300.jpg)
+Improving](/img/blogs/IMG_8904-300x300.jpg)
 
 ### To see Students Improve
 

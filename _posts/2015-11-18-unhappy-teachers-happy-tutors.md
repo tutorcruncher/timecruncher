@@ -26,5 +26,4 @@ hourly rate, it is clear why making the transition from classroom teaching to
 tutoring would seem attractive. 
 
 ![tutor-working-
-smiling-c](http://www.tutorcruncher.com/wp-content/uploads/2015/11/tutor-
-working-smiling-c.jpg)
+smiling-c](/img/blogs/tutor-working-smiling-c.jpg)

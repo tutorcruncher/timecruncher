@@ -9,8 +9,7 @@ tutoring businesses understand the importance of having accounting software in
 place right from the word go and really see the benefits in the long-term. In
 this post, we’ll look at some of the main reasons why your tutoring business
 needs accounting software to handle your finances. [
-![Analytics](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/Analytics-1024x498.jpg)
+![Analytics](/img/blogs/Analytics-1024x498.jpg)
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/Analytics.jpg) **
 Less Room for Accounting Errors ** Manually inputting data into spreadsheets
 inevitably means that some information will be incorrect. Even the smallest of

@@ -5,8 +5,7 @@ permalink: twitter-for-tutoring-agencies
 ---
 [
 
-![Twitter ](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/twitter-245460_640-300x300.jpg)
+![Twitter ](/img/blogs/twitter-245460_640-300x300.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/twitter-245460_640.jpg) [ Twitter is one of the most

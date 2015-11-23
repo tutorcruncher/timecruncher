@@ -5,7 +5,7 @@ permalink: launch-a-tutoring-business
 ---
 **
 
-![jeevansingh](http://www.tutorcruncher.com/wp-content/uploads/2015/06/jeevansingh.jpg)
+![jeevansingh](/img/blogs/jeevansingh.jpg)
 
 By Jeevan Singh ** _ Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London. _
 
@@ -42,8 +42,7 @@ across all parts of the UK. Tools like TutorCruncher can provide useful
 insights and analytics into your business performance and guide your marketing
 efforts: [
 
-![TutorCruncher Graph](http://www.tutorcruncher.com/wp-
-content/uploads/2015/06/tutorcruncher-graph.jpg)
+![TutorCruncher Graph](/img/blogs/tutorcruncher-graph.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutorcruncher-
 graph.jpg) A screenshot from the TutorCruncher Dashboard ** What subject to
@@ -73,8 +72,7 @@ If you're travelling to a student’s home, charge travel expenses. A good rule
 of thumb is £1 per mile. **
 
 ![TutorCruncher
-Workspace](http://www.tutorcruncher.com/wp-
-content/uploads/2015/06/TutorCruncher-Workspace-1024x688.png)
+Workspace](/img/blogs/TutorCruncher-Workspace-1024x688.png)
 
 ** ** Equipment
 ** When setting up, you don't need any specialist equipment. Basic stationary

@@ -9,8 +9,7 @@ tutoring-agencies/) are usually the first things that come to mind. However,
 there’s a lot to be said for adopting ‘old school’ networking approaches and
 attending face to face events or simply meeting prospects in person. Here are
 our tips on how offline networking can help grow your tutoring agency.
-![Offline Networking](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/Young_Chamber_Networking_Function.jpg) ** Networking
+![Offline Networking](/img/blogs/Young_Chamber_Networking_Function.jpg) ** Networking
 Creates Opportunities ** Despite the popularity of online marketing,
 practically every city in the UK still has face to face networking events.
 These events offer great opportunities to meet other local businesses that you

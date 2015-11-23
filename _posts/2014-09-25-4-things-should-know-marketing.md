@@ -8,8 +8,7 @@ internet is a hub of information and sometimes it can be difficult to separate
 good advice from bad. If your agency is suffering from information overload in
 terms of marketing, then our list should help you clear a path and enable you
 see the wood from the trees. ** Marketing Doesn’t Need to Cost a Fortune
-![top-email-marketing-service-mailchimp-logo](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/top-email-marketing-service-mailchimp-logo.png) **
+![top-email-marketing-service-mailchimp-logo](/img/blogs/top-email-marketing-service-mailchimp-logo.png) **
 Nowadays, there are so many free marketing tools out there, that you can [
 easily implement an online marketing strategy
 ](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
@@ -34,8 +33,7 @@ media/) , so make sure you post your press releases on these platforms too.
 Why go to them if you can get them to come to you? **
 
 ![analysing-market-
-research](http://www.tutorcruncher.com/wp-content/uploads/2014/09/analysing-
-market-research-300x300.jpg)
+research](/img/blogs/analysing-market-research-300x300.jpg)
 
 Market Research is a Necessity Not an Option **
 Every tutoring agency should conduct regular market research. Not only does

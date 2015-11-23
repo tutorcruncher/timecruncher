@@ -35,8 +35,7 @@ if you've tried going from a tutor to launching your own tutoring business in
 the comments below. [
 
 ![how-to-start-a-tutoring-
-business](http://www.tutorcruncher.com/wp-content/uploads/2014/01/how-to-
-start-a-tutoring-business.jpg)
+business](/img/blogs/how-to-start-a-tutoring-business.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/01/how-to-start-a-tutoring-business.jpg)

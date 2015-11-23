@@ -24,5 +24,4 @@ developing new products, and tackling the inevitable challenges that await in
 the sector. The article can be accessed at [ http://estateandmanor.com/would-
 warren-buffett-buy-a-tuition-agency/ ](http://estateandmanor.com/would-warren-
 buffett-buy-a-tuition-agency/)
-![warrenbuffett-620x400](http://www.tutorcruncher.com/wp-
-content/uploads/2015/11/warrenbuffett-620x400.jpg)
+![warrenbuffett-620x400](/img/blogs/warrenbuffett-620x400.jpg)

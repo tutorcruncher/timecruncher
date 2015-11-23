@@ -21,8 +21,7 @@ customers trust you and see that your goal is to offer them value, then
 they’ll be less likely to unsubscribe from your email list and report your
 emails as spam. **
 
-![starmail](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/starmail-300x268.jpg)
+![starmail](/img/blogs/starmail-300x268.jpg)
 
 Sending Too Many Emails Too
 Often ** One sure fire way of encouraging people to unsubscribe from your
@@ -49,8 +48,7 @@ meaning your email will go straight into your recipient’s junk folder. Also,
 make sure that your email subject isn’t misleading and actually delivers what
 it promises. There’s nothing more frustrating reading through an email only to
 findthat there’s a catch or condition attached to it
-![SubjectLinesMakeADifference](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/SubjectLinesMakeADifference-300x200.jpg) ** Writing
+![SubjectLinesMakeADifference](/img/blogs/SubjectLinesMakeADifference-300x200.jpg) ** Writing
 Long Emails ** Think about how many emails your tutoring agency receives on a
 daily basis. If you’re anything like us, you’ll spend the best part of your
 morning sifting through emails and [ responding to those which are most

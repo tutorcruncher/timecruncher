@@ -7,7 +7,7 @@ permalink: modernising-tutoring-business-operations
 
 The tutoring industry is changing. The rise in technology and the increase in the numbers of new tutoring start-ups means that if you want to stay ahead of the game and establish your tutoring business as an authority, you need to move with the times.
 
-![TutorCruncher Workspace](http://www.tutorcruncher.com/wp-content/uploads/2015/06/TutorCruncher-Workspace.png)
+![TutorCruncher Workspace](/img/blogs/TutorCruncher-Workspace.png)
 
 Embracing change in business often means getting rid of old, unproductive practices in favour of more modern ways of thinking. If you’re still using outdated approaches to running your tutoring business, then you need to adapt your thinking to stay ahead of the game. 
 

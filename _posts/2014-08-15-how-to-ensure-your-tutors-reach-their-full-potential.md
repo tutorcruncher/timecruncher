@@ -51,8 +51,7 @@ also give you, as a director, the opportunity to delegate certain tasks to
 ease up your workload. [
 
 ![reach your full
-potential](http://www.tutorcruncher.com/wp-content/uploads/2014/08/reach-your-
-full-potential-300x200.jpg)
+potential](/img/blogs/reach-your-full-potential-300x200.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/reach-your-full-potential.jpg) In what ways do you

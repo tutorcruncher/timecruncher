@@ -15,8 +15,7 @@ has well and truly entered the mainstream, no longer the exclusive domain of
 the rich and/or privately educated. [
 
 ![library-books-
-cardiff](http://www.tutorcruncher.com/wp-content/uploads/2015/11/library-
-books-cardiff.jpg)
+cardiff](/img/blogs/library-books-cardiff.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2015/11/library-books-cardiff.jpg) Rather than being

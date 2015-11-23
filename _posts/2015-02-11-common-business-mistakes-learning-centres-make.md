@@ -8,7 +8,7 @@ recent years. Between what we’ve learned from running our own agency and
 seeing others launch, here are the most common business mistakes that we think
 new learning centres make.
 
-![Doh](http://www.tutorcruncher.com/wp-content/uploads/2015/02/Doh.jpg)
+![Doh](/img/blogs/Doh.jpg)
 
 ### 1\. No Launch Day
 

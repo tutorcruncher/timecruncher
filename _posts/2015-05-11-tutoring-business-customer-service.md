@@ -11,8 +11,7 @@ every aspect covered. _
 
 [
 
-![Customer Service Tutoring](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/IMG_9165-1024x511.jpg)
+![Customer Service Tutoring](/img/blogs/IMG_9165-1024x511.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/05/IMG_9165.jpg)
 

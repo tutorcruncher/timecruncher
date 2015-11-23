@@ -60,8 +60,7 @@ key findings of the research.
 
 [
 
-![tutor-cruncher-digital-game-learning](http://www.tutorcruncher.com/wp-
-content/uploads/2014/06/tutor-cruncher-digital-game-learning-559x1024.jpg)
+![tutor-cruncher-digital-game-learning](/img/blogs/tutor-cruncher-digital-game-learning-559x1024.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutor-cruncher-
 digital-game-learning.jpg)

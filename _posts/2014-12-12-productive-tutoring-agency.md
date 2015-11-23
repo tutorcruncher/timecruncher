@@ -8,8 +8,7 @@ productive. Sometimes it can be difficult to know whether what you’re doing is
 working or whether it’s just counterproductive for your agency. To help you
 maintain a healthy level of productivity in your business practices, we’ve
 come up with this list of ways to ensure your time is spent wisely. **
-![Productivity](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/4556099850_bcd9318b5b_z.jpg) ** ** Keep Track of Goals
+![Productivity](/img/blogs/4556099850_bcd9318b5b_z.jpg) ** ** Keep Track of Goals
 and Targets ** When you’re involved in the day to day running of a tutoring
 agency, it can be easy to lose track of the bigger picture. It’s important to
 make sure that you’re keeping to the original plan you set out in your [

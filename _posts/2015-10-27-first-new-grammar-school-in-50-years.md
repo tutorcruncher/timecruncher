@@ -18,9 +18,9 @@ measure ability, rather than knowledge.  [
 
 ![Artists' impression of the
 grammar school to open in Sevenoaks in September
-2017](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
+2017](/img/blogs/artists.jpg)
 
-](http://www.tutorcruncher.com/wp-content/uploads/2015/10/artists.jpg)
+](/img/blogs/artists.jpg)
 Artists' impression of the grammar school to open in Sevenoaks in September
 2017  The exact requirements for the 11+ already differ from county to county,
 so tutoring companies need to apply some local knowledge to their students’

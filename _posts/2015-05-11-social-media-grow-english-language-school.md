@@ -18,8 +18,7 @@ and business partners you can reach. By sharing valuable content with your
 followers, you’ll increase your brand awareness and encourage more people sign
 up to your courses.
 
-![Tutor Social Media](http://www.tutorcruncher.com/wp-
-content/uploads/2015/05/images-3-150x150.jpeg)
+![Tutor Social Media](/img/blogs/images-3-150x150.jpeg)
 
 ** **
 
@@ -46,9 +45,9 @@ site.
 
 ** 3\. Improve Your Students’ Experience [
 
-![Happy Experience Tutoring](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg)
+![Happy Experience Tutoring](/img/blogs/smiley-heureux.jpg)
 
-](http://www.tutorcruncher.com/wp-content/uploads/2014/10/smiley-heureux.jpg) **
+](/img/blogs/smiley-heureux.jpg) **
 
 Think about your social media accounts as an extension of your customer
 service. Nowadays, when people contact businesses through Facebook and

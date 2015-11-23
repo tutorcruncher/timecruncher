@@ -35,8 +35,7 @@ promote your website content but also to engage and reach out to your
 audience. Think about social media as an extension of your agency’s customer
 service.
 
-![social-media-icons-cloud](http://www.tutorcruncher.com/wp-
-content/uploads/2014/07/social-media-icons-cloud-300x256.png)
+![social-media-icons-cloud](/img/blogs/social-media-icons-cloud-300x256.png)
 
 ### Content
 

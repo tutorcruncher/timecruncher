@@ -12,8 +12,7 @@ profession, alongside verifying DBS checks, checking qualifications is a must.
 To emphasise the importance of this procedure, we’ve put together a list of
 best practices for checking a tutor’s qualifications.
 
-![reach your full potential](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/reach-your-full-potential.jpg)
+![reach your full potential](/img/blogs/reach-your-full-potential.jpg)
 
 ### 1\. Explain Your Verification Process to Applicants
 

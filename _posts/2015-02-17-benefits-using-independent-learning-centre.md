@@ -5,8 +5,7 @@ permalink: benefits-using-independent-learning-centre
 ---
 [
 
-![tutoring-session](http://www.tutorcruncher.com/wp-
-content/uploads/2014/06/tutoring-session.jpg)
+![tutoring-session](/img/blogs/tutoring-session.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutoring-
 session.jpg)

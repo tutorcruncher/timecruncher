@@ -5,8 +5,7 @@ permalink: choose-best-tuition-centre-software
 ---
 [
 
-![software](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-500956_640-229x300.jpg)
+![software](/img/blogs/software-500956_640-229x300.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-500956_640.jpg) When it comes to choosing [

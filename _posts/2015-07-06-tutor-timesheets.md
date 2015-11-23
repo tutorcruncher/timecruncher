@@ -9,8 +9,7 @@ but being organised also reassures your tutors and other staff members of your
 agency’s professionalism. [
 
 ![Tutor
-timesheet](http://www.tutorcruncher.com/wp-content/uploads/2015/06/lesson-
-report-full-1024x633.png)
+timesheet](/img/blogs/lesson-report-full-1024x633.png)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2015/06/lesson-report-full.png) As every tutoring business

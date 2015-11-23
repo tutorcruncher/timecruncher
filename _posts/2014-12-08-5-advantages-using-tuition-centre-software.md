@@ -9,8 +9,7 @@ customer management. There are a few software options out there but how many
 are specific to the tutoring industry? Here are top 5 advantages to using [
 tuition centre software ](http://www.tutorcruncher.com/tuition-centre-
 software/) : ** You Benefit From Your Competitors Experiences
-![software](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-417880_640-300x280.jpg) ** Every new software
+![software](/img/blogs/software-417880_640-300x280.jpg) ** Every new software
 has its settling in period but once the product has been tried and tested by
 customers, you’re guaranteed that the software will be glitch free and run
 smoothly. The good thing about using industry standard software is that your

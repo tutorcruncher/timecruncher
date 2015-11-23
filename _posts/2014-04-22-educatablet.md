@@ -10,8 +10,6 @@ is a big part of the delivery. We think [ www.educatablet.com
 
 [
 
-![educatablet](http://www.tutorcruncher.com/wp-
-content/uploads/2014/04/educatablet.jpg)
+![educatablet](/img/blogs/educatablet.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/04/educatablet.jpg)
+](/img/blogs/educatablet.jpg)

@@ -5,11 +5,9 @@ permalink: good-tutoring-management-software
 ---
 [
 
-![software](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-500956_640.jpg)
+![software](/img/blogs/software-500956_640.jpg)
 
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-500956_640.jpg)
+](/img/blogs/software-500956_640.jpg)
 
 As software developers, we could talk all day about the functionality and
 features of TutorCruncher’s management software, but to be honest, none of

@@ -14,8 +14,7 @@ can only pay VAT on your commission. We have been made aware of
 correspondences with HMRC in which they outline their official ruling on the
 matter.
 
-![HMRC VAT](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/vat-300x225.jpg)
+![HMRC VAT](/img/blogs/vat-300x225.jpg)
 
 Although we do not give tax advice we
 are happy to introduce you to our accountant who understands the tuition

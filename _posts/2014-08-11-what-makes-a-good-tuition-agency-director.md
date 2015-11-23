@@ -60,8 +60,7 @@ challenges but as long as you still have passion for your business, then
 you’ll find a way to overcome any setbacks. [
 
 ![Tuition Agency
-Director](http://www.tutorcruncher.com/wp-content/uploads/2014/08/Tuition-
-Agency-Director-300x199.jpg)
+Director](/img/blogs/Tuition-Agency-Director-300x199.jpg)
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/08/Tuition-Agency-Director.jpg) What, in your opinion,

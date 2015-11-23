@@ -12,8 +12,7 @@ than others. If you ever find your enthusiasm dwindling and need some help to
 stay focused on your tutoring business, then this post is for you.
 
 ![Tutor
-Business Plan](http://www.tutorcruncher.com/wp-content/uploads/2015/06/tutor-
-business-plan-1024x372.jpg)
+Business Plan](/img/blogs/tutor-business-plan-1024x372.jpg)
 
 ### Revisit your Original Business Plan
 
@@ -73,8 +72,7 @@ do you have for others who are struggling to stay focused? _
 
 [
 
-![TutorCruncher ebook](http://www.tutorcruncher.com/wp-
-content/uploads/2015/01/TutorCruncher-ebook.jpg)
+![TutorCruncher ebook](/img/blogs/TutorCruncher-ebook.jpg)
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/01/TutorCruncher-
 ebook.jpg)
