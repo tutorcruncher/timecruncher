@@ -2,15 +2,35 @@
   name: Cloud Based
   icon: fa-cloud
   text: |
-    We're so cloud based it hurts.
+    TutorCruncher can be safely used on all platforms including desktops, laptops,
+    tablets and mobile as all the system needs to work is internet access.
 -
   name: For Everyone
   icon: fa-users
   text: |
-    Everyone can login in place and record their shit so you don't have to.
+    TutorCruncher is simple to use for all users! Tutors can log their own hours, students can view online materials and
+    clients can view their own invoices and lesson reports.
 -
   name: Saves Time, Saves Money
   icon: fa-money
   text: |
-    From talking to existing users we recon TutorCruncher saves around 1 hour per invoice per month. That equates
-    to TutorCruncher saving you approximately 10 times what it costs.
+    Existing users have shown us that TutorCruncher saves them up to one hour per client per month. That's savings of
+    up to 10 times the cost of TutorCruncher!
+-
+  name: Card Payments
+  icon: fa-credit-card
+  text: |
+    Using <a href="http://www.stripe.com">Stripe</a> we allow your clients to pay quickly and easily online.
+    TutorCruncher can optionally save users' card details so you can easily take payments in the future.
+-
+  name: Data Reporting
+  icon: fa-line-chart
+  text: |
+    Analyse the performance of your business with graphical data outputs and breakdowns of revenue by subject,
+    teaching level and time period.
+-
+  name: Automated Emails
+  icon: fa-paper-plane
+  text: |
+    The TutorCruncher system generates automated emails to your clients and tutors at the click of a button.
+    These can be customised to convey your brand messaging and approach.

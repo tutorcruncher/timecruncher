@@ -4,7 +4,7 @@
   hightlight: False
   features:
     - Up to 10 active students
-    - Online Card Payments**
+    - Online Card Payments<sup>[2]</sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
@@ -15,8 +15,8 @@
   price: £35/$50 per month
   hightlight: True
   features:
-    - £0.65/$1 per active student per month*
-    - Online Card Payments**
+    - £0.65/$1 per active student per month<sup>[1]</sup>
+    - Online Card Payments<sup>[2]</sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
@@ -25,16 +25,16 @@
     - Send emails from your own address
     - Customisable automated emails
     - TutorCruncher mobile app
-    - Add your own logo to PDFs
-    - Send 1,000 emails per month***
-    - One month's free phone support *****
+    - Add your own logo to PDFs and emails
+    - Send 1,000 emails per month<sup>[3]</sup>
+    - One month's free phone support<sup>[5]</sup>
 -
   name: Premium
   price: £99/$155 per month
   hightlight: True
   features:
-    - £1/$1.56 per active student per month*
-    - Online Card Payments**
+    - £1/$1.56 per active student per month<sup>[1]</sup>
+    - Online Card Payments<sup>[2]</sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
@@ -43,21 +43,21 @@
     - Send emails from your own address
     - Customisable automated emails
     - TutorCruncher mobile app
-    - Add your own logo to PDFs
-    - Send 5,000 emails per month***
+    - Add your own logo to PDFs and emails
+    - Send 5,000 emails per month<sup>[3]</sup>
+    - One month's free phone support<sup>[5]</sup>
     - Add your own logo to your system
-    - Manage Multiple Branches ****
+    - Manage Multiple Branches<sup>[4]</sup>
     - Edit HTML email templates
     - New feature request priority
     - Personal Account Manager
-    - One month's free phone support *****
 -
   name: Enterprise
   price: £500/$770 per month
   hightlight: True
   features:
-    - £1/$1.56 per active student per month*
-    - Online Card Payments**
+    - £1/$1.56 per active student per month<sup>[1]</sup>
+    - Online Card Payments<sup>[2]</sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
@@ -66,14 +66,14 @@
     - Send emails from your own address
     - Customisable automated emails
     - TutorCruncher mobile app
+    - Add your own logo to PDFs and emails
+    - Send Unlimited Emails
+    - Free phone support
     - Add your own logo to your system
-    - Add your own logo to PDFs
-    - Send Unlimited Emails ***
-    - Manage Multiple Branches ****
+    - Manage Multiple Branches<sup>[4]</sup>
     - Edit HTML email templates
     - New feature request priority
     - Personal Account Manager
-    - Free support
     - Custom PDF templates
     - API Access
     - Custom URL
