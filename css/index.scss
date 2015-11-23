@@ -129,6 +129,10 @@ section#team {
       height: 275px;
     }
   }
+    .carousel-caption {
+      left: 15%;
+      right: 15%;
+    }
   @media (max-width: 768px) {
     .carousel-caption {
       right: 0;
