@@ -57,7 +57,9 @@ your-tutoring-community/ "Maintaining and Managing your Tutoring Community…" )
 rather than a ‘one size fits all’ approach to education. What’s more, people
 appreciate the value that a local, independent agency can bring to a community
 as they create jobs and enable people to pursue an array of opportunities. [
-![digital-student](/img/blogs/digital-student-hero-300x142.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/digital-student-hero-300x142.jpg" alt-text="digital-student"/>
+</div>
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/digital-student-
 hero.jpg) What are your experiences of using an independent tutoring agency?
 Can you think of any more advantages you’d like to add to the list? In what

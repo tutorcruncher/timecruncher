@@ -10,7 +10,9 @@ be engaging with. Whether you’re looking to sell more lessons, recruit more
 students or generally increase the awareness of your tutoring agency, a
 Facebook strategy can be a valuable resource. We’ve put together our 5 top
 tips for using Facebook for your tutoring agency. **
-![Facebook_like_thumb](/img/blogs/Facebook_like_thumb-300x256.png) Give Your Followers
+<div class="img-holder full-width">
+   <img src="/img/blogs/Facebook_like_thumb-300x256.png" alt-text="Facebook_like_thumb"/>
+</div> Give Your Followers
 Value ** The trick to building your agency’s reputation on Facebook is to
 focus on creating quality posts, rather than sharing any old content that can
 be found on a dozen other Facebook pages. Share interesting statistics,
@@ -58,7 +60,9 @@ your services, so you should be ready to respond to enquiries quickly. Think
 of your Facebook strategy as an extension of your customer service strategy
 and try to be as helpful as possible. Make your replies friendly to show
 people that your agency is approachable.
-![FacebookMessenger_nouveau_logo](/img/blogs/FacebookMessenger_nouveau_logo.png) In what ways do
+<div class="img-holder full-width">
+   <img src="/img/blogs/FacebookMessenger_nouveau_logo.png" alt-text="FacebookMessenger_nouveau_logo"/>
+</div> In what ways do
 you use Facebook for your tutoring agency? Do you have any tips of your own
 that you’d like to share with our readers? What do you find the most
 challenging aspect of using Facebook for your agency? We’d be keen to hear

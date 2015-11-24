@@ -3,7 +3,9 @@ layout: post
 title:  "International Tutors"
 permalink: tutors-international
 ---
-![international tutors](/img/blogs/Tutors-International.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Tutors-International.jpg" alt-text="international tutors"/>
+</div>
 
 International Tutors have seen a rise in demand over recent years as more and
 more parents look to continue their children's education beyond just the

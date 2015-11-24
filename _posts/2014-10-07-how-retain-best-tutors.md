@@ -42,7 +42,9 @@ What was it that inspired you to [ start a tutoring agency
 ](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
 business/) in the first place? Whatever your reason, telling your tutors your
 start-up story can he
-![](https://c1.staticflickr.com/5/4107/5144677794_242acb13e5_z.jpg) lp get
+<div class="img-holder full-width">
+   <img src="https://c1.staticflickr.com/5/4107/5144677794_242acb13e5_z.jpg" alt-text=""/>
+</div> lp get
 them on board with what you’re trying to achieve. If your staff feel that
 they’re a part of something bigger and are making a difference with the work
 that they do, they’ll be more likely to continue working for your agency over

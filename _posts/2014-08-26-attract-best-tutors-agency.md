@@ -27,7 +27,9 @@ potential tutors to ask questions about your agency.
 
 [
 
-![Popular_Social_Networks](/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg" alt-text="Popular_Social_Networks"/>
+</div>
 
 ](/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
@@ -56,7 +58,9 @@ to cater for tutors who have this skill set.
 
 [
 
-![e-learning](/img/blogs/e-learning.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/e-learning.jpg" alt-text="e-learning"/>
+</div>
 
 ](/img/blogs/e-learning.jpg)
 

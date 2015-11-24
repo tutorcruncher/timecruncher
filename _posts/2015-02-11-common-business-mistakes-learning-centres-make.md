@@ -8,7 +8,9 @@ recent years. Between what we’ve learned from running our own agency and
 seeing others launch, here are the most common business mistakes that we think
 new learning centres make.
 
-![Doh](/img/blogs/Doh.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Doh.jpg" alt-text="Doh"/>
+</div>
 
 ### 1\. No Launch Day
 

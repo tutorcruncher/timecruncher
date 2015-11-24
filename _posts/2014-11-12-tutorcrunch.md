@@ -5,7 +5,9 @@ permalink: tutorcrunch
 ---
 [
 
-![Hello my name is TutorCruncher](/img/blogs/Hello_my_name_is_by_Kubah-300x186.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Hello_my_name_is_by_Kubah-300x186.png" alt-text="Hello my name is TutorCruncher"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/11/Hello_my_name_is_by_Kubah.png) One of the major things

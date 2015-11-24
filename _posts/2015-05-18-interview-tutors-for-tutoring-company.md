@@ -2,20 +2,19 @@
 layout: post
 title:  "How to Interview Tutors for your Tutoring Company"
 permalink: interview-tutors-for-tutoring-company
+author: TutorCruncher
 ---
-_ So, you have a shortlist of tutors who you think would be a good fit for
+So, you have a shortlist of tutors who you think would be a good fit for
 your company. The next step is to invite them for an interview so you can meet
 them face to face and confirm their suitability. The key to finding the
 perfect tutor for your company is to conduct a thorough interview using the
-same format with each candidate. This is our advice on [ how to interview
-tutors for your company. ](http://www.tutorcruncher.com/interviewing-your-
-tutors/) _
+same format with each candidate. This is our advice on [how to interview
+tutors for your company.](http://www.tutorcruncher.com/interviewing-your-
+tutors/)
 
-[
-
-![Interview Tutors](/img/blogs/IMG_9468-1024x372.jpg)
-
-](http://www.tutorcruncher.com/wp-content/uploads/2015/05/IMG_9468.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/IMG_9468-1024x372.jpg" alt-text="Interviewing tutors for your company"/>
+</div>
 
 ### Explain the Interview Process
 
@@ -29,9 +28,8 @@ responses and decide which ones would be the most valuable to your company.
 ### Have Pre-Prepared Questions
 
 This might sound like an obvious one, but having your questions pre-prepared
-will [ make your tutoring company appear professional
-](http://www.tutorcruncher.com/become-industry-authority/) . Where possible,
-try to tailor your questions to suit your company’s values and mission rather
+will [make your tutoring company appear professional](http://www.tutorcruncher.com/become-industry-authority/) .
+Where possible, try to tailor your questions to suit your company’s values and mission rather
 than asking typical interview questions. You should also ask your interviewees
 to provide examples with their answers so you can gauge their level of
 tutoring experience. Remember to be consistent in your questioning, so you can
@@ -66,7 +64,6 @@ relate to your company, then you’ll know that they may not be the best fit.
 However, if they demonstrate that they’ve listened to your questions and taken
 on board your requirements, then they could be perfect for your team.
 
-What is your [ interview process for recruiting new tutors
-](http://www.tutorcruncher.com/how-to-recruit-tutors-for-your-agency/) ? Do
+What is your [interview process for recruiting new tutors](http://www.tutorcruncher.com/how-to-recruit-tutors-for-your-agency/)? Do
 you use any of the methods mentioned above? How do you decide what makes a
 good tutor?

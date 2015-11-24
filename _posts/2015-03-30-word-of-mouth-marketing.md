@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Grow Your Tutoring Business Through Word of Mouth Marketing"
 permalink: word-of-mouth-marketing
+author: TutorCruncher
 ---
 Digital technology may be the future of marketing but when it comes to private
 tutoring, word of mouth remains the lifeblood of the industry. Here are our

@@ -25,7 +25,9 @@ and observe what others are saying.
 
 [
 
-![twitter2](/img/blogs/twitter2-300x300.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/twitter2-300x300.jpg" alt-text="twitter2"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/twitter2.jpg)
 
@@ -41,7 +43,9 @@ from work, while you’re in the office or even when you’re at the gym.
 
 [
 
-![podcast](/img/blogs/podcast-273x300.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/podcast-273x300.jpg" alt-text="podcast"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/podcast.jpg)
 
@@ -59,7 +63,9 @@ readers and driving traffic to their site.
 
 [
 
-![blog](/img/blogs/blog.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/blog.jpg" alt-text="blog"/>
+</div>
 
 ](/img/blogs/blog.jpg)
 

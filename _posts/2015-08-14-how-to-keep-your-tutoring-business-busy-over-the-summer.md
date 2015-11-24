@@ -2,9 +2,8 @@
 layout: post
 title:  "How to Keep Your Tutoring Business Busy Over the Summer"
 permalink: how-to-keep-your-tutoring-business-busy-over-the-summer
+author: TutorCruncher
 ---
-How to Keep Your Tutoring Business Busy Over the Summer
-
 According to a 2013 
 [private tutoring survey](http://www.independent.co.uk/news/education/education-news/parents-turn-to-private-tutors-during-holidaysto-stop-summer-slide-8735668.html) 
 that was published in the Independent, 1 in 4 school children receive private tutoring

@@ -37,6 +37,8 @@ Host an event in your local community will give you a opportunity to present you
 
 If you have developed a great campaign which has worked well use the same again later in the year. This is money saving and also makes you memorable for your marketing ideas! [
 
-![marketing-ideas](/img/blogs/idea.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/idea.png" alt-text="marketing-ideas"/>
+</div>
 
 ](/img/blogs/idea.png)

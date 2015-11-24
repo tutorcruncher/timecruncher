@@ -2,9 +2,8 @@
 layout: post
 title:  "How to Encourage Students to Continue Using Your Tutoring Services?"
 permalink: how-to-encourage-students-to-continue-using-your-tutoring-services
+author: TutorCruncher
 ---
-How to Encourage Students to Continue  Using Your Tutoring Services?
-
 They say that in business, it’s easier to hold on to existing customers than
 it is to find new ones.  So what can you do as a tutoring company to hold on
 to your existing students? This post outlines some of the ways that you can

@@ -10,6 +10,8 @@ is a big part of the delivery. We think [ www.educatablet.com
 
 [
 
-![educatablet](/img/blogs/educatablet.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/educatablet.jpg" alt-text="educatablet"/>
+</div>
 
 ](/img/blogs/educatablet.jpg)

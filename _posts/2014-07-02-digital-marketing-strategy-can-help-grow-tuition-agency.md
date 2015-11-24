@@ -35,7 +35,9 @@ promote your website content but also to engage and reach out to your
 audience. Think about social media as an extension of your agency’s customer
 service.
 
-![social-media-icons-cloud](/img/blogs/social-media-icons-cloud-300x256.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/social-media-icons-cloud-300x256.png" alt-text="social-media-icons-cloud"/>
+</div>
 
 ### Content
 

@@ -16,7 +16,9 @@ turnover, commission and your tutor earnings, a pie chart of hours by subject
 and a real-time graph of active tutors and active clients. Click the image to
 see a larger version. [
 
-![Dashboard Redesign](/img/blogs/Dashboard-Redesign-1024x513.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Dashboard-Redesign-1024x513.png" alt-text="Dashboard Redesign"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/09/Dashboard-
 Redesign.png)
@@ -42,7 +44,9 @@ find as it is a useful tool. In the top right hand corner you can now search
 your entire system by keyword. The results will include tutors, clients and
 jobs. [
 
-![SearchFunction-Highlighted](/img/blogs/SearchFunction-Highlighted-1024x294.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/SearchFunction-Highlighted-1024x294.png" alt-text="SearchFunction-Highlighted"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/SearchFunction-
 Highlighted.png)
@@ -53,6 +57,8 @@ We have also made it much quicker for Tutors to add teaching levels. You can
 do this by selecting the subject, and then ticking the applicable boxes (see
 below). [
 
-![AddSubjectLevel](/img/blogs/AddSubjectLevel-1024x194.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/AddSubjectLevel-1024x194.png" alt-text="AddSubjectLevel"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/AddSubjectLevel.png)

@@ -2,6 +2,7 @@
 layout: post
 title:  "How Tutor Scheduling Software Can Improve your Tutoring Business"
 permalink: tutor-scheduling-software
+author: TutorCruncher
 ---
 As the private tutoring industry continues to be disrupted by new technology,
 the agencies that consistently experience growth are those who adapt to new
@@ -11,7 +12,9 @@ reducing the ever-growing administration tasks that tutoring businesses face.
 This post will look at how tutor scheduling software can help improve your
 business.
 
-![Tutor Scheduling](/img/blogs/calendar_screenshot-1024x537.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/calendar_screenshot-1024x537.png" alt-text="Tutor Scheduling"/>
+</div>
 
 Tutor Scheduling **It Can Reduce your Administration Time** As your business grows, so does your
 administration, which means that you end up spending more time completing

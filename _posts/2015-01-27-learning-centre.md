@@ -13,7 +13,9 @@ improve a student’s grades.
 
 [
 
-![A](/img/blogs/pen-162124_640.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/pen-162124_640.png" alt-text="A"/>
+</div>
 
 ](/img/blogs/pen-162124_640.png)
 

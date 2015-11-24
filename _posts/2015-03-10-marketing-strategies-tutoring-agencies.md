@@ -10,7 +10,9 @@ attracting new students, retaining staff and growing business.  _
 
 [
 
-![face-386626_640](/img/blogs/face-386626_640.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/face-386626_640.jpg" alt-text="face-386626_640"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/face-386626_640.jpg)
 

@@ -5,7 +5,9 @@ permalink: mobile-responsive-tutoring-website
 ---
 [
 
-![Mobile responsive web](/img/blogs/Responsive_Web_Design.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Responsive_Web_Design.png" alt-text="Mobile responsive web"/>
+</div>
 
 ](/img/blogs/Responsive_Web_Design.png) In the UK, [ 7 out of 10
 people now own a smartphone ](http://mobilemarketingmagazine.com/7-10-people-

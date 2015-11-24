@@ -2,13 +2,16 @@
 layout: post
 title:  "How Tutor Timesheets Can Help you Organise your Tutoring Business"
 permalink: tutor-timesheets
+author: TutorCruncher
 ---
 Organisation is the key to running a successful tutoring business. Not only
 does an organised agency create a lasting impression on students and parents,
 but being organised also reassures your tutors and other staff members of your
 agency’s professionalism.
 
-![Tutor timesheet](/img/blogs/lesson-report-full-1024x633.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/lesson-report-full-1024x633.png" alt-text="Tutor timesheet"/>
+</div>
 
 As every tutoring business
 grows, so does its administration and having organised systems in place from

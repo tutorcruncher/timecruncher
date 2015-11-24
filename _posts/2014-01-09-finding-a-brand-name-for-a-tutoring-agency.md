@@ -44,7 +44,9 @@ people were able to accurately remember it?" _
 * Choose a name that is similar to businesses close to you 
 [
 
-![tutoring-agency-brand-name](/img/blogs/tutoring-agency-brand-name1.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/tutoring-agency-brand-name1.jpg" alt-text="tutoring-agency-brand-name"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/01/tutoring-agency-
 brand-name1.jpg) What would be your top tip for choosing a brand name for a

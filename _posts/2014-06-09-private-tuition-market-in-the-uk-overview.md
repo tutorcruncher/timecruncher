@@ -28,4 +28,6 @@ should not miss this opportunity to grow and push your business forward.
 The private tuition industry is one of the fastest growing industries, and now
 is the time to capitalise
 
-![UK Private tuition market](/img/blogs/tutor-cruncher-private-tuition-market-uk.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/tutor-cruncher-private-tuition-market-uk.png" alt-text="UK Private tuition market"/>
+</div>

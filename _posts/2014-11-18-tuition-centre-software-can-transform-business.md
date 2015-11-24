@@ -5,7 +5,9 @@ permalink: tuition-centre-software-can-transform-business
 ---
 [
 
-![Paper Desk](/img/blogs/John_Ellis_at_CERN.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/John_Ellis_at_CERN.jpg" alt-text="Paper Desk"/>
+</div>
 
 ](/img/blogs/John_Ellis_at_CERN.jpg) Using industry standard
 software has many advantages. As well as offering ongoing, unlimited access to

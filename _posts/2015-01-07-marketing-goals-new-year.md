@@ -11,7 +11,9 @@ inspiration for how you’ll [ grow your business this year
 tuition-agency/) , here are 4 marketing goals that we think every agency
 should focus on. [
 
-![Goal's Target](/img/blogs/target-418917_640.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/target-418917_640.jpg" alt-text="Goal's Target"/>
+</div>
 
 ](/img/blogs/target-418917_640.jpg) ** Share Your Goals with Others
 ** Whether you have a specific plan in place or not, sharing your goals for

@@ -11,7 +11,9 @@ through mobile platforms.  _
 
 ** Cloud Storage [
 
-![cloud](/img/blogs/cloud.gif)
+<div class="img-holder full-width">
+   <img src="/img/blogs/cloud.gif" alt-text="cloud"/>
+</div>
 
 ](/img/blogs/cloud.gif) **
 
@@ -39,7 +41,9 @@ your agency have mobile devices on hand for students to use as they need them?
 
 [
 
-![online-learning-XSmall](/img/blogs/online-learning-XSmall.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/online-learning-XSmall.jpg" alt-text="online-learning-XSmall"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/online-learning-
 XSmall.jpg) Online learning in education is really starting to take off with

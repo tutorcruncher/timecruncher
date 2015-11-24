@@ -2,11 +2,10 @@
 layout: post
 title:  "Tutor Awards 9th July 2015 House of Lords"
 permalink: tutor-awards
+author: TutorCruncher
 ---
-### Phienas Pett
-
-a 'super tutor' has been  awarded  the best and longest serving tutor in the tutoring industry awards 
-last night at the House of Lords, Phineas has been recognised for his contribution to pupils by scooping 
+A 'super tutor' has been  awarded  the best and longest serving tutor in the tutoring industry awards 
+last night at the House of Lords, Phineas Pett has been recognised for his contribution to pupils by scooping 
 the National Tutoring  Award  during a prestigious event at the House of Lords yesterday (9th July).
 
 The annual  awards, hosted by the National Tutoring Conference (NTC) which bring together key figures from the UK’s 

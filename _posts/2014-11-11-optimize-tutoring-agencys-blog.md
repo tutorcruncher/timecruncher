@@ -6,7 +6,9 @@ permalink: optimize-tutoring-agencys-blog
 In a digital age where everyone’s obsessed with SEO, we often forget to put
 our blog readers’
 
-![ps_overview_engage](/img/blogs/ps_overview_engage-300x206.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/ps_overview_engage-300x206.jpg" alt-text="ps_overview_engage"/>
+</div>
 
 experiences at the
 forefront of our efforts. How engaged are your [ blog readers

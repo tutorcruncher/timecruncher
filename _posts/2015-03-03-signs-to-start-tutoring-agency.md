@@ -9,7 +9,9 @@ transition from a sole trader to a limited company, we’ve put together a list
 of 5 signs that could help you decide when the time is right. _
 
 You can no Longer Keep up with Demand [
-![images](/img/blogs/images-150x150.jpeg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/images-150x150.jpeg" alt-text="images"/>
+</div>
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/images.jpeg) **
 
 When the time comes that you have to turn students down because you don’t have
@@ -45,7 +47,9 @@ Your Students are Achieving Their Goals
 
 [
 
-![tutoring1](/img/blogs/tutoring1-150x150.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/tutoring1-150x150.jpg" alt-text="tutoring1"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg) If
 your students are consistently achieving the grades they hoped for, then you
@@ -68,7 +72,9 @@ initial start-up costs, in the long term, setting up an agency can be a great
 way to grow your income.
 
 Other Tutors are Asking for your Advice  [
-![dialog-148815_640](/img/blogs/dialog-148815_640.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/dialog-148815_640.png" alt-text="dialog-148815_640"/>
+</div>
 ](/img/blogs/dialog-148815_640.png)
 
 If you’re one of those tutors who is constantly being asked for advice by

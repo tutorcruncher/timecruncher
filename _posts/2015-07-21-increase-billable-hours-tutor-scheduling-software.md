@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Increase Your Billable Hours with Tutor Scheduling Software"
 permalink: increase-billable-hours-tutor-scheduling-software
+author: TutorCruncher
 ---
 One of the downsides to running a tutoring business is that you only get paid
 for the hours that you’re able to charge for. This means that things like
@@ -13,7 +14,9 @@ streamlines the whole business of running a tutoring agency, which frees up
 your time to focus on building your client-base and increasing the number of
 billable hours you can charge for.
 
-![TutorCruncher Graph](/img/blogs/tutorcruncher-graph.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
+</div>
 
 ### Find Key Information Quicker
 

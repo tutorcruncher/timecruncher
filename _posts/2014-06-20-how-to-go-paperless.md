@@ -40,7 +40,9 @@ and try to allocate one or two heavy-duty printers nearby. We also recommend
 you track down every employee's printing and to inform them this activity will
 be closely monitored. [
 
-![paperless-office](/img/blogs/paperless-office-1024x508.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/paperless-office-1024x508.jpg" alt-text="paperless-office"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/paperless-
 office.jpg)

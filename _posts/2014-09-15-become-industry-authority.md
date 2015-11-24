@@ -11,7 +11,9 @@ means you’ll attract more business and to help you out, we’ve put together a
 list of actions you can take to become an industry leader. ** Report on
 Industry News
 
-![blog-327074_640](/img/blogs/blog-327074_640-300x211.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/blog-327074_640-300x211.jpg" alt-text="blog-327074_640"/>
+</div>
 
 ** One of the most
 effective ways of ensuring that people turn to your agency for industry

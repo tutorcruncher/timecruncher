@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Your Business Needs Tutor Accounting Software"
 permalink: tutor-accounting-software
+author: TutorCruncher
 ---
 When it comes to taking care of your finances, spreadsheets and Word documents
 only work for so long before you find yourself drowning in paperwork. Savvy
@@ -10,7 +11,9 @@ place right from the word go and really see the benefits in the long-term. In
 this post, we’ll look at some of the main reasons why your tutoring business
 needs accounting software to handle your finances. 
 
-![Analytics](/img/blogs/Analytics-1024x498.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Analytics-1024x498.jpg" alt-text="Analytics"/>
+</div>
 
 ### Less Room for Accounting Errors 
 

@@ -5,7 +5,9 @@ permalink: good-tutoring-management-software
 ---
 [
 
-![software](/img/blogs/software-500956_640.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/software-500956_640.jpg" alt-text="software"/>
+</div>
 
 ](/img/blogs/software-500956_640.jpg)
 

@@ -2,16 +2,8 @@
 layout: post
 title:  "Launch A Tutoring Business Overnight With No Start Up Capital"
 permalink: launch-a-tutoring-business
+author: Jeevan Singh
 ---
-**
-
-![jeevansingh](/img/blogs/jeevansingh.jpg)
-
-By Jeevan Singh ** _ Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London. _
-
-_ He has built a successful business on small marketing budgets and offers his
-advice on how to get your business off the ground. _
-
 The great thing about the tuition industry is it's really easy to break into.
 You don't need to have any experience and you don't need to pass any teaching
 qualifications. You can virtually [ set up a tutoring business overnight
@@ -43,7 +35,9 @@ across all parts of the UK. Tools like TutorCruncher can provide useful
 insights and analytics into your business performance and guide your marketing
 efforts:
 
-![TutorCruncher Graph](/img/blogs/tutorcruncher-graph.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
+</div>
 
 A screenshot from the TutorCruncher Dashboard ** What subject to
 teach? ** There is no point offering GCSE tuition if you're not going to offer
@@ -71,7 +65,9 @@ that there are other family members around, it should give them peace of mind.
 If you're travelling to a student’s home, charge travel expenses. A good rule
 of thumb is £1 per mile.
 
-![TutorCruncher Workspace](/img/blogs/TutorCruncher-Workspace-1024x688.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/TutorCruncher-Workspace-1024x688.png" alt-text="TutorCruncher Workspace"/>
+</div>
 
 ### Equipment
 
@@ -114,3 +110,10 @@ advice, please visit
 I will show you how to convince
 parents you are the right tutor to go with, even if you have no experience and
 no track record.
+
+![](/img/blogs/jeevansingh.jpg)
+
+By Jeevan Singh - Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London.
+
+He has built a successful business on small marketing budgets and offers his
+advice on how to get your business off the ground.

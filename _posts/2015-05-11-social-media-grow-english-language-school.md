@@ -2,6 +2,7 @@
 layout: post
 title:  "3 Ways Social Media Can Help Grow Your English Language School"
 permalink: social-media-grow-english-language-school
+author: TutorCruncher
 ---
 _ Your English language school may already be using social media as a matter
 of course in your marketing efforts but do you really understand the true
@@ -18,7 +19,9 @@ and business partners you can reach. By sharing valuable content with your
 followers, you’ll increase your brand awareness and encourage more people sign
 up to your courses.
 
-![Tutor Social Media](/img/blogs/images-3-150x150.jpeg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/images-3-150x150.jpeg" alt-text="Tutor Social Media"/>
+</div>
 
 ** **
 
@@ -45,7 +48,9 @@ site.
 
 ** 3\. Improve Your Students’ Experience [
 
-![Happy Experience Tutoring](/img/blogs/smiley-heureux.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/smiley-heureux.jpg" alt-text="Happy Experience Tutoring"/>
+</div>
 
 ](/img/blogs/smiley-heureux.jpg) **
 

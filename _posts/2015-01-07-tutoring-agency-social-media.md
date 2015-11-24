@@ -5,7 +5,9 @@ permalink: tutoring-agency-social-media
 ---
 [
 
-![Social Media](/img/blogs/social_media_marketing_2015_11.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/social_media_marketing_2015_11.png" alt-text="Social Media"/>
+</div>
 
 ](/img/blogs/social_media_marketing_2015_11.png) According to
 social media experts [ Social Media Examiner

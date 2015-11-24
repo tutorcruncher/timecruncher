@@ -3,7 +3,9 @@ layout: post
 title:  "5 Ways to Improve Your Tutoring Agency’s Blog"
 permalink: improve-your-tutoring-blog
 ---
-![Blog](/img/blogs/blog-300x297.jpg) Nowadays, most tutoring agencies
+<div class="img-holder full-width">
+   <img src="/img/blogs/blog-300x297.jpg" alt-text="Blog"/>
+</div> Nowadays, most tutoring agencies
 understand the importance of having a blog on their website. Given that
 there’s now a lot more competition in the tutoring blogsphere, how exactly can
 you make yours stand out from the rest of the crowd? Here are our five tips to

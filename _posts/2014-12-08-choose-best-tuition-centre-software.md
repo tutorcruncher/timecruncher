@@ -5,7 +5,9 @@ permalink: choose-best-tuition-centre-software
 ---
 [
 
-![software](/img/blogs/software-500956_640-229x300.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/software-500956_640-229x300.jpg" alt-text="software"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/12/software-500956_640.jpg) When it comes to choosing [

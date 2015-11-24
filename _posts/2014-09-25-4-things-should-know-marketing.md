@@ -8,7 +8,9 @@ internet is a hub of information and sometimes it can be difficult to separate
 good advice from bad. If your agency is suffering from information overload in
 terms of marketing, then our list should help you clear a path and enable you
 see the wood from the trees. ** Marketing Doesn’t Need to Cost a Fortune
-![top-email-marketing-service-mailchimp-logo](/img/blogs/top-email-marketing-service-mailchimp-logo.png) **
+<div class="img-holder full-width">
+   <img src="/img/blogs/top-email-marketing-service-mailchimp-logo.png" alt-text="top-email-marketing-service-mailchimp-logo"/>
+</div> **
 Nowadays, there are so many free marketing tools out there, that you can [
 easily implement an online marketing strategy
 ](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-

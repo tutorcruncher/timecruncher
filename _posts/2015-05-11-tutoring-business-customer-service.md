@@ -2,18 +2,17 @@
 layout: post
 title:  "What Every Tutoring Business Should Know About Customer Service"
 permalink: tutoring-business-customer-service
+author: TutorCruncher
 ---
-_ It’s the backbone of what every tutoring business should be built upon, yet
+It’s the backbone of what every tutoring business should be built upon, yet
 it’s surprisingly easy to lose sight of the importance of customer service in
 your business. To help make sure that your business is offering great customer
 service to your students, we’ve put together this guide to ensure you have
-every aspect covered. _
+every aspect covered.
 
-[
-
-![Customer Service Tutoring](/img/blogs/IMG_9165-1024x511.jpg)
-
-](http://www.tutorcruncher.com/wp-content/uploads/2015/05/IMG_9165.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/IMG_9165-1024x511.jpg" alt-text="Customer Service Tutoring"/>
+</div>
 
 ### The Importance of Engagement
 
@@ -64,6 +63,6 @@ student lessons and tutor invoices. TutorCruncher is the UK’s leading tutoring
 software provider, enabling agencies to spend more time growing their business
 while their administration is taken care of using a flexible, reliable system.
 
-_ What is your tutoring business's approach to customer service? Which of the
+What is your tutoring business's approach to customer service? Which of the
 points above resonate with your business the most? Do you have any further
-customer service advice you’d like to share with our readers? _
+customer service advice you’d like to share with our readers?

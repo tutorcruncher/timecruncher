@@ -2,6 +2,7 @@
 layout: post
 title:  "How Work Scheduling Software Can Benefit Your Tutoring Agency"
 permalink: scheduling-software-tutoring-agency
+author: TutorCruncher
 ---
 The daily running of a business requires organisation and what better way to
 keep track of your student’s lesson schedules, tutor invoices and data

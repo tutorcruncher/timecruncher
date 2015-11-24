@@ -10,7 +10,9 @@ Everyone gets writer’s block once in a while, so to help you on your way to
 creating valuable content, we’ve compiled a list of blog post ideas to breathe
 new life into your tutoring blog. [
 
-![images](/img/blogs/images.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/images.jpg" alt-text="images"/>
+</div>
 
 ](/img/blogs/images.jpg) 
 
@@ -35,7 +37,9 @@ about the industry then? There will always be a market for writing entry-level
 blog posts about the tutoring industry, especially given its rapid growth over
 the last decade. [
 
-![faq](/img/blogs/faq-150x150.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/faq-150x150.png" alt-text="faq"/>
+</div>
 
 ](http://www.tutorcruncher.com/wp-
 content/uploads/2014/09/faq.png) 

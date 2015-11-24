@@ -2,6 +2,7 @@
 layout: post
 title:  "Five essential steps to running an english language school"
 permalink: running-english-language-school
+author: TutorCruncher
 ---
 _ Have you ever thought of opening your own language school? At TutorCruncher,
 we’ve tread down a similar path ourselves in helping our users manage their

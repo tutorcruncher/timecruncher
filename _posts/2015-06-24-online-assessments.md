@@ -2,13 +2,16 @@
 layout: post
 title:  "Online Assessments"
 permalink: online-assessments
+author: TutorCruncher
 ---
 This is a post written by Marcus Reoch, founder of e2focus.com and 
 [Dragons in Europe](http://dragonsineurope.com/) . Below he discusses the
 modernisation of exams and how they can be brought into the online space.
 Preparatory school examinations in a digital age
 
-![Online Assessents](/img/blogs/online-assessents-1024x1024.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/online-assessents-1024x1024.jpg" alt-text="Online Assessents"/>
+</div>
 
 Many prep schools have or are in the process of
 either significantly upgrading their IT teaching facilities or moving to a

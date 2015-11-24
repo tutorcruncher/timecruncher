@@ -11,7 +11,9 @@ order to make the most of your tutoring agency’s work scheduling software. _
 
 [
 
-![Scheduling Software](/img/blogs/unnamed-1.jpg)
+<div class="img-holder full-width">
+   <img src="/img/blogs/unnamed-1.jpg" alt-text="Scheduling Software"/>
+</div>
 
 ](/img/blogs/unnamed-1.jpg)
 

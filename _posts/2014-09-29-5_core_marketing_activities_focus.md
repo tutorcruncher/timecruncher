@@ -33,7 +33,9 @@ agency as best they can.
 
 ### Face to Face Networking￼
 
-![](http://www.exordo.com/blog/wp-content/uploads/2013/11/networking.jpg) In
+<div class="img-holder full-width">
+   <img src="http://www.exordo.com/blog/wp-content/uploads/2013/11/networking.jpg" alt-text=""/>
+</div> In
 the digital world, it can be easy to ignore one to one networking in favour of
 social media or email. However, face to face relationship building still plays
 a huge role in the growth of tutoring agencies, particularly for local
@@ -67,7 +69,9 @@ way of attracting new business to your agency and spreading the word about
 your brand in your local area. Virtually everyone uses some form of social
 media today so make sure you have a presence across the most relevant
 platforms in the industry. **
-![](https://c2.staticflickr.com/4/3267/3256031851_6d0a863f71_z.jpg?zz=1) What
+<div class="img-holder full-width">
+   <img src="https://c2.staticflickr.com/4/3267/3256031851_6d0a863f71_z.jpg?zz=1" alt-text=""/>
+</div> What
 are the core marketing activities that your tutoring agency focuses on? How
 easily do you become distracted from these important elements? What other
 activities do you see as being the most important to tutoring agencies? We

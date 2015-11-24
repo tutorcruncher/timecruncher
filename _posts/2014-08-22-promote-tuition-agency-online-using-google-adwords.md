@@ -58,7 +58,9 @@ increasing by 5 and 3,5 per cent respectively, in 2013.
 
 [
 
-![Mobile Traffic](/img/blogs/Mobile-Traffic.png)
+<div class="img-holder full-width">
+   <img src="/img/blogs/Mobile-Traffic.png" alt-text="Mobile Traffic"/>
+</div>
 
 ](/img/blogs/Mobile-Traffic.png)  
 
