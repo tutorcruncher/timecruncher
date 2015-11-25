@@ -3,7 +3,7 @@ layout: company_profile
 redirect_from: /tutor-agencies/athena-tuition/
 permalink: /companies/athena-tuition/
 title: "Athena Tuition"
-founded: ""
+founded: "2013"
 telephone: "0208 133 6284"
 email: "enquiries@athenatuition.co.uk"
 website: "http://www.athenatuition.co.uk/"

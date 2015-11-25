@@ -4,12 +4,12 @@ redirect_from: /tutor-agencies/tutordoctor-guildford/
 permalink: /companies/tutordoctor-guildford/
 title: "TutorDoctor-Guildford"
 founded: "2007"
-telephone: "1483312593"
-email: ""
+telephone: "01483312593"
+email: "office@tutordoctor-surrey.co.uk"
 website: "http://tutordoctor-surrey.co.uk/"
-address: ""
-map_address: ""
-description: "TutorDoctor-Guildford TutorCruncher Company Profile"
+address: "TutorDoctor Surrey, Guildford, Surrey GU2"
+map_address: "TutorDoctor Surrey, Guildford, Surrey GU2"
+description: "TutorDoctor - Surrey TutorCruncher Company Profile"
 categories: company
 ---
 Tutor Doctor was started in Toronto, in Canada in 2001 by a gentleman called John Hooi. John had been in education for a

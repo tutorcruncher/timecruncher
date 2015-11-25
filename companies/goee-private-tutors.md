@@ -4,8 +4,8 @@ redirect_from: /tutor-agencies/goee-private-tutors/
 permalink: /companies/goee-private-tutors/
 title: "GoEE Private Tutors"
 founded: ""
-telephone: "GoEE Private Tutors - 8450559707"
-email: ""
+telephone: "0845 0559707"
+email: "info@goeeprivatetutors.com"
 website: "http://www.goeeprivatetutors.com/"
 address: "63 Curzon Street Mayfair, London W1J 8PD England"
 map_address: "63 Curzon Street Mayfair, London W1J 8PD England, United Kingdom"

@@ -4,12 +4,12 @@ redirect_from: /tutor-agencies/tutordoctor-chelmsford/
 permalink: /companies/tutordoctor-chelmsford/
 title: "TutorDoctor-Chelmsford"
 founded: "2007"
-telephone: "1245526326"
-email: ""
+telephone: "01245526326"
+email: "office@tutordoctor-chelmsfor.co.uk"
 website: "http://www.tutordoctorchelmsford.co.uk/"
-address: ""
-map_address: ""
-description: "TutorDoctor-Chelmsford TutorCruncher Company Profile"
+address: "8 Constantine Rd, Witham CM8 1HL"
+map_address: "8 Constantine Rd, Witham CM8 1HL"
+description: "TutorDoctor - Chelmsford TutorCruncher Company Profile"
 categories: company
 ---
 Tutor Doctor was started in Toronto, in Canada in 2001 by a gentleman called John Hooi. John had been in education for a

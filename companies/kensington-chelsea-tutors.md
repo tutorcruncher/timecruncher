@@ -8,7 +8,7 @@ telephone: "020 7584 7987"
 email: "learn@kctutors.co.uk"
 website: "http://www.kctutors.co.uk/"
 address: "52 Queen's Gate Terrace, Kensington, London, SW7 5PJ"
-map_address: "52 Queen's Gate Terrace, Kensington, London, SW7 5PJ, United Kingdom"
+map_address: "52 Queenss Gate Terrace, Kensington, London, SW7 5PJ, United Kingdom"
 description: "Kensington Chelsea Tutors TutorCruncher Company Profile"
 categories: company
 ---
