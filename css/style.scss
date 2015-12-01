@@ -176,31 +176,29 @@ section#footer {
   min-height: $footer-height;
   padding-top: 25px;
   width: 100%;
+  .social-media-link {
+    text-align: center;
+  }
   .links {
-    margin-top: 20px;
-    a {
-      display: inline-block;
-      line-height: 40px;
-      margin-right: 10px;
+    li {
+      list-style-type: none;
     }
   }
-  @media (min-width: 768px) {
-    $row-height: 80px;
-    .copyright {
-      img, span {
-        height: $row-height;
-      }
-      span {
-        line-height: $row-height;
-      }
+  .links, .copyright {
+    margin-top: 10px;
+  }
+  .copyright {
+    img {
+      height: 80px;
     }
-    .links {
-      margin-top: 0;
-      a {
-        line-height: $row-height;
-        margin-right: 30px;
-      }
+    span {
+      height: 80px;
+      line-height: 80px;
     }
+  }
+  .mix {
+    position: absolute;
+    bottom: 5px;
   }
 }
 
@@ -234,4 +232,15 @@ address {
   }
 }
 
-
+section.team {
+  .team-photo {
+    text-align: center;
+    h3 {
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+  }
+  p {
+    font-size: 17px;
+  }
+}

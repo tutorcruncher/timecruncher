@@ -24,7 +24,7 @@ header {
   }
   p {
     font-size: 16px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
   }
 
   .header-content {
@@ -114,8 +114,10 @@ section#contact, section#pricing {
 }
 
 section#team {
-  @include background-cover;
-  background: url('/img/team_back.jpg') center;
+  >.carousel{
+    @include background-cover;
+    background: url('/img/team_back.jpg') center;
+  }
   h1 {
     color: white;
   }
