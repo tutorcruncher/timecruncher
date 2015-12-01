@@ -6,6 +6,7 @@ redirect_from: /our-team/
 ---
 
 ## Where TutorCruncher came from
+TutorCruncher Ltd. was incorporated in February 2013, as an independedntly owned technology company born out of years of experience administering tuition businesses. It has sperate owners and Directors but still benefits from close association with lots of tutoring companies. 
 
 From 2008 to 2013 Bright Young Things Tuition struggled to find an efficient way of invoicing their clients.
 They tried numerous off the shelf tools for invoicing but nothing really worked. 
