@@ -4,7 +4,7 @@
   {
     "github": "https://raw.githubusercontent.com",
     "bootstrap": "{{ github }}/twbs/bootstrap/v3.3.5/dist",
-    "font_awesome": "{{ github }}/FortAwesome/Font-Awesome/v4.4.0",
+    "font_awesome": "{{ github }}/FortAwesome/Font-Awesome/v4.5.0",
     "video_js": "http://vjs.zencdn.net/5.0"
   },
   "libs": {

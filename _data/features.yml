@@ -8,12 +8,14 @@
 -
   name: Automated Invoicing & Payroll
   icon: fa-money
+  learn-more-link: "/features/accounting"
   text: |
     TutorCruncher automatically generates invoices and payslips when hours are logged
     shaving hours off your time spent calculating and chasing payments.
 -
   name: Card Payments
   icon: fa-credit-card
+  learn-more-link: "/features/card-payments/"
   text: |
     Using <a href="http://www.stripe.com">Stripe</a> we allow your clients to pay quickly and easily online. TutorCruncher can optionally
     save users' card details so you can easily recharge them for future appointments.
@@ -41,3 +43,21 @@
   text: |
     Analyse the performance of your business with graphical data outputs and breakdowns of revenue by subject,
     teaching level and time period.
+-
+  name: Tutor-Student Matching
+  icon: fa-user-plus
+  text: |
+    Post jobs on your job board and let your tutors apply. Relevant tutors automatically emailed prompting them to apply.
+    You can also filter your tutor list to help find the right tutor.
+-
+  name: Customisable Fields
+  icon: fa-edit
+  text: |
+    Create your own custom fields for tutors, students, clients and lesson reports so you can manage your company in your own unique way.
+-
+  name: VAT Calculation
+  icon: fa-percent
+  text: |
+    TutorCruncher does all the paperwork and calculations needed to charge TAX on your margin/commission rather than the total tutor fee.
+    The system can be set up to charge tax on your commission, the lesson total, or even not to charge tax at all.
+-
