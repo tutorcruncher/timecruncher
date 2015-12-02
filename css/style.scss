@@ -3,13 +3,9 @@
 
 @import 'shared';
 
-@font-face{
-  font-family: 'Georgia';
-  src: url('http://www.tutorcruncher.com/css/georgia.ttf');
-}
-
 html, body {
   width: 100%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 html {
@@ -145,13 +141,15 @@ section {
       }
     }
     figcaption {
-      text-align: left;
-      font-size: smaller;
+      font-size: 14px;
+      color: #888;
+      text-align: center;
+      border-top: 1px solid #ccc;
+      margin-top: 5px;
     }
   }
 
   &.post {
-    font-family: Georgia, Times, 'Times New Roman', serif;
     .post-body, .post-preview {
       font-size: 17px;
     }
