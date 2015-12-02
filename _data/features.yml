@@ -14,7 +14,7 @@
     shaving hours off your time spent calculating and chasing payments.
 -
   name: Card Payments
-  icon: fa-credit-card
+  icon: fa-credit-card-alt
   learn-more-link: "/features/card-payments/"
   text: |
     Using <a href="http://www.stripe.com">Stripe</a> we allow your clients to pay quickly and easily online. TutorCruncher can optionally
@@ -58,6 +58,6 @@
   name: VAT Calculation
   icon: fa-percent
   text: |
-    TutorCruncher does all the paperwork and calculations needed to charge TAX on your margin/commission rather than the total tutor fee.
+    TutorCruncher does all the paperwork and calculations needed to charge VAT on your margin/commission rather than the total tutor fee.
     The system can be set up to charge tax on your commission, the lesson total, or even not to charge tax at all.
 -

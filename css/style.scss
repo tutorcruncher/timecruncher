@@ -121,18 +121,14 @@ section {
   min-height: 200px;
 }
 
-.container.main {
-  margin-top: 60px;
-  padding-bottom: 120px;
-}
-
-.container.post {
-  max-width: 730px;
-  font-family: Georgia, Times, 'Times New Roman', serif;
-  .post-body, .post-preview {
-    font-size: 17px;
+.container {
+  &.main {
+    margin-top: 60px;
+    padding-bottom: 120px;
   }
-  .post-body {
+
+  &.narrow {
+    max-width: 730px;
     .img-holder {
       text-align: center;
       border: 1px solid #eee;
@@ -151,6 +147,13 @@ section {
     figcaption {
       text-align: left;
       font-size: smaller;
+    }
+  }
+
+  &.post {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    .post-body, .post-preview {
+      font-size: 17px;
     }
   }
 }
