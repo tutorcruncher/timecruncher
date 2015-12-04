@@ -10,7 +10,7 @@ tags:
 ---
 Tutor to the rich and famous, Thomas Murr has written a thought-provoking
 article for estate and manor magazine about the long term prospects for both
-tutoring agencies, and tutoring service providers like tutorcruncher. As many
+tutoring agencies, and tutoring service providers like [TutorCruncher](/). As many
 of you know, tutoring companies are potentially lucrative businesses that can
 be easy to start and then run with low overheads. However, these things are
 equally true for your rivals and other looking to start out in the industry.

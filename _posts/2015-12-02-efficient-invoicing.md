@@ -35,7 +35,7 @@ Clients like to pay in a variety of ways; the common ones being bank transfers, 
 
 **Use Software**
 
-Using cloud software such as TutorCruncher makes this process (almost!) stress free. TutorCruncher generates your invoices automatically for your clients, and creates a clean looking invoice that you can customise with your own address and logo. You can even write your own PDF template! TutorCruncher also has an integrated card payment system, as soon as clients receive your invoice they can pay through the system and the invoice is marked as paid in the system without you lifting a finger.
+Using cloud software such as [TutorCruncher](/features/accounting/) makes this process (almost!) stress free. TutorCruncher generates your invoices automatically for your clients, and creates a clean looking invoice that you can customise with your own address and logo. You can even write your own PDF template! TutorCruncher also has an integrated card payment system, as soon as clients receive your invoice they can pay through the system and the invoice is marked as paid in the system without you lifting a finger. [Click here for more information.](/features/accounting/)
 
 <figure class="img-holder full-width">
   <img style="border: #ccc 1px solid; border-radius:0" src="/img/blogs/sent-invoice-list.png" alt-text="TutorCruncher's Sent Invoice List"/>

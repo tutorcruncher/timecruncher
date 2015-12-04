@@ -21,8 +21,7 @@ Manually inputting data into spreadsheets
 inevitably means that some information will be incorrect. Even the smallest of
 typos in accounting can throw a company’s books way of course and if errors go
 undetected, a company’s finances can end up being under or overestimated. With
-TutorCruncher’s 
-[accounting software for tutors](http://www.tutorcruncher.com/features/), 
+TutorCruncher's easy to use [accounting](/features/accounting/), 
 there’s virtually no
 chance of businesses producing erroneous financial figures. Our system allows
 you to automate your invoicing and payroll, run reports on financial data and

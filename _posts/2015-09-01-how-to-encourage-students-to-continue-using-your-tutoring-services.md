@@ -38,9 +38,9 @@ hold on to your existing students.
 ### Offer Constructive Feedback
 
 It’s important that students feel that they have learning points to work on
-after lessons. By encouraging your tutors to offer constructive feedback,
+after lessons. By encouraging your tutors to [offer constructive feedback](/features/scheduling#lesson-reports),
 you’ll enable students to have more control over their learning. Of course,
-acheivements should always be acknowledged but in most cases, there’s always
+achievements should always be acknowledged but in most cases, there’s always
 room for improvement. By identifying one or two areas for students to work on,
 they’ll feel that they are gaining something from their lessons without
 feeling overwhelmed by the amount of work ahead.
@@ -59,7 +59,6 @@ At the same time, lessons should also have an element of flexibility, so that
 students can get help with particular aspects of a topic or with unforeseen
 setbacks in the classroom. You should also send students regular progress
 updates, written specially for them to highlight which areas they’re
-
 doing  well in and which areas need some improvement.
 
 How do you encourage your students to keep using your tutoring services? What

@@ -16,12 +16,12 @@ agency’s professionalism.
 As every tutoring business
 grows, so does its administration and having organised systems in place from
 the beginning ensures that your business won’t be affected by increasing
-paperwork. One way that TutorCruncher’s scheduling software can help your
-agency get organised is through our multi-directional [tutoring timesheets](http://www.tutorcruncher.com/features/). 
+paperwork. One way that TutorCruncher can help your
+agency get organised is through our easy to use [scheduling.](/features/scheduling)/. 
 
 ### Invoice your Students Professionally
  
-Our tutor timesheets help companies
+Our software helps companies
 generate bespoke, professionally branded invoices for students quickly and
 effectively. You can add your logo to our timesheets and personalise their
 look and feel to ensure they’re in keeping with your agency’s branding. Our
@@ -29,7 +29,7 @@ timesheets enable you to easily keep track of any outstanding payments and
 allow you to run data reports on your income. A professional looking invoice
 sent to students on time will show the attention your business pays to detail,
 which in turn, will help maintain the reputation of your brand in the eyes of
-students and parents. 
+students and parents. [Find out more here.](/features/accounting/)
 
 ### Tutors are Paid On Time
 
@@ -43,7 +43,7 @@ Our software allows you to restrict and release tutor payments as and when you
 need once students have paid for their lessons. ** Third Party Payments are
 Handled Effectively ** Every tutoring business has additional overheads,
 whether it be ongoing marketing costs, advertising or third party referral
-fees. With [tutor timesheet software](http://www.tutorcruncher.com/features/), 
+fees. With [tutor timesheet software](/features/scheduling), 
 you can pay third parties directly from the commission you make on lessons, which
 enables you to keep track of ongoing expenses more effectively as all relevant
 financial data is stored in the one place. As well as helping your agency to
@@ -61,7 +61,7 @@ aside incrementally for when your tax payments are due. How do you keep track
 of your student and tutor timesheets? If you’re still using excel spreadsheets
 to keep track of your invoices and payments, then you need a system that
 reduces scope for error. At TutorCruncher, timesheets are only one of the 
-[features of our tutor scheduling software](http://www.tutorcruncher.com/features/). 
+[features of our tutor scheduling software](/features/). 
 There are many more features that will help your business be more organised and reduce your overall
 administration time. But don’t just take our word for it, check out some of
 the [tutoring businesses we work with](http://www.tutorcruncher.com/testimonials/) and see how we have helped

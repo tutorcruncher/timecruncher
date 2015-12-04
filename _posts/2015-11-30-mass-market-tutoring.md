@@ -25,7 +25,7 @@ use - people have to download before they browse.
 
 <figure class="img-holder full-width">
   <img src="/img/blogs/email-analytics.png" alt-text="TutorCruncher's Email Analytics"/>
-  <figcaption>TutorCruncher's email analytics shows you how many people your email campaign reached and much more.</figcaption>
+  <figcaption><a href="/features/automated-emails#email-analytics">TutorCruncher's</a> email analytics shows you how many people your email campaign reached and much more.</figcaption>
 </figure><br>
 
 While a traditional tutoring company is relatively cheap and easy to establish and run with few overheads, high-volume 
