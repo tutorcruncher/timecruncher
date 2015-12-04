@@ -250,3 +250,7 @@ section.team {
     font-size: 17px;
   }
 }
+
+.thumbnail > img {
+  max-height: 400px;
+}
