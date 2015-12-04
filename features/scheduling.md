@@ -2,6 +2,7 @@
 layout: features
 title: "Scheduling and timetabling"
 permalink: /features/scheduling/
+redirect_from: /features/advanced-scheduling/
 ---
 Scheduling is the most important part of everyday business, and therefore it has to be as smooth and easy to use as possible.
 
