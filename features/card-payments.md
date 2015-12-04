@@ -9,17 +9,17 @@ We have integrated with a card payment system called [Stripe](www.stripe.com) to
 
 With our integrated card payment system, clients can pay an invoice by clicking the link in the automated email sent from TutorCruncher as soon as they receive it. The invoice is then marked as paid in the system so you don't have to lift a finger!
 
-<figure class="img-holder full-width">
+<a href="/img/features/stripe-payment.jpg" data-lightbox="lightbox" class="thumbnail">
   <img src="/img/features/stripe-payment.jpg" alt-text="Stripe card payment"/>
-</figure><br>
+</a>
 
 ### Save card details
 
 Your clients can choose to remember their card details to make future payments quicker still. This also gives admins the ability to take payments on their behalf if they allow it.
 
-<figure class="img-holder full-width">
+<a href="/img/features/saved-card.png" data-lightbox="lightbox" class="thumbnail">
   <img src="/img/features/saved-card.png" alt-text="Stripe saved card"/>
-</figure><br>
+</a>
 
 ### Take payments over the phone
 
