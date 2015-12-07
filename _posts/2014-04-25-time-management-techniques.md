@@ -2,7 +2,7 @@
 layout: post
 title:  "Time Management Techniques"
 permalink: time-management-techniques
-redirect_from: /how-to-start-a-tuition-business1/time-management-techniques2542014/
+redirect_from: [/how-to-start-a-tuition-business1/time-management-techniques2542014/]
 ---
 Time management is not a gift you born with, but a skill which can be acquired
 and developed over time. Many students have an inadequate time management and

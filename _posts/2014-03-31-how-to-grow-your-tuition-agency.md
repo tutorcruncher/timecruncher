@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Grow Your Tuition Agency"
 permalink: how-to-grow-your-tuition-agency
-redirect_from: /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
+redirect_from: [/how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/, /how-to-start-a-tuition-business1/is-becoming-a-franchisee-a-wise-idea442014/]
 ---
 We’ve come up with a list of ways you can grow your tuition agency to keep up
 with demand. The reason? There comes a point in every successful tutoring
