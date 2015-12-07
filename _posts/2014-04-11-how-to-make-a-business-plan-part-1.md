@@ -2,6 +2,7 @@
 layout: post
 title:  "How to make a Business Plan - Part 1"
 permalink: how-to-make-a-business-plan-part-1
+redirect_from: /how-to-start-a-tuition-business1/making-a-business-plan1822014
 ---
 To create a business in general and a successful tutoring agency in particular
 it is important to have a clear vision of your purpose and goals. It might

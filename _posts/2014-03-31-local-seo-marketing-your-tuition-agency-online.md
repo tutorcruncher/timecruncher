@@ -2,6 +2,7 @@
 layout: post
 title:  "Local SEO: Marketing Your Tuition Agency Online"
 permalink: local-seo-marketing-your-tuition-agency-online
+redirect_from: /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
 ---
 One of the most important factors in online marketing for tutoring agencies is
 local search engine optimization. Most tutoring agencies operate from a fixed
@@ -52,7 +53,7 @@ business.
 ### Directory Listings
 
 Listing your tuition agency on popular
-directory sites like Local.com and Yell.com can be a great way to improve your
+directory sites like Local.com and Yell.com can be a great way to improve you
 search engine rankings. Try to choose quality directory sites to submit to and
 consider using specialist tutoring directories too. Avoid using directory
 sites that list your business on hundreds of other directories, as search

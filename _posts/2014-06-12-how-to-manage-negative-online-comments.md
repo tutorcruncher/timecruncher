@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Manage Negative Online Comments?"
 permalink: how-to-manage-negative-online-comments
+redirect_from: /how-to-start-a-tuition-business1/how-to-manage-negative-online-comment1952014
 ---
 Digital Marketing is a tool used by almost every company in the world
 nowadays. Unfortunately, online reputation management is neglected by many of
