@@ -13,11 +13,25 @@ layout: base
   {% for post in site.posts limit: page.limit %}
     <div>
       <h3>
-        <a class="post-link" href="{{ post.url }}" itemscope itemtype="http://schema.org/Article">
+        <a class="post-link" href="{{ post.url }}">
           {{ post.title }}
         </a>
       </h3>
-      {% include post_meta.html date=post.date author=post.author tags=post.tags %}
+
+      <div class="post-meta">
+        <span class="fa fa-calendar">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%b %-d, %Y" }}
+          </time>
+        </span>
+        {% if post.author %}
+        <span class="fa fa-user">{{ post.author }}</span>
+        {% endif %}
+        {% if post.tags %}
+        <span class="fa fa-tag">{{ post.tags | join: ', ' }}</span>
+        {% endif %}
+      </div>
+
       <div class="post-preview">
         {{ post.excerpt | strip_html | strip_newlines | truncate: 300 }}
       </div>
