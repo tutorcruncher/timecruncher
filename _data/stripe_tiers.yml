@@ -1,0 +1,12 @@
+-
+  # Free
+  rate: 1
+-
+  # Basic
+  rate: 0.1
+-
+  # Premium
+  rate: 0
+-
+  # Enterprise
+  rate: 0
