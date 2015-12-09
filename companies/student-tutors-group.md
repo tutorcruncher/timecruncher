@@ -3,8 +3,8 @@ layout: company_profile
 permalink: /companies/the-student-tutors-group/
 title: "The Student Tutors Group"
 founded: "2013"
-telephone: "07850286100"
-email: "anthony@studenttutorsgroup.co.uk"
+telephone: "07515 338179"
+email: "sam@studenttutorsgroup.co.uk"
 website: "http://www.studenttutorsgroup.com/"
 address: "29 Chelsea Square, London, SW3 6LQ, United Kingdom"
 map_address: "29 Chelsea Square, London, SW3 6LQ, United Kingdom"
