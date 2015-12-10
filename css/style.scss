@@ -254,3 +254,36 @@ section.team {
 .thumbnail > img {
   max-height: 400px;
 }
+
+section#stripe-details {
+  .flag {
+    background-size: 75%;
+  }
+  max-width:820px;
+  margin: 0 auto;
+}
+
+section#pricing-table {
+  .panel {
+    text-align: center;
+  }
+
+  .panel-default {
+      color: #777;
+  }
+
+  .panel-primary {
+    border-color: $main-colour;
+    >.panel-heading {
+      background-color: $main-colour;
+      border-color: $main-colour;
+    }
+  }
+
+  .list-group-item {
+    height: 33px;
+    font-size: 13px;
+    padding-top: 6px;
+  }
+  padding-bottom: 50px;
+}

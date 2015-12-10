@@ -1,68 +1,76 @@
 -
   name: Free
   price: Free
+  price_short: Free
+  icon: fa-bicycle
   hightlight: False
+  desc: Ideal for single tutors, or a brand new company just getting up and running.
   features:
     - Up to 10 active students
-    - Online Card Payments<sup>[2]</sup>
-    - Card rates at 2.4% + 20p
+    - Online Card Payments<sup><a href="/pricing/#extras">[2]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
     - Email Marketing
     - Unlimited resources upload
-    - Send 500 emails per month<sup>[3]</sup>
+    - Send 500 emails per month<sup><a href="/pricing/#extras">[3]</a></sup>
 -
   name: Basic
   price: £35/$50 per month
+  price_short: 35
   hightlight: True
+  icon: fa-motorcycle
+  desc: This tier is great for younger or smaller companies who deal with up to 20 clients per month.
   features:
-    - £0.65/$1 per active student per month<sup>[1]</sup>
-    - Online Card Payments<sup>[2]</sup>
-    - Card rates at 2.1% + 20p
+    - £0.65/$1 per active student per month<sup><a href="/pricing/#extras">[1]</a></sup>
+    - Online Card Payments<sup><a href="/pricing/#extras">[2]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
     - Email marketing
     - Unlimited resources upload
-    - Send 1,000 emails per month<sup>[3]</sup>
+    - Send 1,000 emails per month<sup><a href="/pricing/#extras">[3]</a></sup>
     - Send emails from your own address
     - Customisable automated emails
     - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
-    - One month's free phone support<sup>[5]</sup>
+    - One month's free phone support<sup><a href="/pricing/#extras">[5]</a></sup>
 -
   name: Premium
   price: £99/$155 per month
+  price_short: 99
   hightlight: True
+  icon: fa-car
+  desc: Perfect for medium and larger companies who want the further personalisation offered by TutorCruncher.
   features:
-    - £1/$1.56 per active student per mo<sup>[1]</sup>
-    - Online Card Payments<sup>[2]</sup>
-    - Card rates at 2% + 20p
+    - £1/$1.56 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
+    - Online Card Payments<sup><a href="/pricing/#extras">[2]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
     - Email Marketing
     - Unlimited resources upload
-    - Send 5,000 emails per month<sup>[3]</sup>
+    - Send 5,000 emails per month<sup><a href="/pricing/#extras">[3]</a></sup>
     - Send emails from your own address
     - Customisable automated emails
     - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
-    - One month's free phone support<sup>[5]</sup>
+    - One month's free phone support<sup><a href="/pricing/#extras">[5]</a></sup>
     - Add your own logo to your system
-    - Manage Multiple Branches<sup>[4]</sup>
+    - Manage Multiple Branches<sup><a href="/pricing/#extras">[4]</a></sup>
     - Edit HTML email templates
     - New feature request priority
     - Personal Account Manager
 -
   name: Enterprise
   price: £500/$770 per month
+  price_short: 500
   hightlight: True
+  icon: fa-fighter-jet
+  desc: This tier is for large companies that want to take advantage of the msot bespoke level of service TutorCruncher has to offer.
   features:
-    - £1/$1.56 per active student per month<sup>[1]</sup>
-    - Online Card Payments<sup>[2]</sup>
-    - Card rates at 1.9% + 20p
+    - £1/$1.56 per active student per month<sup><a href="/pricing/#extras">[1]</a></sup>
+    - Online Card Payments<sup><a href="/pricing/#extras">[2]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
@@ -75,7 +83,7 @@
     - Add your own logo to PDFs and emails
     - Free phone support
     - Add your own logo to your system
-    - Manage Multiple Branches<sup>[4]</sup>
+    - Manage Multiple Branches<sup><a href="/pricing/#extras">[4]</a></sup>
     - Edit HTML email templates
     - New feature request priority
     - Personal Account Manager

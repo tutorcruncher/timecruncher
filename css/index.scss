@@ -83,33 +83,20 @@ section#video {
   }
 }
 
-section#pricing {
-  .panel {
-    text-align: center;
-  }
-
-  .panel-default {
-      color: #777;
-  }
-
-  .panel-primary {
-    border-color: $main-colour;
-    >.panel-heading {
-      background-color: $main-colour;
-      border-color: $main-colour;
-    }
-  }
-
-  .list-group-item {
-    height: 33px;
-    font-size: 13px;
-    padding-top: 6px;
-  }
-}
-
 section#contact, section#pricing {
-  h2 {
+  .top-pad h2 {
     padding-top: 60px;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  .price {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    sup {
+      top: -2em;
+    }
   }
 }
 

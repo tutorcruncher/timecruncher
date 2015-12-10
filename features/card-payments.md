@@ -27,6 +27,6 @@ Admins have the ability to take card payments over the phone, so the entire proc
 
 ### Low rates
 
-Stripe only charge 1.9% + 20p per transaction*, which is cheaper than its competitors, with Paypal at 3/4% + 20p. 
+Our credit card rates start from 1.4% + 20p per transaction, and can be found [here](/pricing/).
 
-\*Visit [www.stripe.com](http://www.stripe.com) for more information.
+Our partnership with Stripe means that

@@ -1,0 +1,48 @@
+---
+layout: base
+---
+<div class="container main">
+  <article>
+    <header>
+      <h1 class="text-center">{{ page.title }}</h1>
+    </header>
+    <div class="row">
+      {% for feature in site.data.pricing_features %}
+        {% include mixins/feature_block.html feature=feature %}
+      {% endfor %}
+    </div>
+  </article>
+
+  <hr class="primary">
+  <h4 class="text-center">Every tier comes with a 14 day free trial, so <a href="https://secure.tutorcruncher.com/start/1">sign up now for free!</a></h4>
+
+  <div class="row">
+    <section id="pricing-table">
+      {% for tier in site.data.pricing %}
+        {% include mixins/price_column.html tier=tier  %}
+      {% endfor %}
+    </section>
+  </div>
+
+  <section id="stripe-details">
+    <h2>
+      Stripe pricing details
+    </h2>
+    <p>
+      Listed below are our individual rates for each of our pricing tiers. International payment rates differ.
+    </p>
+    {% include mixins/stripe-details.html %}
+  </section>
+
+  <section id="extras">
+    <div class="text-center">
+      <p class="text-muted"><sup>[1]</sup> An active student is any student that receives a lesson or charge in a given month</p>
+      <p class="text-muted"><sup>[2]</sup> See <a href="www.stripe.com">www.stripe.com</a> for more details.</p>
+      <p class="text-muted"><sup>[3]</sup> £5 per 1,000 emails outside allowance</p>
+      <p class="text-muted"><sup>[4]</sup> First additional branch free, then £40 per branch after that</p>
+      <p class="text-muted"><sup>[5]</sup> £30 per month optional extra after the first month</p>
+      <p class="text-muted">Prices exclude UK VAT</p>
+      <p class="text-muted">Discounts available for high volume users</p>
+    </div>
+  </section>
+</div>
