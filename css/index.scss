@@ -84,8 +84,19 @@ section#video {
 }
 
 section#contact, section#pricing {
-  h2 {
+  .top-pad h2 {
     padding-top: 60px;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  .price {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    sup {
+      top: -2em;
+    }
   }
 }
 
