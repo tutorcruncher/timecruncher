@@ -27,6 +27,6 @@ Admins have the ability to take card payments over the phone, so the entire proc
 
 ### Low rates
 
-Our credit card rates start from 1.4% + 20p per transaction, and can be found [here](/pricing/).
+Credit card rates start from a tiny 1.4% + 20p per transaction, and can be found [here](/pricing#stripe-details). That's less than half of what PayPal charge at 3.4%.
 
-Our partnership with Stripe means that
+Our partnership with Stripe means that you can negotiate your own rates to get the best deal.
