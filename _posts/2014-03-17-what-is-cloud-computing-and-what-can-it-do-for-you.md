@@ -2,7 +2,7 @@
 layout: post
 title:  "What is cloud computing and what can it do for you?"
 permalink: what-is-cloud-computing-and-what-can-it-do-for-you
-redirect_from: /how-to-start-a-tuition-business1/what-is-cloud-computing-and-what-can-it-do-for-you2622014
+redirect_from: /how-to-start-a-tuition-business1/what-is-cloud-computing-and-what-can-it-do-for-you2622014/
 ---
 Nowadays the term "cloud computing" is everywhere, but what does it mean? and
 how can it be an advantage to your business? To put it into simple terms,
