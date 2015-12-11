@@ -2,7 +2,9 @@
 layout: about
 title: "About TutorCruncher"
 permalink: /about/
-redirect_from: [/our-team/, /careers/]
+redirect_from: 
+  - /our-team/
+  - /careers/
 ---
 
 TutorCruncher Ltd. was incorporated in February 2013 as an independently owned technology company born out of years 
@@ -18,7 +20,7 @@ There were payroll tools but they had no concept of requiring an invoice before 
 nothing about generating payment orders. Even for just generating invoices the available packages were way short of
 the mark; there was nothing that would satisfactorily drag items onto an invoice so each invoice had to be written
 out manually, even once that was complete the complex tax arrangement of [paying VAT only on fixing fees not the tutor's 
-time]() meant every existing piece of software was way out of its depth.
+time](/features/tax-calculation/) meant every existing piece of software was way out of its depth.
 
 In the absence of a feasible solution BYT and many other tutoring companies resorted to getting tutors to ask
 clients for money directly. But this threw up a whole raft of new problems; half the point of an agency is to remove the 
@@ -39,9 +41,9 @@ Despite the pain, the result by late 2012 was a pretty usable system. TutorCrunc
 cloud-based and generated satisfactory Invoices and Payment Orders.
 
 The kicker was that once you have a database of Tutors and Clients (which you require anyway to generate invoices) you 
-can start using the system for [customer relationship management (CRM)]() on the client side and as an [employee database]()
-on the tutor side. Without too much work what was once an accounting framework started [sending notifications]() and 
-letting tutors [apply for jobs](). The process of automating the donkey work of running a tutoring company had begun.
+can start using the system for [customer relationship management (CRM)](/features/crm/) on the client side and as an employee database
+on the tutor side. Without too much work what was once an accounting framework started [sending notifications](/features/automated-emails/) and 
+letting tutors [apply for jobs](/features/tutor-student-matching/). The process of automating the donkey work of running a tutoring company had begun.
 
 It became increasingly clear that TutorCruncher was more than just a cool internal tool. Other companies started asking
 if they could use it too and it made sense to share the hefty development budget between multiple companies.
@@ -67,15 +69,16 @@ something which learnt the lessons of all the systems which went before but whic
 meet the demands of a modern tutoring company. 
 
 Meet TutorCruncher 2, the product of 7 years in the tuition industry and 18 months of flat-out development. 
-TutorCruncher 2 has a vastly increased range of capabilities compared to its predecessors and is quickly becoming the gold standard in how far you can go in automating the boring bits of running an agency, leaving you free to concentrate on
+TutorCruncher 2 has a vastly increased range of capabilities compared to its predecessors and is quickly becoming the gold 
+standard in how far you can go in automating the boring bits of running an agency, leaving you free to concentrate on
 the interesting and ultimately profit-generating parts of running your company.
 
 As well as extending what TutorCruncher does for companies our new system also allows us to cater for a far broader range
 of companies:
 
-* Because the system is [cloud native]() and deployed on the PAAS system [Heroku](https://www.heroku.com/) we can scale 
+* Because the system is [cloud native](/features/cloud-software/) and deployed on the PAAS system [Heroku](https://www.heroku.com/) we can scale 
 easily. This means we can allow new companies to sign up in minutes and existing companies can scale more or less infinitely.
-* Allowing [multiple Students and multiple Tutors on a lesson]() means TutorCruncher can be used to manage tuition centers 
+* Allowing [multiple Students and multiple Tutors on a lesson](/features/scheduling/) means TutorCruncher can be used to manage tuition centers 
 as well as private one-to-one tutoring companies.
 * TutorCruncher 2 uses a modified implementation of Django's ugettext translations engine to allow the same framework
 to be used in multiple industries.
