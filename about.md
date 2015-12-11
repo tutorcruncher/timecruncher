@@ -5,6 +5,7 @@ permalink: /about/
 redirect_from: 
   - /our-team/
   - /careers/
+  - /our-background/
 ---
 
 TutorCruncher Ltd. was incorporated in February 2013 as an independently owned technology company born out of years 

@@ -7,6 +7,7 @@ redirect_from:
   - /features/multi-directional-timesheets/
   - /features/automated-billing/
   - /features/automated-accounting/
+  - /payroll/
 ---
 Take the hassle out of accounting with TutorCruncher.
 

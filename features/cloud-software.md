@@ -2,7 +2,9 @@
 layout: features
 title: Cloud Software
 permalink: /features/cloud-software/
-redirect_from: /features/access-from-anywhere/
+redirect_from: 
+  - /features/access-from-anywhere/
+  - online-portal/
 ---
 Access our system from safely from any platform with TutorCruncher's cloud based system.
 
