@@ -2,7 +2,9 @@
 layout: page
 title: Terms & Conditions
 permalink: /terms/
-redirect_from: /terms-of-service/
+redirect_from: 
+  - /terms-of-service/
+  - /terms-conditions/
 ---
 
 ## Terms of Service

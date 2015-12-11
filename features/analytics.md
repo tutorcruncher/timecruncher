@@ -1,6 +1,6 @@
 ---
 layout: features
-title: "Analytics"
+title: Analytics
 permalink: /features/analytics/
 redirect_from:
   - /features/reports-and-analytics/

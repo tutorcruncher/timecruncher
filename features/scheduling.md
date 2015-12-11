@@ -1,6 +1,6 @@
 ---
 layout: features
-title: "Scheduling and timetabling"
+title: Scheduling and timetabling
 permalink: /features/scheduling/
 redirect_from: /features/advanced-scheduling/
 ---

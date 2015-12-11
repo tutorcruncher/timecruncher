@@ -1,6 +1,6 @@
 ---
 layout: features
-title: "Custom Fields"
+title: Custom Fields
 permalink: features/custom-fields/
 ---
 Coming soon

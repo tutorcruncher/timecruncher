@@ -2,7 +2,9 @@
 layout: post
 title:  "Tuition Agencies: How to Prepare For Busy Periods"
 permalink: tuition-agencies-how-to-prepare-for-busy-periods
-redirect_from: /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
+redirect_from: 
+  - /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
+  - /how-to-start-a-tuition-business1/tuition-agencies-how-to-prepare-for-busy-periods2242014/
 ---
 Demand for private tuition can often be seasonal, with particularly busy
 periods leading up to exam time. Busy periods can be stressful for any

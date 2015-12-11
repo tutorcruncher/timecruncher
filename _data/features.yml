@@ -68,3 +68,9 @@
   text: |
     TutorCruncher does all the paperwork and calculations needed to charge VAT on your margin/commission rather than the total tutor fee.
     The system can be set up to charge tax on your commission, the lesson total, or even not to charge tax at all.
+-
+  name: Multi Language Support
+  icon: fa-language
+  feature-page: /features/multi-language/
+  text: |
+    TutorCruncher is available in English, French, German, Spanish and Chinese.

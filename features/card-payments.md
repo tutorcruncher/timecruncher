@@ -1,6 +1,6 @@
 ---
 layout: features
-title: "Card Payments"
+title: Card Payments
 permalink: /features/card-payments/
 ---
 We have integrated with a card payment system called [Stripe](www.stripe.com) to help you take payment as quickly and easily as possible.

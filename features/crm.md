@@ -1,6 +1,6 @@
 ---
 layout: features
-title: "Tutor & Client Profiles"
+title: Tutor & Client Profiles
 permalink: /features/crm/
 ---
 Coming soon

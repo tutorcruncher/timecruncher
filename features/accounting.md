@@ -1,8 +1,12 @@
 ---
 layout: features
-title: "Accounting"
+title: Accounting
 permalink: /features/accounting/
-redirect_from: [/features/automated-invoicing-payroll/, /features/multi-directional-timesheets/, /features/automated-billing/]
+redirect_from: 
+  - /features/automated-invoicing-payroll/
+  - /features/multi-directional-timesheets/
+  - /features/automated-billing/
+  - /features/automated-accounting/
 ---
 Take the hassle out of accounting with TutorCruncher.
 
