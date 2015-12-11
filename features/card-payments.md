@@ -4,7 +4,7 @@ title: Card Payments
 permalink: /features/card-payments/
 redirect_from: /credit-card-payments/
 ---
-We have integrated with a card payment system called [Stripe](www.stripe.com) to help you take payment as quickly and easily as possible.
+We have integrated with a card payment system called [Stripe](http://www.stripe.com) to help you take payment as quickly and easily as possible.
 
 ### Easy payment for clients
 

@@ -18,7 +18,7 @@
   icon: fa-credit-card-alt
   feature-page: /features/card-payments/
   text: |
-    Using <a href="http://www.stripe.com">Stripe</a> we allow your clients to pay quickly and easily online. TutorCruncher can optionally
+    Using Stripe we allow your clients to pay quickly and easily online. TutorCruncher can optionally
     save users' card details so you can easily recharge them for future appointments.
 -
   name: Secure & Cloud-Based
