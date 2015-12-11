@@ -14,7 +14,13 @@
             {% if tier.name == 'Free' %}
               <h1 class="price">{{ tier.price_short }}</h1>
             {% else %}
-              <p class="price">from <sup>£</sup><h1 class="price">{{ tier.price_short }}</h1> /mo.</p>
+              <p class="price">
+                from &nbsp;
+                <h1 class="price">
+                  <sup>£</sup>{{ tier.price_short }}
+                </h1>
+                /mo.
+              </p>
             {% endif %}
             <p class="text-muted">
               {{ tier.desc }}
