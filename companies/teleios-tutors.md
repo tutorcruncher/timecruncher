@@ -3,7 +3,7 @@ layout: company_profile
 permalink: /companies/teleios-tutors/
 title: "Teleios Tutors"
 founded: ""
-email "info@teleiostutors.com"
+email: info@teleiostutors.com
 telephone: "020 8022 2995"
 website: "www.teleiostutors.com"
 address: "152 City Road, London, EC1V 2NX"

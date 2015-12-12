@@ -5,7 +5,7 @@ permalink: /companies/essex-tuition-centre/
 title: "Essex Tuition Centre"
 founded: ""
 telephone: "+44 (0)208 220 5155"
-email "info@essextuitioncentre.com"
+email: info@essextuitioncentre.com
 website: "http://www.essextuitioncentre.com"
 address: "206 Ripple Road,Barking,Essex,IG11 7PR"
 map_address: "206 Ripple Road,Barking,Essex,IG11 7PR"

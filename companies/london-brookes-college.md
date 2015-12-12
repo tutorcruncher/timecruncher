@@ -4,7 +4,7 @@ redirect_from: /tuition-centres/london-brookes-college/
 permalink: /companies/london-brookes-college/
 title: "London Brookes College"
 founded: ""
-email "info@londonbrookescollege.co.uk"
+email: info@londonbrookescollege.co.uk
 telephone: "44 (0) 208-202-2007"
 website: "http://www.londonbrookescollege.co.uk/"
 address: "42 The Burroughs,Hendon,London,NW4 4AP"

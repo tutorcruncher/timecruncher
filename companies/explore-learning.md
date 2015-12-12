@@ -4,7 +4,7 @@ redirect_from: /tutor-centres/tuition-centres/explore-learning/
 permalink: /companies/explore-learning/
 title: "Explore Learning"
 founded: ""
-email "info@explorelearning.co.uk"
+email: info@explorelearning.co.uk
 telephone: "01483 447410"
 website: "http://www.explorelearning.co.uk"
 address: "Explore Learning Ltd,Third Floor,74 North Street,Guildford,Surrey,GU1 4AW"

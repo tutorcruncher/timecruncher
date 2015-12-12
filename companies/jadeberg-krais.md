@@ -5,7 +5,7 @@ permalink: /companies/jadeberg-krais/
 title: "Jaderberg Krais Educational Consultancy"
 founded: ""
 telephone: "020 3488 0754"
-email "info@jaderbergkrais.co.uk"
+email: info@jaderbergkrais.co.uk
 website: "http://www.jaderbergkrais.co.uk/"
 address: ""
 map_address: ""

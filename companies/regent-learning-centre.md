@@ -4,7 +4,7 @@ redirect_from: /tuition-centres/regent-learning-centre/
 permalink: /companies/regent-learning-centre/
 title: "Regent Learning Centre/"
 founded: ""
-email "info@regentlearning.com"
+email: info@regentlearning.com
 telephone: "020 8966 9900"
 website: "http://www.regentlearning.com"
 address: "167 Imperial Drive, Harrow, Middlesex, HA2 7HD"

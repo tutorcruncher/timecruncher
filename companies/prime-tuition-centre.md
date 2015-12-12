@@ -4,7 +4,7 @@ redirect_from: /tuition-centres/prime-tuition-centre-5/
 permalink: /companies/prime-tuition-centre/
 title: "Prime Tuition Centre"
 founded: ""
-email "www.primetuition.co.uk"
+email: www.primetuition.co.uk
 telephone: "020 3302 1524"
 website: "info@primetuition.co.uk"
 address: "10 Acre House,Brixton,London,SW2 5SG"

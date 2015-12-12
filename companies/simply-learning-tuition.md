@@ -4,7 +4,7 @@ redirect_from: /tutor-agencies/simply-learning-tuition/
 permalink: /companies/simply-learning-tuition/
 title: "Simply Learning Tuition"
 founded: ""
-email "info@simplylearningtuition.co.uk"
+email: info@simplylearningtuition.co.uk
 telephone: "+ 44 (0) 207 350 1981"
 website: "https://www.simplylearningtuition.co.uk/"
 address: "43 Berkeley Square,London,W1J 5FJ"
