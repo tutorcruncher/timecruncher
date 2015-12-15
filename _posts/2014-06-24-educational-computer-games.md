@@ -15,9 +15,8 @@ from those from the past.
 Several studies has proved that digital natives are more adaptive, better at
 parallel processing, quicker in taking and retaining information and more
 comfortable in collaborating over network. This is why, especially for new
-learners, educational [ computer games are more engaging
-](http://www.tutorcruncher.com/how-to-start-a-tuition-business1/technology-
-teaching-ideas-for-private-tutors1162014) and motivating learning environments
+learners, educational computer games are more engaging and motivating 
+learning environments
 than traditional classes.
 
 ### What is Digital Game-Based Learning
@@ -58,14 +57,9 @@ computer games in their classrooms, in order to better engage their students.
 With the help of the infographic below, we’ve tried to summarize some of the
 key findings of the research.
 
-[
-
 <div class="img-holder full-width">
    <img src="/img/blogs/tutor-cruncher-digital-game-learning-559x1024.jpg" alt-text="tutor-cruncher-digital-game-learning"/>
 </div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutor-cruncher-
-digital-game-learning.jpg)
 
 _ Have you ever used digital games during your lessons? What kind of games and
 devices do you prefer? What do you think are the major benefits of this
