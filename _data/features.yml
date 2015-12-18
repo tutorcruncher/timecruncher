@@ -58,7 +58,7 @@
 -
   name: Customisable Fields
   icon: fa-edit
-  feature-page: /features/crm/
+  feature-page: /features/custom-fields/
   text: |
     Create your own custom fields for tutors, students, clients and lesson reports so you can manage your company in your own unique way.
 -
