@@ -24,13 +24,16 @@
   title: Head of Operations
   bio: The world expert in how to do just about anything with TutorCruncher
   extended_bio: |
-    Tom studied in Oxford, and has been with TutorCruncher since development started. He now runs operations to
-    make sure clients get what they need.
+    <p>Tom studied in Oxford, and has been with TutorCruncher since development started. He now runs operations to
+    make sure clients get what they need.</p>
+
+    <p>Tom works on development as well as helping current users, so he knows the system from back to front. He writes
+    and tests new features to make sure they are easily used, and is in charge of any releases that go out.</p>
 -
   name: Rob Willetts
   img: /img/team/rob.png
   title: Head of Sales
-  bio: great industry knowledge and a knack of explaining how TutorCruncher can help
+  bio: Fantastic industry knowledge and a knack of explaining how TutorCruncher can help
   extended_bio: |
     Having run a branch of a tuition agency based in Kent, Rob brings an real understanding of the challenges
     faced in the day to day running of a tuition agency.
