@@ -6,7 +6,7 @@ title: "Totus Education"
 founded: ""
 email: contact@totuseducation.com
 telephone: "0800 907 8595"
-website: "www.totuseducation.com"
+website: "http://www.totuseducation.com"
 address: "Trinity Hall, Rainsford, CM1 2XB"
 map_address: "Trinity Hall, Rainsford, CM1 2XB"
 description: "Totus Education TutorCruncher Company Profile"
