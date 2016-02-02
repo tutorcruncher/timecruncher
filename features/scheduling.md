@@ -11,8 +11,8 @@ Scheduling is the most important part of everyday business, and therefore it has
 You can view your calendar by month, week or day. You can filter you calendar by student, client, tutor or job and you can even colour code your 
 calendar, meaning you can view it however you want, when you want.
 
-<a href="/img/features/calendar.png" data-lightbox="lightbox" class="thumbnail">
-  <img src="/img/features/calendar.png" alt-text="Stripe card payment"/>
+<a href="/img/features/calendar.png" data-lightbox="lightbox" data-title="TutorCruncher's calendar" class="thumbnail">
+  <img src="/img/features/calendar.png" alt-text="TutorCruncher's calendar"/>
 </a>
 
 ### Tutors and clients can log in to view their hours
@@ -23,8 +23,8 @@ With our tutor and client log ins, your clients can log in to view their calenda
 
 Allow your tutors to log in and log their own hours, giving you more time to run your company. Own system is optimised for mobile so they can do it on the move.
 
-<a href="/img/features/add-lesson.png" data-lightbox="lightbox" class="thumbnail">
-  <img src="/img/features/add-lesson.png" alt-text="Adding lesson"/>
+<a href="/img/features/add-lesson.png" data-lightbox="lightbox" data-title="Adding a lesson within TutorCruncher" class="thumbnail">
+  <img src="/img/features/add-lesson.png" alt-text="Adding a lesson within TutorCruncher"/>
 </a>
 
 ### Upload learning resources
@@ -35,7 +35,7 @@ Documents and images can be uploaded by the tutor, client, student or admin to a
 
 Tutors can fill in a report at the end of every lesson, which can be customised with your own fields. The notes are then sent to the client with their invoice without them needing to log in.
 
-<a href="/img/features/lesson-report.png" data-lightbox="lightbox" class="thumbnail">
+<a href="/img/features/lesson-report.png" data-lightbox="lightbox" data-title="Lesson reporting within TutorCruncher" class="thumbnail">
   <img src="/img/features/lesson-report.png" alt-text="Lesson reporting"/>
 </a>
 
