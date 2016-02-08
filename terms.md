@@ -29,6 +29,7 @@ shall be subject to the Terms of Service. Continued use of the Service after any
 
 1. If you sign up for a free trial on a paying account, and you do not cancel or become a full member within 30 days, you will be sent an e-mail inviting you to begin paying for your subscription. If you choose not to pay once your trial has expired, your account will be suspended until payment is received. If you enter your payment information before the 30-day trial has ended, your trial ends on that day.
 1. The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for unused months with an open account.
+1. If you choose to save your details when paying for TutorCruncher's service, TutorCruncher reserves the right to take payment for invoices from that card.
 1. All payments are to be made in GBP £.
 
 ## Modifications to the Service and Fees
