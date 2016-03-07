@@ -28,4 +28,23 @@ layout: base
       {{ content }}
     </div>
   </article>
+
+  <div id="disqus_thread" class=""></div>
 </div>
+
+<script>
+    var page_url = "/" + "{{ page.permalink }}" + "/";
+    var disqus_config = function () {
+        this.page.url = "{{ site.url }}" + page_url;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = page_url;
+    };
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//tutorcruncherblog.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
