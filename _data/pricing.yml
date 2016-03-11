@@ -22,7 +22,7 @@
   icon: fa-motorcycle
   desc: This tier is great for younger or smaller companies who deal with up to 20 clients per month.
   features:
-    - £0.65/$1 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
+    - £1/$1.56 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
     - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
     - Unlimited students
     - Unlimited clients
@@ -56,6 +56,7 @@
 #    - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
     - One month's free phone support<sup><a href="/pricing/#extras">[4]</a></sup>
+    - Lesson reminder
     - Add your own logo to your system
     - Manage Multiple Branches<sup><a href="/pricing/#extras">[3]</a></sup>
     - Edit HTML email templates
