@@ -4,7 +4,6 @@ title: "About TutorCruncher"
 permalink: /about/
 redirect_from: 
   - /our-team/
-  - /careers/
   - /our-background/
 ---
 
