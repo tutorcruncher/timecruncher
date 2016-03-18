@@ -50,6 +50,11 @@ shall be subject to the Terms of Service. Continued use of the Service after any
 1. TutorCruncher owns the intellectual property rights to any and all protectable components of the Service, including but not limited to the name of the Service, artwork and end-user interface elements contained within the Service, many of the individual features, and the related documentation. You may not copy, modify, adapt, reproduce, distribute, reverse engineer, decompile, or disassemble any aspect of the Service which TutorCruncher owns.
 1. TutorCruncher claims no intellectual property rights over the Content you upload or provide to the Service. However, by using the Service to send Content, you agree that others may view and share your Content.
 
+
+## How We Use Your Information (Data Protection)
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties as part of our business operations.
+
 ## General Conditions
 
 1. Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
