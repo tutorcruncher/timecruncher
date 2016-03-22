@@ -35,3 +35,17 @@
     });
   }
 })(jQuery);
+
+function init_map() {
+  var pos = {lat: 51.498146, lng: -0.144880};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    center: pos,
+    scrollwheel: false,
+    zoom: 12
+  });
+  new google.maps.Marker({
+      map: map,
+      position: pos,
+      title: 'TutorCruncher'
+  });
+}
