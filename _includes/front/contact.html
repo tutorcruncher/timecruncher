@@ -7,27 +7,15 @@
   <div>
     <div id="map"></div>
   </div>
-  <div class="container">
-    <div class="row top-margin-40">
-      {% include mixins/contact_section.html icon='fa-map-pin' text='8A Lower Grosvenor Place, London, SW1W 0EN'  %}
-      {% include mixins/contact_section.html icon='fa-phone' text='+44 (0) 20 7112 8953'  %}
-      {% include mixins/contact_section.html icon='fa-envelope' text='<a href="mailto:info@tutorcruncher.com">info@tutorcruncher.com</a>'  %}
+  <div class="container text-center">
+    <div class="row top-margin-20">
+    <hr>
+    <h4>
+      Contact TutorCruncher to arrange a free demo, or to find out more information.
+    </h4>
+      <a href="/contact/" class="btn btn-primary btn-xl">Contact TutorCruncher</a>
     </div>
   </div>
 </section>
-<script>
-  function init_map() {
-    var pos = {lat: 51.498146, lng: -0.144880};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      center: pos,
-      scrollwheel: false,
-      zoom: 12 
-    });
-    new google.maps.Marker({
-        map: map,
-        position: pos,
-        title: 'TutorCruncher'
-    });
-  }
-</script>
+<script src="/js/theme.js"></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWaPGLG--T9LU2sWVkz_8l3YqudOHn8iQ&callback=init_map"></script>
