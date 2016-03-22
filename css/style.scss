@@ -27,6 +27,10 @@ body {
   }
 }
 
+h2 {
+  margin-bottom: 25px;
+}
+
 hr {
   border: 2px solid $main-colour;
   max-width: 50px;
@@ -178,7 +182,6 @@ section {
 section#footer {
   position: absolute;
   bottom: 0;
-  height: $footer-height;
   min-height: $footer-height;
   padding-top: 25px;
   width: 100%;
@@ -298,4 +301,35 @@ section#pricing-table {
 
 a:hover {
   text-decoration: none;
+}
+
+.short-delay {
+  animation-delay: 0.3s;
+}
+
+.long-delay {
+  animation-delay: 0.7s;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: -50px;
+  margin-bottom: -10px;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.wrapper img {
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 0 80px rgba(52, 60, 69, 5);
+}
+
+@media (max-width: 767px) {
+  .wrapper {
+    padding-top: 65px;
+  }
 }
