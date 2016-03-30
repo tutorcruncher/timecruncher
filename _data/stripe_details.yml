@@ -44,6 +44,11 @@
   base_rate: 1.4
   per_transaction_fee: 25c
 -
+  flag: de
+  country: Germany
+  base_rate: 1.4
+  per_transaction_fee: 25c
+-
   flag: ie
   country: Ireland
   base_rate: 1.4
@@ -77,3 +82,8 @@
   country: Spain
   base_rate: 1.4
   per_transaction_fee: 25c
+-
+  flag: se
+  country: Sweden
+  base_rate: 1.4
+  per_transaction_fee: 1.8kr

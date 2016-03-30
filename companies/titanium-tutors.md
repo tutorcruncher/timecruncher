@@ -14,7 +14,7 @@ categories: company
 ---
 Run by a qualified teacher, Titanium Tutors works with over 700 inspirational private tutors across the UK.
 
-The tutors all studied at world class universities and have been hand-picked by teaching experts.Between them, they offer over 200 subjects for all ages and levels, from young learners right through to undergraduates and adult learners.
+The tutors all studied at world class universities and have been hand-picked by teaching experts. Between them, they offer over 200 subjects for all ages and levels, from young learners right through to undergraduates and adult learners.
 
 Not only does Titanium Tutors cover the most popular subjects (such as English, Maths, Biology, Chemistry, Physics, Languages, Humanities and Musical Instruments), but they also cover a range of niche subjects (such as Accounting, Computer Coding, GMAT, BMAT and Memory Skills)!
 
