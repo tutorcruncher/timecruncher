@@ -496,20 +496,18 @@ span.green {
     margin-bottom: 0;
   }
   #map {
-    margin-top: -60px;
     margin-bottom: -40px;
   }
   iframe {
     height: 600px;
     width: 900px;
     border: none;
-    @media (max-width: 600px) {
-      height: 750px;
-      width: 320px;
-    }
-    @media (max-width: 900px) {
+    @media (max-width: 920px) {
       height: 750px;
       width: 600px;
+    }
+    @media (max-width: 620px) {
+      width: 300px;
     }
   }
 }
