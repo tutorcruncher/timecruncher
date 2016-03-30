@@ -10,52 +10,49 @@ html, body {
 header {
   position: relative;
   width: 100%;
-  @include background-cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   background: url('/img/header.jpg') center;
   text-align: center;
   color: white;
   padding-bottom: 10px;
-
+  overflow: hidden;
   h1 {
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 15px;
     font-size: 26px;
-  }
-  p {
-    font-size: 16px;
-    margin-bottom: 30px;
-  }
-
-  .header-content {
-    width: 100%;
-  }
-  margin-top: 60px;
-  @media (min-width: 768px) {
-    min-height: 100%;
-    h1 {
+    @media (min-width: 768px) {
       font-size: 36px;
       padding-top: 0;
     }
-    hr {
-      margin: 30px auto;
+  }
+  p {
+    margin-bottom: 30px;
+  }
+  .header-content {
+    width: 100%;
+    @media (max-width: 767px) {
+      margin-top: 80px;
     }
-    .header-content {
-      position: absolute;
-      top: 50%;
+    @media (min-width: 768px) {
+      top: 30%;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
+      transform: translateY(-30%);
       padding: 0 50px;
+      margin-top: 200px;
+      hr {
+        margin: 30px auto;
+      }
       .header-content-inner {
         max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
         p {
           font-size: 18px;
-          max-width: 80%;
-          margin-left: auto;
-          margin-right: auto;
         }
       }
     }
@@ -65,7 +62,13 @@ header {
 section#signup {
   padding-bottom: 10px;
   @media (min-width: 768px) {
-    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+  }
+  @media (min-width: 768px) {
+    p {
+      font-size: 16px;
+    }
   }
 }
 
@@ -103,12 +106,25 @@ section#contact, section#pricing {
 }
 
 section#team {
-  >.carousel{
+  >.carousel {
     @include background-cover;
     background: url('/img/team_back.jpg') center;
   }
   h1 {
     color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .carousel {
+    margin-bottom: 20px;
+  }
+  .carousel-caption {
+    padding-bottom: 50px;
+    left: 15%;
+    right: 15%;
+    p {
+      font-size: 15px;
+    }
   }
   .carousel-inner {
     img {
@@ -117,13 +133,9 @@ section#team {
       margin-right: auto;
     }
     .item {
-      height: 275px;
+      height: 290px;
     }
   }
-    .carousel-caption {
-      left: 15%;
-      right: 15%;
-    }
   @media (max-width: 768px) {
     .carousel-caption {
       right: 0;
@@ -133,8 +145,9 @@ section#team {
       }
     }
   }
-}
-
-section#footer {
-  position: relative;
+  @media (max-width: 405px) {
+    .carousel-caption {
+      padding-bottom: 40px;
+    }
+  }
 }
