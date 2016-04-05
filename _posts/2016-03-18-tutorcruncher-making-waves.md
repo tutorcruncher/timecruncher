@@ -3,6 +3,9 @@ layout: post
 title:  "TutorCruncher Making Waves"
 permalink: tutorcruncher-making-waves
 author: Mark Biggins
+tags:
+ - TutorCruncher
+ - Business Management Software
 ---
 We were delighted to be featured this week by our friends over at [businessadvice.co.uk](
 http://businessadvice.co.uk/on-the-up/tutorcruncher-how-accidental-intrapreneurship-lead-to-a-new-business-which-is-shaking-up-an-industry/) about how TutorCruncher, originally designed to solve a problem for a single tutoring agency, has now gone to transform an entire industry. Initially the software was developed in-house to solve the time consuming business of invoicing clients and paying tutors. With significant additional development this is only the beginning of what TutorCruncher can do, as it now provides a comprehensive communication, invoicing and payment tool for agencies, tutors, clients and pupils.

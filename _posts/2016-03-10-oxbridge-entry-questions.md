@@ -3,6 +3,8 @@ layout: post
 title:  "Oxbridge Entry Questions - can you spot the fakes?"
 permalink: oxbridge-entry-questions
 author: Mark Biggins & Tom Hamilton Stubber
+tags:
+ - Oxbridge Admissions
 ---
 Five of these questions were posed to 17 and 18 year olds in their interviews at Oxford or Cambridge - the other five were invented in the Tutorcruncher office…
 

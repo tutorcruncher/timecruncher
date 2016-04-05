@@ -3,6 +3,8 @@ layout: post
 title:  "Tutoring costs across the world"
 permalink: tutoring-costs-worldwide
 author: Mark Biggins
+tags:
+ - Tuition Costs
 ---
 A conversation with an American client this week produced an interesting difference between the US and UK markets. In London “supertutors” working for the most prestigious agencies and highest value clients might be earning up to £70/hr through agencies charging north of £100/hr. But these prices are relatively unusual and a much usual fee would be half of that. But apparently in New York, the average charge might be in the range of $100-$300/hr. What could possibly explain this enormous disparity?
 
