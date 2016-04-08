@@ -14,19 +14,19 @@ So you are a parent looking to get your child into one of the UK’s best univer
 
 You might think so, but a recent chat with a Cambridge don who did admissions revealed that a lot of other factors play a significant part. I asked, what does the ideal Cambridge candidate look like, in terms of having the best chance of getting in? His answer was simple - a candidate with the maximum chance of getting in would:
 
-**Be privately educated at an elite school, but then have attended a state sixth form and invested the money they saved on private tuition.**
+#### 1. Be privately educated at an elite school, but then have attended a state sixth form and invested the money they saved on private tuition.
 
 Private schools undeniably do a fantastic job but universities are under pressure to balance their books in terms of state/private entrants. But institutions do not take a potted educational history into account, merely the type of school you attend right now. Therefore, swapping out to a state sixth form could be a smart move.
 
-**Have done traditional A-level subjects.**
+#### 2. Have done traditional A-level subjects.
 
 The universities have an unofficial black list of subjects which they deem either un-academic or soft options. They include Art, Drama, Psychology, Sociology. Much safer (and more impressive) to excel at Maths, hard sciences, history, english, languages, etc.
 
-**Apply for Art History, Classics, or Music particularly if you fulfil option 1.**
+#### 3. Apply for Art History, Classics, or Music particularly if you fulfil option 1.
 
 A couple of subjects, for historic reasons, are particularly dominated by private school entrants, like those listed. If you apply as a credible state school applicant then colleges will be queuing up. Some subjects have an acceptance rate of less than 10% whereas in classics you have almost a 1 in 2 chance.
 
-**Apply to a subject where their gender is underrepresented.**
+#### 4. Apply to a subject where their gender is underrepresented.
 
 There has been a gender disparity between some arts and science subjects for many years, but now universities are under pressure to address this. A girl applying to computer science or physics, or a boy applying to history of art or modern languages.
 
