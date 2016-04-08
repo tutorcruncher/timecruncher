@@ -12,7 +12,7 @@ So you are a parent looking to get your child into one of the UK’s best univer
   <img src="/img/blogs/radcliffe.jpg" alt-text="The Bodleian Library in Oxford"/>
 </a>
 
-You might think so, but a recent chat with a Cambridge don who did admissions revealed that a lot of other factors play a significant factor. I asked, what does the ideal Cambridge candidate look like, in terms of having the best chance of getting in. His answer was simple - a candidate with the maximum chance of getting in would:
+You might think so, but a recent chat with a Cambridge don who did admissions revealed that a lot of other factors play a significant part. I asked, what does the ideal Cambridge candidate look like, in terms of having the best chance of getting in? His answer was simple - a candidate with the maximum chance of getting in would:
 
 **Be privately educated at an elite school, but then have attended a state sixth form and invested the money they saved on private tuition.**
 
