@@ -1,183 +1,215 @@
 -
   name: v16-05-08
-  info:
-    - Document improvements 2 (multi-uploads)
+  features:
+    - Document improvements (multi-uploads)
     - Mandrill Domain checker
     - Subscriptions
+  improvements:
+  bug-fixes:
 -
   name: v16-05-05
-  info:
+  features:
     - Tasks
-    - changing Repeat:Never to Repeat
-    - Document Access Fix
-    - Fixing con signup
+  improvements:
+    - Changing Repeat:Never to Repeat
+    - Document Access Improvement
+  bug-fixes:
+    - Fixing con signup fields
 -
   name: v16-04-11
-  info:
+  features:
+  improvements:
     - Labels dropdown on role list
     - Translations
     - Index page speedups
 -
   name: v16-03-30
-  info:
-    - Document improvements 1
+  features:
     - Travel time conflicts
-    - Improving the contractor help
-    - Use new GC OAuth Scope
+  improvements:
+    - Document improvements
+    - Improving the tutor help
+    - Use new GoCardless OAuth Scope
+    - Change auth description for GoCardless to char field
+  bug-fixes:
     - Fix the 24hr display of time on calendar
-    - Change auth description to char field
 -
   name: v16-03-23
-  info:
-    - Uprev django
-    - Fix the po export
+  features:
+  improvements:
+    - Upgrade Django
+  bug-fixes:
+    - Fix the payment order export
     - Fix stripe display for client's with no card
 -
   name: v16-03-21
-  info:
-    - Auto charge
+  features:
+    - AutoCharge
+    - Enquiries
+  improvements:
     - Removing new relics
     - Removing messages completely
     - Remove choices from email def trigger
     - Small performance tweaks to search
-    - Prevent problem with xero amount pos
-    - Enquiries
+  bug-fixes:
+    - Prevent problem with xero amount payment orders
 -
   name: v16-03-16
-  info:
-    - Fixing the add-role to service modals
+  features:
+  improvements:
+    - Job cap improvements
     - Add unicode chars to tests
-    - Job cap improvements for ed smallwood
+  bug-fixes:
+    - Fixing the add-role to job modals
 -
   name: v16-03-09
-  info:
+  features:
+  improvements:
     - Increase meta generation time
+  bug-fixes:
 -
   name: v16-03-07
-  info:
+  improvements:
     - Check user matches email context data
+  bug-fixes:
     - Invoice send/pay fix
 -
   name: v16-03-01
-  info:
+  features:
+  improvements:
     - Move templates
     - Sleep for seltests
-    - Fix the branch PDF logo
     - Speedup invoice generation and increase timeout
-    - Email fixes
+    - Re-add invoice count field
     - Translations
-    - Re-add inv count field
+  bug-fixes:
+    - Email fixes
+    - Fix the branch PDF logo
 -
   name: v16-02-18
-  info:
+  features:
     - Python scheduler
-    - Increase invoice timeout
-    - Tax setup list displays
-    - Contractor rate display fix
-    - Slugignore slow_mail
-    - Email retry when not sent
     - GoCardless
+  improvements:
+    - Email retry when not sent
+    - Tax setup list displays
+    - Add/delete lesson icons
+    - Increase invoice timeout
+    - Slugignore slow_mail
+    - Delete agent from client
+    - XSS smoke
+    - Improve add as student
+    - Exempt urls
+    - Translations
+    - Tracked job expiry
     - Using a used email fix
+  bug-fixes:
+    - Search issue fix
     - Branch edit fix
     - Delete roles fix
-    - Exempt urls
     - Calendar times fix
-    - Tracked job expiry
-    - Translations
-    - XSS smoke
-    - Add/delete appt icons
-    - Delete agent from client
-    - Search issue
-    - Fix add as sr issues
     - Available balance fix
+    - Tutor rate display fix
 -
   name: v16-01-27
-  info:
-    - Prevent change of client for SR with accounting incomplete appointments
-    - Invoice staging bug fix
+  features:
+  improvements:
+    - Display client name if one client
     - First name in emails
+    - Prevent change of client for student with accounting incomplete lessons
+    - Update requirements
+    - Fixing reqs
+  bug-fixes:
+    - Invoice staging bug fix
     - Extra attributes date fix
     - Imminent shutdown error fix
-    - Update requirements
-    - Display client name if one client
-    - Fixing reqs
 -
   name: v16-01-19.01
   info:
     - Actual version deployed on the 19th
 -
   name: v16-01-19
-  info:
-    - Report Request qs fix
+  features:
+    - Label by filter
+    - Search emails
+  improvements:
+    - Attributes crud buttons
+    - README update
     - Wildcard search
     - BCrypt
     - Label filter csv export
+    - Create genders
+  bug-fixes:
+    - Report Request qs fix
     - 403 404 fix
     - Reports url fix
     - Bad date format
     - Intercom/mixpanel errors
-    - README update
-    - Label by filter
-    - Search emails
-    - PO indexing fix
-    - Create genders
+    - payment order indexing fix
     - Creditnote gen fix
-    - Attributes crud buttons
 -
   name: v16-01-08
-  info:
-    - Speedup the contractor index
+  features:
+    - Faster search
+  improvements:
+    - Create is_deleted field
     - Improve agents
-    - Fix available balance display
+    - Improve available balance display
     - Implement pricing changes
-    - Fix some 403's
+    - Speedup the tutor index
     - Removing gender and DOB as fields on user and add as eads
     - README Update
-    - Faster search
     - Missing migration
-    - Create is_deleted field
     - Translations
+  bug-fixes:
+    - Fix some 403's
 -
   name: v15-12-17
-  info:
+  features:
+    - Radius filter for tutors
+    - Job radius filter for notifications
+  improvements:
     - Mark paid with stripe from list
-    - Fix themecss
-    - Radius filter
     - Change ead top limit
     - Ead dropdown filter none
-    - Easy thumbnail upgrade
     - Query count on ahc panel on role pages
-    - Service radius filter
+    - Easy thumbnail upgrade
+  bug-fixes:
+    - Fix themecss
 -
   name: v15-12-04
-  info:
+  features:
+  improvements:
     - Add-te-to-dropdown-for-tr
     - Speed up filter pages
-    - Speed up service details page
-    - Show all url fix
-    - Remove back to contractor button for contractors
-    - Add recipient view for contractors
+    - Speed up job details page
+    - Remove back to tutor button for tutors
+    - Add student view for tutors
     - Delete-replaced-migrations
     - Agency-ranking
+  bug-fixes:
+    - Show all url fix
 -
   name: v15-12-01
-  info:
-    - Make the appointment repeater smoother
+  features:
+  improvements:
+    - Make the lesson repeater smoother
     - Fixing invoice search indexing
-    - Contractor profile completeness graph
+    - Tutor profile completeness graph
     - en_te
-    - Service appointment list
+    - Job lesson list
+    - Unicode name in broadcasts
+  bug-fixes:
     - Mini-fix
     - Repeater on 0 fix
-    - Unicode name in broadcasts
 -
   name: v15-11-25
   info:
-    - Add to Service Actions
+    - Add to Job Actions
     - Improvements to filters
     - Unicode error fixed
-    - Agent percentage display for appointment details
-    - Use the right queryset for rcrs on adding an appointment
+    - Agent percentage display for lesson details
+    - Use the right queryset for rcrs on adding an lesson
     - Qualification levels display fix
     - Fix permissions on map
     - Deleting proforma invoices
@@ -189,14 +221,14 @@
   name: v15-11-19
   info:
     - Increase job timeout time for importing users
-    - Order services by activity
+    - Order jobs by activity
     - Initial value for balance adjustment null
     - Squash migrations intermediate
-    - Couldn't view conjobs on a appointment if no rcrs
-    - Fix problem with repeating appointments spanning dst switch
+    - Couldn't view conjobs on a lesson if no rcrs
+    - Fix problem with repeating lessons spanning dst switch
     - Added extra columns for The Profs
     - Fixing template for emails
-    - Allowing document upload by non-approved contractors, and from the con dashboard
+    - Allowing document upload by non-approved tutors, and from the con dashboard
     - Fix for having own email template
     - Squash Django Migrations
 -
@@ -204,7 +236,7 @@
   info:
     - Changing the old value for meta_paid
     - Allow all qualifications and subjects to be hidden
-    - Activity on service and appointment
+    - Activity on job and lesson
 -
   name: v15-11-12
   info:
@@ -220,28 +252,27 @@
 -
   name: v15-11-06
   info:
-    - Prevent duplicate contractors on service
+    - Prevent duplicate tutors on job
     - Improving editors
     - Adding new institutions
     - Demo branch changes
     - Update django to 1.8.6
-    - Fixed contractor url
-    - Display closed services
+    - Fixed tutor url
+    - Display closed jobs
     - Option for making reports compulsory
     - Fix bug on overlay on safari 9
     - Analytics fix
-    - Updating all rcras on rcr or service update
+    - Updating all rcras on rcr or job update
 -
   name: v15-10-29
   info:
-    - Contractor Edit Note fix
-    - Remove Richard
-    - uprev packages
+    - Tutor Edit Note fix
+    - Upgrade packages
     - Translate calendar options
-    - Fix permissions for a deleted appt, and encode service name
+    - Fix permissions for a deleted lesson, and encode job name
     - Report list view
     - Activity dashboard fix, Qual form grades display, remove add notifications on finished jobs
-    - Appt fix for deleted appts
+    - Lesson fix for deleted lessons
     - Lots of display improvements
 -
   name: v15-10-22
@@ -251,20 +282,20 @@
     - Accounting speedup
     - Fixing sentry tags
     - Changed ':' and '-' to _ so that we can view /django_rq/ jobs
-    - Adding notes to services
+    - Adding notes to jobs
     - Fix order of activities on admin dash
-    - Show notifications on Inv, PO, and PFI
-    - Appointment and report workflow
-    - Issue with service absolute url
+    - Show notifications on Inv, payment order, and PFI
+    - Lesson and report workflow
+    - Issue with job absolute url
     - Broadcast errors
     - Show RCRa client cost instead of charge rate
-    - Appointment contractor availability
+    - Lesson tutor availability
     - Colour change for availability calendars
-    - Merging SRs for an agency
-    - Appointment units default to 1, null=False
+    - Merging students for an agency
+    - Lesson units default to 1, null=False
     - Disabling the submit button as well as hiding it
     - Translations
-    - Enable PG connection pooling
+    - Enable PG connection payment orderoling
 -
   name: v15-10-16
   info:
@@ -275,8 +306,8 @@
   info:
     - Correct today for timezones
     - Clean up RQ interface
-    - Fixed invoices not generating for live PO's
-    - Contractor form loading correctly
+    - Fixed invoices not generating for live payment order's
+    - Tutor form loading correctly
     - Fix for a pretty tweet
     - Fixing translations
     - Job recording
@@ -284,16 +315,16 @@
   name: v15-10-12
   info:
     - Improving availability
-    - Fixing availability and service modal posting
+    - Fixing availability and job modal payment ordersting
     - Move AHC meta gen onto long worker
     - OperationalError catch and retry
-    - Multi Contractor availability
-    - Admin add to service from SR/Client page
+    - Multi Tutor availability
+    - Admin add to job from student/Client page
     - Adding charge.branch_cut
     - Fixes to tab filtering, sorting, and daterangepicker
     - Fixing timezone support
     - Test for amount owed
-    - Appointment availability display
+    - Lesson availability display
     - All search index updates happening on worker
     - Fix for timezone bugs
 -
@@ -301,20 +332,20 @@
   info:
     - Update JQuery and Django
     - Speeding Up Tests
-    - Label First Appointment
+    - Label First Lesson
     - Report saves with Extra Attributes
-    - Allow clients to edit their SRs
+    - Allow clients to edit their students
     - Mandrill Details Errors
-    - Fix Label First Appointment
+    - Fix Label First Lesson
 -
   name: v15-10-5
   info:
     - More misaka fixes
     - More more misaka fixes
     - Tracked jobs handler with SIGTERM
-    - Contractors viewing AHCs that they didn't create
+    - Tutors viewing AHCs that they didn't create
     - Allow scripts
-    - Fixing Invoice generation for sent PO's
+    - Fixing Invoice generation for sent payment order's
     - Fixing usage cost
     - Speeding admin dashboard
 -
@@ -337,20 +368,20 @@
     - Coverage Improvements
     - Improve Coverage exclude_lines and generate xml
     - Email Speedups
-    - Possible Test Speedups
+    - payment orderssible Test Speedups
     - Email Analytics Issues
     - Rearrange Common
     - Email template generated before threading
-    - Service cap displays decimals
+    - Job cap displays decimals
     - OAuth2 for GDrive
     - Error Fixes
     - Added Links
     - Allow notes to be edited
-    - Edit appt includes sr's only on appt
+    - Edit lesson includes student's only on lesson
 -
   name: v15-09-28
   info:
-    - Service Recipient Dashboard
+    - Student Dashboard
     - Bug fix for Calendar filter
     - Requirements fixes
 -
@@ -372,7 +403,7 @@
     - 2 street addresses on a client
     - Add email style to broadcast
     - Client name added to job dropdown
-    - Show location to contractor
+    - Show location to tutor
     - Sentry rq fix
     - Crud fix for select2
     - Edit attr for date fix
@@ -388,11 +419,11 @@
     - Test improvements
     - Switch off search index for most tests
     - Fix url for institions.json lookup
-    - contractors-view-charge-rate-fix
+    - tutors-view-charge-rate-fix
     - Draft Totals
     - Fixing user import
     - Fixing search images
-    - Expenses on appt
+    - Expenses on lesson
     - Activity Demo
     - 2565 registration trans
 -
@@ -401,14 +432,14 @@
     - Tutor Login Improvements
     - Broadcast Improvement
     - Added Titles to Hidden Skills Pages
-    - Contractor Missing Name
-    - Appointment Update for Invoices
+    - Tutor Missing Name
+    - Lesson Update for Invoices
     - Search Improvements
     - Create Patch for Update Skills Page Name
     - More Sane Mandrill Tags, Translation Fix
     - Fix French Translations
-    - Net Setting with Charge Via Contractor
-    - Default Rate back to Service Recipient Form
+    - Net Setting with Charge Via Tutor
+    - Default Rate back to Student Form
     - Cap Fix
     - FR Fix
 -
@@ -418,7 +449,7 @@
     - Sentry Improvements
     - Client Welcome Email Improvements
     - Prevent analytics events to be translated
-    - First Login Account Redirection (for Contractors)
+    - First Login Account Redirection (for Tutors)
     - Stripe Fixes
 -
   name: v15-09-08
@@ -443,8 +474,8 @@
   info:
     - French translation fix
     - Check PDF
-    - Contractor amount_owed fix
-    - Apt edt fix
+    - Tutor amount_owed fix
+    - Lesson edt fix
 -
   name: v15-09-03
   info:
@@ -453,8 +484,8 @@
     - Numerous small improvements
     - 403 in log issue and url functions improvements
     - Client Manager Analytics
-    - Extra attribute for SR in API
-    - Appointment date AM/PM
+    - Extra attribute for student in API
+    - Lesson date AM/PM
     - Fixing safe text/bytes
     - Increase logo sizes for better display
     - Fix very intermittent bug bug in ConflictsTests
@@ -477,9 +508,9 @@
   info:
     - Url fix
     - Mailchimp csv export
-    - More info invoices pos
+    - More info invoices payment orders
     - Add client tabs
-    - Void btn on po added
+    - Void btn on payment order added
     - Broadcasts to deleted
     - Prevent client logins if client_settings
     - Tutoring translation
@@ -494,43 +525,43 @@
 -
   name: v15-08-24
   info:
-    - uprev. django to 1.8.4
+    - Upgrade django to 1.8.4
     - switch from coveralls to codecov
-    - 2382 ahc contractor
+    - 2382 ahc tutor
     - 2493 select2 on skillset
     - add delete buttons
-    - Add a test for closing service activity
+    - Add a test for closing job activity
     - pdf translations
     - Broadcasts
-    - speed up contractor list views
-    - 2352 filter by label for service
+    - speed up tutor list views
+    - 2352 filter by label for job
     - 403 in analytics links
     - Fixing meta
 -
   name: v15-08-20
   info:
     - Flake8
-    - Fixing contractor amount_owed
+    - Fixing tutor amount_owed
     - Rcr set null fixes
     - Add help_text to item_details
-    - Service counter and labels
+    - Job counter and labels
     - Analytic hours problem
     - Client balance display date filter
     - READ-ME update
     - PDF generation for balance history
     - PDF report display
-    - Last activity on services
-    - Add expense from Services and Appointments
-    - Contractor closing services
+    - Last activity on jobs
+    - Add expense from Jobs and Lessons
+    - Tutor closing jobs
     - Non owner admin permissions
-    - Contractor filtering tag bug
+    - Tutor filtering tag bug
     - Add date created for clients everywhere
     - Allow hidden subjects and quals to be blank
     - JS lint
     - Add attribute definition/value API example
-    - Appointment mark complete fix
+    - Lesson mark complete fix
     - Email template form fix
-    - Service panel improvements
+    - Job panel improvements
 -
   name: v15-08-12
   info:
@@ -538,8 +569,8 @@
     - Agent page fixes
     - PFI amount not 0
     - XSS fix for clients
-    - Unlock appt for void invcoice
-    - Contractor dashboard numbers
+    - Unlock lesson for void invcoice
+    - Tutor dashboard numbers
     - Downloading doc spinner fix
     - Add Rob to admins
     - Accounting fix for changing tax setup
@@ -568,22 +599,22 @@
     - Balance history improvements
     - Test speedups
     - Map improvements
-    - SR paying client field fix
+    - Student paying client field fix
     - Dashboard help fix
     - Invoice date fix
     - Activity feed improvements
-    - Link add apt after apt
+    - Link add lesson after lesson
     - Filter by label
     - Remove card (text change)
     - Mobile visual improvements
     - CI speedup
     - Locations
-    - uprev python
+    - Upgrade python
     - CI improvements
-    - Add service name to appointment
+    - Add job name to lesson
     - Colour calendar by status
     - Hide qls
-    - Contractor filtering tag bug
+    - Tutor filtering tag bug
     - Autopay invoices send different email
     - Release fixes
 -
@@ -594,7 +625,7 @@
     - fix adhoc charge
     - Agency settings changes
     - enable-email-templates-admin
-    - apt add sr
+    - lesson add student
     - start id for inv/pos
     - reset pw link on page
 -
@@ -605,7 +636,7 @@
     - 40X css
     - ical fix
     - circle-ci
-    - Academic year onto sr form
+    - Academic year onto student form
     - Invoice generation on analytics
     - Qual level fix
 -
@@ -613,8 +644,8 @@
   info:
     - Change white label to premium and pay with Stripe is gone
     - Fix migrations for foreign companies
-    - Allow Contractor expense on available service
-    - Service Recipient form improvement
+    - Allow Tutor expense on available job
+    - Student form improvement
     - Document improvement
     - Remove useless descriptions
     - Agency calcs fix
@@ -623,7 +654,7 @@
     - Client available balance
     - Navigation improvement
     - Added error messages for wrong/empty times
-    - 403 links on contractor's view
+    - 403 links on tutor's view
     - Documents linking and managements for selected objects - take 2
     - Improve static file bundling
     - Fix translation on login page
@@ -638,33 +669,33 @@
 -
   name: v15-07-16
   info:
-    - Clients & Contractors performance
+    - Clients & Tutors performance
     - Fix browsable api static file issue
-    - Powerd by TutorCruncher links open a new tab
+    - payment orderwerd by TutorCruncher links open a new tab
     - Improving details tests
 -
   name: v15-07-15
   info:
     - Prevent moving branch between agencies
     - Hide report templates
-    - remove one of the dft_charge_type field in service details
-    - add contractor rate on services pages
+    - remove one of the dft_charge_type field in job details
+    - add tutor rate on jobs pages
     - prevent charge duplication on ahc
     - links to clients in income breakdown
-    - stop appointments.ics 404 logging
+    - stop lessons.ics 404 logging
     - Removed None from adhoc charges breakdown
     - Agents turn-off switch
-    - removed the popover for contractor in the buggy view
+    - removed the payment orderpover for tutor in the buggy view
     - date picker pb in other languages
     - don't migrate documents
-    - Tax contractor cannot be edited by contractors themself
+    - Tax tutor cannot be edited by tutors themself
     - Academic year save/load
     - increased ratelimt to 8/m
     - Buildpack update
     - Activity date selector
     - use whitenoise for static files, add minification
     - Double admins error fix
-    - hide report tab for SRs
+    - hide report tab for students
     - mark_safe problem solved in general search
     - allow super admins to create branches
     - 2124 dashboard help
@@ -674,7 +705,7 @@
 -
   name: v15-07-09
   info:
-    - Remove add appt button if no services
+    - Remove add lesson button if no jobs
     - Role activity on role details
     - JVS injection
     - Intercom fix
@@ -686,26 +717,26 @@
     - Credit Note text change
     - Enabled search page 2
     - Migrations cleanup
-    - Duration fix on appt
+    - Duration fix on lesson
 -
   name: v15-07-08
   info:
-    - Use same urls for draft and sent invoices and pos
+    - Use same urls for draft and sent invoices and payment orders
     - Added correct demo stripe credentials
     - Availability issues
     - 2055 subject data demo
     - 1936, small changes to early users messages
     - Changed bespoke to premium
     - intercom
-    - service extra attributes
+    - job extra attributes
 -
   name: v15-07-03
   info:
     - Fix stripe saving payment
     - implement codemirror
-    - appt edit fix
+    - lesson edit fix
     - fix ahc links
-    - remove bad create appt links
+    - remove bad create lesson links
     - duplication tax setup
     - trans tweaks
 -
@@ -714,13 +745,13 @@
     - Don't store null transcode
     - Add hours to Analytics
     - Improve API browsing performance
-    - Service sorting + some adaptative CSS
+    - Job sorting + some adlessonative CSS
     - Attribute definition deletion
     - Email Improvements
     - Prevent Invalid HTTP_HOST header emails to admins
-    - Add the possibility for admins/contractors to edit the 'receive service notifications' contractor field
+    - Add the payment orderssibility for admins/tutors to edit the 'receive job notifications' tutor field
     - Add multiple sizes favicon for Apple devices
-    - Edit and Remove appt removed for clients
+    - Edit and Remove lesson removed for clients
     - Only admins should access the map
     - Demo branch loss adjusted
     - Tax set up text improvements
@@ -732,7 +763,7 @@
     - Tender email definitions
     - resolve signup error
     - fix for failing master
-    - Appointment improvements
+    - Lesson improvements
     - Api options contamination
     - improved selenium logging on errors
     - adding login-choice
@@ -751,7 +782,7 @@
   name: v15-06-18
   info:
     - slightly more selective 403/4 logging
-    - allow pos to be voided
+    - allow payment orders to be voided
     - fix stripe-mixpanel vars, tweak deploy scripts
     - Help t text box added
     - fix user upload geocoding
@@ -766,15 +797,15 @@
     - Moment explicit locale on Availability
     - Middleware logging 403 and 404 to sentry
     - Client views fixed
-    - Remove apt disp name
-    - Contractor view sentry bug
+    - Remove lesson disp name
+    - Tutor view sentry bug
     - speeding up demo agency creation and improve waiting page
-    - uprev new relics
+    - Upgrade new relics
 -
   name: v15-06-12
   info:
     - cv upload
-    - Contractors geocoding + geosearch
+    - Tutors geocoding + geosearch
     - Password reset no longer 404s
     - Geocoding fixes
     - removing ahc from tc1 migration
@@ -783,7 +814,7 @@
     - UpdateSingleSkill titled incorrectly
     - 317 availability
     - Demo branch
-    - Add contractor to existing service
+    - Add tutor to existing job
     - API Checks
     - Calendar filter
     - availability rendering bug
@@ -796,18 +827,18 @@
     - Add bonus credit as an option
     - Remove CV generation
     - Email definition improvements (more to come)
-    - Fix permissions for a contractors page
+    - Fix permissions for a tutors page
     - Timezone Fix
     - Agency cost calculations for meta
-    - Added void invoices tab, changed service date filter
-    - Appt UI changes
+    - Added void invoices tab, changed job date filter
+    - Lesson UI changes
     - Tc1 migrations fixes
-    - add popovers on invoices and credit notes, correct coveragerc
+    - add payment orderpovers on invoices and credit notes, correct coveragerc
 -
   name: v15-06-05
   info:
     - Invoice date fix
-    - Service list performance fix
+    - Job list performance fix
     - Report dates fix
     - Invoice units fix
     - Fix default rate display
@@ -820,7 +851,7 @@
     - Role list improvements
     - Better tour
     - Syntax bug fix from sentry
-    - Service list changes
+    - Job list changes
     - Allowed hosts
 -
   name: v15-06-01
@@ -833,18 +864,18 @@
     - Visual bugs fixes
     - URL visual bug fix
     - Draft invoice speedup
-    - Tenders now displaying contractor with link
+    - Tenders now displaying tutor with link
     - JS improvements
     - Massive simplification of migrations script
     - More translations
     - Invoice reminder stripe link
     - Client invoice fix
-    - Contractor service list bug fix
+    - Tutor job list bug fix
 -
   name: v15-05-27
   info:
     - Editing some meta agency fields
-    - Contractor Available service list improvements
+    - Tutor Available job list improvements
     - Client view improvements
     - Speed ups
     - Updated code packages
@@ -857,21 +888,21 @@
     - stripe logo fix
     - Filter attributes and render stars
     - Slug improvements
-    - Add contractor tax to form
+    - Add tutor tax to form
     - add check for unicode in stripe callback
     - update to django 1.8.2
-    - Help link and popover fixes
+    - Help link and payment orderpover fixes
     - fixing demo agency creation bug
 -
   name: v15-05-12
   info:
     - Fixes for documents
-    - Repeat appointment creation fixes
+    - Repeat lesson creation fixes
     - Basic performance testing
     - Sales code corrections
     - Error with the global search fix
     - Improved coverage
-    - Dont add sr's to completed future appts
+    - Dont add student's to completed future lessons
     - Help messages
     - Django 1.8
     - Agent Issues
@@ -894,12 +925,12 @@
     - improving inspectlet and ga analytics
     - better on demand migrations on CI
     - Client's account details screen keyerror fix
-    - Service details- appt time fixed
+    - Job details- lesson time fixed
     - Meta agency
-    - tweaking postgresql.conf
+    - tweaking payment orderstgresql.conf
     - More proper testing of migrations
     - demo branch
-    - Faster Docker postgres
+    - Faster Docker payment orderstgres
     - translate for anons on agency pages(pages where user is not logged in)
     - AHC now filtering out deleted records
     - added balance history page
@@ -911,12 +942,12 @@
     - Ensure there are no rogue rcra records before we try to bulk create
     - fix HighPriorityTrackedJob bug
     - fix worker names
-    - uprev djang-jinja and django-jinja-bootstrap-form
+    - Upgrade djang-jinja and django-jinja-bootstrap-form
 -
   name: v15-04-28
   info:
     - Stripe Connect
-    - Contractor button menu fixed
+    - Tutor button menu fixed
     - Test coverage coveralls
     - Worker concurrency fixed
     - Fix problem with subject import output
@@ -941,39 +972,39 @@
   info:
     - Google analytics improvements
     - SQL Queries optimise
-    - Bug fixing on an SR page, adding an SR to a client and adding quals with 2 of the same institution
+    - Bug fixing on an student page, adding an student to a client and adding quals with 2 of the same institution
     - Fixing an obscure bug with invoice staging
     - Pro Forma invoices PDF creation
     - Hide messages temp
     - Void invoices improvements, shows in activity feed and on invoice
     - Remove Package status
-    - Service links in emails
+    - Job links in emails
     - Changed video in agency sign up
     - Trans
-    - PO search now working again
+    - payment order search now working again
     - Apple iCal link
-    - SR inheriting more details from client
+    - Student inheriting more details from client
     - Topping up YAY
     - Stripe integration 2.0
     - More
-    - Adding an SR to a service working more
+    - Adding an student to a job working more
     - Deleting roles works for admins
     - Signup improvements
     - Datetime error
     - NannyTrans
-    - Adding SR to all future appts when added to a service
+    - Adding student to all future lessons when added to a job
     - AHC button menu
 -
   name: v15-04-14
   info:
     - Add priorty to industry regions for signup page
-    - Proper services filtering
+    - Proper jobs filtering
     - Small CSS fix for Firefox
     - Alt selenium tests
     - Better TZ handling
     - Adding payment details to the readme for testing
     - reduce test verbosity
-    - Default rates on contractor and client
+    - Default rates on tutor and client
     - better support for repeat agency code and url_slug
 -
   name: v15-04-10
@@ -982,7 +1013,7 @@
     - Rearrange schedule files
     - Coverage increase
     - Pagination bug fix
-    - Contractor list bug fix
+    - Tutor list bug fix
     - AHC view changes
     - Translations
     - Email fixes for sign up
@@ -991,31 +1022,31 @@
 -
   name: v15-04-07
   info:
-    - Allow apts on void invoices to be editted
-    - Much better UI for sent POs
+    - Allow lessons on void invoices to be editted
+    - Much better UI for sent payment orders
     - credit note set accounting complete
-    - Add 'pending' status tab to services
-    - delete invoices for deleted appointments
+    - Add 'pending' status tab to jobs
+    - delete invoices for deleted lessons
     - Universal login fix
     - Filtering by more tha none subject
-    - Add contractor to service from contractors page
+    - Add tutor to job from tutors page
     - 2 step auth for superadmins
-    - Added a custom recipient charge rate per appt
+    - Added a custom student charge rate per lesson
     - Selenium fixes
-    - Create SR as client and vice versa
+    - Create student as client and vice versa
     - UI Fixes
-    - Timing bug on appt
+    - Timing bug on lesson
     - Hide client sign up link on pw reset page
     - Allowing option to turn report sending wiht invoices off
     - Password reset improvements
     - CV Upload
     - UI change for sidebar on mobile
-    - Filtering speedup for contractors
+    - Filtering speedup for tutors
     - Report pdf errors
     - Theme changes for signup pages
     - Client profile restrictions
     - Report improvements
-    - Fix the skills set bug in services
+    - Fix the skills set bug in jobs
     - iCal integration (gcal slow in this release)
     - PW issue on new theme
     - JS bug with grablibs
@@ -1024,7 +1055,7 @@
   info:
     - Client Signup
     - Fix
-    - Appt edit form fix
+    - Lesson edit form fix
     - Agency creation speedup
     - Improved skills qs
     - Divide by zero
@@ -1043,9 +1074,9 @@
   info:
     - Migrations fixes
     - cv generation bug
-    - Order My Services
+    - Order My Jobs
     - Add DE_TU
-    - Allow reports to be viewed after appt is invoiced
+    - Allow reports to be viewed after lesson is invoiced
 -
   name: v15-03-23
   info:
@@ -1053,8 +1084,8 @@
     - Display Available Balance
     - Unicode Bug Fix
     - Trans
-    - Appt Repeat Bug
-    - Fix contractor filter
+    - Lesson Repeat Bug
+    - Fix tutor filter
     - Deploy fixes
     - Trans
     - Django 1.7.7
@@ -1062,7 +1093,7 @@
     - Cached sessions
     - Slugs
     - Con dashboard changes
-    - Captcha after unsuccessful logins
+    - Clessoncha after unsuccessful logins
     - Admin display fixes
 -
   name: v15-03-18
@@ -1072,19 +1103,19 @@
     - Better sentry errors
     - Persistent Login
     - Revenue chart fixes
-    - Small create SR bug
-    - Appt repeating fix
+    - Small create student bug
+    - Lesson repeating fix
     - Django 1.7.6
     - Search improvements
     - Giving admins a client_manager
     - AHC display changes
-    - Service form improvements
+    - Job form improvements
     - Email confirmation error fix
-    - SR premium enabled
+    - Student premium enabled
     - Credit Notes enabled
     - Agency deletion
     - Translation changes and small fixes
-    - Service helptext changes
+    - Job helptext changes
     - Agency welcome email change
     - Client balance display
     - Accounting tests speedup
@@ -1094,14 +1125,14 @@
     - Collect static re-enabled
     - Avatars regenerating
     - Invoice view bug
-    - Adding a service from SR or client
+    - Adding a job from student or client
     - View client balance
     - Balance updates
-    - Appt bug fix
+    - Lesson bug fix
     - Filter cons by date created
     - Report improvements - all clients addresses on them
     - Duration bug fix
-    - Add appt from calendar
+    - Add lesson from calendar
 -
   name: v15-03-09
   info:
@@ -1114,12 +1145,12 @@
     - Clients viewing other clients' names
     - Translations fixes
     - Async export
-    - Deleted appts changes
+    - Deleted lessons changes
     - Login improvements
     - Hide superadmin activity
     - More small fixes and translations
     - Email definitions resets
-    - Contractor dashboard improvements
+    - Tutor dashboard improvements
     - CI notifications
     - More Async stuff
 -
@@ -1128,17 +1159,17 @@
     - Reapply to tender
     - Mark invoice as paid from invoice list
     - Fix net setting
-    - Fix appt save bug
-    - Clients don't move appts on calendar
+    - Fix lesson save bug
+    - Clients don't move lessons on calendar
     - Disable unbuilt pages
     - Trans
     - Bug fix on email defs
-    - More functionality for draft pos and invoices
-    - Service improvements
+    - More functionality for draft payment orders and invoices
+    - Job improvements
     - Display invoice list on clients page better
     - Schedule export
     - Calendar bug fixes
-    - Appt repeater fix
+    - Lesson repeater fix
     - Vim ignores
     - Mixpanel fix
 -
@@ -1146,18 +1177,18 @@
   info:
     - Extra info on sent invoice
     - fix broadcast deletion
-    - Introuducing linked client to SR's search results
-    - SR details displaying incorrect paying client name
+    - Introuducing linked client to student's search results
+    - Student details displaying incorrect paying client name
     - Select2 fixed
     - EmailDefs for email_confirm/password_reset
-    - Contractors should not be able to add skill sets
+    - Tutors should not be able to add skill sets
     - Help text for email styles
     - DB query optimizations
     - Solved the issue AttributeError:- 'AttributeDefinition' object has no attribute 'options
     - add branch to accounting items
     - Contamination test done right
     - tweak mixpanel integration
-    - fix signup tests with capta
+    - fix signup tests with clessona
     - History display changes
 -
   name: v15-02-18
@@ -1171,15 +1202,15 @@
     - Mixpanel integration
     - Dashboard chart fixes
     - Nicer looking login page
-    - More invoices and PO's per page
-    - Service list in tabs and filtering by date
-    - New service workflow
+    - More invoices and payment order's per page
+    - Job list in tabs and filtering by date
+    - New job workflow
     - Accounting fixes, including extensive patching of data
     - Setup crud for ahc cats and sales code groups
 -
   name: v15-02-13
   info:
-    - Contractor expenses (ad hoc charges) improvements
+    - Tutor expenses (ad hoc charges) improvements
     - Generate an agency for testing that creates an item for every content type
     - Filter invoices by date, and tabs for paid and unpaid
     - Fix the way that sent invoices appear in the list Also included in this release
@@ -1187,4 +1218,4 @@
     - Select 2
     - Filtering expenses better
     - Upload fixes
-    - Removed url from recipient page if seen by client.
+    - Removed url from student page if seen by client.

@@ -10,11 +10,26 @@ layout: base
   </div>
   <div class="post-body animated fadeIn long-delay">
     {% for release in site.data.change_log %}
-      <h3>{{ release.name }}</h3>
+      <h3><strong>{{ release.name }}</strong></h3>
       <ul class="padding-bottom-10">
-        {% for description in release.info %}
+        {% for item in release.features %}
+          <li class="release-feature">
+            {{ item }}
+          </li>
+        {% endfor %}
+        {% for item in release.improvements %}
+          <li class="release-improvement">
+            {{ item }}
+          </li>
+        {% endfor %}
+        {% for item in release.bug-fixes %}
+          <li class="release-bug-fix">
+            {{ item }}
+          </li>
+        {% endfor %}
+        {% for item in release.info %}
           <li>
-            {{ description }}
+            {{ item }}
           </li>
         {% endfor %}
       </ul>
