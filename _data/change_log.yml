@@ -1,4 +1,23 @@
 -
+  name: v16-05-08
+  info:
+    - Document improvements 2 (multi-uploads)
+    - Mandrill Domain checker
+    - Subscriptions
+-
+  name: v16-05-05
+  info:
+    - Tasks
+    - changing Repeat:Never to Repeat
+    - Document Access Fix
+    - Fixing con signup
+-
+  name: v16-04-11
+  info:
+    - Labels dropdown on role list
+    - Translations
+    - Index page speedups
+-
   name: v16-03-30
   info:
     - Document improvements 1
