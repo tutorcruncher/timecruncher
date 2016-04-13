@@ -2,33 +2,23 @@
 layout: page
 permalink: /testimonials/
 title: Testimonials
-description: Testimonials of TutorCruncher from happy users
+description: Testimonials of TutorCruncher from Happy Users
 ---
 <div class="row">
   <h1>{{ page.title }}</h1>
 </div>
-<div class="container main-post narrow">
+<div class="container main-post">
   <div class="row">
-    <div class="testimonial">
-      <h3>
-        Quintessentially Education
-      </h3>
-      <p class="quote">
-        "Quintessentially Education has found TutorCruncher to be a highly effective system which has transformed the way we are able to manage both clients and tutors. By having all tutors’ and clients’ data in one place, it has enabled the business to run smoothly and grow. The lesson logging and reporting is highly efficient and  allows us to keep an eye on our tutor placements without having to interfere, which is appreciated by both tutors and clients. The invoicing system is simple and works brilliantly, and the new Stripe integration is a fantastic addition which we are looking forward to setting up. The system is backed up by the wonderful Tutorcruncher team who could not be more helpful."
-      </p>
-      <a href="/companies/quintessentially-education">More information on Quintessentially Education.</a>
-    </div>
-    <div class="testimonial">
-      <h3>
-        Bonas MacFarlane
-      </h3>
-      <p class="quote">
-        "Tutorcruncher has revolutionised the way Bonas MacFarlane interacts with both its clients and tutors.
-        The software allows us to communicate with our audience is an incredibly effective and efficient manner.
-        The invoicing procedure is outstanding and the report system allows us to keep a close eye on the tutees progress
-        ensuring we keep up-to-date with every placement. Reliable and robust, Tutorcruncher has proved faultless for us."
-      </p>
-      <a href="/companies/bonas-macfarlane">More information on Bonas MacFarlane.</a>
-    </div>
+    {% for testimonial in site.data.testimonials %}
+      <div class="testimonial">
+        <h3>
+          {{ testimonial.company }}
+        </h3>
+        <p class="quote">
+          {{ testimonial.quote }}
+        </p>
+        <a href="/companies/{{ testimonial.company_profile }}">More information on {{ testimonial.company }}.</a>
+      </div>
+    {% endfor %}
   </div>
 </div>
