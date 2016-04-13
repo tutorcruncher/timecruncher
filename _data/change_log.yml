@@ -1,5 +1,12 @@
 -
-  name: v16-05-08
+  name: v16-04-11
+  features:
+  improvements:
+    - Labels dropdown on role list
+    - Translations
+    - Index page speedups
+-
+  name: v16-04-08
   features:
     - Document improvements (multi-uploads)
     - Mandrill Domain checker
@@ -7,7 +14,7 @@
   improvements:
   bug-fixes:
 -
-  name: v16-05-05
+  name: v16-04-05
   features:
     - Tasks
   improvements:
@@ -15,13 +22,6 @@
     - Document Access Improvement
   bug-fixes:
     - Fixing con signup fields
--
-  name: v16-04-11
-  features:
-  improvements:
-    - Labels dropdown on role list
-    - Translations
-    - Index page speedups
 -
   name: v16-03-30
   features:
