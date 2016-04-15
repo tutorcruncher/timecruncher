@@ -12,7 +12,7 @@
   <tbody>
     {% for country in site.data.stripe_details %}
       <tr>
-        <td class="flag flag-icon-background flag-icon-{{ country.flag }}"></span></td>
+        <td class="flag flag-icon-background flag-icon-{{ country.flag }}"></td>
         <td>{{ country.country }}</td>
         {% for tier_rate in site.data.stripe_tiers %}
           <td>{{ tier_rate.rate | plus: country.base_rate }}% {% if country.per_transaction_fee %} + {{ country.per_transaction_fee }}{% endif %}</td>

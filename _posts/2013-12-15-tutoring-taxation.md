@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutoring & Taxation"
+title:  "Tutoring &amp; Taxation"
 permalink: tutoring-taxation
 ---
 As previously discussed your tutoring business will depend upon its
