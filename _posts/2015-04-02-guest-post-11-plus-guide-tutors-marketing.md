@@ -2,7 +2,6 @@
 layout: post
 title:  "Guest post - 11 Plus guide - Tutors marketing"
 permalink: guest-post-11-plus-guide-tutors-marketing
-redirect_from: /guest-post-11-plus-guide-tutors-marketing/www.nationaltutoringconference.org.uk/
 ---
 Now and again Tutorcruncher invites other providers in the tuition space to
 write a guest blog. Here we have the 11 plus guide's guest blog post:
@@ -25,8 +24,8 @@ educational issues they often turn to a local tutor.
 
 Where tutors specialise in specialist subjects or ages then looking for
 websites which allow tutor listing can help bear fruit. For instance if tutors
-specialise in 11 Plus preparation then there is a website called  [
-www.11plusguide.com  ](http://www.11plusguide.com/) which allows tutors and
+specialise in 11 Plus preparation then there is a website called 
+[www.11plusguide.com](http://www.11plusguide.com/) which allows tutors and
 tuition centres to add their details for free. This provides tutors with a
 valuable opportunity to have their name seen by families who are currently
 looking for an 11  Plus  tutor or tuition centre.
@@ -35,7 +34,7 @@ Remember that before you embark on potentially expensive paid for marketing
 for your tutor business that there are lots of free marketing opportunities
 available.
 
-Further, tutors should network at the [ National Tutoring Conference
-](www.nationaltutoringconference.org.uk) to meet agencies and businesses.
+Further, tutors should network at the [National Tutoring Conference](http://www.nationaltutoringconference.org.uk) 
+to meet agencies and businesses.
 
 Written by  The  11 Plus Guide for  Tutorcruncher  .

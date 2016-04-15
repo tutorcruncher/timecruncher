@@ -14,7 +14,7 @@ layout: page
     </div>
     <div class="col-md-6">
       <dl class="dl-horizontal">
-        {% if page.founded and page.founded != '' %}
+        {% if page.founded and page.founded != null %}
           <dt>Founded</dt>
           <dd>{{ page.founded }}</dd>
         {% endif %}
@@ -23,7 +23,7 @@ layout: page
 
         <dt>Email</dt>
         <dd>
-          {% if page.email != '' %}
+          {% if page.email != null %}
             <a href="mailto:{{ page.email }}">{{ page.email }}</a>
           {% else %}
             &mdash;
@@ -32,7 +32,7 @@ layout: page
 
         <dt>Website</dt>
         <dd>
-          {% if page.website != '' %}
+          {% if page.website != null %}
             <a href="{{ page.website }}" target="_blank" rel="nofollow">{{ page.website }}</a>
           {% else %}
             &mdash;
@@ -46,7 +46,7 @@ layout: page
           </address>
         </dd>
       </dl>
-      {% if page.map_address != '' %}
+      {% if page.map_address != null %}
       <div class="map-container">
         <div id="company-map"></div>
       </div>
