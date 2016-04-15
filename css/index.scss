@@ -102,6 +102,11 @@ section#contact, section#pricing {
       top: -0.7em;
       margin-right: 5px;
     }
+    &.smaller {
+      font-size: 30px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+    }
   }
 }
 

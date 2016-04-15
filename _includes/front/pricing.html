@@ -13,6 +13,8 @@
             </a>
             {% if tier.name == 'Free' %}
               <h1 class="price">{{ tier.price_short }}</h1>
+            {% elsif tier.name == 'Enterprise' %}
+              <h1 class="price smaller">{{ tier.price_short }}</h1>
             {% else %}
               <span class="price">
                 from &nbsp;
