@@ -1,6 +1,8 @@
 # tutorcruncher.com
 
-Public tutorcruncher site
+[![Build Status](https://travis-ci.org/tutorcruncher/tutorcruncher.github.io.svg?branch=master)](https://travis-ci.org/tutorcruncher/tutorcruncher.github.io)
+
+Public TutorCruncher site
 
 To run locally:
 
