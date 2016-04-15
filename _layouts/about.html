@@ -23,9 +23,9 @@ layout: base
         </div>
 
         <div class="col-md-8 {% cycle '', 'col-md-pull-4' %}">
-          <p>
+          <div>
             {{ person.extended_bio }}
-          </p>
+          </div>
         </div>
       </div>
       {% if forloop.last == false %}

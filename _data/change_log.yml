@@ -669,7 +669,7 @@
 -
   name: v15-07-16
   info:
-    - Clients & Tutors performance
+    - Clients &amp; Tutors performance
     - Fix browsable api static file issue
     - payment orderwerd by TutorCruncher links open a new tab
     - Improving details tests
@@ -777,7 +777,7 @@
     - exclude demo branch from signup form
     - permissions fixes
     - 403 404 fix
-    - few other minor changes to 403 & 404 errors
+    - few other minor changes to 403 &amp; 404 errors
 -
   name: v15-06-18
   info:
@@ -789,7 +789,7 @@
     - Fixing spinners for download links
     - Allow admins to create role with existing email
     - speed up pdf generation
-    - translation & help text
+    - translation &amp; help text
     - fix accounting export tests
 -
   name: v15-06-15

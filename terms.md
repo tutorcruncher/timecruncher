@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms & Conditions
+title: Terms &amp; Conditions
 permalink: /terms/
 redirect_from: 
   - /terms-of-service/
@@ -25,7 +25,7 @@ shall be subject to the Terms of Service. Continued use of the Service after any
 1. You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
 1. You are responsible for all Content posted and activity that occurs under your account including Content posted by other people who have been granted access to the Site under your account.
 
-## Payments & Refunds
+## Payments &amp; Refunds
 
 1. If you sign up for a free trial on a paying account, and you do not cancel or become a full member within 30 days, you will be sent an e-mail inviting you to begin paying for your subscription. If you choose not to pay once your trial has expired, your account will be suspended until payment is received. If you enter your payment information before the 30-day trial has ended, your trial ends on that day.
 1. The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for unused months with an open account.

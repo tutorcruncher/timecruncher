@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutor Retention"
 permalink: tutor-retention
-author: Mark Biggins & Tom Hamilton Stubber
+author: Mark Biggins &amp; Tom Hamilton Stubber
 tags:
   - Managing a tutoring agency
   - Invoicing

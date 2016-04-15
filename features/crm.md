@@ -1,6 +1,6 @@
 ---
 layout: features
-title: Tutor, Client & Student Profiles
+title: Tutor, Client &amp; Student Profiles
 permalink: /features/crm/
 redirect_from:
   - /pupil-database/
