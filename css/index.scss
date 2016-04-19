@@ -121,7 +121,7 @@ section#pricing {
 }
 
 section#team {
-  >.carousel{
+  >.carousel {
     @include background-cover;
     background: url('/img/team_back.jpg') center;
   }
