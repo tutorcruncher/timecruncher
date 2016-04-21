@@ -10,14 +10,22 @@
       </div>
     </div>
     <div class="wrapper animated fadeInUp long-delay">
-      <div class="toolbar">
-        <div class="circle-wrap">
-          <span class="red"></span>
-          <span class="yellow"></span>
-          <span class="green"></span>
+      <div class="carousel slide" data-interval="3500" data-ride="carousel">
+        <div class="carousel-inner">
+          {% for screenshot in site.data.header_carousel %}
+            <div class="item {% if forloop.index == 1 %}active{% endif %}">
+              <div class="toolbar">
+                <div class="circle-wrap">
+                  <span class="red"></span>
+                  <span class="yellow"></span>
+                  <span class="green"></span>
+                </div>
+              </div>
+              <img src="{{ screenshot.img }}" alt="{{ screenshot.name }}">
+            </div>
+          {% endfor %}
         </div>
       </div>
-      <img class="img-responsive" src="img/dashboard.png" alt="TutorCruncher Dashboard">
     </div>
   </div>
 </header>

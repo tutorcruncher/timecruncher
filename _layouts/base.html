@@ -22,7 +22,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
-    
+
     <script type="text/javascript" id="inspectletjs">
     window.__insp = window.__insp || [];
     __insp.push(['wid', 588867602]);
@@ -39,12 +39,14 @@
     <link rel="stylesheet" href="/libs/css/animate.css" type="text/css">
     <link rel="stylesheet" href="/libs/css/lightbox.css" type="text/css">
     <link rel="stylesheet" href="/libs/css/flag-icon.css" type="text/css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     {{ page.extra_css }}
-</head>
-<body id="page-top">
-  {% include ga.html %}
-  {% include nav.html %}
-  {{ content }}
-  {% include footer.html %}
-  {% include js.html %}
+  </head>
+  <body id="page-top">
+    {% include ga.html %}
+    {% include nav.html %}
+    {{ content }}
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
 </html>

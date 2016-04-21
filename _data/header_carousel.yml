@@ -1,0 +1,15 @@
+-
+  img: img/dashboard.png
+  name: TutorCruncher Dashboard
+-
+  img: img/tutors.png
+  name: Tutors List
+-
+  img: img/calendar.png
+  name: Calendar
+-
+  img: img/invoice.png
+  name: Invoice
+-
+  img: img/analytics.png
+  name: Analytics

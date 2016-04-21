@@ -27,11 +27,6 @@ h2 {
   margin-bottom: 25px;
 }
 
-h4 {
-  font-size: inherit;
-  font-weight: 600;
-}
-
 hr {
   border: 2px solid $main-colour;
   max-width: 50px;
@@ -186,6 +181,12 @@ section {
   height: 230px;
 }
 
+@media (min-width: 768px) and (max-width: 991px) {
+  .container.main .feature {
+    margin-bottom: 20px;
+  }
+}
+
 .post-meta {
   color: #666;
   margin-bottom: 10px;
@@ -326,7 +327,7 @@ section#pricing-table {
     text-align: center;
   }
   .panel-default {
-      color: #777;
+    color: #777;
   }
   .panel-primary {
     border-color: $main-colour;
@@ -375,23 +376,31 @@ a:hover {
   padding-top: 30px;
 }
 
-@media (max-width: 768px) {
-  .margin-bottom-25 {
-    margin-bottom: 25px;
-  }
+.margin-bottom-25 {
+  margin-bottom: 25px;
 }
 
-.wrapper {
+header .wrapper {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
   margin-top: -50px;
   margin-bottom: -10px;
-  img {
-    box-shadow: 30px 0 30px -30px #333, -30px 0 30px -30px #333;
-  }
   @media (max-width: 767px) {
     padding-top: 65px;
+  }
+  @media (min-width: 768px) {
+    margin-top: -85px;
+  }
+  .carousel-inner {
+    .item {
+    max-height: 409px;
+    }
+    box-shadow: 30px 0 30px -30px #333, -30px 0 30px -30px #333;
+  }
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    margin: auto;
   }
 }
 
@@ -533,4 +542,21 @@ span.green {
 
 #highlights hr {
   margin-top: 0;
+}
+
+div.col-md-3 {
+  padding-left: 0;
+  @media (min-width: 480px) and (max-width: 991px) {
+    max-width: 60%;
+  }
+  @media (max-width: 991px) {
+    padding-top: 25px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width: 991px) {
+  div.col-md-9 {
+    margin-top: 68px;
+  }
 }
