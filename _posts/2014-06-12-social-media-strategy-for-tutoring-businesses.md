@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best Social Media Strategy for Tutoring Businesses"
-permalink: social-media-strategy-for-tutoring-businesses
+permalink: social-media-strategy-for-tutoring-businesses/
 ---
 We have already addressed the [ SEO to market your tutoring agency online
 ](http://www.tutorcruncher.com/how-to-start-a-tuition-business1/local-seo-

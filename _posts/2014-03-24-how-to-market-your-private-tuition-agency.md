@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Market Your Private Tuition Agency"
-permalink: how-to-market-your-private-tuition-agency
+permalink: how-to-market-your-private-tuition-agency/
 ---
 As with any business, once you have all the legalities in place, the next step
 is to market your private tuition agency to your prospective customers. In the

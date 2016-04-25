@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Match Students and Tutors"
-permalink: how-to-match-students-and-tutors
+permalink: how-to-match-students-and-tutors/
 ---
 As important as recruiting well prepared tutors for your agency, is getting
 the right match between students and tutors. Here are some useful tips about

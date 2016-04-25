@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Tuition Centre Software Can Transform Your Tutoring Business"
-permalink: tuition-centre-software-can-transform-business
+permalink: tuition-centre-software-can-transform-business/
 ---
 [
 

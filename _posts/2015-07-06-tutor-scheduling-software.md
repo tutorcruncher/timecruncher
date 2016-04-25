@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Tutor Scheduling Software Can Improve your Tutoring Business"
-permalink: tutor-scheduling-software
+permalink: tutor-scheduling-software/
 author: TutorCruncher
 ---
 As the private tutoring industry continues to be disrupted by new technology,

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Admissions Criteria 11 Plus"
-permalink: admissions-criteria-11-plus
+permalink: admissions-criteria-11-plus/
 ---
 When applying to grammar schools, parents need to take into account that even
 if their child has qualified in the 11+ tests they might still not get in.

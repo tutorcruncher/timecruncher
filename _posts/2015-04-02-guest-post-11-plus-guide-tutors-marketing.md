@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guest post - 11 Plus guide - Tutors marketing"
-permalink: guest-post-11-plus-guide-tutors-marketing
+permalink: guest-post-11-plus-guide-tutors-marketing/
 ---
 Now and again Tutorcruncher invites other providers in the tuition space to
 write a guest blog. Here we have the 11 plus guide's guest blog post:

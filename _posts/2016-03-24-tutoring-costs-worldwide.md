@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutoring costs across the world"
-permalink: tutoring-costs-worldwide
+permalink: tutoring-costs-worldwide/
 author: Mark Biggins
 tags:
  - Tuition Costs

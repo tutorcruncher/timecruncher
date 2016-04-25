@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Ensure Your Tutoring Agency is a Safe Place to Study"
-permalink: safe-tutoring-agency
+permalink: safe-tutoring-agency/
 ---
 [
 

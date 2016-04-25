@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Organisation and Administration"
-permalink: organisation-and-administration
+permalink: organisation-and-administration/
 ---
 Starting a tuition agency involves dealing with many administrative tasks.
 From matching clients and tutors to tracking lessons, good organisational

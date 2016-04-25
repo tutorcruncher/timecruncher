@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Create a Social Media Strategy in 6 Steps"
-permalink: how-to-create-a-social-media-strategy-in-6-steps
+permalink: how-to-create-a-social-media-strategy-in-6-steps/
 redirect_from: /how-to-start-a-tuition-business1/the-best-strategies-for-social-media2252014/
 ---
 By now social media is an essential part of the marketing landscape and having

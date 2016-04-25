@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Managing your Finances"
-permalink: managing-your-finances-2
+permalink: managing-your-finances-2/
 ---
 A lot of people avoid monitoring the financial side of their initial business
 plan. However, before you are generating a steady income it is vital to

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Common problems for a startup...and their solutions"
-permalink: common-problems-for-a-startup-and-their-solutions
+permalink: common-problems-for-a-startup-and-their-solutions/
 ---
 Managing a startup's image is not always about using social media to
 communicate and advertise but also about dealing with problems that may hurt

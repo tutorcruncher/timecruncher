@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Promote, promote, promote"
-permalink: promote-promote-promote
+permalink: promote-promote-promote/
 ---
 When you are starting out and there isn’t a big business budget to spend on [
 Google AdWords, ](https://adwords.google.com/cm/CampaignMgmt?__u=7711052929&__

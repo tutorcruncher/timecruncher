@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Improve your Email Marketing"
-permalink: how-to-improve-your-email-marketing
+permalink: how-to-improve-your-email-marketing/
 ---
 It has been proven that email marketing can be a successful way to contact
 your client in order to increase your sales. However, you need to use it

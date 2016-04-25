@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Tutoring Matters"
-permalink: why-tutoring-matters
+permalink: why-tutoring-matters/
 ---
 In London, 43% of students use a 
 

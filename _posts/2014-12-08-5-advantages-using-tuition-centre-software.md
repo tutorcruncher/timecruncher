@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Advantages of Using Tuition Centre Software"
-permalink: 5-advantages-using-tuition-centre-software
+permalink: 5-advantages-using-tuition-centre-software/
 ---
 Shortly after you make the decision to start your own tutoring agency, you’ll
 need to decide what software to use to take care of your administration and

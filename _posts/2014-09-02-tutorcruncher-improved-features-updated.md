@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher Improved: Features Updated"
-permalink: tutorcruncher-improved-features-updated
+permalink: tutorcruncher-improved-features-updated/
 ---
 At TutorCruncher we have been working hard to improve the system in line with
 your suggestions. These new features and changes to old ones have been

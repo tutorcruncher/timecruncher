@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First 'new' grammar school in 50 years"
-permalink: first-new-grammar-school-in-50-years
+permalink: first-new-grammar-school-in-50-years/
 author: Mark
 tags:
   - Grammar Schools

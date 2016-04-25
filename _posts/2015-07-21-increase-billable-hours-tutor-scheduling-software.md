@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Increase Your Billable Hours with Tutor Scheduling Software"
-permalink: increase-billable-hours-tutor-scheduling-software
+permalink: increase-billable-hours-tutor-scheduling-software/
 author: TutorCruncher
 ---
 One of the downsides to running a tutoring business is that you only get paid

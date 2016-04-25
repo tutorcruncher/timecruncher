@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Update Within Days"
-permalink: an-update-within-days
+permalink: an-update-within-days/
 ---
 TutorCruncher is about to release its most substantial update within the next
 2 days. New Features: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11 plus conference"
-permalink: 11-plus-conference
+permalink: 11-plus-conference/
 ---
 After the success of the National Tutoring Conference on 10th February 2015
 that we sponsored, we will now be sponsoring their next event, The 11 Plus

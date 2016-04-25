@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exams Revision Techniques"
-permalink: exams-revision-techniques
+permalink: exams-revision-techniques/
 ---
 When exams are approaching students will be more stressed and may want more
 sessions so remember to account for more time then. Having to reassure those

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launch A Tutoring Business Overnight With No Start Up Capital"
-permalink: launch-a-tutoring-business
+permalink: launch-a-tutoring-business/
 author: Jeevan Singh
 ---
 The great thing about the tuition industry is it's really easy to break into.

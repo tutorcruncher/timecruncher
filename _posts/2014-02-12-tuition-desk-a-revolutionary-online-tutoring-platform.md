@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tuition Desk: A revolutionary online tutoring platform"
-permalink: tuition-desk-a-revolutionary-online-tutoring-platform
+permalink: tuition-desk-a-revolutionary-online-tutoring-platform/
 ---
 This week we are very excited to welcome Tuition Desk and his Founder Adnan
 Ajmi who will introduce his revolutionary online tutoring platform that aims

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher loves BenchPrep!"
-permalink: tutorcruncher-loves-benchprep
+permalink: tutorcruncher-loves-benchprep/
 ---
 BenchPrep, a US learning platform for American exams, is an awesome example of
 what innovation can bring to the learning experience. BenchPrep creates prep

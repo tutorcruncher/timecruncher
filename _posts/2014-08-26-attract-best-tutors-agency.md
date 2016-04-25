@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Attract the Best Tutors To Your Agency"
-permalink: attract-best-tutors-agency
+permalink: attract-best-tutors-agency/
 ---
 Every tutoring agency wants to have the best tutors and with increasing
 competition, ensuring that the best ones come to you, can be challenging.

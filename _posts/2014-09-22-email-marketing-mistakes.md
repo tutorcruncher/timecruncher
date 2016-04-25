@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Your Tutoring Agency Making These Email Marketing Mistakes?"
-permalink: email-marketing-mistakes
+permalink: email-marketing-mistakes/
 ---
 Email marketing can be a hugely effective way for tutoring agencies to
 generate more business. However, if done incorrectly, your efforts can

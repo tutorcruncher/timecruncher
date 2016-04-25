@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutoring &amp; Taxation"
-permalink: tutoring-taxation
+permalink: tutoring-taxation/
 ---
 As previously discussed your tutoring business will depend upon its
 reputation. When it comes to money matters it is best to have complete

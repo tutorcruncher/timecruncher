@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Create a Stimulating Learning Environment"
-permalink: stimulating-learning-environment
+permalink: stimulating-learning-environment/
 ---
 Our environments can have a huge impact on how we learn. If your tutoring
 agency offices are cramped and cluttered, the chances are that your students

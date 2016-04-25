@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Find Clients for Your Tuition Agency"
-permalink: how-to-find-clients-for-your-tuition-agency
+permalink: how-to-find-clients-for-your-tuition-agency/
 ---
 ### Finding clients for your tuition agency
 

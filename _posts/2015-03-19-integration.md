@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integration"
-permalink: integration
+permalink: integration/
 ---
 # Integration
 

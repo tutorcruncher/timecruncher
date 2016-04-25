@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Giving a voice to your Brand Story"
-permalink: giving-a-voice-to-your-brand-story
+permalink: giving-a-voice-to-your-brand-story/
 ---
 People like stories. They want to be able to put a face to your brand-name.
 The “About Us” section on your website can be a very powerful means of

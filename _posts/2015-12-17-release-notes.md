@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "December Release Notes"
-permalink: release-notes-v15-12-17
+permalink: release-notes-v15-12-17/
 author: Tom Hamilton Stubber
 tags:
   - TutorCruncher

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why the Beginning of the School Year is the Best Time to Use a Tuition Agency"
-permalink: beginning-school-year-best-time-use-tuition-agency
+permalink: beginning-school-year-best-time-use-tuition-agency/
 ---
 The beginning of the school year is often the most important for students as
 their early performance is often an indication of how they’ll achieve

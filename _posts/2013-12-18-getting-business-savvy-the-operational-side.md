@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Business Savvy – The Operational Side"
-permalink: getting-business-savvy-the-operational-side
+permalink: getting-business-savvy-the-operational-side/
 ---
 Running a tutoring business is not as easy as it sounds. It requires a lot of
 meticulous planning and organisational skills. Your role on the operational

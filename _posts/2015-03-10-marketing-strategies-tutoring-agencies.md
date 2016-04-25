@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top Five Marketing Strategies for Tutoring Agencies"
-permalink: marketing-strategies-tutoring-agencies
+permalink: marketing-strategies-tutoring-agencies/
 ---
 _ Tutoring agencies, like other businesses are understandably keen to adopt
 new marketing trends, particularly those with technology at their forefront.

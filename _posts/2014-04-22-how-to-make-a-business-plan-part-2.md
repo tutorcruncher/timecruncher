@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make a Business Plan - Part 2"
-permalink: how-to-make-a-business-plan-part-2
+permalink: how-to-make-a-business-plan-part-2/
 ---
 ### 5\. Know the size of your market
 

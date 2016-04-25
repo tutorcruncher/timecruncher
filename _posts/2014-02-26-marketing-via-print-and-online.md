@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marketing via Print and Online"
-permalink: marketing-via-print-and-online
+permalink: marketing-via-print-and-online/
 ---
 # 
 

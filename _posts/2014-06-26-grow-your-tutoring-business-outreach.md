@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Grow Your Tutoring Business Outreach"
-permalink: grow-your-tutoring-business-outreach
+permalink: grow-your-tutoring-business-outreach/
 ---
 After [ starting your brand new tuition agency](http://www.tutorcruncher.com/from-being-a-tutor-to-launching-your-own- tutoring-business/) with plenty of effort and hard work, as entrepreneur you have to spend another considerable amount of time to figure out how to **grow your tutoring business outreach**. Otherwise, it will not be easy to take your startup off the ground and make a difference in your market niche. Influence indeed is one of the most valuable assets for any business, as allows you to build great brand awareness, increase your customer base and improve sales as a result. Nevertheless, when it comes to planning the next action to take in this direction, probably you feel like you’re running out of ideas. Taking a cue from [ Ken Mueller](http://inklingmedia.net/2014/05/16/5-ways-extend-reach-influence-small-business/#.U6vedha5-Xr) and [ Veronika Noize](http://www.veronikanoize.com/influence) (click to see the original articles), we have outlined some of the best tips to grow your tutoring business outreach and increase your influence in the market.
 

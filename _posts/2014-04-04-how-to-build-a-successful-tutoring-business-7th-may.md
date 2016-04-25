@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Build a Successful Tutoring Business: 7th May"
-permalink: how-to-build-a-successful-tutoring-business-7th-may
+permalink: how-to-build-a-successful-tutoring-business-7th-may/
 ---
 ### "How to Build a Successful Tutoring Business"
 

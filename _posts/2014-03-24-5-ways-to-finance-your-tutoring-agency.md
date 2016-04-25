@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Ways to Finance Your Tutoring Agency"
-permalink: 5-ways-to-finance-your-tutoring-agency
+permalink: 5-ways-to-finance-your-tutoring-agency/
 ---
 Raising capital to get your tutoring agency off the ground can be tricky.
 Unless you already have savings put aside for your venture, you’ll need to

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Stay Productive as a Tutoring Agency Owner"
-permalink: productive-tutoring-agency
+permalink: productive-tutoring-agency/
 ---
 One of the most difficult things about running a business is staying
 productive. Sometimes it can be difficult to know whether what you’re doing is

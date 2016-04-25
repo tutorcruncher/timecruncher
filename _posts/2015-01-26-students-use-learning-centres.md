@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why do Students Use Learning Centres?"
-permalink: students-use-learning-centres
+permalink: students-use-learning-centres/
 ---
 Students decide to use [ learning centres ](http://www.tutorcruncher.com/news-
 and-updates/how-to-start-a-tutoring-business/) for a variety of different

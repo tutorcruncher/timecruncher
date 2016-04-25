@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Optimize Your Tutoring Agency’s Blog"
-permalink: optimize-tutoring-agencys-blog
+permalink: optimize-tutoring-agencys-blog/
 ---
 In a digital age where everyone’s obsessed with SEO, we often forget to put
 our blog readers’

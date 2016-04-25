@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Most Common Business Mistakes New Learning Centres Make"
-permalink: common-business-mistakes-learning-centres-make
+permalink: common-business-mistakes-learning-centres-make/
 ---
 At TutorCruncher, we’ve seen our fair share of new learning centres open in
 recent years. Between what we’ve learned from running our own agency and

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "International Tutors"
-permalink: tutors-international
+permalink: tutors-international/
 ---
 <div class="img-holder full-width">
    <img src="/img/blogs/Tutors-International.jpg" alt-text="international tutors"/>

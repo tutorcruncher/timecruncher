@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Year’s Marketing Resolutions - SEO or not?"
-permalink: new-years-marketing-seo
+permalink: new-years-marketing-seo/
 author: Mark Biggins
 tags:
   - Marketing

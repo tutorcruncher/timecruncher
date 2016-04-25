@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Get Funding for your Business"
-permalink: how-to-get-funding-for-your-business
+permalink: how-to-get-funding-for-your-business/
 redirect_from: /how-to-start-a-tuition-business1/how-to-get-funding-for-your-business1062014/
 ---
 When you start your own business, funding is probably the issue you are most

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Code of Ethics for Tuition Agencies"
-permalink: tuition-agency-ethics
+permalink: tuition-agency-ethics/
 ---
 At TutorCruncher, we believe that all tuition agencies should abide by a code
 of ethics to ensure that they deliver the best possible service to their

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Most Common Mistakes People Make When Choosing a Tutoring Agency"
-permalink: common-mistakes-choosing-tutoring-agency
+permalink: common-mistakes-choosing-tutoring-agency/
 ---
 Using a tuition agency can be a big step for students, so you’ll want to
 ensure that the agency you choose is reliable, has a good reputation and

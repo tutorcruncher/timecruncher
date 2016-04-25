@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communication is Key"
-permalink: communication-is-key
+permalink: communication-is-key/
 ---
 In the world today an online presence is crucial. Whatever the size or stage
 of your business, establishing yourself in the world of social media is a

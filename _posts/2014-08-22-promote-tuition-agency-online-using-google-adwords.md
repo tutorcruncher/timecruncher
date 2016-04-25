@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Promote Your Tuition Agency Online Using Google AdWords"
-permalink: promote-tuition-agency-online-using-google-adwords
+permalink: promote-tuition-agency-online-using-google-adwords/
 ---
 For tuition agencies that want to promote themselves online and don’t have
 much of a budget, [ Google AdWords

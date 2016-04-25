@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Features that will make your tutoring company fly!"
-permalink: features-that-will-make-your-tutoring-company-fly
+permalink: features-that-will-make-your-tutoring-company-fly/
 ---
 Since our launch earlier this year many of the UK's top tuition agencies have
 signed up to TutorCruncher. These include Harrison Allen, Carfax, Bonas

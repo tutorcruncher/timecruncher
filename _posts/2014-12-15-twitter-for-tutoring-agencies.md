@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Your Tutoring Agency Should Use Twitter"
-permalink: twitter-for-tutoring-agencies
+permalink: twitter-for-tutoring-agencies/
 ---
 [
 

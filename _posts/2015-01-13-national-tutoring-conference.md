@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "National Tutoring Conference"
-permalink: national-tutoring-conference
+permalink: national-tutoring-conference/
 ---
 ### 10th February, Piccadilly, London
 

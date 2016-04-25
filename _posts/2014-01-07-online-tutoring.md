@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online Tutoring"
-permalink: online-tutoring
+permalink: online-tutoring/
 ---
 You may want to expand your tutoring services by offering online tuition. This
 may be an area of growth for existing and prospective tutors. [ Online

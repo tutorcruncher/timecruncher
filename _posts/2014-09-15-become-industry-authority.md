@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Make Your Tutoring Agency an Industry Authority"
-permalink: become-industry-authority
+permalink: become-industry-authority/
 ---
 When people hear the name of your tutoring agency, what do they think of? Do
 they think of your brand as being an industry leader or just another run of

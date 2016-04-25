@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improving Your Tuition Skills"
-permalink: improving-your-tuition-skills
+permalink: improving-your-tuition-skills/
 ---
 Whether you’re new to tutoring or a seasoned veteran, there’s always room for
 improving your skills. Being flexible and adaptable in your teaching style

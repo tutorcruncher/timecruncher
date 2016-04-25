@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4 Things Every Tutoring Agency Should Know About Marketing"
-permalink: 4-things-should-know-marketing
+permalink: 4-things-should-know-marketing/
 ---
 One of the most difficult tasks new tutoring agencies face is marketing. The
 internet is a hub of information and sometimes it can be difficult to separate

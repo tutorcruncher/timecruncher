@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher is in the news!"
-permalink: tutorcruncher-is-in-the-news
+permalink: tutorcruncher-is-in-the-news/
 author: Mark
 tags:
   - Investment

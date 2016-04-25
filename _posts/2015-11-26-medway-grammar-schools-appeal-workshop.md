@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medway Grammar Schools Appeal Workshop"
-permalink: medway-grammar-schools-appeal-workshop
+permalink: medway-grammar-schools-appeal-workshop/
 author: Woody Webster
 tags:
   - Workshop

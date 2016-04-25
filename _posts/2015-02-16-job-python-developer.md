@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job Listing - Python Developer"
-permalink: job-python-developer
+permalink: job-python-developer/
 ---
 ## TutorCruncher – London SW1W
 

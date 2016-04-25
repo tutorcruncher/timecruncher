@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Makes a Good Tuition Agency Director?"
-permalink: what-makes-a-good-tuition-agency-director
+permalink: what-makes-a-good-tuition-agency-director/
 ---
 As the head of a tutoring company, you have certain responsibilities that you
 need to take on board. You need to ensure that students receive high quality

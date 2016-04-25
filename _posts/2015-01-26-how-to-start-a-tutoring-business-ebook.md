@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher's First eBook"
-permalink: how-to-start-a-tutoring-business-ebook
+permalink: how-to-start-a-tutoring-business-ebook/
 ---
 We are very excited to announce that we have published a book to help
 entrepreneurs and education professionals get going in the industry. We have

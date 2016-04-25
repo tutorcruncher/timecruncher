@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online Assessments"
-permalink: online-assessments
+permalink: online-assessments/
 author: TutorCruncher
 ---
 This is a post written by Marcus Reoch, founder of e2focus.com and 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advice for Tutors: How to Inspire Learning"
-permalink: advice-for-tutors-how-to-inspire-learning
+permalink: advice-for-tutors-how-to-inspire-learning/
 ---
 One of the biggest obstacles tutors face is working with students who have
 lost their motivation. Uninspired learning can greatly affect academic

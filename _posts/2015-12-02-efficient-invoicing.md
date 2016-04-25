@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Efficient Invoicing"
-permalink: efficient-invoicing
+permalink: efficient-invoicing/
 author: Tom Hamilton Stubber
 tags:
   - Managing a tutoring agency

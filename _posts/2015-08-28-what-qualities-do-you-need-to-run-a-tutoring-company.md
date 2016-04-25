@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Qualities Do You Need to Run a Tutoring Company?"
-permalink: what-qualities-do-you-need-to-run-a-tutoring-company
+permalink: what-qualities-do-you-need-to-run-a-tutoring-company/
 author: TutorCruncher
 ---
 It takes a certain type of person to [run a private tutoring business.](http://www.tutorcruncher.com/tutor-scheduling-software/) 

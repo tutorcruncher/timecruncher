@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How a Learning Centre Can Improve a Student’s Grades"
-permalink: learning-centre
+permalink: learning-centre/
 ---
 Having access to a dedicated learning space outside of school can really help
 improve a student’s academic performance. Attending one to one or group

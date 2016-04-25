@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11 Plus Kent Test Conference"
-permalink: 11-plus-kent-test-conference
+permalink: 11-plus-kent-test-conference/
 tags:
   - Grammar Schools
   - 11 Plus

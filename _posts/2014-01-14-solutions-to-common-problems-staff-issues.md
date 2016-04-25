@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solutions to common problems : Staff issues"
-permalink: solutions-to-common-problems-staff-issues
+permalink: solutions-to-common-problems-staff-issues/
 ---
 If you have followed our advice on how to recruit your tutor team and how to
 interview a tutor, we hope you now have a great team of tutors. Yet, some

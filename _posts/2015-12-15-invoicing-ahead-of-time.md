@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invoicing ahead of time"
-permalink: invoicing-ahead-of-time
+permalink: invoicing-ahead-of-time/
 author: Tom Hamilton Stubber
 tags:
   - Invoicing

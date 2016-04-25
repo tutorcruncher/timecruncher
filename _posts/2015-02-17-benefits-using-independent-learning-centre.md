@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Benefits of Using an Independent Learning Centre"
-permalink: benefits-using-independent-learning-centre
+permalink: benefits-using-independent-learning-centre/
 ---
 [
 

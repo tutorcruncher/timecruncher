@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cambridge to reintroduce entrance exams"
-permalink: cambridge-to-reintroduce-entrance-exams
+permalink: cambridge-to-reintroduce-entrance-exams/
 author: Mark Biggins
 ---
 The increase in both the quantity and importance of examinations has gone hand in hand with the rise of private tutoring. A pupil’s performance in a handful of exams might be the single factor that determines potentially life-changing moments - securing a place at an historic boarding school or university. If performance in a single set of 11+ exams could save a parent £100k in school fees by gaining entry into a selective state grammar it is no wonder parents are willing to invest big money in getting their children over the line.

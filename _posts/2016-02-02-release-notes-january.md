@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "January Release Notes"
-permalink: release-notes-january
+permalink: release-notes-january/
 author: Tom Hamilton Stubber
 tags:
   - TutorCruncher

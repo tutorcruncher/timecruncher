@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutor Awards 9th July 2015 House of Lords"
-permalink: tutor-awards
+permalink: tutor-awards/
 author: TutorCruncher
 ---
 A 'super tutor' has been  awarded  the best and longest serving tutor in the tutoring industry awards 

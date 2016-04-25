@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Best Practices For Checking a Tutor’s Qualifications"
-permalink: best-practices-tutors-qualifications
+permalink: best-practices-tutors-qualifications/
 ---
 According to [ a survey published in the Independent
 ](http://www.independent.co.uk/news/education/education-news/a-third-of-

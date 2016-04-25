@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to write a great press release"
-permalink: how-to-write-a-great-press-release
+permalink: how-to-write-a-great-press-release/
 ---
 A press release is a short, compelling document detailing product releases,
 events, announcements and other newsworthy items that your tutoring business

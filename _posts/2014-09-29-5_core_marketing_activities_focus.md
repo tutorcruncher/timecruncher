@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Core Marketing Activities Your Tutoring Agency Should Focus On"
-permalink: 5_core_marketing_activities_focus
+permalink: 5_core_marketing_activities_focus/
 ---
 Particularly when your tutoring agency is in its early stages, it can be
 challenging to refine your marketing focus with so many different options

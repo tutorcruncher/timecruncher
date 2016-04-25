@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making a Living from Learning"
-permalink: making-a-living-from-learning
+permalink: making-a-living-from-learning/
 ---
 Tutoring is a lucrative field to work within. Play your cards right and you
 will excel. However a lot depends on your [ terms of business

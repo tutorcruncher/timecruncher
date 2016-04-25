@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Your Tutoring Agency Can Benefit From the Christmas Drop Off"
-permalink: tutoring-over-christmas
+permalink: tutoring-over-christmas/
 ---
 [
 

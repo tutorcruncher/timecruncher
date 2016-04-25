@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technology Teaching Ideas for Private Tutors"
-permalink: technology-teaching-ideas-for-private-tutors
+permalink: technology-teaching-ideas-for-private-tutors/
 ---
 Introducing technology into private tutoring sessions can be a great way to
 keep students motivated and engaged with lesson content. Nowadays, most

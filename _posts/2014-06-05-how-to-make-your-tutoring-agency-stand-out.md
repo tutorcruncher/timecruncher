@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Make Your Tutoring Agency Stand Out"
-permalink: how-to-make-your-tutoring-agency-stand-out
+permalink: how-to-make-your-tutoring-agency-stand-out/
 ---
 Establishing your tuition agency takes time. Naturally, parents and students
 are inclined to use the services of an agency that have a good reputation, a

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[:en]All about VAT in the UK[:fr]undefinedAll about VAT in the"
-permalink: all-about-vat-in-the-uk
+permalink: all-about-vat-in-the-uk/
 ---
 [:en]
 

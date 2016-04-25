@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "London, a tutoring capital?"
-permalink: london-a-tutoring-capital
+permalink: london-a-tutoring-capital/
 author: Mark
 tags:
   - London

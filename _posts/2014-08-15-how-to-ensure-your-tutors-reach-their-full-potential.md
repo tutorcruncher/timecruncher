@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Ensure Your Tutors Reach Their Full Potential"
-permalink: how-to-ensure-your-tutors-reach-their-full-potential
+permalink: how-to-ensure-your-tutors-reach-their-full-potential/
 ---
 As a tutoring agency directory, you’ll want to enable your tutors to reach
 their full potential and [ inspire their students

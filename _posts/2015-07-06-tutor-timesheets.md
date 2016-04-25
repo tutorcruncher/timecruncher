@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Tutor Timesheets Can Help you Organise your Tutoring Business"
-permalink: tutor-timesheets
+permalink: tutor-timesheets/
 author: TutorCruncher
 ---
 Organisation is the key to running a successful tutoring business. Not only

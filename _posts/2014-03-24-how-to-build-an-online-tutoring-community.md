@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Build an Online Tutoring Community"
-permalink: how-to-build-an-online-tutoring-community
+permalink: how-to-build-an-online-tutoring-community/
 ---
 With _ 73% of the UK population now online _ , the internet has quickly become
 the most popular tool for searching for information. From a tutoring agency’s

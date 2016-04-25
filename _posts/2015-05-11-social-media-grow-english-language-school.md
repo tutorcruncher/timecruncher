@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Ways Social Media Can Help Grow Your English Language School"
-permalink: social-media-grow-english-language-school
+permalink: social-media-grow-english-language-school/
 author: TutorCruncher
 ---
 _ Your English language school may already be using social media as a matter

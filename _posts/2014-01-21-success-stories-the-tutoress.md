@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Success stories : The tutoress"
-permalink: success-stories-the-tutoress
+permalink: success-stories-the-tutoress/
 ---
 ### Today's success story is [ Victoria's ](http://thetutoress.com/home/meet-
 our-tutors/) one, a brilliant woman who agreed to share her very own

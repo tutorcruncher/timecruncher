@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Approaching your Tutoring Services"
-permalink: approaching-your-tutoring-services
+permalink: approaching-your-tutoring-services/
 ---
 Starting a tutoring business is not just a matter of starting a tutoring
 business. As we started to address in the blog, ‘Find your Niche’, there are

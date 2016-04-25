@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher Making Waves"
-permalink: tutorcruncher-making-waves
+permalink: tutorcruncher-making-waves/
 author: Mark Biggins
 tags:
  - TutorCruncher

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher New Features"
-permalink: tutorcruncher-new-features
+permalink: tutorcruncher-new-features/
 ---
 In order to improve our online software and make it more user-friendly, we are
 releasing new features within TutorCruncher.

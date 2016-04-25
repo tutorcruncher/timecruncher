@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Get Students On Board With Your Lessons"
-permalink: engage-students-in-learning
+permalink: engage-students-in-learning/
 ---
 As a tutor, it can be frustrating when a student loses interest in your
 lesson. Sometimes, you need to revise your approach and adopt new teaching

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software Engineer Internship"
-permalink: software-engineer-internship
+permalink: software-engineer-internship/
 author: TutorCruncher
 ---
 Tutorcruncher is a premier technology business working on high performance

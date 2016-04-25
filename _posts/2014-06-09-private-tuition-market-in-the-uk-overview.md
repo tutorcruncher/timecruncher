@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Private Tuition Market in the UK: Overview"
-permalink: private-tuition-market-in-the-uk-overview
+permalink: private-tuition-market-in-the-uk-overview/
 ---
 According to a survey conducted by 
 [EdPlace](http://www.telegraph.co.uk/finance/personalfinance/9651689/Parents-spend-6bn-a-year-on-private-tuition.html), 

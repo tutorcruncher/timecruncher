@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting your prices"
-permalink: setting-your-prices
+permalink: setting-your-prices/
 redirect_from: /how-to-start-a-tuition-business1/setting-your-prices2012014/
 ---
 Deciding how much to charge is difficult, you want to be attractive to clients

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Marketing Metrics Every Tutoring Agency should Track"
-permalink: 5-marketing-metrics-every-tutoring-agency-track
+permalink: 5-marketing-metrics-every-tutoring-agency-track/
 ---
 How does your tutoring agency monitor the progress of its online marketing
 efforts? It’s all well and good putting in the hours [ promoting your agency

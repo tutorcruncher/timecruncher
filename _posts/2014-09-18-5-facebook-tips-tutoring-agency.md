@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Facebook Tips for Your Tutoring Agency"
-permalink: 5-facebook-tips-tutoring-agency
+permalink: 5-facebook-tips-tutoring-agency/
 ---
 There are currently [ 1.28 billion active Facebook users worldwide
 ](http://www.statista.com/statistics/264810/number-of-monthly-active-facebook-

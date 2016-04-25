@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A New Look for TutorCruncher"
-permalink: a-new-look-for-tutorcruncher
+permalink: a-new-look-for-tutorcruncher/
 ---
 Hi, Take a look at the newest version of TutorCruncher. We've revamped our old
 design, added new features and a new layout. We've ditched the old rainbow

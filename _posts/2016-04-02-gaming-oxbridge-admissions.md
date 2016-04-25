@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gaming Oxbridge Admissions"
-permalink: gaming-oxbridge-admissions
+permalink: gaming-oxbridge-admissions/
 author: Mark Biggins
 tags:
   - Oxbridge Admissions

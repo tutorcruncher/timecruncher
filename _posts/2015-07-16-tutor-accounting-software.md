@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Your Business Needs Tutor Accounting Software"
-permalink: tutor-accounting-software
+permalink: tutor-accounting-software/
 author: TutorCruncher
 ---
 When it comes to taking care of your finances, spreadsheets and Word documents

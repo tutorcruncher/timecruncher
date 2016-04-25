@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to choose a good English Language School?"
-permalink: choose-english-language-school
+permalink: choose-english-language-school/
 ---
 _ As more international students choose to study at UK universities, the
 demand for English Language tutors is on the increase. But how do you know

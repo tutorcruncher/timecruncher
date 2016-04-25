@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recruiting your Tutor-Team"
-permalink: recruiting-your-tutor-team
+permalink: recruiting-your-tutor-team/
 ---
 One of the most important parts of building a tutoring business is sourcing
 your tutors. Your tutors will be your brand ambassadors and consequently a lot

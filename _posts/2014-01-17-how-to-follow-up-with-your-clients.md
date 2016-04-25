@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to follow up with your clients"
-permalink: how-to-follow-up-with-your-clients
+permalink: how-to-follow-up-with-your-clients/
 ---
 Now that you have managed to build a great network of clients, you surely
 wouldn't want to lose them. Clients should be well-considered as they reflect

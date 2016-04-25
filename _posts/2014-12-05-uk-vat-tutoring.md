@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UK VAT Ruling on Tutoring Agencies"
-permalink: uk-vat-tutoring
+permalink: uk-vat-tutoring/
 ---
 There have been endless discussions in the meeting rooms, accountants, and
 advisers of tutoring agencies about the view that HMRC take on agencies paying

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Check out our fantastic new videos!!"
-permalink: check-out-our-fantastic-new-videos
+permalink: check-out-our-fantastic-new-videos/
 ---
 At TutorCruncher we have developed a series of videos to enable you to get the
 most out of TutorCruncher. Please visit our YouTube home page [ here

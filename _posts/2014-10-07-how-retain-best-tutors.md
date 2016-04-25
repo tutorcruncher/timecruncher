@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Your Tutoring Agency Can Retain its Best Tutors"
-permalink: how-retain-best-tutors
+permalink: how-retain-best-tutors/
 ---
 A recent survey by Monster Jobs, found that [ 70% of people
 ](http://www.about-monster.com/content/monster-poll-reveals-motivating-power-

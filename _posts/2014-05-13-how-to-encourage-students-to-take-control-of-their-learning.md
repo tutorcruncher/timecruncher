@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Encourage Students to Take Control of Their Learning"
-permalink: how-to-encourage-students-to-take-control-of-their-learning
+permalink: how-to-encourage-students-to-take-control-of-their-learning/
 ---
 Students often become disillusioned with their learning and can feel
 frustrated when their results don’t reflect in their efforts. So as a private

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4 Marketing Goals Every Tutoring Agency Should Work Towards in the New Year"
-permalink: marketing-goals-new-year
+permalink: marketing-goals-new-year/
 ---
 As another New Year begins, business owners are given the opportunity to
 refine their goals for the coming months. As a tutoring agency, you may

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11 Plus conference sponsorship"
-permalink: 11-plus-conference-sponsorship
+permalink: 11-plus-conference-sponsorship/
 author: TutorCruncher
 ---
 ### 11 Plus conference sponsorship

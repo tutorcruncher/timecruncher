@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Use Educational Computer Games"
-permalink: educational-computer-games
+permalink: educational-computer-games/
 ---
 Arguing that 
 

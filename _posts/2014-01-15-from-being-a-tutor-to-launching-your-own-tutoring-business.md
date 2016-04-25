@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Being a Tutor to Launching your own Tutoring Business"
-permalink: from-being-a-tutor-to-launching-your-own-tutoring-business
+permalink: from-being-a-tutor-to-launching-your-own-tutoring-business/
 ---
 Going from being a tutor to launching your own tutoring business is a big step to make. Here’s a post for those who are still hesitating.
 

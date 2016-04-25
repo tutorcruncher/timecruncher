@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Great Tutoring Websites and Blogs"
-permalink: great-tutoring-websites-and-blogs
+permalink: great-tutoring-websites-and-blogs/
 ---
 These are our top five of the most useful websites and blogs on tutoring **
 1\.  

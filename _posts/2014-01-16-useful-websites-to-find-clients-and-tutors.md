@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Useful Websites to find Clients and Tutors"
-permalink: useful-websites-to-find-clients-and-tutors
+permalink: useful-websites-to-find-clients-and-tutors/
 ---
 ## There are several useful websites to find both tutors and clients: 
 

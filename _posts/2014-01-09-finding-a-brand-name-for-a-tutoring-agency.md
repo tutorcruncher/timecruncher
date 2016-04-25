@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding a Brand Name for a Tutoring Agency"
-permalink: finding-a-brand-name-for-a-tutoring-agency
+permalink: finding-a-brand-name-for-a-tutoring-agency/
 ---
 Choosing the right 
 

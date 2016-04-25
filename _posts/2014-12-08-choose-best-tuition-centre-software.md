@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Choose the Best Tuition Centre Software"
-permalink: choose-best-tuition-centre-software
+permalink: choose-best-tuition-centre-software/
 ---
 [
 

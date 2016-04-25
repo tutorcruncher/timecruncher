@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Your Tutoring Agency Can Make the Most of Social Media"
-permalink: make-the-most-social-media
+permalink: make-the-most-social-media/
 ---
 Running your own tutoring agency often means you don’t have the time to spend
 on all the aspects of marketing that you’d like. That’s why important to

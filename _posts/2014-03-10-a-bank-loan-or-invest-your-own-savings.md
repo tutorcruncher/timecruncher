@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Bank Loan or Invest Your Own Savings?"
-permalink: a-bank-loan-or-invest-your-own-savings
+permalink: a-bank-loan-or-invest-your-own-savings/
 ---
 Do you have a great business idea, but you’re in need of money and business
 expertise to turn your dream into a reality? Or maybe you’ve already started

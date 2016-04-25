@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Drum Roll Please!!"
-permalink: a-drum-roll-please
+permalink: a-drum-roll-please/
 ---
 TutorCruncher is proud to announce it has been shortlisted for a highly sought
 after [ Bett Award ](http://www.bettawards.com/) . This year we are proud to

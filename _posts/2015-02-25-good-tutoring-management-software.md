@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Makes Good Tutoring Management Software?"
-permalink: good-tutoring-management-software
+permalink: good-tutoring-management-software/
 ---
 [
 

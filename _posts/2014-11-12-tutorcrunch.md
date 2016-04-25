@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutor Crunch or TutorCruncher? The Importance of Name"
-permalink: tutorcrunch
+permalink: tutorcrunch/
 ---
 [
 

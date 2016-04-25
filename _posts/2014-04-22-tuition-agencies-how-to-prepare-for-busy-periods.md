@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tuition Agencies: How to Prepare For Busy Periods"
-permalink: tuition-agencies-how-to-prepare-for-busy-periods
+permalink: tuition-agencies-how-to-prepare-for-busy-periods/
 redirect_from: 
   - /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
   - /how-to-start-a-tuition-business1/tuition-agencies-how-to-prepare-for-busy-periods2242014/

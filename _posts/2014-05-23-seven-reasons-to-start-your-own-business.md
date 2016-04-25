@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seven Reasons to Start your Own Business"
-permalink: seven-reasons-to-start-your-own-business
+permalink: seven-reasons-to-start-your-own-business/
 ---
 Each month, about 543,000 new businesses are opened. Becoming a business owner
 can be very advantageous. This might be something you have never thought about

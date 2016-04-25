@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How To Go Paperless"
-permalink: how-to-go-paperless
+permalink: how-to-go-paperless/
 ---
 Many offices are trying to be more environmentally friendly, that way they
 spend less money on printing and also keep their office tidier and paperless.

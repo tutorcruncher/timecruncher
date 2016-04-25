@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How a Digital Marketing Strategy Can Help Grow Your Tuition Agency"
-permalink: digital-marketing-strategy-can-help-grow-tuition-agency
+permalink: digital-marketing-strategy-can-help-grow-tuition-agency/
 ---
 Nowadays, the first place people look when they need information is Google,
 which means that your tutoring agency needs to have an online presence if you

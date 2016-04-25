@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Know When to Post on Social Media"
-permalink: know-post-social-media-2
+permalink: know-post-social-media-2/
 ---
 Social media is an integral part of any [ tutoring agency’s marketing strategy
 ](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-

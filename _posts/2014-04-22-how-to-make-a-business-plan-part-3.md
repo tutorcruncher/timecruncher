@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make a Business Plan - Part 3"
-permalink: how-to-make-a-business-plan-part-3
+permalink: how-to-make-a-business-plan-part-3/
 ---
 ### 8\. Break down your revenue streams
 

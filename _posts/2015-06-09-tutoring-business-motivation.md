@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Stay Focused on your Tutoring Business"
-permalink: tutoring-business-motivation
+permalink: tutoring-business-motivation/
 author: TutorCruncher
 ---
 Whether you run a tutoring centre or are a 

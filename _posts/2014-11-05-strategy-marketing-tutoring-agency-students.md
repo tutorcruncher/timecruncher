@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Strategy for Marketing Your Tutoring Agency to Students"
-permalink: strategy-marketing-tutoring-agency-students
+permalink: strategy-marketing-tutoring-agency-students/
 ---
 <div class="img-holder full-width">
    <img src="/img/blogs/college-students-addicted-to-social-media-10042801-300x211.jpg" alt-text="Young men and women holding mobile phones"/>

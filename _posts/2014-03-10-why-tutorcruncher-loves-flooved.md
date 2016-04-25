@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Tutorcruncher loves Flooved"
-permalink: why-tutorcruncher-loves-flooved
+permalink: why-tutorcruncher-loves-flooved/
 ---
 ### [ Flooved.com ](http://www.flooved.com/) looks to shake up the educational system and publishing industry with its subscription streaming model.
 

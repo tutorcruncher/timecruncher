@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oxbridge Entry Questions - can you spot the fakes?"
-permalink: oxbridge-entry-questions
+permalink: oxbridge-entry-questions/
 author: Mark Biggins &amp; Tom Hamilton Stubber
 tags:
  - Oxbridge Admissions

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use Lean Management in your start up"
-permalink: how-to-use-lean-management-in-your-start-up
+permalink: how-to-use-lean-management-in-your-start-up/
 ---
 Since a start up is an institution it requires management specifically geared
 to its context. One of the most modern management systems is the lean

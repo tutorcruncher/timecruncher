@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Success Stories : Nutty Supplier"
-permalink: success-stories-nutty-supplier
+permalink: success-stories-nutty-supplier/
 ---
 To be a supply teacher has its ups and downs. When starting her career as a
 supply teacher, there was little information about the job. Sharon started the

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "April's Newsletter!"
-permalink: april-newsletter
+permalink: april-newsletter/
 ---
  
 March has been a very busy month for TutorCruncher, and we've seen some big features released.

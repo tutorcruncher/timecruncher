@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogging Ideas for Your Tutoring Agency"
-permalink: blogging-ideas-tutoring-agency
+permalink: blogging-ideas-tutoring-agency/
 ---
 Thinking up [ new ideas for your blog posts
 ](http://www.tutorcruncher.com/tutoring-agency-needs-blog/) can be tricky and

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11 plus conference 1st April"
-permalink: 11-plus-conference-1st-april
+permalink: 11-plus-conference-1st-april/
 ---
 ### 11 plus conference 1st April
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TutorCruncher Updates: Schedule"
-permalink: tutorcruncher-updates-schedule
+permalink: tutorcruncher-updates-schedule/
 ---
 TutorCruncher has recently developed a new feature for Scheduling, with the
 aim to help you streamline your business and save even more time than before.

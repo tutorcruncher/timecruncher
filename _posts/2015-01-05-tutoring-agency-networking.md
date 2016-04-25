@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Offline Networking Can Grow Your Tutoring Agency"
-permalink: tutoring-agency-networking
+permalink: tutoring-agency-networking/
 ---
 In this digital age, when people hear the word ‘networking’, online forums,
 chat rooms and [ social media ](http://www.tutorcruncher.com/twitter-for-

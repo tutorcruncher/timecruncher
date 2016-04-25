@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interviewing your tutors"
-permalink: interviewing-your-tutors
+permalink: interviewing-your-tutors/
 ---
 As you build your database of tutors you need some key information about their
 capacity and availability. Here are some key questions you should consider

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mass Market Tutoring"
-permalink: mass-market-tutoring
+permalink: mass-market-tutoring/
 author: Mark Biggins
 tags:
   - User Experience

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mandrill Changes"
-permalink: mandrill-changes
+permalink: mandrill-changes/
 author: Mark, Tom and Samuel
 ---
 All of those using TutorCruncher will also be using Mandrill. It's our transactional email client, 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Tutor Awards - 9th July"
-permalink: the-tutor-awards
+permalink: the-tutor-awards/
 author: TutorCruncher
 ---
 ###

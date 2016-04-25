@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Interview Tutors for your Tutoring Company"
-permalink: interview-tutors-for-tutoring-company
+permalink: interview-tutors-for-tutoring-company/
 author: TutorCruncher
 ---
 So, you have a shortlist of tutors who you think would be a good fit for

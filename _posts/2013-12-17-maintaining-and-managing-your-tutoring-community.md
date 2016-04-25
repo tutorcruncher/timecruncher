@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maintaining and Managing your Tutoring Community…"
-permalink: maintaining-and-managing-your-tutoring-community
+permalink: maintaining-and-managing-your-tutoring-community/
 ---
 As you, our audience, will be well aware, tutoring really is a people-
 orientated industry. The most successful tutoring companies will be those that

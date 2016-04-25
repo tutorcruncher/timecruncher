@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How your Tutoring Agency can make the most of Scheduling Software"
-permalink: make-most-of-scheduling-software
+permalink: make-most-of-scheduling-software/
 ---
 _ Work scheduling software like TutorCruncher can greatly improve the
 efficiency of your tutoring agency. Not only will it save you administration

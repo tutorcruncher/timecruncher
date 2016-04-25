@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Your Tutoring Agency Needs a Mobile Responsive Website"
-permalink: mobile-responsive-tutoring-website
+permalink: mobile-responsive-tutoring-website/
 ---
 [
 

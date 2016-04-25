@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Business Savvy - The Legal Side"
-permalink: getting-business-savvy-the-legal-side
+permalink: getting-business-savvy-the-legal-side/
 ---
 When setting up any business it’s important to make sure that you are on the
 right side of the law and completely above board. Luckily, (particularly if

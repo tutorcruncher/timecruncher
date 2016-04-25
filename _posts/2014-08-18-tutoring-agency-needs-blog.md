@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Your Tutoring Agency Needs a Blog"
-permalink: tutoring-agency-needs-blog
+permalink: tutoring-agency-needs-blog/
 ---
 So, your tuition agency has a website and explains all your services. You even
 use social media to attract more customers. But how do you rank in search

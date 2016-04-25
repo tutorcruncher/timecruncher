@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get the Best Out of Your Online Communication"
-permalink: get-the-best-out-of-your-online-communication
+permalink: get-the-best-out-of-your-online-communication/
 ---
 ## Content 
 

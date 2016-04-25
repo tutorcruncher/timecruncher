@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modernising Your Tutoring Business Operations"
-permalink: modernising-tutoring-business-operations
+permalink: modernising-tutoring-business-operations/
 ---
 The tutoring industry is changing. The rise in technology and the increase in the numbers of new tutoring start-ups 
 means that if you want to stay ahead of the game and establish your tutoring business as an authority, 

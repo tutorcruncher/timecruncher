@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Every Tutoring Business Should Know About Customer Service"
-permalink: tutoring-business-customer-service
+permalink: tutoring-business-customer-service/
 author: TutorCruncher
 ---
 It’s the backbone of what every tutoring business should be built upon, yet

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digital Resources for a Tuition Agency"
-permalink: digital-resources-tuition-agency
+permalink: digital-resources-tuition-agency/
 ---
 With so many digital resources out there, it can sometimes be difficult for
 tuition agencies to decide which are the most useful. To help steer you in the

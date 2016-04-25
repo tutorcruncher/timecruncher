@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Advantages of Using an Independent Tuition Agency"
-permalink: advantages-using-independent-tuition-agency
+permalink: advantages-using-independent-tuition-agency/
 ---
 There are several advantages to using an independent tuition agency not least
 that students receive a custom made learning experience that they don’t get

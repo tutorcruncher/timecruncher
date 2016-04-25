@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Success stories : Coffee Money"
-permalink: success-stories-coffee-money
+permalink: success-stories-coffee-money/
 ---
 We have gathered testimonials from people who actually succeeded in the
 tutoring industry, hoping you can learn the ropes of managing your own

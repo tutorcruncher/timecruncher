@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What do Parents Want from a Tutoring Company?"
-permalink: parents-want-from-tutoring
+permalink: parents-want-from-tutoring/
 author: TutorCruncher
 ---
 Every student has different needs and every parent uses the [services of a

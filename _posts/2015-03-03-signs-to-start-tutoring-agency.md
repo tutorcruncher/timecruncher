@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Signs it’s Time to Start your own Tutoring Agency"
-permalink: signs-to-start-tutoring-agency
+permalink: signs-to-start-tutoring-agency/
 ---
 _ Knowing when to take your tutoring business to the next level can be
 difficult to determine. To help you identify when you should make the

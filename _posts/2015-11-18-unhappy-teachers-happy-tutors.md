@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unhappy teachers = happy tutors?"
-permalink: unhappy-teachers-happy-tutors
+permalink: unhappy-teachers-happy-tutors/
 author: Mark
 tags:
   - Teaching

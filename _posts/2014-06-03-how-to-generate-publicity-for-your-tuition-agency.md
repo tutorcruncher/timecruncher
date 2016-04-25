@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Generate Publicity for Your Tuition Agency"
-permalink: how-to-generate-publicity-for-your-tuition-agency
+permalink: how-to-generate-publicity-for-your-tuition-agency/
 redirect_from: /how-to-start-a-tuition-business1/how-to-generate-publicity-for-your-tuition-agency362014/
 ---
 Creating publicity for your business is far more cost effective than paying

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What to Look For When Choosing a Learning Centre"
-permalink: look-choosing-learning-centre
+permalink: look-choosing-learning-centre/
 ---
 The benefits of using a learning centre are well documented in parenting
 circles and online forums. But how do you know which learning centre to

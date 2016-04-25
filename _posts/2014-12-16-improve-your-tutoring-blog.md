@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Ways to Improve Your Tutoring Agency’s Blog"
-permalink: improve-your-tutoring-blog
+permalink: improve-your-tutoring-blog/
 ---
 <div class="img-holder full-width">
    <img src="/img/blogs/blog-300x297.jpg" alt-text="Blog"/>

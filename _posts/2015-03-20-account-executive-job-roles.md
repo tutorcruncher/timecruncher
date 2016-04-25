@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Account Executive job roles"
-permalink: account-executive-job-roles
+permalink: account-executive-job-roles/
 ---
 Account Executive job roles  Tutorcruncher is hiring,hurrah.  Tutorcruncher's
 HQ is based in Victoria London and is looking for the finest SAAS sales

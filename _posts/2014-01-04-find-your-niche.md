@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Find your Niche"
-permalink: find-your-niche
+permalink: find-your-niche/
 ---
 This is the first blog in our series about HOW to set up your very own
 tutoring agency. From our own experience, the Bright Young Things Tuition Team

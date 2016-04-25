@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Educatablet"
-permalink: educatablet
+permalink: educatablet/
 ---
 Tutorcruncher likes what Educatablet is doing in the content space. Clearly
 there is a real need for well developed content across the globe and curation

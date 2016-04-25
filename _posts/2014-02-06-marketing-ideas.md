@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marketing Ideas"
-permalink: marketing-ideas
+permalink: marketing-ideas/
 ---
 ### The art of Stretching the Marketing Budget
 

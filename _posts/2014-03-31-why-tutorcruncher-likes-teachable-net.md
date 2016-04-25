@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why TutorCruncher likes Teachable.net"
-permalink: why-tutorcruncher-likes-teachable-net
+permalink: why-tutorcruncher-likes-teachable-net/
 ---
 Teachable.net is an online platform which provides access to a wide range of
 documents which can help teachers improve their lessons. This resource panel

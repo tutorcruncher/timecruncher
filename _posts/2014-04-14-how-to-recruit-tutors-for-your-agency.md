@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Recruit Tutors for Your Agency"
-permalink: how-to-recruit-tutors-for-your-agency
+permalink: how-to-recruit-tutors-for-your-agency/
 redirect_from: /how-to-start-a-tuition-business1/how-to-recruit-tutors-for-your-agency1442014/
 ---
 Finding suitable tutors for your tuition agency is one of the most important

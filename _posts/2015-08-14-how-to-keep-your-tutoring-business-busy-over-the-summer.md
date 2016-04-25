@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Keep Your Tutoring Business Busy Over the Summer"
-permalink: how-to-keep-your-tutoring-business-busy-over-the-summer
+permalink: how-to-keep-your-tutoring-business-busy-over-the-summer/
 author: TutorCruncher
 ---
 According to a 2013 

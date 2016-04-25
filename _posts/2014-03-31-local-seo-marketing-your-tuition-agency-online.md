@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Local SEO: Marketing Your Tuition Agency Online"
-permalink: local-seo-marketing-your-tuition-agency-online
+permalink: local-seo-marketing-your-tuition-agency-online/
 redirect_from: /how-to-start-a-tuition-business1/how-to-grow-your-tuition-agency3132014/
 ---
 One of the most important factors in online marketing for tutoring agencies is

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Does Tuition Centre Software Offer that Traditional Accounting Software"
-permalink: tuition-centre-software
+permalink: tuition-centre-software/
 ---
 [
 

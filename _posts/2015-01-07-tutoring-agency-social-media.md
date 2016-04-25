@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Will Your Tutoring Agency Use Social Media in 2015?"
-permalink: tutoring-agency-social-media
+permalink: tutoring-agency-social-media/
 ---
 [
 

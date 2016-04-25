@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is your Tutoring Agency Making Use of These New Technologies"
-permalink: tutoring-agency-technology
+permalink: tutoring-agency-technology/
 ---
 The face of education is changing and it looks like its set to go truly
 digital. Whereas a few years ago, smart boards were considered the height of 
