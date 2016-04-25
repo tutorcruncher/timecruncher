@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conceptualise your Brand..."
-permalink: conceptualise-your-brand
+permalink: conceptualise-your-brand/
 ---
 Having found your unique position in your target market and established the
 direction you want to send your tutoring agency towards, it is now time to
