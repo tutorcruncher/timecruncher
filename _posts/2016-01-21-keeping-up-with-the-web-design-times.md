@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keeping up with the web-design times"
-permalink: "keeping-up-with-the-web-design-times"/
+permalink: "keeping-up-with-the-web-design-times/"
 author: Mark Biggins
 tags:
   - Marketing
