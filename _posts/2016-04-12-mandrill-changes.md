@@ -3,6 +3,7 @@ layout: post
 title:  "Mandrill Changes"
 permalink: mandrill-changes/
 author: Mark, Tom and Samuel
+tags: Emails
 ---
 All of those using TutorCruncher will also be using Mandrill. It's our transactional email client, 
 and is used every time you send and email, such as sending an invoice, welcoming a new client or even sending lesson reminders. 

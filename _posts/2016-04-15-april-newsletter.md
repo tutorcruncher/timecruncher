@@ -2,6 +2,9 @@
 layout: post
 title:  "April's Newsletter!"
 permalink: april-newsletter/
+tags:
+ - TutorCruncher
+ - Release Notes
 ---
  
 March has been a very busy month for TutorCruncher, and we've seen some big features released.
