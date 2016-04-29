@@ -1,5 +1,5 @@
 ---
 layout: change_log
-title: "Change Log"
+title: Change Log
 permalink: /change_log/
 ---

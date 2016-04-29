@@ -1,0 +1,422 @@
+-
+  title: v16-04-29
+  notes:
+    - correct fix for \#3282
+    - allow add-role-to-user for SRs
+    - switch report address sr \> client
+    - fix enquiry map
+    - Update reqs
+    - Help link displayed on login page
+    - speedup contractor skill filter queries
+    - working on fix for failed payments
+    - sending invoice emails to SRClients
+
+-
+  title: v16-04-26-2
+  notes:
+    - Fixes before release
+
+-
+  title: v16-04-26
+  notes:
+    - Display a service link on the tender
+    - Use Country Factory for seltests
+    - simply the default User query
+    - removing CountryFactory from user
+    - add ALLOW\_UNAPPROVED\_EMAIL\_STYLE option
+    - Add date filter to reports list
+    - Using the lookup-ed name for the email trigger
+
+-
+  title: v16-04-21
+  notes:
+    - Use the branchs first email style if none declared
+    - custom rates on cli\_subs
+
+-
+  title: v16-04-08
+  notes:
+-
+  title: v16-04-05
+  notes:
+    - Patch to correct access types on accounting docs
+
+-
+  title: v16-04-19
+  notes:
+    - Gc event fix
+    - Split the CRM tests
+    - status for rcras
+
+-
+  title: v16-04-18
+  notes:
+    - Allow clients to view own invoices
+    - Add SR role\_form
+    - fix annoyance in translations
+
+-
+  title: v16-04-13
+  notes:
+-
+  title: v16-04-11
+  notes:
+-
+  title: v16-03-30
+  notes:
+-
+  title: v16-03-23
+  notes:
+-
+  title: v16-03-21
+  notes:
+-
+  title: v16-03-16
+  notes:
+-
+  title: v16-03-09
+  notes:
+-
+  title: v16-03-07
+  notes:
+-
+  title: v16-03-01
+  notes:
+-
+  title: v16-02-18
+  notes:
+-
+  title: v16-01-27
+  notes:
+-
+  title: v16-01-19.01
+  notes:
+-
+  title: v16-01-19
+  notes:
+-
+  title: v16-01-08
+  notes:
+-
+  title: v15-12-17
+  notes:
+-
+  title: v15-12-04
+  notes:
+-
+  title: v15-12-01
+  notes:
+-
+  title: v15-11-25
+  notes:
+-
+  title: v15-11-23
+  notes:
+-
+  title: v15-11-19
+  notes:
+-
+  title: v15-11-16
+  notes:
+-
+  title: v15-11-12.01
+  notes:
+-
+  title: v15-11-12
+  notes:
+-
+  title: v15-11-09
+  notes:
+-
+  title: v15-11-06
+  notes:
+-
+  title: v15-10-29
+  notes:
+-
+  title: v15-10-22
+  notes:
+-
+  title: v15-10-16
+  notes:
+-
+  title: v15-10-14
+  notes:
+-
+  title: v15-10-12
+  notes:
+-
+  title: v15-10-07
+  notes:
+-
+  title: v15-10-5
+  notes:
+-
+  title: v15-10-3
+  notes:
+-
+  title: v15-10-2
+  notes:
+-
+  title: v15-09-30
+  notes:
+-
+  title: v15-09-28
+  notes:
+-
+  title: v15-09-23
+  notes:
+-
+  title: v15-09-22
+  notes:
+
+-
+  title: v15-09-15
+  notes:
+-
+  title: v15-09-14.01
+  notes:
+-
+  title: v15-09-14
+  notes:
+-
+  title: v15-09-09
+  notes:
+-
+  title: v15-09-08
+  notes:
+-
+  title: v15-09-07
+  notes:
+-
+  title: v15-09-04
+  notes:
+-
+  title: v15-09-03
+  notes:
+-
+  title: v15-08-28.01
+  notes:
+-
+  title: v15-08-28
+  notes:
+-
+  title: v15-08-26
+  notes:
+-
+  title: v15-08-25
+  notes:
+-
+  title: v15-08-24
+  notes:
+-
+  title: v15-08-20.01
+  notes:
+-
+  title: v15-08-20
+  notes:
+-
+  title: v15-08-12.02
+  notes:
+-
+  title: v15-08-12.01
+  notes:
+-
+  title: v15-08-12
+  notes:
+-
+  title: v15-08-05
+  notes:
+-
+  title: v15-08-04.01
+  notes:
+-
+  title: v15-08-04
+  notes:
+-
+  title: v15-07-29
+  notes:
+-
+  title: v15-07-28
+  notes:
+-
+  title: v15-07-24.01
+  notes:
+-
+  title: v15-07-24
+  notes:
+-
+  title: v15-07-17.01
+  notes:
+-
+  title: v15-07-17
+  notes:
+-
+  title: v15-07-16
+  notes:
+-
+  title: v15-07-15
+  notes:
+-
+  title: v15-07-09.01
+  notes:
+-
+  title: v15-07-09
+  notes:
+-
+  title: v15-07-08
+  notes:
+-
+  title: v15-07-03
+  notes:
+-
+  title: v15-06-30
+  notes:
+-
+  title: v15-06-24
+  notes:
+-
+  title: v15-06-19
+  notes:
+-
+  title: v15-06-18
+  notes:
+-
+  title: v15-06-15.01
+  notes:
+-
+  title: v15-06-15
+  notes:
+-
+  title: v15-06-12
+  notes:
+-
+  title: v15-06-10.01
+  notes:
+-
+  title: v15-06-10
+  notes:
+-
+  title: v15-06-05
+  notes:
+-
+  title: v15-06-01
+  notes:
+-
+  title: v15-05-27.02
+  notes:
+-
+  title: v15-05-27.01
+  notes:
+-
+  title: v15-05-27
+  notes:
+-
+  title: v15-05-21
+  notes:
+-
+  title: v15-05-12.02
+  notes:
+-
+  title: v15-05-12.01
+  notes:
+-
+  title: v15-05-12
+  notes:
+-
+  title: v15-05-07.01
+  notes:
+-
+  title: v15-05-07
+  notes:
+-
+  title: v15-04-28.02
+  notes:
+-
+  title: v15-04-28.01
+  notes:
+-
+  title: v15-04-28
+  notes:
+-
+  title: v15-04-23.01
+  notes:
+-
+  title: v15-04-23
+  notes:
+-
+  title: v15-04-21.01
+  notes:
+-
+  title: v15-04-21
+  notes:
+-
+  title: v15-04-14.01
+  notes:
+-
+  title: v15-04-14
+  notes:
+-
+  title: v15-04-10.01
+  notes:
+-
+  title: v15-04-10
+  notes:
+-
+  title: v15-04-07
+  notes:
+-
+  title: v15-03-30.01
+  notes:
+-
+  title: v15-03-30
+  notes:
+-
+  title: v15-03-25.02
+  notes:
+-
+  title: v15-03-25.01
+  notes:
+-
+  title: v15-03-25
+  notes:
+-
+  title: v15-03-23
+  notes:
+-
+  title: v15-03-18.01
+  notes:
+-
+  title: v15-03-18
+  notes:
+-
+  title: v15-03-09.02
+  notes:
+-
+  title: v15-03-09.01
+  notes:
+-
+  title: v15-03-09
+  notes:
+-
+  title: v15-03-03.01
+  notes:
+-
+  title: v15-03-03
+  notes:
+-
+  title: v15-02-24.01
+  notes:
+-
+  title: v15-02-24
+  notes:
+-
+  title: v15-02-18
+  notes:
+-
+  title: v15-02-13
+  notes:
+-
+  title: v15-02-08
+  notes:
+
