@@ -1,6 +1,6 @@
 # tutorcruncher.com
 
-[![Build Status](https://travis-ci.org/tutorcruncher/tutorcruncher.github.io.svg?branch=master)](https://travis-ci.org/tutorcruncher/tutorcruncher.github.io)
+[![Build Status](https://travis-ci.org/tutorcruncher/tutorcruncher.com.svg?branch=master)](https://travis-ci.org/tutorcruncher/tutorcruncher.com)
 
 Public TutorCruncher site
 
