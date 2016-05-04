@@ -1,89 +1,89 @@
 -
-  flag: gb
+  flag: flag-icon-gb
   country: UK
   base_rate: 1.4
   per_transaction_fee: 20p
 -
-  flag: us
+  flag: flag-icon-us
   country: US
   base_rate: 2.9
   per_transaction_fee: 30c
 -
-  flag: au
+  flag: flag-icon-au
   country: Australia
   base_rate: 1.75
   per_transaction_fee: 30c
 -
-  flag: at
+  flag: flag-icon-at
   country: Austria
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: be
+  flag: flag-icon-be
   country: Belguim
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: ca
+  flag: flag-icon-ca
   country: Canada
   base_rate: 2.9
   per_transaction_fee: 30c
 -
-  flag: dk
+  flag: flag-icon-dk
   country: Denmark
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: fi
+  flag: flag-icon-fi
   country: Finland
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: fr
+  flag: flag-icon-fr
   country: France
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: de
+  flag: flag-icon-de
   country: Germany
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: ie
+  flag: flag-icon-ie
   country: Ireland
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: it
+  flag: flag-icon-it
   country: Italy
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: jp
+  flag: flag-icon-jp
   country: Japan
   base_rate: 3.6
 -
-  flag: lu
+  flag: flag-icon-lu
   country: Luxembourg
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: nl
+  flag: flag-icon-nl
   country: Netherlands
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: ny
+  flag: flag-icon-no
   country: Norway
   base_rate: 1.4
   per_transaction_fee: 1.8kr
 -
-  flag: es
+  flag: flag-icon-es
   country: Spain
   base_rate: 1.4
   per_transaction_fee: 25c
 -
-  flag: se
+  flag: flag-icon-se
   country: Sweden
   base_rate: 1.4
   per_transaction_fee: 1.8kr
