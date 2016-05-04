@@ -7,6 +7,12 @@ tags:
  - Marketing
  - Managing a tutoring agency
 ---
+<p style="font-size:120%">If you take the average salary of an admin to be £15,000 not including pension and national insurance contributions,
+a TutorCruncher Premium plan of £99 per month would be saving your business £13,800/year, whilst giving yourself the time
+to supply the service your clients expect!</p>
+
+***
+
 Whether you run a private tuition agency, an online tuition agency, a home tutoring agency or a tuition centre,
 your key to running a profitable business, particularly as you grow in size, will be how to reduce the cost of,
 and time spent on, admin.
@@ -41,8 +47,5 @@ By allowing access to tutors, clients and students on a cloud based system, much
 the users on the system. With the integration of the Stripe Card Payment System and GoCardless Direct Debits, payments can be
 taken automatically from within TutorCruncher.
 
-If you take the average salary of an admin to be £15,000 not including pension and national insurance contributions,
-a TutorCruncher Premium plan of £99 per month would be saving your business £13,800/year, whilst giving yourself the time
-to supply the service your clients expect!
 
 [Click here to view testimonials from our other clients](/testimonials/).
