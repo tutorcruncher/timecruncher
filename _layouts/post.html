@@ -8,11 +8,13 @@ layout: base
 
       <div class="post-meta">
         <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}"/>
+        <meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}"/>
+        <meta itemprop="name" content="{{ page.title }}"/>
+        <link itemprop="mainEntityOfPage" href="{{ page.permalink }}">
         <span class="fa fa-calendar">
           <time>
             {{ page.date | date: "%b %-d, %Y" }}
           </time>
-        </span>
         {% if page.author %}
         <span class="fa fa-user" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
           {{ page.author }}
@@ -21,6 +23,12 @@ layout: base
         {% if page.tags %}
         <span class="fa fa-tag" itemprop="description">{{ page.tags | join: ', ' }}</span>
         {% endif %}
+        <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+          <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <a itemprop="url" href="/img/tc_logo_small.jpg/" />
+          </div>
+          <p itemprop="name">TutorCruncher</p>
+        </span>
       </div>
 
     </header>
