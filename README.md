@@ -11,3 +11,6 @@ To run locally:
 * Install the github pages version of jekyll: `sudo gem install github-pages`
 * From inside the repo directory serve the site: `jekyll serve`
 * go edit
+
+
+When deploying check travis (link above) for details.
