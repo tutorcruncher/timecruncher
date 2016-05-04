@@ -14,6 +14,7 @@ and time spent on, admin.
 The biggest cause of a tuition business failing is that the cost of the administration both in money and
 time becomes crippling. As you grow your company and find that admin is taking more of your time, you have
 to make a decision to:
+
 1. Carry on and risk losing money and clients.
 2. Employ more staff.
 3. Find yourself software such as TutorCruncher that will reduce the time and cost of the admin.
