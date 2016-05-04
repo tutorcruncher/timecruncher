@@ -15,7 +15,7 @@ your time to focus on building your client-base and increasing the number of
 billable hours you can charge for.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
+   <img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
 </div>
 
 ### Find Key Information Quicker

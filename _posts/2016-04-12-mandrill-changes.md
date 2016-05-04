@@ -14,8 +14,8 @@ of its integration with MailChimp, tighter security rules and its pricing struct
 
 Some of these changes are quite frustrating but we believe, even after the switch that Mandrill & MailChimp are the best service to use.
 
-​<a href="/img/blogs/mandrill_monkey.jpg" data-lightbox="lightbox" data-title="Mandrill is a type of monkey" class="thumbnail">
-  <img src="/img/blogs/mandrill_monkey.jpg" alt-text="Mandrill is a type of monkey"/>
+​<a href="{{ site.static}}/img/blogs/mandrill_monkey.jpg" data-lightbox="lightbox" data-title="Mandrill is a type of monkey" class="thumbnail">
+  <img src="{{ site.static}}/img/blogs/mandrill_monkey.jpg" alt-text="Mandrill is a type of monkey"/>
   <figcaption>A Mandrill is a type of Monkey.</figcaption>
 
 

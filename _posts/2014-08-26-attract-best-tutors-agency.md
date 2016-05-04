@@ -28,10 +28,10 @@ potential tutors to ask questions about your agency.
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg" alt-text="Popular_Social_Networks"/>
+   <img src="{{ site.static}}/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg" alt-text="Popular_Social_Networks"/>
 </div>
 
-](/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
+]({{ site.static}}/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
 ### Show Them How They Can Make a Difference
 
@@ -59,10 +59,10 @@ to cater for tutors who have this skill set.
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/e-learning.jpg" alt-text="e-learning"/>
+   <img src="{{ site.static}}/img/blogs/e-learning.jpg" alt-text="e-learning"/>
 </div>
 
-](/img/blogs/e-learning.jpg)
+]({{ site.static}}/img/blogs/e-learning.jpg)
 
 ### Provide Development Opportunities
 

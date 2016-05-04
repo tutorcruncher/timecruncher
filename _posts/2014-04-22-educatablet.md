@@ -11,7 +11,7 @@ is a big part of the delivery. We think [ www.educatablet.com
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/educatablet.jpg" alt-text="educatablet"/>
+   <img src="{{ site.static}}/img/blogs/educatablet.jpg" alt-text="educatablet"/>
 </div>
 
-](/img/blogs/educatablet.jpg)
+]({{ site.static}}/img/blogs/educatablet.jpg)

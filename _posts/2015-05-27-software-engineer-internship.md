@@ -10,7 +10,7 @@ develop your technical skills while be part of live projects in a highly
 energetic, and collaborative environment.
 
 <div class="img-holder">
-   <img src="/img/tc_logo_small.jpg" alt-text=""/>
+   <img src="{{ site.static}}/img/tc_logo_small.jpg" alt-text=""/>
 </div>
 
 Interns will you have the opportunity to take ownership of a project through

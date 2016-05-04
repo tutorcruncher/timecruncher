@@ -62,9 +62,9 @@ without them, good students often fall short. [ A good tutoring agency
 preparation before it’s needed to ensure that students feel fully prepared on
 the day and have the confidence to answer questions in the correct way. [
 <div class="img-holder full-width">
-   <img src="/img/blogs/exam.jpg" alt-text="exam"/>
+   <img src="{{ site.static}}/img/blogs/exam.jpg" alt-text="exam"/>
 </div>
-](/img/blogs/exam.jpg) What do
+]({{ site.static}}/img/blogs/exam.jpg) What do
 you see as being the advantages of using a tutoring agency at the beginning of
 the academic year? How important do you think focusing on study schedules and
 exam preparation is from the beginning of the year? We’d be keen to hear your

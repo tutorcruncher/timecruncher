@@ -10,7 +10,7 @@ are specific to the tutoring industry? Here are top 5 advantages to using [
 tuition centre software ](http://www.tutorcruncher.com/tuition-centre-
 software/) : ** You Benefit From Your Competitors Experiences
 <div class="img-holder full-width">
-   <img src="/img/blogs/software-417880_640-300x280.jpg" alt-text="software"/>
+   <img src="{{ site.static}}/img/blogs/software-417880_640-300x280.jpg" alt-text="software"/>
 </div> ** Every new software
 has its settling in period but once the product has been tried and tested by
 customers, you’re guaranteed that the software will be glitch free and run

@@ -17,7 +17,7 @@ and a real-time graph of active tutors and active clients. Click the image to
 see a larger version. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Dashboard-Redesign-1024x513.png" alt-text="Dashboard Redesign"/>
+   <img src="{{ site.static}}/img/blogs/Dashboard-Redesign-1024x513.png" alt-text="Dashboard Redesign"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/09/Dashboard-
@@ -45,7 +45,7 @@ your entire system by keyword. The results will include tutors, clients and
 jobs. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/SearchFunction-Highlighted-1024x294.png" alt-text="SearchFunction-Highlighted"/>
+   <img src="{{ site.static}}/img/blogs/SearchFunction-Highlighted-1024x294.png" alt-text="SearchFunction-Highlighted"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/SearchFunction-
@@ -58,7 +58,7 @@ do this by selecting the subject, and then ticking the applicable boxes (see
 below). [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/AddSubjectLevel-1024x194.png" alt-text="AddSubjectLevel"/>
+   <img src="{{ site.static}}/img/blogs/AddSubjectLevel-1024x194.png" alt-text="AddSubjectLevel"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/08/AddSubjectLevel.png)

@@ -9,7 +9,7 @@ working or whether it’s just counterproductive for your agency. To help you
 maintain a healthy level of productivity in your business practices, we’ve
 come up with this list of ways to ensure your time is spent wisely. **
 <div class="img-holder full-width">
-   <img src="/img/blogs/4556099850_bcd9318b5b_z.jpg" alt-text="Productivity"/>
+   <img src="{{ site.static}}/img/blogs/4556099850_bcd9318b5b_z.jpg" alt-text="Productivity"/>
 </div> ** ** Keep Track of Goals
 and Targets ** When you’re involved in the day to day running of a tutoring
 agency, it can be easy to lose track of the bigger picture. It’s important to

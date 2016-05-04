@@ -10,7 +10,7 @@ but being organised also reassures your tutors and other staff members of your
 agency’s professionalism.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/lesson-report-full-1024x633.png" alt-text="Tutor timesheet"/>
+   <img src="{{ site.static}}/img/blogs/lesson-report-full-1024x633.png" alt-text="Tutor timesheet"/>
 </div>
 
 As every tutoring business

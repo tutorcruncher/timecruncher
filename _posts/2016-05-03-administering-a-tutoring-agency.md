@@ -28,8 +28,8 @@ short term problems with your administration, it reduces your profits and does n
 the additional cost of more admin staff. On top of their salary there is the cost of their national insurance and pension
 contributions.
 
-<a href="/img/blogs/save-time.jpg" data-lightbox="lightbox" data-title="Time = Money. Save both with TutorCruncher!" class="thumbnail">
-  <img src="/img/blogs/save-time.jpg" alt-text="Time = Money. Save both with TutorCruncher!"/>
+<a href="{{ site.static}}/img/blogs/save-time.jpg" data-lightbox="lightbox" data-title="Time = Money. Save both with TutorCruncher!" class="thumbnail">
+  <img src="{{ site.static}}/img/blogs/save-time.jpg" alt-text="Time = Money. Save both with TutorCruncher!"/>
 </a>
 
 Option 3 is the simplest and most cost effective option. For as little as £35 per month you could have TutorCruncher

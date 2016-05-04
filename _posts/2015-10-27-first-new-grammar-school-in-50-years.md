@@ -22,7 +22,7 @@ entrance, or the American SAT exam - which was specifically designed to
 measure ability, rather than knowledge.
 
 <div class="img-holder full-width">
-  <img src="/img/blogs/artists.jpg" alt="grammar school to open in Sevenoaks - 2017"/>
+  <img src="{{ site.static}}/img/blogs/artists.jpg" alt="grammar school to open in Sevenoaks - 2017"/>
 </div>
 
 Artists' impression of the grammar school to open in Sevenoaks in September

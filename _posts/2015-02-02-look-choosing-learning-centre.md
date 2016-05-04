@@ -23,7 +23,7 @@ importantly, you’ll want your tutor to be friendly and approachable. You can
 generally determine the quality of a learning centre by how approachable and
 willing their tutors are.
 <div class="img-holder full-width">
-   <img src="/img/blogs/Lightmatter_paperwork.jpg" alt-text="Lightmatter_paperwork"/>
+   <img src="{{ site.static}}/img/blogs/Lightmatter_paperwork.jpg" alt-text="Lightmatter_paperwork"/>
 </div> ** Satisfied Students and
 Parents ** When choosing a learning centre, it can help to gather the opinions
 of other students and parents. When visiting a learning centre for the first

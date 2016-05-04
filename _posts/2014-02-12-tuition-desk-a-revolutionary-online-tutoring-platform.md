@@ -53,6 +53,6 @@ photo contest where you can win €25 / £25 credit. Visit their [ blog
 workstation/) for more information and good luck. [
 
 ![Tuition
-Desk](/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)
+Desk]({{ site.static}}/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)
 
-](/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)
+]({{ site.static}}/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)

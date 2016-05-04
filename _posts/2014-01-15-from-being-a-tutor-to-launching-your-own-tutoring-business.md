@@ -14,5 +14,5 @@ There are lots of opportunities in the global tutoring field. [Tutoring](http://
 Since you won’t be only teaching, you’ll have to adapt and not only think as a tutor but as a business person. Even though, having experience in tutoring will help you a lot - for building your own tutor team for instance - you’ll have to get familiar with management, accounting and administration. Once again, TutorCruncher is here to help you out with those aspects. Let us know if you've tried going from a tutor to launching your own tutoring business in the comments below.
 
 <a href="/how-to-start-a-tutoring-business/" data-title="How to start a tutoring business">
-  <img src="/img/blogs/how-to-start-a-tutoring-business.jpg" alt-text="How to start a tutoring business"/>
+  <img src="{{ site.static}}/img/blogs/how-to-start-a-tutoring-business.jpg" alt-text="How to start a tutoring business"/>
 </a>

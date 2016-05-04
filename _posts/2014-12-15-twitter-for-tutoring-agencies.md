@@ -6,7 +6,7 @@ permalink: twitter-for-tutoring-agencies/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/twitter-245460_640-300x300.jpg" alt-text="Twitter "/>
+   <img src="{{ site.static}}/img/blogs/twitter-245460_640-300x300.jpg" alt-text="Twitter "/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-

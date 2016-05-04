@@ -11,10 +11,10 @@ creating valuable content, we’ve compiled a list of blog post ideas to breathe
 new life into your tutoring blog. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/images.jpg" alt-text="images"/>
+   <img src="{{ site.static}}/img/blogs/images.jpg" alt-text="images"/>
 </div>
 
-](/img/blogs/images.jpg) 
+]({{ site.static}}/img/blogs/images.jpg)
 
 ### Comment on New Developments
 
@@ -38,7 +38,7 @@ blog posts about the tutoring industry, especially given its rapid growth over
 the last decade. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/faq-150x150.png" alt-text="faq"/>
+   <img src="{{ site.static}}/img/blogs/faq-150x150.png" alt-text="faq"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-

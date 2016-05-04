@@ -10,7 +10,7 @@ published the eBook on Amazon and it can be downloaded directly to E-readers.
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/TutorCruncher-ebook-300x300.jpg" alt-text="TutorCruncher ebook"/>
+   <img src="{{ site.static}}/img/blogs/TutorCruncher-ebook-300x300.jpg" alt-text="TutorCruncher ebook"/>
 </div>
 
 ](http://www.amazon.co.uk/How-Start-Tutoring-Business-starting-ebook/dp/B00SNP

@@ -13,7 +13,7 @@ This post will look at how tutor scheduling software can help improve your
 business.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/calendar_screenshot-1024x537.png" alt-text="Tutor Scheduling"/>
+   <img src="{{ site.static}}/img/blogs/calendar_screenshot-1024x537.png" alt-text="Tutor Scheduling"/>
 </div>
 
 Tutor Scheduling **It Can Reduce your Administration Time** As your business grows, so does your

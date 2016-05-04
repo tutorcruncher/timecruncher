@@ -13,7 +13,7 @@ tutors for your company.](http://www.tutorcruncher.com/interviewing-your-
 tutors/)
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/IMG_9468-1024x372.jpg" alt-text="Interviewing tutors for your company"/>
+   <img src="{{ site.static}}/img/blogs/IMG_9468-1024x372.jpg" alt-text="Interviewing tutors for your company"/>
 </div>
 
 ### Explain the Interview Process

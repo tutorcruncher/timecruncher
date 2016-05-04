@@ -18,9 +18,7 @@ vary in cost and effectiveness and it is important to realize how your marketing
 well-known and relatively intuitive that word of mouth and face-to-face marketing are hugely effective in terms of
 hit rate compared to mass email or static online content.
 
-<a href="/img/blogs/word-of-mouth-retro.jpg" data-lightbox="lightbox" data-title="Word of mouth is still the most effective way to market your company." class="thumbnail">
-  <img src="/img/blogs/word-of-mouth-retro.jpg" alt-text="Word of mouth is still the most effective way to market your company."/>
-</a>
+<img src="{{ site.static}}/img/blogs/word-of-mouth-retro.jpg" class="lightboximage" alt-text="Word of mouth is still the most effective way to market your company."/>
 
 For a moment we might wonder why that is true? The answer is that people are persuaded and trust relationships,
 particularly with other people, even when those people represent companies with a product to sell.

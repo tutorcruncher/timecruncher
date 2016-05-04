@@ -19,7 +19,7 @@ Find the existing influencers in your niche and get in contact with them trying 
 
 <div class="full-width">
   <a href="/how-to-start-a-tutoring-business/">
-    <img src="/img/blogs/IMG_9505-1024x371.jpg" alt-text="How to start a tutoring business"/>
+    <img src="{{ site.static}}/img/blogs/IMG_9505-1024x371.jpg" alt-text="How to start a tutoring business"/>
   </a>
 </div>
 

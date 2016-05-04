@@ -15,7 +15,7 @@ correspondences with HMRC in which they outline their official ruling on the
 matter.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/vat-300x225.jpg" alt-text="HMRC VAT"/>
+   <img src="{{ site.static}}/img/blogs/vat-300x225.jpg" alt-text="HMRC VAT"/>
 </div>
 
 Although we do not give tax advice we

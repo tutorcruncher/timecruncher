@@ -20,7 +20,7 @@ followers, you’ll increase your brand awareness and encourage more people sign
 up to your courses.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/images-3-150x150.jpeg" alt-text="Tutor Social Media"/>
+   <img src="{{ site.static}}/img/blogs/images-3-150x150.jpeg" alt-text="Tutor Social Media"/>
 </div>
 
 ** **
@@ -49,10 +49,10 @@ site.
 ** 3\. Improve Your Students’ Experience [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/smiley-heureux.jpg" alt-text="Happy Experience Tutoring"/>
+   <img src="{{ site.static}}/img/blogs/smiley-heureux.jpg" alt-text="Happy Experience Tutoring"/>
 </div>
 
-](/img/blogs/smiley-heureux.jpg) **
+]({{ site.static}}/img/blogs/smiley-heureux.jpg) **
 
 Think about your social media accounts as an extension of your customer
 service. Nowadays, when people contact businesses through Facebook and

@@ -18,7 +18,7 @@
             <div class="carousel-inner" role="listbox">
               {% for person in site.data.team %}
                 <div class="item {% if forloop.index == 1 %}active{% endif %}">
-                  <img src="{{ person.img }}" alt="{{ person.name }}">
+                  <img src="{{ site.static }}/{{ person.img }}" alt="{{ person.name }}">
                   <div class="carousel-caption">
                     <h3>{{ person.name }}, {{ person.title }}</h3>
                     <p>

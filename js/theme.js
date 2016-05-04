@@ -49,3 +49,13 @@ function init_map() {
       title: 'TutorCruncher'
   });
 }
+
+
+$(document).ready(function () {
+  $('img[class="lightboximage"]').each(function () {
+    var file = $(this).attr('src');
+    var alttext= $(this).attr('alt-text');
+    var image = '<a href="' + file + '" data-lightbox="lightbox" data-title="' + alttext + '" class="thumbnail"><img alt-text="' + alttext + '" src="' + file + '"/></a>';
+    $(this).replaceWith(image);
+  });
+});

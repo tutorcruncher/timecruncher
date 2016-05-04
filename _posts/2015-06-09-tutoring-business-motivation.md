@@ -14,7 +14,7 @@ than others. If you ever find your enthusiasm dwindling and need some help to
 stay focused on your tutoring business, then this post is for you.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutor-business-plan-1024x372.jpg" alt-text="Tutor Business Plan"/>
+   <img src="{{ site.static}}/img/blogs/tutor-business-plan-1024x372.jpg" alt-text="Tutor Business Plan"/>
 </div>
 
 ### Revisit your Original Business Plan
@@ -73,6 +73,6 @@ do you have for others who are struggling to stay focused? _
 ### Have you read our eBook, [how to start a tutoring Business](http://www.amazon.co.uk/How-Start-Tutoring-Business-starting-ebook/dp/B00SNPQHMO)?
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/TutorCruncher-ebook.jpg" alt-text="TutorCruncher ebook"/>
+   <img src="{{ site.static}}/img/blogs/TutorCruncher-ebook.jpg" alt-text="TutorCruncher ebook"/>
 </div>
 

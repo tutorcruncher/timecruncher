@@ -11,7 +11,7 @@ a good English Language School. _
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/English-Language-1024x506.jpg" alt-text="English Language"/>
+   <img src="{{ site.static}}/img/blogs/English-Language-1024x506.jpg" alt-text="English Language"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/04/English-
@@ -20,7 +20,7 @@ Language.jpg) Countries where English is the most common language
 ### Find out What the Classes Involve
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/4388222172_8a7467fa06-150x150.jpg" alt-text="4388222172_8a7467fa06"/>
+   <img src="{{ site.static}}/img/blogs/4388222172_8a7467fa06-150x150.jpg" alt-text="4388222172_8a7467fa06"/>
 </div> Knowing what to
 expect from your classes will help you make an informed decision about which
 language school to choose. What are class sizes like? The more students per

@@ -10,7 +10,7 @@ tags:
 The **Medway Grammar Schools Appeal Workshop** will take place on Sunday 17th January 2016. 2pm until 5pm
 
 <div class="img-holder">
-  <img src="/img/blogs/national-tutoring-conference-logo.png" alt-text="National Tutoring Conference Logo"/>
+  <img src="{{ site.static}}/img/blogs/national-tutoring-conference-logo.png" alt-text="National Tutoring Conference Logo"/>
 </div>
 
 The Appeals Workshop will be a practical session on preparing for the Medway Test Appeals. 

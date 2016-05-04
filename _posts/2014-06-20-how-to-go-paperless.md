@@ -41,7 +41,7 @@ you track down every employee's printing and to inform them this activity will
 be closely monitored. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/paperless-office-1024x508.jpg" alt-text="paperless-office"/>
+   <img src="{{ site.static}}/img/blogs/paperless-office-1024x508.jpg" alt-text="paperless-office"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/06/paperless-

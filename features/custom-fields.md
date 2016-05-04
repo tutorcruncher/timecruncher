@@ -5,8 +5,8 @@ permalink: /features/custom-fields/
 ---
 With TutorCruncher's Extra Attributes, you can customise your system to record the information you need, when you need it.
 
-<a href="/img/features/extra-attribute-list.png" data-lightbox="lightbox" data-title="The list of extra attributes for a company" class="thumbnail">
-  <img src="/img/features/extra-attribute-list.png" alt-text="The list of extra attributes for a company"/>
+<a href="{{ site.static}}/img/features/extra-attribute-list.png" data-lightbox="lightbox" data-title="The list of extra attributes for a company" class="thumbnail">
+  <img src="{{ site.static}}/img/features/extra-attribute-list.png" alt-text="The list of extra attributes for a company"/>
 </a>
 
 ### Apply them to users
@@ -17,8 +17,8 @@ They are filterable, so you can choose to view all of the tutors whose DBS check
 
 You can even choose who can view them, so if you wish for only admins to view a certain attribute, such as their rating out of 10, you can do that.
 
-<a href="/img/features/attribute-form.png" data-lightbox="lightbox" data-title="Extra Attribute form" class="thumbnail">
-  <img src="/img/features/attribute-form.png" alt-text="Extra Attribute form"/>
+<a href="{{ site.static}}/img/features/attribute-form.png" data-lightbox="lightbox" data-title="Extra Attribute form" class="thumbnail">
+  <img src="{{ site.static}}/img/features/attribute-form.png" alt-text="Extra Attribute form"/>
 </a>
 
 ### Apply them to jobs and lesson reports

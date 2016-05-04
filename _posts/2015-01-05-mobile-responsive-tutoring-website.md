@@ -6,10 +6,10 @@ permalink: mobile-responsive-tutoring-website/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Responsive_Web_Design.png" alt-text="Mobile responsive web"/>
+   <img src="{{ site.static}}/img/blogs/Responsive_Web_Design.png" alt-text="Mobile responsive web"/>
 </div>
 
-](/img/blogs/Responsive_Web_Design.png) In the UK, [ 7 out of 10
+]({{ site.static}}/img/blogs/Responsive_Web_Design.png) In the UK, [ 7 out of 10
 people now own a smartphone ](http://mobilemarketingmagazine.com/7-10-people-
 uk-now-own-smartphone/) . That’s a whole lot of people who could be searching
 for your tutoring agency on their mobiles. In order to increase your traffic,

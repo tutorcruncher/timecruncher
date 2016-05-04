@@ -10,7 +10,7 @@ nowadays, it’s all about syncing individual devices
 through mobile platforms.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/cloud.gif" alt-text="cloud"/>
+   <img src="{{ site.static}}/img/blogs/cloud.gif" alt-text="cloud"/>
 </div>
 
 Is your tutoring agency still using spreadsheets to keep track of your
@@ -38,7 +38,7 @@ your agency have mobile devices on hand for students to use as they need them?
 ### Online Learning
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/online-learning-XSmall.jpg" alt-text="online-learning-XSmall"/>
+   <img src="{{ site.static}}/img/blogs/online-learning-XSmall.jpg" alt-text="online-learning-XSmall"/>
 </div>
 
 Online learning in education is really starting to take off with

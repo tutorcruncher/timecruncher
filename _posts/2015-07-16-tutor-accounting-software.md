@@ -12,7 +12,7 @@ this post, we’ll look at some of the main reasons why your tutoring business
 needs accounting software to handle your finances. 
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Analytics-1024x498.jpg" alt-text="Analytics"/>
+   <img src="{{ site.static}}/img/blogs/Analytics-1024x498.jpg" alt-text="Analytics"/>
 </div>
 
 ### Less Room for Accounting Errors 

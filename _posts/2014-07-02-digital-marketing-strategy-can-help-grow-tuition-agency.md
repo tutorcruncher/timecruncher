@@ -36,7 +36,7 @@ audience. Think about social media as an extension of your agency’s customer
 service.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/social-media-icons-cloud-300x256.png" alt-text="social-media-icons-cloud"/>
+   <img src="{{ site.static}}/img/blogs/social-media-icons-cloud-300x256.png" alt-text="social-media-icons-cloud"/>
 </div>
 
 ### Content

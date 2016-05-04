@@ -13,10 +13,10 @@ Your timezone can be set for each user, so different users can have different ti
 
 Your language is set by the user's browser, so no need to change any computer or TutorCruncher settings:
 
-<a href="/img/features/fr_tu.png" data-lightbox="lightbox" data-title="TutorCruncher translated into French" class="thumbnail">
-  <img src="/img/features/fr_tu.png" alt-text="TutorCruncher translated into French"/>
+<a href="{{ site.static}}/img/features/fr_tu.png" data-lightbox="lightbox" data-title="TutorCruncher translated into French" class="thumbnail">
+  <img src="{{ site.static}}/img/features/fr_tu.png" alt-text="TutorCruncher translated into French"/>
 </a>
 
-<a href="/img/features/es_tu.png" data-lightbox="lightbox" data-title="TutorCruncher translated into Spanish" class="thumbnail">
-  <img src="/img/features/es_tu.png" alt-text="TutorCruncher translated into Spanish"/>
+<a href="{{ site.static}}/img/features/es_tu.png" data-lightbox="lightbox" data-title="TutorCruncher translated into Spanish" class="thumbnail">
+  <img src="{{ site.static}}/img/features/es_tu.png" alt-text="TutorCruncher translated into Spanish"/>
 </a>

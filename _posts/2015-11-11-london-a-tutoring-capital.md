@@ -19,7 +19,7 @@ has well and truly entered the mainstream, no longer the exclusive domain of
 the rich and/or privately educated.
 
 <div class="img-holder full-width">
-  <img src="/img/blogs/library-books-cardiff.jpg" alt="Tutoring Capital London"/>
+  <img src="{{ site.static}}/img/blogs/library-books-cardiff.jpg" alt="Tutoring Capital London"/>
 </div>
 
 Rather than being

@@ -15,8 +15,8 @@ Take the hassle out of accounting with TutorCruncher.
 
 TutorCruncher generates invoices and payroll by looking at completed lessons and one off charges, meaning your invoices are created in seconds rather than hours. Since all of your accounting is generated within the system, you can be confident that your invoices are accurate.
 
-<a href="/img/features/generate-page.png" data-lightbox="lightbox" class="thumbnail">
-  <img src="/img/features/generate-page.png" alt-text="TutorCruncher's generate accounting page"/>
+<a href="{{ site.static}}/img/features/generate-page.png" data-lightbox="lightbox" class="thumbnail">
+  <img src="{{ site.static}}/img/features/generate-page.png" alt-text="TutorCruncher's generate accounting page"/>
 </a>
 
 ### Branded invoices
@@ -31,6 +31,6 @@ You can take payments with our integrated automated card payment system, Stripe.
 
 You can view a list of all invoices, filterable by date and if they have been paid yet or not. This means following up invoices is really simple, and you can use TutorCruncher's automated email system to send your clients reminders so that you don't get behind on chasing payments.
 
-<a href="/img/blogs/sent-invoice-list.jpg" data-lightbox="lightbox" class="thumbnail">
-  <img src="/img/blogs/sent-invoice-list.jpg" alt-text="TutorCruncher's Sent Invoice List.jpg"/>
+<a href="{{ site.static}}/img/blogs/sent-invoice-list.jpg" data-lightbox="lightbox" class="thumbnail">
+  <img src="{{ site.static}}/img/blogs/sent-invoice-list.jpg" alt-text="TutorCruncher's Sent Invoice List.jpg"/>
 </a>

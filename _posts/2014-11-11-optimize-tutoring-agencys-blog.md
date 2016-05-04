@@ -7,7 +7,7 @@ In a digital age where everyone’s obsessed with SEO, we often forget to put
 our blog readers’
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/ps_overview_engage-300x206.jpg" alt-text="ps_overview_engage"/>
+   <img src="{{ site.static}}/img/blogs/ps_overview_engage-300x206.jpg" alt-text="ps_overview_engage"/>
 </div>
 
 experiences at the

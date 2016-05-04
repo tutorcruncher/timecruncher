@@ -10,7 +10,7 @@ there’s a lot to be said for adopting ‘old school’ networking approaches a
 attending face to face events or simply meeting prospects in person. Here are
 our tips on how offline networking can help grow your tutoring agency.
 <div class="img-holder full-width">
-   <img src="/img/blogs/Young_Chamber_Networking_Function.jpg" alt-text="Offline Networking"/>
+   <img src="{{ site.static}}/img/blogs/Young_Chamber_Networking_Function.jpg" alt-text="Offline Networking"/>
 </div> ** Networking
 Creates Opportunities ** Despite the popularity of online marketing,
 practically every city in the UK still has face to face networking events.

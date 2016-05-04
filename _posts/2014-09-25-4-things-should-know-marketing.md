@@ -9,7 +9,7 @@ good advice from bad. If your agency is suffering from information overload in
 terms of marketing, then our list should help you clear a path and enable you
 see the wood from the trees. ** Marketing Doesn’t Need to Cost a Fortune
 <div class="img-holder full-width">
-   <img src="/img/blogs/top-email-marketing-service-mailchimp-logo.png" alt-text="top-email-marketing-service-mailchimp-logo"/>
+   <img src="{{ site.static}}/img/blogs/top-email-marketing-service-mailchimp-logo.png" alt-text="top-email-marketing-service-mailchimp-logo"/>
 </div> **
 Nowadays, there are so many free marketing tools out there, that you can [
 easily implement an online marketing strategy
@@ -35,7 +35,7 @@ media/) , so make sure you post your press releases on these platforms too.
 Why go to them if you can get them to come to you? **
 
 ![analysing-market-
-research](/img/blogs/analysing-market-research-300x300.jpg)
+research]({{ site.static}}/img/blogs/analysing-market-research-300x300.jpg)
 
 Market Research is a Necessity Not an Option **
 Every tutoring agency should conduct regular market research. Not only does

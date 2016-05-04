@@ -6,10 +6,10 @@ permalink: tutoring-agency-social-media/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/social_media_marketing_2015_11.png" alt-text="Social Media"/>
+   <img src="{{ site.static}}/img/blogs/social_media_marketing_2015_11.png" alt-text="Social Media"/>
 </div>
 
-](/img/blogs/social_media_marketing_2015_11.png) According to
+]({{ site.static}}/img/blogs/social_media_marketing_2015_11.png) According to
 social media experts [ Social Media Examiner
 ](http://www.socialmediaexaminer.com/social-media-marketing-predictions-
 for-2015/) , big changes are afoot in the world of social media this year.

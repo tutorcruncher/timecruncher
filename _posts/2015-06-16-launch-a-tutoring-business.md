@@ -36,7 +36,7 @@ insights and analytics into your business performance and guide your marketing
 efforts:
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
+   <img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
 </div>
 
 A screenshot from the TutorCruncher Dashboard ** What subject to
@@ -66,7 +66,7 @@ If you're travelling to a student’s home, charge travel expenses. A good rule
 of thumb is £1 per mile.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/TutorCruncher-Workspace-1024x688.png" alt-text="TutorCruncher Workspace"/>
+   <img src="{{ site.static}}/img/blogs/TutorCruncher-Workspace-1024x688.png" alt-text="TutorCruncher Workspace"/>
 </div>
 
 ### Equipment
@@ -111,7 +111,7 @@ I will show you how to convince
 parents you are the right tutor to go with, even if you have no experience and
 no track record.
 
-![](/img/blogs/jeevansingh.jpg)
+![]({{ site.static}}/img/blogs/jeevansingh.jpg)
 
 By Jeevan Singh - Jeevan is the Founder of A-Star Tuition, providing maths tutoring in West London.
 

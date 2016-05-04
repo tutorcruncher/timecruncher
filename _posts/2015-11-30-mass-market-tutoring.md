@@ -24,7 +24,7 @@ and producing dedicated apps is the easiest way of guaranteeing a quality of exp
 use - people have to download before they browse.
 
 <figure class="img-holder full-width">
-  <img src="/img/blogs/email-analytics.png" alt-text="TutorCruncher's Email Analytics"/>
+  <img src="{{ site.static}}/img/blogs/email-analytics.png" alt-text="TutorCruncher's Email Analytics"/>
   <figcaption><a href="/features/automated-emails#email-analytics">TutorCruncher's</a> email analytics shows you how many people your email campaign reached and much more.</figcaption>
 </figure><br>
 

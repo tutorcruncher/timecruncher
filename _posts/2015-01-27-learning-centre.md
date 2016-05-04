@@ -14,10 +14,10 @@ improve a student’s grades.
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/pen-162124_640.png" alt-text="A"/>
+   <img src="{{ site.static}}/img/blogs/pen-162124_640.png" alt-text="A"/>
 </div>
 
-](/img/blogs/pen-162124_640.png)
+]({{ site.static}}/img/blogs/pen-162124_640.png)
 
 Complement School Work 
 

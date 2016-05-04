@@ -22,7 +22,7 @@ they’ll be less likely to unsubscribe from your email list and report your
 emails as spam. **
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/starmail-300x268.jpg" alt-text="starmail"/>
+   <img src="{{ site.static}}/img/blogs/starmail-300x268.jpg" alt-text="starmail"/>
 </div>
 
 Sending Too Many Emails Too
@@ -51,7 +51,7 @@ make sure that your email subject isn’t misleading and actually delivers what
 it promises. There’s nothing more frustrating reading through an email only to
 findthat there’s a catch or condition attached to it
 <div class="img-holder full-width">
-   <img src="/img/blogs/SubjectLinesMakeADifference-300x200.jpg" alt-text="SubjectLinesMakeADifference"/>
+   <img src="{{ site.static}}/img/blogs/SubjectLinesMakeADifference-300x200.jpg" alt-text="SubjectLinesMakeADifference"/>
 </div> ** Writing
 Long Emails ** Think about how many emails your tutoring agency receives on a
 daily basis. If you’re anything like us, you’ll spend the best part of your

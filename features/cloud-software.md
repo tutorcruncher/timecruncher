@@ -12,8 +12,8 @@ Access our system from safely from any platform with TutorCruncher's cloud based
 
 TutorCruncher has been optimised for all devices, from mobile phones to laptops to tablets, so can be used anytime, anywhere.
 
-<a href="/img/features/mobile-job-screenshot.png" data-lightbox="lightbox" data-title="Jobs on mobile devices" class="thumbnail">
-  <img src="/img/features/mobile-job-screenshot.png" alt-text="Jobs on mobile devices"/>
+<a href="{{ site.static}}/img/features/mobile-job-screenshot.png" data-lightbox="lightbox" data-title="Jobs on mobile devices" class="thumbnail">
+  <img src="{{ site.static}}/img/features/mobile-job-screenshot.png" alt-text="Jobs on mobile devices"/>
 </a>
 
 ### A quick system means quicker work

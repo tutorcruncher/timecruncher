@@ -10,7 +10,7 @@ of 5 signs that could help you decide when the time is right. _
 
 You can no Longer Keep up with Demand [
 <div class="img-holder full-width">
-   <img src="/img/blogs/images-150x150.jpeg" alt-text="images"/>
+   <img src="{{ site.static}}/img/blogs/images-150x150.jpeg" alt-text="images"/>
 </div>
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/images.jpeg) **
 
@@ -48,7 +48,7 @@ Your Students are Achieving Their Goals
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutoring1-150x150.jpg" alt-text="tutoring1"/>
+   <img src="{{ site.static}}/img/blogs/tutoring1-150x150.jpg" alt-text="tutoring1"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg) If
@@ -73,9 +73,9 @@ way to grow your income.
 
 Other Tutors are Asking for your Advice  [
 <div class="img-holder full-width">
-   <img src="/img/blogs/dialog-148815_640.png" alt-text="dialog-148815_640"/>
+   <img src="{{ site.static}}/img/blogs/dialog-148815_640.png" alt-text="dialog-148815_640"/>
 </div>
-](/img/blogs/dialog-148815_640.png)
+]({{ site.static}}/img/blogs/dialog-148815_640.png)
 
 If you’re one of those tutors who is constantly being asked for advice by
 other tutors, then you might want to consider yourself a leading figure. If

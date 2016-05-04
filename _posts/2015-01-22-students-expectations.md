@@ -4,7 +4,7 @@ title:  "How your Tutoring Agency Can Set Your Students’ Expectations"
 permalink: students-expectations/
 ---
 <div class="img-holder full-width">
-   <img src="/img/blogs/5078917830_7f839d015c_b-1024x683.jpg" alt-text="5078917830_7f839d015c_b"/>
+   <img src="{{ site.static}}/img/blogs/5078917830_7f839d015c_b-1024x683.jpg" alt-text="5078917830_7f839d015c_b"/>
 </div>
 
 As a tutoring agency, you’re there to help students with their studies by

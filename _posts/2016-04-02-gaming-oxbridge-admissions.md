@@ -8,8 +8,8 @@ tags:
 ---
 So you are a parent looking to get your child into one of the UK’s best universities? You have done all the leg work - you have sent them to a great private school to, supplemented by some additional private tutoring. You’ve done everything right, provided the good results are forthcoming your pride and joy has just as much chance as anyone else of getting into the Oxford or Cambridge college of their choice?
 
-​<a href="/img/blogs/radcliffe.jpg" data-lightbox="lightbox" data-title="The Bodleian Library in Oxford" class="thumbnail">
-  <img src="/img/blogs/radcliffe.jpg" alt-text="The Bodleian Library in Oxford"/>
+​<a href="{{ site.static}}/img/blogs/radcliffe.jpg" data-lightbox="lightbox" data-title="The Bodleian Library in Oxford" class="thumbnail">
+  <img src="{{ site.static}}/img/blogs/radcliffe.jpg" alt-text="The Bodleian Library in Oxford"/>
 </a>
 
 You might think so, but a recent chat with a Cambridge don who did admissions revealed that a lot of other factors play a significant part. I asked, what does the ideal Cambridge candidate look like, in terms of having the best chance of getting in? His answer was simple - a candidate with the maximum chance of getting in would:

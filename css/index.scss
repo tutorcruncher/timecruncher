@@ -14,7 +14,7 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background: url('/img/header.jpg') center;
+  background: url('/static/img/header.jpg') center;
   text-align: center;
   color: white;
   padding-bottom: 10px;
@@ -123,7 +123,7 @@ section#pricing {
 section#team {
   >.carousel {
     @include background-cover;
-    background: url('/img/team_back.jpg') center;
+    background: url('/static/img/team_back.jpg') center;
   }
   h1 {
     color: white;

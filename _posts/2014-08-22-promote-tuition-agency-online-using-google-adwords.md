@@ -59,10 +59,10 @@ increasing by 5 and 3,5 per cent respectively, in 2013.
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Mobile-Traffic.png" alt-text="Mobile Traffic"/>
+   <img src="{{ site.static}}/img/blogs/Mobile-Traffic.png" alt-text="Mobile Traffic"/>
 </div>
 
-](/img/blogs/Mobile-Traffic.png)  
+]({{ site.static}}/img/blogs/Mobile-Traffic.png)
 
 Remember that with Google AdWords, you only spend as much as you want. You’re
 able to set your budget per day, which can be as little as £1. AdWords can be

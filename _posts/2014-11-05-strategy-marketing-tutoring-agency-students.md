@@ -4,7 +4,7 @@ title:  "A Strategy for Marketing Your Tutoring Agency to Students"
 permalink: strategy-marketing-tutoring-agency-students/
 ---
 <div class="img-holder full-width">
-   <img src="/img/blogs/college-students-addicted-to-social-media-10042801-300x211.jpg" alt-text="Young men and women holding mobile phones"/>
+   <img src="{{ site.static}}/img/blogs/college-students-addicted-to-social-media-10042801-300x211.jpg" alt-text="Young men and women holding mobile phones"/>
 </div> Students are among the most well-connected target
 marketing groups. They send messages to their friends through instant
 messaging services, they hear there news through social media platforms and
@@ -40,7 +40,7 @@ gives you the opportunity to encourage them to join your agency as a student.
 ### 
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/social-media-marketing-1-300x300.png" alt-text="social-media-marketing-1"/>
+   <img src="{{ site.static}}/img/blogs/social-media-marketing-1-300x300.png" alt-text="social-media-marketing-1"/>
 </div>
 
 Take the

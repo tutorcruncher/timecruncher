@@ -10,7 +10,7 @@ Conference:
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/20150210_131828-300x169.jpg" alt-text="The National Tutoring Conference"/>
+   <img src="{{ site.static}}/img/blogs/20150210_131828-300x169.jpg" alt-text="The National Tutoring Conference"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2015/02/20150210_131828.jpg)

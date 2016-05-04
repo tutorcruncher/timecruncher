@@ -6,10 +6,10 @@ permalink: good-tutoring-management-software/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/software-500956_640.jpg" alt-text="software"/>
+   <img src="{{ site.static}}/img/blogs/software-500956_640.jpg" alt-text="software"/>
 </div>
 
-](/img/blogs/software-500956_640.jpg)
+]({{ site.static}}/img/blogs/software-500956_640.jpg)
 
 As software developers, we could talk all day about the functionality and
 features of TutorCruncher’s management software, but to be honest, none of

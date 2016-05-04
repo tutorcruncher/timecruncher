@@ -8,7 +8,7 @@ means that if you want to stay ahead of the game and establish your tutoring bus
 you need to move with the times.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/TutorCruncher-Workspace.png" alt-text="TutorCruncher Workspace"/>
+   <img src="{{ site.static}}/img/blogs/TutorCruncher-Workspace.png" alt-text="TutorCruncher Workspace"/>
 </div>
 
 Embracing change in business often means getting rid of old, unproductive practices in favour of more modern 

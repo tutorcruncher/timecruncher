@@ -6,7 +6,7 @@ permalink: tutorcrunch/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Hello_my_name_is_by_Kubah-300x186.png" alt-text="Hello my name is TutorCruncher"/>
+   <img src="{{ site.static}}/img/blogs/Hello_my_name_is_by_Kubah-300x186.png" alt-text="Hello my name is TutorCruncher"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-

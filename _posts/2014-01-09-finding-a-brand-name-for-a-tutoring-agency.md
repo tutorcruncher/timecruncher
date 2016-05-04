@@ -45,7 +45,7 @@ people were able to accurately remember it?" _
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutoring-agency-brand-name1.jpg" alt-text="tutoring-agency-brand-name"/>
+   <img src="{{ site.static}}/img/blogs/tutoring-agency-brand-name1.jpg" alt-text="tutoring-agency-brand-name"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/01/tutoring-agency-

@@ -16,8 +16,8 @@ With [Autopay](http://help.tutorcruncher.com/setup/#what-is-autopay) TutorCrunch
 4. Now you can log your lessons! You will notice that as the lessons are logged the client's [Available Balance](http://help.tutorcruncher.com/accounting/#what-is-the-available-balance) will drop.
 5. At the end of the month, generate your invoices as normal. If the client's [Invoice Balance](http://help.tutorcruncher.com/accounting/#what-is-the-invoice-balance) is the same or more than the amount on the invoice, it will be marked as paid and sent to the client. This means the client gets a invoice they know is paid, with a breakdown of the tutoring received, as well as any lesson reports.
 
-<a href="/img/blogs/credit-request.png" data-lightbox="lightbox" class="thumbnail">
-  <img src="/img/blogs/credit-request.png" alt-text="TutorCruncher's Credit Request Form"/>
+<a href="{{ site.static}}/img/blogs/credit-request.png" data-lightbox="lightbox" class="thumbnail">
+  <img src="{{ site.static}}/img/blogs/credit-request.png" alt-text="TutorCruncher's Credit Request Form"/>
 </a>
 
 More help can be found [here](http://help.tutorcruncher.com/accounting/#credit-requests-and-client-balance).

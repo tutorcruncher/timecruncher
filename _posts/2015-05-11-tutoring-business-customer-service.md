@@ -11,7 +11,7 @@ service to your students, we’ve put together this guide to ensure you have
 every aspect covered.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/IMG_9165-1024x511.jpg" alt-text="Customer Service Tutoring"/>
+   <img src="{{ site.static}}/img/blogs/IMG_9165-1024x511.jpg" alt-text="Customer Service Tutoring"/>
 </div>
 
 ### The Importance of Engagement

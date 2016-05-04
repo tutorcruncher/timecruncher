@@ -88,7 +88,7 @@ their studies and enjoying their lessons more. Tutoring can really make a
 difference. [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/IMG_9263-1024x614.jpg" alt-text="tutoring-matters"/>
+   <img src="{{ site.static}}/img/blogs/IMG_9263-1024x614.jpg" alt-text="tutoring-matters"/>
 </div>
 
 ](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) _ Have

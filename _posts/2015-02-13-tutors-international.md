@@ -4,7 +4,7 @@ title:  "International Tutors"
 permalink: tutors-international/
 ---
 <div class="img-holder full-width">
-   <img src="/img/blogs/Tutors-International.jpg" alt-text="international tutors"/>
+   <img src="{{ site.static}}/img/blogs/Tutors-International.jpg" alt-text="international tutors"/>
 </div>
 
 International Tutors have seen a rise in demand over recent years as more and

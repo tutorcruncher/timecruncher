@@ -11,8 +11,8 @@ So your tutoring business has a website. You gave it quite a lot of attention wh
 
 Website design is a question of ever-changing fashions - the Google logo is a case study in changing design tastes.
 
-<a href="/img/blogs/google_logos.jpg" data-lightbox="lightbox" class="thumbnail" data-title="Google's logos over time">
-  <img src="/img/blogs/google_logos.jpg" alt-text="Google's logos over time"/>
+<a href="{{ site.static}}/img/blogs/google_logos.jpg" data-lightbox="lightbox" class="thumbnail" data-title="Google's logos over time">
+  <img src="{{ site.static}}/img/blogs/google_logos.jpg" alt-text="Google's logos over time"/>
 </a>
 
 The timeline is interesting - after a decade in which nothing changed, from 2010 Google have been hard at work flattening their logo by phasing out any 3D effects, shadowing, fading etc. and simplifying the font itself to a san serif look. We have seen this trend replicated across the internet - Android famously got there first and iOS followed suit, finally abandoning skeuomorphic design. That this evolution began in 2010 is no coincidence - it mirrors the consumer shift in internet content consumption from being mainly computer and laptop based, to mainly smartphone and tablet based. Smaller screens and handheld interactions demanded bolder, simpler designs. We no longer needed convincing to use iCal because it looks “like” to a really diary - many of us have now forgotten that paper diaries even ever existed.

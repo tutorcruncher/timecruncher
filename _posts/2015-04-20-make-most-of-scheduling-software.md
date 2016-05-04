@@ -12,10 +12,10 @@ order to make the most of your tutoring agency’s work scheduling software. _
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/unnamed-1.jpg" alt-text="Scheduling Software"/>
+   <img src="{{ site.static}}/img/blogs/unnamed-1.jpg" alt-text="Scheduling Software"/>
 </div>
 
-](/img/blogs/unnamed-1.jpg)
+]({{ site.static}}/img/blogs/unnamed-1.jpg)
 
 ### Update Your Schedule Ahead of Time
 

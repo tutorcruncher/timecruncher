@@ -58,7 +58,7 @@ With the help of the infographic below, we’ve tried to summarize some of the
 key findings of the research.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/tutor-cruncher-digital-game-learning-559x1024.jpg" alt-text="tutor-cruncher-digital-game-learning"/>
+   <img src="{{ site.static}}/img/blogs/tutor-cruncher-digital-game-learning-559x1024.jpg" alt-text="tutor-cruncher-digital-game-learning"/>
 </div>
 
 _ Have you ever used digital games during your lessons? What kind of games and

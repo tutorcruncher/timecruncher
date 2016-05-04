@@ -6,10 +6,10 @@ permalink: tutoring-over-christmas/
 [
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Christmas-Dino.jpg" alt-text="Christmas Dino"/>
+   <img src="{{ site.static}}/img/blogs/Christmas-Dino.jpg" alt-text="Christmas Dino"/>
 </div>
 
-](/img/blogs/Christmas-Dino.jpg) The latter weeks of December are
+]({{ site.static}}/img/blogs/Christmas-Dino.jpg) The latter weeks of December are
 usually among the quieter times for tutoring agencies. As students and staff
 prepare for the festive season, for a few weeks at least, the industry starts
 to drop off a little. Not surprisingly, as a [ tutor agency director

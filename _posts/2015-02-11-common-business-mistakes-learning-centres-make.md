@@ -9,7 +9,7 @@ seeing others launch, here are the most common business mistakes that we think
 new learning centres make.
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/Doh.jpg" alt-text="Doh"/>
+   <img src="{{ site.static}}/img/blogs/Doh.jpg" alt-text="Doh"/>
 </div>
 
 ### 1\. No Launch Day

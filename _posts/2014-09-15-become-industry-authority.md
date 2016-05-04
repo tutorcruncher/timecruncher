@@ -12,7 +12,7 @@ list of actions you can take to become an industry leader. ** Report on
 Industry News
 
 <div class="img-holder full-width">
-   <img src="/img/blogs/blog-327074_640-300x211.jpg" alt-text="blog-327074_640"/>
+   <img src="{{ site.static}}/img/blogs/blog-327074_640-300x211.jpg" alt-text="blog-327074_640"/>
 </div>
 
 ** One of the most
@@ -48,7 +48,7 @@ the industry.
 ### Be Innovative
 
 ![3Drenderingofashoppingbasketconnectedtoaco
-mputermouse](/img/blogs/3drenderingofashoppingbasketconnectedtoacomputermouse-300x300.jpg)
+mputermouse]({{ site.static}}/img/blogs/3drenderingofashoppingbasketconnectedtoacomputermouse-300x300.jpg)
 
 One of the best ways
 [ to position your tutoring agency an authority
