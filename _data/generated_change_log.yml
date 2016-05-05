@@ -217,7 +217,7 @@
     - 500 with bad date on location availability
     - Reports url fixed
     - allow searching by email and numbers with commas in
-    - less scary 403 & 404 pages
+    - less scary 403 &nbsp; 404 pages
     - allow filtering by label on role export
     - add bcrypt password hashing
     - allow wildcard search
@@ -380,7 +380,7 @@
     - fixing sentry tags
     - fix use of dates in accounting calcs
     - Fix order of activities on admin dash
-    - Lesson & report workflow
+    - Lesson &nbsp; report workflow
     - Show notifications on Inv PO and PFI
     - Adding notes to Jobs
     - 2666 ahc for admin
@@ -840,7 +840,7 @@
   notes:
     - Powerd by TutorCruncher links open a new tab
     - fix browsable api static file issue
-    - Clients & Tutors performance
+    - Clients &nbsp; Tutors performance
 
 -
   title: v15-07-15
@@ -938,7 +938,7 @@
     - 2067 tax
     - Add multiple size of apple favicon
     - email improvements
-    - edit&remove removed for clients
+    - edit&nbsp;remove removed for clients
     - fix for failing master
     - redirection to 403.jinja
     - resolve signup error
@@ -950,7 +950,7 @@
     - Analytics DateTimePicker bug
     - report and pdf invoices tests
     - fix accounting export tests
-    - translation & help text
+    - translation &nbsp; help text
     - Fixing spinners for download links
     - adding login-choice
     - fix user upload geocoding
@@ -1353,7 +1353,7 @@
     - Job list ordering
     - fix pagination bug
     - More sent po per page
-    - Fixes \#1189 & \#1186
+    - Fixes \#1189 &nbsp; \#1186
     - added google analytics js
     - Contamination test done right
     - Fixes for \#1124 - dashboard pie charts 
@@ -1621,7 +1621,7 @@
     - Fixed login for multiple accounts + tests
     - clearing role after super admin agency sign in
     - fixing error logging emails
-    - Api migrations Agents Admin Charges & Invoices
+    - Api migrations Agents Admin Charges &nbsp; Invoices
     - Db changes
     - reset migrations
     - Tender deciding options

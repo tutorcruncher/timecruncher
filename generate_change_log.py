@@ -5,8 +5,9 @@ Uses the git remote origin
 
 sudo gem install github_changelog_generator
 """
-import re
 import os
+import sys
+import re
 
 
 def create_yaml():
@@ -38,6 +39,7 @@ def create_yaml():
     data = re.sub('service', 'Job', data, flags=re.I)
     data = re.sub('contractor', 'Tutor', data, flags=re.I)
     data = re.sub('appointment|appt|apt', 'Lesson', data, flags=re.I)
+    data = re.sub('&', '&nbsp;', data)
 
     with open('./_data/generated_change_log.yml', 'w') as f:
         f.write(data)
@@ -48,7 +50,12 @@ def download_data():
     os.system(command)
 
 
-print 'Downloading the change log'
-download_data()
-print 'Creating YAML file'
-create_yaml()
+if __name__ == '__main__':
+    command = sys.argv[-1].lower()
+    assert command in {'download', 'create', 'all'}, '%s not a valid command: download, create all' % command
+    if command in {'download', 'all'}:
+        print 'Downloading the change log'
+        download_data()
+    if command in {'create', 'all'}:
+        print 'Creating YAML file'
+        create_yaml()
