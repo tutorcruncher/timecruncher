@@ -3,31 +3,18 @@ layout: base
 ---
 <div class="container main post narrow">
   <div class="row animated fadeIn short-delay">
-    <div class="col-lg-12 text-center top-margin-40">
-      <h1 class="section-heading">{{ page.title }}</h1>
+    <div class="col-lg-12 top-margin-40">
+      <h1 class="text-center section-heading">{{ page.title }}</h1>
       <hr class="primary">
     </div>
   </div>
   <div class="post-body animated fadeIn long-delay">
-    {% for release in site.data.change_log %}
-      <h3><strong>{{ release.name }}</strong></h3>
-      <ul class="padding-bottom-10">
-        {% for item in release.features %}
-          <li class="release-feature">
-            {{ item }}
-          </li>
-        {% endfor %}
-        {% for item in release.improvements %}
-          <li class="release-improvement">
-            {{ item }}
-          </li>
-        {% endfor %}
-        {% for item in release.bug-fixes %}
-          <li class="release-bug-fix">
-            {{ item }}
-          </li>
-        {% endfor %}
-        {% for item in release.info %}
+    {% for release in site.data.generated_change_log %}
+      <h3>
+        {{ release.title }}
+      </h3>
+      <ul>
+        {% for item in release.notes %}
           <li>
             {{ item }}
           </li>
