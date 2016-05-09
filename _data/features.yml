@@ -37,7 +37,7 @@
 -
   name: Tutor &amp; Client Profiles
   icon: fa-users
-  feature-page: /features/crm/
+  feature-page: /features/tutor-client-student-profiles/
   text: |
     Different access levels are created within the software for administrators, tutors and clients.
     Tutors are able to manage their profile, apply for jobs, plan lessons and claim expenses

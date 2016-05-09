@@ -3,11 +3,11 @@
     {% if include.feature.feature-page %}
       <a href="{{ include.feature.feature-page }}">
         <i class="fa fa-4x {{ include.feature.icon }} text-primary"></i>
-        <h3 class="text-primary">{{ include.feature.name }}</h3>
+        <h2 class="font-24 text-primary">{{ include.feature.name }}</h2>
       </a>
     {% else %}
       <i class="fa fa-4x {{ include.feature.icon }} text-primary"></i>
-      <h3>{{ include.feature.name }}</h3>
+      <h2 class="font-24 text-primary">{{ include.feature.name }}</h2>
     {% endif %}
     <p class="text-muted">
       {{ include.feature.text }}

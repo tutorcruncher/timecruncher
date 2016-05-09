@@ -1,6 +1,13 @@
 ---
 layout: features
-title: Custom Fields
+title: Custom Fields - TutorCruncher
+description: With TutorCruncher’s Extra Attributes, you can customise your system to record the information you need, when you need it.
+keywords:
+  - Attributes
+  - Customise
+  - System
+  - Custom Fields
+
 permalink: /features/custom-fields/
 ---
 With TutorCruncher's Extra Attributes, you can customise your system to record the information you need, when you need it.
@@ -9,7 +16,7 @@ With TutorCruncher's Extra Attributes, you can customise your system to record t
   <img src="{{ site.static}}/img/features/extra-attribute-list.png" alt-text="The list of extra attributes for a company"/>
 </a>
 
-### Apply them to users
+## Apply them to users
 
 Extra Attributes can be created for users profiles, so that you can save any information that is not included in the standard system, such as the date a DBS check expires for tutors, or which university a client wishes their child to attend.
 
@@ -21,6 +28,6 @@ You can even choose who can view them, so if you wish for only admins to view a 
   <img src="{{ site.static}}/img/features/attribute-form.png" alt-text="Extra Attribute form"/>
 </a>
 
-### Apply them to jobs and lesson reports
+## Apply them to jobs and lesson reports
 
 Extra attributes can be attached to jobs, as well as lesson reports, allowing you to you create a custom lesson report for your company to give the client the information they want.

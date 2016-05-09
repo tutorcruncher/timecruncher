@@ -9,18 +9,18 @@
           <div class="col-sm-3">
             <a href="/pricing/">
               <i class="fa fa-4x text-primary {{ tier.icon }}"></i>
-              <h2 class="text-primary">{{ tier.name }}</h2>
+              <h3 class="font-36 text-primary">{{ tier.name }}</h3>
             </a>
             {% if tier.name == 'Free' %}
-              <h1 class="price">{{ tier.price_short }}</h1>
+              <p class="price font-36">{{ tier.price_short }}</p>
             {% elsif tier.name == 'Enterprise' %}
-              <h1 class="price smaller">{{ tier.price_short }}</h1>
+              <p class="price smaller">{{ tier.price_short }}</p>
             {% else %}
               <span class="price">
                 from &nbsp;
-                <h1 class="price">
+                <p class="price font-36 ">
                   <sup>£</sup>{{ tier.price_short }}
-                </h1>
+                </p>
                 /mo.
               </span>
             {% endif %}

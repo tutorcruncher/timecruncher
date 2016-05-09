@@ -12,11 +12,11 @@ layout: base
 <div>
   {% for post in site.posts limit: page.limit %}
     <div>
-      <h3>
+      <h2 class="font-24">
         <a class="post-link" href="{{ post.url }}">
           {{ post.title }}
         </a>
-      </h3>
+      </h2>
 
       <div class="post-meta">
         <span class="fa fa-calendar">
