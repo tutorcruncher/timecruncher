@@ -1,15 +1,15 @@
 -
-  img: img/dashboard.png
+  img: img/frontpage-screenshots/dashboard.png
   name: TutorCruncher Dashboard
 -
-  img: img/tutors.png
-  name: Tutors List
+  img: img/frontpage-screenshots/tutors.png
+  name: TutorCruncher Tutors List
 -
-  img: img/calendar.png
-  name: Calendar
+  img: img/frontpage-screenshots/calendar.png
+  name: TutorCruncher Calendar
 -
-  img: img/invoice.png
-  name: Invoice
+  img: img/frontpage-screenshots/invoice.png
+  name: TutorCruncher Sales Invoice
 -
-  img: img/analytics.png
-  name: Analytics
+  img: img/frontpage-screenshots/analytics.png
+  name: Analytics in TutorCruncher
