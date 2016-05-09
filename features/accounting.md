@@ -1,7 +1,7 @@
 ---
 layout: features
 title: TutorCruncher Accounting
-description: TutorCruncher generates invoices and payroll. accounting software. Easy and automated. customise invoices. including integrated automated card payment system.
+description: Invoicing and payroll is easy with TutorCruncher, accounting is automated and there is an integrated card payment system.
 keywords:
   - Accounting
   - Tutor 
@@ -14,7 +14,6 @@ keywords:
   - Accounting
   - Automated email system
   - PDF
-
 permalink: /features/accounting/
 redirect_from: 
   - /features/automated-invoicing-payroll/

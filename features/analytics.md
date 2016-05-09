@@ -1,14 +1,13 @@
 ---
 layout: features
 title: Analytics - TutorCruncher
-description: Analyse the performance of your tutoring business using TutorCruncher. Automatically generated graphs. See exactly where your income is coming from.
+description: Analyse the performance of your tuition business using TutorCruncher. Automatically generated graphs let you see exactly where your income is coming from.
 keywords:
   - Performance
   - Graphs
   - Tutoring business
   - Automatically generated graphs
   - Income
-
 permalink: /features/analytics/
 redirect_from:
   - /features/reports-and-analytics/

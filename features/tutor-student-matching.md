@@ -1,7 +1,7 @@
 ---
 layout: features
 title: Tutor-Student Matching - TutorCruncher
-description: Finding the perfect tutor for a client and student’s need. Tutoring agency. Tutors Profiles. Jobs Available for Application. Specify required skills. Send notifications.
+description: Finding the perfect tutor for a client and student's need is a hugely important part of running an effective tutoring agency, so we've made it easy for you.
 keywords:
   - Tutor Profiles
   - Tutors Profiles

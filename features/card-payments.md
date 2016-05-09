@@ -1,7 +1,7 @@
 ---
 layout: features
 title: Card Payments
-description: Integrated card payment system for invoices for tutoring clients and business, easy and automated. Ability to take card payments over the phone. Low rates.
+description: Take payments quickly and easily with our integrated card payment service; usable by clients and admins.
 keywords:
   - Card payment system
   - Integrated

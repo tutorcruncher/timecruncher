@@ -1,7 +1,7 @@
 ---
 layout: features
 title: Tutor, Client &amp; Student Profiles
-description: Tutors can sign themselves up and create their own profiles with TutorCruncher. Clients and students also have profiles. With customisable fields. 
+description: Tutors and clients can sign themselves up and create their own profiles with TutorCruncher, with customisable fields you can record anything you wish. 
 keywords:
   - Tutor Profiles
   - Client Profiles
