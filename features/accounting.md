@@ -1,6 +1,20 @@
 ---
 layout: features
-title: Accounting
+title: TutorCruncher Accounting
+description: TutorCruncher generates invoices and payroll. accounting software. Easy and automated. customise invoices. including integrated automated card payment system.
+keywords:
+  - Accounting
+  - Tutor 
+  - Automatic
+  - payroll
+  - Invoices
+  - Invoicing 
+  - Payments 
+  - Credit
+  - Accounting
+  - Automated email system
+  - PDF
+
 permalink: /features/accounting/
 redirect_from: 
   - /features/automated-invoicing-payroll/
@@ -11,7 +25,7 @@ redirect_from:
 ---
 Take the hassle out of accounting with TutorCruncher.
 
-### Automatic and accurate accounting
+## Automatic and accurate accounting
 
 TutorCruncher generates invoices and payroll by looking at completed lessons and one off charges, meaning your invoices are created in seconds rather than hours. Since all of your accounting is generated within the system, you can be confident that your invoices are accurate.
 
@@ -19,15 +33,15 @@ TutorCruncher generates invoices and payroll by looking at completed lessons and
   <img src="{{ site.static}}/img/features/generate-page.png" alt-text="TutorCruncher's generate accounting page"/>
 </a>
 
-### Branded invoices
+## Branded invoices
 
 TutorCruncher allows you to include your own logo and company address in your invoices, creating professional and bespoke accounting documents. You can even customise the PDF template itself, adding or taking away fields as you see fit.
 
-### Taking payments is easy
+## Taking payments is easy
 
 You can take payments with our integrated automated card payment system, Stripe. [Find out more](/features/card-payments/).
 
-### Credit Control
+## Credit Control
 
 You can view a list of all invoices, filterable by date and if they have been paid yet or not. This means following up invoices is really simple, and you can use TutorCruncher's automated email system to send your clients reminders so that you don't get behind on chasing payments.
 
