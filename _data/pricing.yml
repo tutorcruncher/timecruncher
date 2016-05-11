@@ -1,24 +1,26 @@
--
-  name: Free
-  price: Free
-  price_short: Free
-  icon: fa-bicycle
-  hightlight: False
-  desc: Ideal for single tutors, or a brand new company just getting up and running.
-  features:
-    - Up to 10 active students
-    - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
-    - Unlimited students
-    - Unlimited clients
-    - Unlimited tutors
-    - Email Marketing
-    - Unlimited resources upload
-    - Send 500 emails per month limit
+#-
+#  name: Free
+#  price: Free
+#  price_short: Free
+#  icon: fa-bicycle
+#  hightlight: False
+#  desc: Ideal for single tutors, or a brand new company just getting up and running.
+#  features:
+#    - Up to 10 active students
+#    - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
+#    - Unlimited students
+#    - Unlimited clients
+#    - Unlimited tutors
+#    - Email Marketing
+#    - Unlimited resources upload
+#    - Send 500 emails per month limit
 -
   name: Basic
-  price: £35/$50 per month
+  price-gb: £35 per month
+  price-eu: $45 per month
+  price-us:
   price_short: 35
-  hightlight: True
+  hightlight: False
   icon: fa-motorcycle
   desc: This tier is great for younger or smaller companies who deal with up to 20 clients per month.
   features:
