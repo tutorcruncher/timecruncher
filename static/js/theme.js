@@ -36,45 +36,6 @@
   }
 })(jQuery);
 
-function init_map() {
-  var pos = get_coords();
-  var map = new google.maps.Map(document.getElementById('map'), {
-    center: pos,
-    scrollwheel: false,
-    zoom: 12
-  });
-  new google.maps.Marker({
-      map: map,
-      position: pos,
-      title: 'TutorCruncher'
-  });
-}
-
-function get_coords() {
-  var uk_coords = {lat: 51.498146, lng: -0.144880};
-  var ca_coords = {lat: 43.8985938, lng: -79.432076};
-  if (get_location() == 'us') {
-    pos = ca_coords
-  }
-  else {
-    pos = uk_coords
-  }
-}
-
-function get_location() {
-  var language = window.navigator.userLanguage || window.navigator.language;
-  var timezone = new Date().getTimezoneOffset()/60;
-  if ((language == 'en-US' && timezone == ('-1' || '0')) || language == 'en-GB') {
-    return 'uk'
-  }
-  else if (['en-US', 'fr-CA', 'en-CA'].indexOf(language) >= 0) {
-    return 'us'
-  }
-  else {
-    return 'eu'
-  }
-}
-
 $(document).ready(function () {
   $('img[class="lightboximage"]').each(function () {
     var file = $(this).attr('src');

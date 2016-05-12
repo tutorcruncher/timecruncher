@@ -6,18 +6,18 @@
       <hr class="primary">
       <div class="row">
         {% for tier in site.data.pricing %}
-          <div class="col-sm-3">
+          <div class="col-sm-4">
             <a href="/pricing/">
               <i class="fa fa-4x text-primary {{ tier.icon }}"></i>
               <h3 class="font-36 text-primary">{{ tier.name }}</h3>
             </a>
             {% if tier.name == 'Enterprise' %}
-              <p class="price smaller">{{ tier.price_short }}</p>
+              <p class="price smaller"><span id="amount-{{ tier.name }}"></span></p>
             {% else %}
               <span class="price">
                 from &nbsp;
-                <p class="price font-36 ">
-                  <sup>£</sup>{{ tier.price_short }}
+                <p id="price-text" class="price font-36">
+                  <sup><span class="currency-{{ tier.name }}"></span></sup><span id="amount-{{ tier.name }}"></span>
                 </p>
                 /mo.
               </span>
@@ -40,3 +40,5 @@
     </div>
   </div>
 </section>
+<script>var tiers = {{ site.data.pricing | jsonify }}</script>
+<script src="{{ site.static }}/js/location.js"></script>

@@ -14,7 +14,7 @@
   <div id="navbar" class="collapse navbar-collapse">
     <ul class="nav navbar-nav navbar-right">
       <li{% if page.path == 'pricing.md' %} class="active"{% endif %}>
-        <a href="/pricing/">Pricing</a>
+        <a href="/gb//pricing/">Pricing</a>
       </li>
       <li{% if page.path contains 'features/' %} class="active"{% endif %}>
         <a href="/features">Features</a>
@@ -22,17 +22,37 @@
       <li{% if page.path == 'blogs.html' or page.path == 'archive.html' or page.path contains '_posts/' %} class="active"{% endif %}>
         <a href="/tuition-blog/">Blog</a>
       </li>
-      <li{% if page.path == 'companies.html' or page.path contains 'companies/' %} class="active"{% endif %}>
-        <a href="/companies">Tutoring Directory</a>
+      <li{% if page.path == 'testimonials.html'%} class="active"{% endif %}>
+        <a href="/testimonials/">Testimonials</a>
       </li>
       <li>
-        <a href="http://help.tutorcruncher.com/" target="_blank">Help</a>
+        <a href="http://help.tutorcruncher.com/" target="_blank">Support</a>
       </li>
       <li{% if page.path == 'contact.md' %} class="active"{% endif %}>
         <a href="/contact/">Contact</a>
       </li>
       <li>
         <a href="https://secure.tutorcruncher.com/">Log in</a>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li{% if page.path == 'about.md' %} class="active"{% endif %}>
+            <a href="/about/">About</a>
+          </li>
+          <li{% if page.path == 'companies.html' %} class="active"{% endif %}>
+            <a href="/companies/">Company Directory</a>
+          </li>
+          <li{% if page.path == 'careers.md' %} class="active"{% endif %}>
+            <a href="/careers/">Careers</a>
+          </li>
+          <li{% if page.path == 'change_log.md' %} class="active"{% endif %}>
+            <a href="/change_log/">Change Log</a>
+          </li>
+          <li{% if page.path == 'terms.md' %} class="active"{% endif %}>
+            <a href="/terms/">Terms and Conditions</a>
+          </li>
+        </ul>
       </li>
     </ul>
   </div>
