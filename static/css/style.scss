@@ -205,6 +205,7 @@ section {
 }
 
 section#footer {
+  position: absolute;
   bottom: 0;
   min-height: $footer-height;
   padding-top: 25px;
