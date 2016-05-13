@@ -1,0 +1,22 @@
+-
+  name: London Office
+  location: gb
+  address:
+    - 8A Lower Grosvenor Place
+    - London
+    - SW1W 0EN
+    - United Kingom
+  phone: <a href="tel:00442071128953">+44 (0) 207 1128 953</a>
+  map: map_gb
+-
+  name: US Office
+  location: us
+  address:
+    - 604 Edward Avenue
+    - Suite 14
+    - Richmond Hill
+    - Ontario
+    - Canada
+    - L4C9Y7
+  phone: <a href="tel:0018883068259">1.888.306.8259 Ext. 2211</a>
+  map: map_us
