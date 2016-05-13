@@ -1,6 +1,6 @@
 ---
-layout: pricing/pricing-us
+layout: pricing/eu-pricing
 title: "Pricing"
-permalink: /us/pricing/
+permalink: /eu/pricing/
 redirect_from: /white-labelled-system/
 ---

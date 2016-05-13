@@ -1,8 +1,9 @@
 ---
-layout: contact
+layout: contact/gb-contact
 title: Contact Us
-permalink: /contact/
+permalink: /gb/contact/
 redirect_from:
+  - /contact/
   - /contact-us/
   - /contactus/
   - /support/

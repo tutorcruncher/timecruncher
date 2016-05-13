@@ -40,5 +40,8 @@
     </div>
   </div>
 </section>
-<script>var tiers = {{ site.data.pricing | jsonify }}</script>
-<script src="{{ site.static }}/js/location.js"></script>
+<script></script>
+<script src="{{ site.static }}/js/location.js">
+  var tiers = {{ site.data.pricing | jsonify }}
+  load_pricing(tiers);
+</script>
