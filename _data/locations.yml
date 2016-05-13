@@ -1,5 +1,5 @@
 -
-  name: London Office
+  name: London
   location: gb
   address:
     - 8A Lower Grosvenor Place
@@ -9,7 +9,7 @@
   phone: <a href="tel:00442071128953">+44 (0) 207 1128 953</a>
   map: map_gb
 -
-  name: US Office
+  name: Canada
   location: us
   address:
     - 604 Edward Avenue

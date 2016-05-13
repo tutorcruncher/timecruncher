@@ -47,10 +47,10 @@ function load_pricing(tiers) {
       if (tiers[i].name === tier_name) {
         var tier = tiers[i];
         var price = 'price_' + country;
-        var currency = document.getElementById('currency-' + tier_name);
-        currency.innerHTML = tier[price].currency;
         var amount = document.getElementById('amount-' + tier_name);
         amount.innerHTML = tier[price].amount;
+        var currency = document.getElementById('currency-' + tier_name);
+        currency.innerHTML = tier[price].currency;
       }
     }
   });
