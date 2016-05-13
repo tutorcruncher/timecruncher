@@ -1,5 +1,7 @@
 ---
 layout: base
+title: Pricing
+permalink: /eu/pricing/
 extra_css: |
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.1.0/css/flag-icon.min.css" type="text/css">
 ---
@@ -25,10 +27,21 @@ extra_css: |
   <div class="row">
     <section id="pricing-table">
       {% for tier in site.data.pricing %}
-        {% include mixins/price_column.html tier=tier  %}
+        {% include mixins/price_column.html tier=tier price=tier.price_eu %}
       {% endfor %}
     </section>
   </div>
+
+  <section id="extras">
+    <div class="text-center">
+      <p class="text-muted"><sup>[1]</sup> A taught student is any student that receives a lesson or charge in a given month.</p>
+      <p class="text-muted"><sup>[2]</sup> extra emails negotiable on demand.</p>
+      <p class="text-muted"><sup>[3]</sup> First additional branch free, then €55 per branch after that.</p>
+      <p class="text-muted"><sup>[4]</sup> €40 per month optional extra after the first month.</p>
+      <p class="text-muted">Prices exclude UK VAT</p>
+      <p class="text-muted">Discounts available for high volume users</p>
+    </div>
+  </section>
 
   <section id="stripe-details">
     <h2>
@@ -39,16 +52,5 @@ extra_css: |
       Listed below are our individual rates for each of our pricing tiers. International payment rates differ.
     </p>
     {% include mixins/stripe-details.html %}
-  </section>
-
-  <section id="extras">
-    <div class="text-center">
-      <p class="text-muted"><sup>[1]</sup> An active student is any student that receives a lesson or charge in a given month</p>
-      <p class="text-muted"><sup>[2]</sup> extra emails negotiable on demand</p>
-      <p class="text-muted"><sup>[3]</sup> First additional branch free, then £40 per branch after that</p>
-      <p class="text-muted"><sup>[4]</sup> £30 per month optional extra after the first month</p>
-      <p class="text-muted">Prices exclude UK VAT</p>
-      <p class="text-muted">Discounts available for high volume users</p>
-    </div>
   </section>
 </div>

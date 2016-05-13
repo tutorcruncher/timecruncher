@@ -1,101 +1,113 @@
 -
-  name: Free
-  price: Free
-  price_short: Free
-  icon: fa-bicycle
-  hightlight: False
-  desc: Ideal for single tutors, or a brand new company just getting up and running.
-  features:
-    - Up to 10 active students
-    - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
-    - Unlimited students
-    - Unlimited clients
-    - Unlimited tutors
-    - Email Marketing
-    - Unlimited resources upload
-    - Send 500 emails per month limit
--
   name: Basic
-  price: £35/$50 per month
+  price_gb:
+    currency: £
+    amount: 35
+    amount_pas: 1
+  price_eu:
+    currency: €
+    amount: 45
+    amount_pas: 1.25
+  price_us:
+    currency: $
+    amount: 50
+    amount_pas: 1.45
   price_short: 35
-  hightlight: True
+  highlight: False
   icon: fa-motorcycle
   desc: This tier is great for younger or smaller companies who deal with up to 20 clients per month.
   features:
-    - £1/$1.56 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
     - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
-    - Email marketing
-    - Unlimited resources upload
+    - Create marketing email campaigns
+    - Upload documents and esources
     - Send 5,000 emails per month<sup><a href="/pricing/#extras">[2]</a></sup>
     - Send emails from your own address
     - Customisable automated emails
-#    - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
     - One month's free phone support<sup><a href="/pricing/#extras">[4]</a></sup>
     - One hour's free training<sup><a href="/pricing/#extras">[4]</a></sup>
 -
   name: Premium
-  price: £99/$155 per month
-  price_short: 99
-  hightlight: True
+  price_gb:
+    currency: £
+    amount: 99
+    amount_pas: 1
+  price_eu:
+    currency: €
+    amount: 125
+    amount_pas: 1.25
+  price_us:
+    currency: $
+    amount: 145
+    amount_pas: 1.45
+  highlight: True
   icon: fa-car
   desc: Perfect for medium and larger companies who want the further personalisation offered by TutorCruncher.
   features:
-    - £1/$1.56 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
     - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
-    - Email Marketing
-    - Unlimited resources upload
+    - Create marketing email campaigns
+    - Upload documents and esources
     - Send 20,000 emails per month<sup><a href="/pricing/#extras">[2]</a></sup>
     - Send emails from your own address
     - Customisable automated emails
-#    - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
     - One month's free phone support<sup><a href="/pricing/#extras">[4]</a></sup>
     - One hour's free training<sup><a href="/pricing/#extras">[4]</a></sup>
     - Lesson reminders
+    - Manage admins with tasks
+    - Send emails from your own email address
+    - Charge monthly with Subscriptions
     - Add your own logo to your system
     - Manage Multiple Branches<sup><a href="/pricing/#extras">[3]</a></sup>
     - Edit HTML email templates
-    - New feature request priority
     - Personal Account Manager
 -
   name: Enterprise
-  price: <a href="/contact/">Contact Us for details</a>
-  price_short: Contact Us
-  hightlight: True
+  price_gb:
+    currency: £
+    amount: <a href="/contact/">Contact Us</a>
+    amount_pas: 1
+  price_eu:
+    currency: €
+    amount: <a href="/contact/">Contact Us</a>
+    amount_pas: 1.25
+  price_us:
+    currency: $
+    amount: <a href="/contact/">Contact Us</a>
+    amount_pas: 1.45
+  highlight: True
   icon: fa-fighter-jet
   desc: This tier is for large companies that want to take advantage of the most bespoke level of service TutorCruncher has to offer.
   features:
-    - £1/$1.56 per active student per mo<sup><a href="/pricing/#extras">[1]</a></sup>
     - Online Card Payments<sup><a href="#stripe-details">[&dagger;]</a></sup>
     - Unlimited students
     - Unlimited clients
     - Unlimited tutors
-    - Email marketing
-    - Unlimited resources upload
+    - Create marketing email campaigns
+    - Upload documents and esources
     - Send Unlimited Emails
     - Send emails from your own address
     - Customisable automated emails
-#    - TutorCruncher mobile app
     - Add your own logo to PDFs and emails
     - Free phone support
     - One hour's free training<sup><a href="/pricing/#extras">[4]</a></sup>
     - Lesson reminders
+    - Manage admins with tasks
+    - Send emails from your own email address
+    - Charge monthly with Subscriptions
     - Add your own logo to your system
     - Manage Multiple Branches<sup><a href="/pricing/#extras">[3]</a></sup>
     - Edit HTML email templates
-    - New feature request priority
     - Personal Account Manager
     - Custom PDF templates
     - API Access
     - Custom URL
     - Customised branding CSS
-    - Legacy system support
-    - Company Branded Mobile App
     - Option to host on own server
+    - New feature request priority

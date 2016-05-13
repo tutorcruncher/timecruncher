@@ -16,8 +16,8 @@
   title: Founder
   bio: 7 years in the tuition industry as a tutor and company owner
   extended_bio: |
-    After graduating from Oxford, Malachy spent years designing a fully automated CRM system for Bright Young Things
-    Tuition that would eventually lead to TutorCruncher.
+    <p>After graduating from Oxford, Malachy spent years designing a fully automated CRM system for Bright Young Things
+    Tuition that would eventually lead to TutorCruncher.</p>
 -
   name: Tom Hamilton Stubber
   img: /img/team/tom.png
@@ -35,6 +35,6 @@
   title: Head of Sales
   bio: Fantastic industry knowledge and a knack of explaining how TutorCruncher can help
   extended_bio: |
-    Having managed a diverse range of businesses, including a tutoring agency, Rob has a proper understanding of how challenging it can be to run a
+    <p>Having managed a diverse range of businesses, including a tutoring agency, Rob has a proper understanding of how challenging it can be to run a
     business efficiently. This allows him to be able to demonstrate how TutorCruncher can work for you business, whether
-    big or small.
+    big or small.</p>
