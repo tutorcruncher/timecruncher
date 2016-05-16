@@ -1,14 +1,7 @@
 ---
 layout: features
-title: Multi-language, timezone and currency support - TutorCruncher
+title: Multi-language - TutorCruncher
 description: TutorCruncher can be used all over the world; you can customise your timezone, language and currency.
-keywords:
-  - Support
-  - Language
-  - Multi-language
-  - Country
-  - Timezone
-
 permalink: /features/multi-language/
 redirect_from:
   - /tutorcruncher-greek/

@@ -1,6 +1,7 @@
 ---
 layout: careers
-title: Careers
+title: Careers - TutorCruncher
+description: TutorCruncher does more than providing tuition management software. We are a place to explore potential. 
 permalink: /careers/
 ---
 
