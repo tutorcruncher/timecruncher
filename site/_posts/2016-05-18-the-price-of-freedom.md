@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Price of Freedom"
-permalink: the-price-of-freedom
+permalink: the-price-of-freedom/
 tags:
  - Education
  - Policy
