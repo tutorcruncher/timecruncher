@@ -13,6 +13,8 @@ exclude:
   - .travis.yml
   - .gitignore
   - generate_change_log.py
+  - .bundle
+  - vendor
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
