@@ -165,3 +165,33 @@ section#footer {
   width:100%;
   height:400px;
 }
+
+.rangeslider,
+input[type='range'] {}
+
+.rangeslider--horizontal {
+  height: 30px;
+  border-radius: 3px;
+  width: 100%;
+
+  .rangeslider__handle {
+    top: -5px;
+  }
+
+  .rangeslider__fill {
+    border-radius: 3px;
+  }
+}
+
+.rangeslider__fill {
+  background-color: $main-colour;
+}
+
+.rangeslider__handle {
+  border-radius: 2px;
+  width: 10px;
+
+    &:after {
+    background: 0;
+  }
+}
