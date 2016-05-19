@@ -3,18 +3,10 @@ email: info@tutorcruncher.com
 description: Tuition management software with card payments, CRM, invoicing, payroll, scheduling, timesheets and more.
 baseurl: ""
 url: "https://tutorcruncher.com"
-static: https://cdn1.tutorcruncher.com
+source: site
 exclude:
-  - README.md
-  - deploy.sh
-  - bob_key.enc
-  - Gemfile
-  - Gemfile.lock
-  - .travis.yml
-  - .gitignore
-  - generate_change_log.py
-  - .bundle
-  - vendor
+  - _posts/2000-01-01-blog-post-template.md
+static: https://cdn1.tutorcruncher.com
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
