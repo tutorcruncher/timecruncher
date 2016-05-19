@@ -6,3 +6,4 @@ env
 migrate/*.csv
 Gemfile.lock
 .github_changelog_generator
+.bundle

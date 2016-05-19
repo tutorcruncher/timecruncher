@@ -1,3 +1,23 @@
 ---
-layout: front
 ---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video-js.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.static }}/css/index-v1.css" type="text/css">
+  </head>
+  <body id="page-top">
+    {% include ga.html %}
+    {% include nav.html %}
+
+    {% include front/header.html %}
+    {% include front/signup.html %}
+    {% include front/highlights.html %}
+    {% include front/video.html %}
+    {% include front/pricing.html %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video.min.js"></script>
+    {% include footer.html %}
+  </body>
+</html>

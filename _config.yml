@@ -12,6 +12,7 @@ exclude:
   - Gemfile.lock
   - .travis.yml
   - .gitignore
+  - generate_change_log.py
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
