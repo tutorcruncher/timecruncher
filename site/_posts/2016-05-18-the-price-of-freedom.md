@@ -6,7 +6,7 @@ tags:
  - Education
  - Policy
 author: Mark Biggins
---------------------
+---
 In March 2016 the government pledged to make all secondary schools academies 
 and free them from LEA control by 2022. After a backlash from the NUT and many 
 conservative back benchers the government last week performed a rather embarrassing 
