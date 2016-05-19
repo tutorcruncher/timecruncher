@@ -16,7 +16,7 @@ the U-turn came the same week as a more head-line grabbing article reporting tha
 daughter of schools minister Lord Nash is teaching in one of the academies he helped 
 found, despite having no formal teaching qualifications.
 
-<img src="{{ site.static }}/img/blogs/uturn.gif/" class="lightboximage" alt-text="The government's U-Turn was even quicker that this!"/>
+<img src="{{ site.static }}/img/blogs/uturn.gif" class="lightboximage" alt-text="The government's U-Turn was rather less stylish that this!"/>
 
 Setting the nepotism aside, should we be as shocked by a headline that reads “Person 
 with no teaching qualifications hired to teach”. If it were a doctor, dentist or lawyer 
