@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Terms &amp; Conditions
+title: Terms &amp; Conditions - TutorCruncher
+description: Find terms and conditions of TutorCruncher. By using TutorCruncher, you agree to these terms of use.
 permalink: /terms/
 redirect_from: 
   - /terms-of-service/

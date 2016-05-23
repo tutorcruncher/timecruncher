@@ -2,11 +2,6 @@
 layout: features
 title: Tax Calculations - TutorCruncher
 description: TutorCruncher automatically calculates tax, allowing you multiple tax setups for every situation.
-keywords:
-  - Tax Calculations
-  - Invoice
-  - Different tax values
-
 permalink: /features/tax-calculation/
 ---
 Invoices can be complicated and obtuse to work out when dealing with tax in the tutoring business, and TutorCruncher helps you with that.

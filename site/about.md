@@ -1,6 +1,7 @@
 ---
 layout: about
-title: "About TutorCruncher"
+title: About - TutorCruncher
+description: Get to know the team and where TutorCruncher came from.
 permalink: /about/
 redirect_from: 
   - /our-team/
