@@ -1,7 +1,7 @@
 ---
 layout: company_profile
 permalink: /companies/lunivhaeducation/
-title: Lunivhaeducation
+title: Lunivha Education
 telephone: 02037746984
 email: 
 website: http://lunivhaeducation.com

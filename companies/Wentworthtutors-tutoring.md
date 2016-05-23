@@ -1,7 +1,7 @@
 ---
 layout: company_profile
 permalink: /companies/act-tutoring/
-title: Act Tutoring
+title: Wentworth Tutors
 telephone: 44 7982 150607
 email: enquiries@wentworthtutors.com
 website: http://www.wentworthtutors.com
