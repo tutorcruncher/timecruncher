@@ -1,17 +1,7 @@
 ---
 layout: features
-title: Scheduling and timetabling
+title: Scheduling and timetabling - TutorCruncher
 description: Scheduling can be done by tutors, clients and admins quickly and easily, leaving you to concentrate on growing your business.
-keywords:
-  - Scheduling management software
-  - Timetable management software
-  - Calendar
-  - Tutors
-  - Clients
-  - Student
-  - Lesson reports
-  - Timesheets
-
 permalink: /features/scheduling/
 redirect_from: /features/advanced-scheduling/
 ---
