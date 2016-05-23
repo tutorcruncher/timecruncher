@@ -1,6 +1,7 @@
 ---
 layout: features
 title: Analytics - TutorCruncher
+short_title: Analytics
 description: Analyse the performance of your tuition business using TutorCruncher. Automatically generated graphs let you see exactly where your income is coming from.
 keywords:
   - Performance

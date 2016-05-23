@@ -1,6 +1,7 @@
 ---
 layout: features
-title: TutorCruncher Accounting
+title: Accounting - TutorCruncher
+short_title: Accounting
 description: Invoicing and payroll is easy with TutorCruncher, accounting is automated and there is an integrated card payment system.
 keywords:
   - Accounting

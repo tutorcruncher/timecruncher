@@ -1,6 +1,7 @@
 ---
 layout: features
 title: Automated Emails - TutorCruncher
+short_title: Automated Emails
 description: Send customised automated emails for your invoices, lesson reports, welcoming clients and informing tutors. Send marketing emails to any of your users.
 keywords:
   - Automated Emails

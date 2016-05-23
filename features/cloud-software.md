@@ -1,6 +1,7 @@
 ---
 layout: features
-title: TutorCruncher Cloud Software
+title: Cloud Software - TutorCruncher
+short_title: Cloud Software
 permalink: /features/cloud-software/
 description: TutorCruncher is a cloud based system, so can be used anytime, anywhere.
 keywords:

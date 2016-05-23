@@ -1,6 +1,7 @@
 ---
 layout: features
-title: Card Payments
+title: Card Payments - TutorCruncher
+short_title: Card Payments
 description: Take payments quickly and easily with our integrated card payment service; usable by clients and admins.
 keywords:
   - Card payment system

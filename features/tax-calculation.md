@@ -1,6 +1,7 @@
 ---
 layout: features
 title: Tax Calculations - TutorCruncher
+short_title: Tax Calculations
 description: TutorCruncher automatically calculates tax, allowing you multiple tax setups for every situation.
 keywords:
   - Tax Calculations
