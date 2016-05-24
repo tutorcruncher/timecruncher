@@ -7,8 +7,8 @@ founded: ""
 telephone: "020 3488 0754"
 email: info@jaderbergkrais.co.uk
 website: "http://www.jaderbergkrais.co.uk/"
-address: ""
-map_address: ""
+address: "United Kingdom"
+map_address: "United Kingdom"
 description: "Jaderberg Krais Educational Consultancy TutorCruncher Company Profile"
 categories: company
 ---

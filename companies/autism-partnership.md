@@ -5,8 +5,8 @@ title: Autism Partnership
 telephone: 0113 250 9275
 email: info@autismpartnership.co.uk.
 website: http://www.autismpartnership.co.uk
-address: Victoria House Henshaw Lane, Yeadon, Leeds, Ls19 7rz
-map_address: Victoria House Henshaw Lane, Yeadon, Leeds, Ls19 7rz
+address: Victoria House Henshaw Lane, Yeadon, Leeds, LS19 7RZ
+map_address: Victoria House Henshaw Lane, Yeadon, Leeds, LS19 7RZ
 description: Autism Partnership TutorCruncher Company Profile
 categories: company
 ---

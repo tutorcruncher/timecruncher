@@ -7,8 +7,8 @@ founded: ""
 email: info@simplylearningtuition.co.uk
 telephone: "+ 44 (0) 207 350 1981"
 website: "https://www.simplylearningtuition.co.uk/"
-address: "43 Berkeley Square,London,W1J 5FJ"
-map_address: "43 Berkeley Square,London,W1J 5FJ"
+address: "43 Berkeley Square, London, W1J 5FJ"
+map_address: "43 Berkeley Square, London, W1J 5FJ"
 description: "Simply Learning Tuition TutorCruncher Company Profile"
 categories: company
 ---

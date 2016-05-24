@@ -8,7 +8,7 @@ email: info@regentlearning.com
 telephone: "020 8966 9900"
 website: "http://www.regentlearning.com"
 address: "167 Imperial Drive, Harrow, Middlesex, HA2 7HD"
-map_address: "167 Imperial Drive ,Harrow,Middlesex,HA2 7HD"
+map_address: "167 Imperial Drive, Harrow, Middlesex, HA2 7HD"
 description: " TutorCruncher Company Profile"
 categories: company
 ---

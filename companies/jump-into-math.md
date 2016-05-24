@@ -5,8 +5,8 @@ title: Jump Into Math
 telephone: 1 831-684-0000
 email: info@jumpintomath.net
 website: http://jumpintomath.net/
-address: 783 Rio Del Mar Blvd # 69, Aptos, Ca 95003, United States
-map_address: 783 Rio Del Mar Blvd # 69, Aptos, Ca 95003, United States
+address: 783 Rio Del Mar Blvd 69, Aptos, CA 95003, United States
+map_address: 783 Rio Del Mar Blvd 69, Aptos, CA 95003, United States
 description: Jump Into Math TutorCruncher Company Profile
 categories: company
 ---

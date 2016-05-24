@@ -5,8 +5,8 @@ title: Classroom Matters
 telephone: (510) 540-8646
 email: frontdesk@classroommatters.com
 website: http://classroommatters.com/
-address: 2436 Sacramento Street,berkeley, Ca 94702,,
-map_address: 2436 Sacramento Street,berkeley, Ca 94702,,
+address: 2436 Sacramento Street, Berkeley, CA 94702
+map_address: 2436 Sacramento Street, Berkeley, CA 94702
 description: Classroom Matters TutorCruncher Company Profile
 categories: company
 ---

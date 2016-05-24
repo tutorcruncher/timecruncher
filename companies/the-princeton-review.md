@@ -5,8 +5,8 @@ title: The Princeton Review
 telephone: 1 800-273-8439
 email: pressoffice@review.com
 website: http://www.princetonreview.com/
-address: 110 E 42nd Street, New York, Ny 10012, United States
-map_address: 110 E 42nd Street, New York, Ny 10012, United States
+address: 110 E 42nd Street, New York, NY 10012, United States
+map_address: 110 E 42nd Street, New York, NY 10012, United States
 description: The Princeton Review TutorCruncher Company Profile
 categories: company
 ---

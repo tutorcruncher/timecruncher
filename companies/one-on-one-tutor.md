@@ -5,8 +5,8 @@ title: One-on-one Tutor
 telephone: 1-800-758-9770
 email: info@one-on-onetutor.com
 website: http://www.one-on-onetutor.com/
-address: 7047 Germantown Avenue,suite 204,philadelphia, Pa 19119
-map_address: 7047 Germantown Avenue,suite 204,philadelphia, Pa 19119
+address: 7047 Germantown Avenue, Suite 204, Philadelphia, PA 19119
+map_address: 7047 Germantown Avenue, Suite 204, Philadelphia, PA 19119
 description: One-on-one Tutor TutorCruncher Company Profile
 categories: company
 ---

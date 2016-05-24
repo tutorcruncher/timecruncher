@@ -5,8 +5,8 @@ title: Bojangles Music School
 telephone: (832) 968-4290
 email: shawn@bojanglesmusicschool.com
 website: http://bojanglesmusicschool.com/
-address: 3619 S Shepherd Dr, Houston Tx 77098
-map_address: 3619 S Shepherd Dr, Houston Tx 77098
+address: 3619 S Shepherd Dr, Houston TX 77098
+map_address: 3619 S Shepherd Dr, Houston TX 77098
 description: Bojangles Music School TutorCruncher Company Profile
 categories: company
 ---

@@ -7,8 +7,8 @@ founded: ""
 email: info@gabrieleducation.com
 telephone: "A leader for over 30 years in providing quality, accredited programs for RN's, LVN's (LPN's), and CNA's."
 website: "http://www.gabrieleducation.com/"
-address: "2412 Foothill blvd #56, Calistoga, CA,94515"
-map_address: "2412 FOOTHILL BLVD #56, CALISTOGA, CA,94515"
+address: "2412 Foothill blvd 56, Calistoga, CA,94515"
+map_address: "2412 FOOTHILL BLVD 56, CALISTOGA, CA,94515"
 description: "Gabriel Education TutorCruncher Company Profile"
 categories: company
 ---

@@ -5,8 +5,8 @@ title: Lights On Learning
 telephone: 626 5327631
 email: info@lightsonlearningcenter.com
 website: http://www.lightsonlearningcenter.com/
-address: 34201 Eddy Rd, Willoughby Hills, Oh 44094, United States
-map_address: 34201 Eddy Rd, Willoughby Hills, Oh 44094, United States
+address: 34201 Eddy Rd, Willoughby Hills, OH 44094, United States
+map_address: 34201 Eddy Rd, Willoughby Hills, OH 44094, United States
 description: Lights On Learning TutorCruncher Company Profile
 categories: company
 ---

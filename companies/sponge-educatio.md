@@ -5,8 +5,8 @@ title: Sponge Educatio
 telephone: 614 03733042
 email: info@spongeeducation.com
 website: http://www.spongeeducation.com.au/
-address: Epping, Nsw, 2121, Australia
-map_address: Epping, Nsw, 2121, Australia
+address: Epping, NSW, 2121, Australia
+map_address: Epping, NSW, 2121, Australia
 description: Sponge Educatio TutorCruncher Company Profile
 categories: company
 ---

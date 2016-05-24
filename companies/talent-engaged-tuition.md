@@ -7,8 +7,8 @@ founded: ""
 telephone: "0800 270 7979"
 email: "info@tetuition.com"
 website: "http://www.tetuition.com"
-address: "4th Floor,Alperton House,Bridgewater Road,Wembley, Middx,HA0 1EH"
-map_address: "4th Floor,Alperton House,Bridgewater Road,Wembley, Middx,HA0 1EH"
+address: "4th Floor, Alperton House, Bridgewater Road, Wembley, Middx, HA0 1EH"
+map_address: "4th Floor, Alperton House, Bridgewater Road, Wembley, Middx, HA0 1EH"
 description: "Talent Engaged Tuition TutorCruncher Company Profile"
 categories: company
 ---
