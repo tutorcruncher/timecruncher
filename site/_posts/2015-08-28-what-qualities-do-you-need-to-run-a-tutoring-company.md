@@ -4,10 +4,10 @@ title:  "What Qualities Do You Need to Run a Tutoring Company?"
 permalink: what-qualities-do-you-need-to-run-a-tutoring-company/
 author: TutorCruncher
 ---
-It takes a certain type of person to [run a private tutoring business.](http://www.tutorcruncher.com/tutor-scheduling-software/) 
+It takes a certain type of person to [run a private tutoring business.](/tutor-scheduling-software/) 
 First of all, you’ll need to have good subject and industry knowledge and then you’ll need to be able to handle the logistics 
 that go with recruiting staff and handling cash flow. At TutorCruncher, we’re in contact with 
-[tutoring business owners](http://www.tutorcruncher.com/what-makes-a-good-tuition-agency-director/) 
+[tutoring business owners](/what-makes-a-good-tuition-agency-director/) 
 every day and we’ve identified personal five qualities that we think makes a successful owner. 
 
 ### A Passion for Education
@@ -19,16 +19,17 @@ whether it’s training tutors, or covering for other staff members. Having had 
 
 ### A Good Head for Numbers
 
-As with any business, being good with numbers certainly helps. If you’re able to plan your company’s initial startup costs,
- spending and overheads and make accurate projections for growth, then you’ll greatly improve the chances of your business 
- being successful. As your tutoring business grows, you’ll likely want to hire someone to take care of the financial side 
- of things, but until then, if you’re able to create and stick to a financial plan, you’ll give your business the best chance of succeeding. 
+As with any business, being good with [analysing numbers](/features/analytics/) certainly helps. 
+If you’re able to plan your company’s initial startup costs,
+spending and overheads and make accurate projections for growth, then you’ll greatly improve the chances of your business 
+being successful. As your tutoring business grows, you’ll likely want to hire someone to take care of the financial side 
+of things, but until then, if you’re able to create and stick to a financial plan, you’ll give your business the best chance of succeeding. 
 
 ### Good People Skills
 
 As the owner of a tutoring business, you’re responsible for making sure that your staff are happy and that students and 
 parents are receiving a good standard of service. Given that tutoring is all 
-[about communication](http://www.tutorcruncher.com/communication-is-key/), it’s important that a tutoring business owner 
+[about communication](/communication-is-key/), it’s important that a tutoring business owner 
 is good with people. Part of your daily tasks will involve meeting with students and parents and telling them about your 
 services. In essence, your job will incorporate customer service, sales and business development all at the same time, at least in the early stages. 
 

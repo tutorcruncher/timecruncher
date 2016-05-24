@@ -24,7 +24,8 @@ specific jobs or voluntary work.
 
 Because anyone can call
 themselves a tutor, it’s a good idea to set your agency’s own minimum
-qualification standards. Not every tutor needs to be a qualified tutor but the
+[qualification standards](/features/tutor-client-student-profiles/).
+Not every tutor needs to be a qualified tutor but the
 more qualified they are, the higher the level of support they can provide.
 It’s recommended that tutors are educated to at least degree level in the
 subject that they specialise in. Some tuition agencies take this a step
@@ -44,7 +45,7 @@ developments.
 ### References
 
 A tutor may have undergone a DBS check, but you
-should always ask for professional references as well. Experienced tutors
+should always ask for professional [references](/features/tutor-student-matching/) as well. Experienced tutors
 should be able to provide references from students, parents and other
 education professionals, showing their competencies. We recommend that a
 tuition agency should follow up these references as a matter of course and
@@ -52,7 +53,7 @@ speak to the referees in person. New tutors, who have only just graduated
 should still be able to provide references from university lecturers. **
 Availability **
 
-Checking a tutor’s availability during the recruitment process is also
+Checking a tutor’s [availability](/features/scheduling/) during the recruitment process is also
 essential. As a tutoring agency, you want piece of mind, knowing that tutors
 will be flexible enough to take on last minute requests. In the lead up to
 exams, tuition agencies often find themselves really busy so you’ll want to
