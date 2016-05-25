@@ -7,9 +7,11 @@ founded: ""
 telephone: "+44 (0)208 220 5155"
 email: info@essextuitioncentre.com
 website: "http://www.essextuitioncentre.com"
-address: "206 Ripple Road,Barking,Essex,IG11 7PR"
-map_address: "206 Ripple Road,Barking,Essex,IG11 7PR"
+address: "206 Ripple Road, Barking, Essex, IG11 7PR"
+map_address: "206 Ripple Road, Barking, Essex, IG11 7PR"
 description: "Essex Tuition CentreTutorCruncher Company Profile"
+country: United Kingdom
+city: Greater London
 categories: company
 ---
 Essex Tuition Centre has been helping children in Essex and London area to reach their maximum potential through friendly and professional tuition. Most of the tutors at Essex Tuition Centre are master degree holders. If you are looking for great quality tuition and value for money in English, maths or science then you have come to the right place. Their tutors help the student’s confidence through motivation and encouragement specialised in English, Maths, Science & 11+ preparation.

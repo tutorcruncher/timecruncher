@@ -8,6 +8,8 @@ website: http://ivytutorsnetwork.com
 address: 117 W 123rd St, New York, NY 10027
 map_address: 117 W 123rd St, New York, NY 10027
 description: Ivy League Tutors TutorCruncher Company Profile
+country: United States
+city: New York
 categories: company
 ---
 

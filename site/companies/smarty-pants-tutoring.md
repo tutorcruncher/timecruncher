@@ -8,6 +8,8 @@ website: http://www.smartypantstutors.com
 address: Cowper Rd, Harpenden, Hertfordshire County AL5 5NG
 map_address: Cowper Rd, Harpenden, Hertfordshire County AL5 5NG
 description: Smarty Pants Tutoring TutorCruncher Company Profile
+country: United Kingdom
+city: Harpenden
 categories: company
 ---
 

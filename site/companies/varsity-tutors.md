@@ -8,6 +8,8 @@ website: http://www.varsitytutors.com
 address: 2003 Pratt Ct, Evanston, IL 60201, United States
 map_address: 2003 Pratt Ct, Evanston, IL 60201, United States
 description: Varsity Tutors TutorCruncher Company Profile
+country: United States
+city: Illinois
 categories: company
 ---
 

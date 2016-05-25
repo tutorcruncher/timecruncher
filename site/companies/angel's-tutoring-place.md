@@ -8,6 +8,8 @@ website:
 address: Oakley RD, London N1 3LS
 map_address: Oakley RD, London N1 3LS
 description: Angel's Tutoring Place TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: https://axiomtutoring.co.uk
 address: 45 Tower Bridge Rd. London, SE1 4TL
 map_address: 45 Tower Bridge Rd. London, SE1 4TL
 description: Axiom Private Tutoring TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

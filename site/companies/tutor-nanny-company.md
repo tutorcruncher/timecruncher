@@ -7,9 +7,11 @@ founded: ""
 telephone: "44(0)203 004 7490"
 email: "caroline@tutornanny.co.uk"
 website: "http://www.tutornanny.co.uk/"
-address: "Riverbank House, 1 Putney Bridge Approach, Fulham, SW6 3JD"
-map_address: "Riverbank House, 1 Putney Bridge Approach, Fulham, SW6 3JD, United Kingdom"
+address: "1 Putney Bridge Approach, Fulham, SW6 3JD"
+map_address: "1 Putney Bridge Approach, Fulham, SW6 3JD, United Kingdom"
 description: "The Tutor Nanny Company TutorCruncher Company Profile"
+country: United Kingdom
+city: Fulham
 categories: company
 ---
 ​The Tutor Nanny Company works meticulously to match the needs of its families with the experience, expertise and skills

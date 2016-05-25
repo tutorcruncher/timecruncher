@@ -8,6 +8,8 @@ website: https://approvedtutors.co.uk
 address: 5 Kielder Ave, Cramlington, Northumberland NE23 8JT
 map_address: 5 Kielder Ave, Cramlington, Northumberland NE23 8JT
 description: Approved Tutors TutorCruncher Company Profile
+country: United Kingdom
+city: Cramlington
 categories: company
 ---
 

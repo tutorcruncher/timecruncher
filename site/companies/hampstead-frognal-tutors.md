@@ -7,9 +7,11 @@ founded: "2010"
 telephone: "020 7419 1980"
 email: "info@hampsteadandfrognaltutors.org.uk"
 website: "http://hampsteadandfrognaltutors.org.uk/"
-address: "Hampstead and Frognal Tutors LTD 26e Frognal London NW3 6AG United Kingdom"
-map_address: "Hampstead and Frognal Tutors LTD 26e Frognal London NW3 6AG United Kingdom, United Kingdom"
+address: "26e Frognal London NW3 6AG United Kingdom"
+map_address: "26e Frognal London NW3 6AG United Kingdom, United Kingdom"
 description: "Hampstead and Frognal Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Hampstead & Frognal Tutors, London’s leading family-run tuition company, offering world class tutors for students in all

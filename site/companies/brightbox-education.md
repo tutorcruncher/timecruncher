@@ -8,6 +8,8 @@ website: https://brightboxcharge.com
 address: 39 West 37th Street, 17th Floor New York, NY 10018
 map_address: 39 West 37th Street, 17th Floor New York, NY 10018
 description: Brightbox Education TutorCruncher Company Profile
+country: United States
+city: New York
 categories: company
 ---
 

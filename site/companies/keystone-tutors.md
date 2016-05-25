@@ -10,6 +10,8 @@ website: "http://www.keystonetutors.com"
 address: "5 Blythe Mews, London, W14 0HW"
 map_address: "5 Blythe Mews, London, W14 0HW, United Kingdom"
 description: "Keystone tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Keystone Tutors is a professional private tuition agency, based in London. They source tutors who have deep knowledge of

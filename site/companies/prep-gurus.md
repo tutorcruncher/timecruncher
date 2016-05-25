@@ -8,6 +8,8 @@ website: http://www.prepgurus.com/
 address: 4000 Macarthur Blvd (suite 600), Newport Beach, CA, 92660
 map_address: 4000 Macarthur Blvd (suite 600), Newport Beach, CA, 92660
 description: Prep Gurus TutorCruncher Company Profile
+country: United States
+city: California
 categories: company
 ---
 Positive Psychology and Growth MindsetTeaching methods that lead to healthier and happier studentswith superior standardized test scores.  

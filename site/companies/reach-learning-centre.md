@@ -8,6 +8,8 @@ website: http://www.reachlearningcentre.com
 address: 1051 Churchill Crescent, North Vancouver, BC V7P 1P9, Canada
 map_address: 1051 Churchill Crescent, North Vancouver, BC V7P 1P9, Canada
 description: Reach Learning Centre TutorCruncher Company Profile
+country: United States
+city: Canada
 categories: company
 ---
 

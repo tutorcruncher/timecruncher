@@ -10,6 +10,8 @@ website: "http://www.tutordoctor.co.uk/"
 address: "United Kingdom"
 map_address: "United Kingdom"
 description: "Tutor Doctor TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Tutor Doctor leads the way in one-to-one in-home tutoring with a service that’s second to none in the UK market. They

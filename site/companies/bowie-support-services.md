@@ -8,6 +8,8 @@ website: https://www.bowiestate.edu
 address: 14000 Jericho Park Rd Bowie, MD
 map_address: 14000 Jericho Park Rd Bowie, MD
 description: Bowie Support Services TutorCruncher Company Profile
+country: United States
+city: Bowie
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: http://eatonhouseschools.com
 address: 3-5 Eaton Gate, London SW1W 9BA, United Kingdom
 map_address: 3-5 Eaton Gate, London SW1W 9BA, United Kingdom
 description: Eaton Gate Education TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

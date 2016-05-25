@@ -8,6 +8,8 @@ website: http://www.hillsideclubhouse.org.uk
 address: 29/30 North Road, London N7 9GJ
 map_address: 29/30 North Road, London N7 9GJ
 description: Hillside TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

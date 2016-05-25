@@ -10,6 +10,8 @@ website: "http://www.jaderbergkrais.co.uk/"
 address: "United Kingdom"
 map_address: "United Kingdom"
 description: "Jaderberg Krais Educational Consultancy TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Katie Krais and Lorrae Jaderberg are two experienced and highly qualified teachers who have been helping children reach their potential for years. More than just a tutoring agency, they both have an extensive knowledge of both state selective and independent schools, and so are able to offer invaluable advise to help parents with their children's education.

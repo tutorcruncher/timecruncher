@@ -10,6 +10,8 @@ website: "http://www.westminstertutors.co.uk/"
 address: "86 Old Brompton Road, South Kensington, London SW7 3LQ"
 map_address: "86 Old Brompton Road, South Kensington, London SW7 3LQ, United Kingdom"
 description: "Westminster Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Westminster Tutors is a leading independent college in London known for its individual approach and superbly qualified

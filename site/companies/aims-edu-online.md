@@ -8,6 +8,8 @@ website: http://www.aims.edu
 address: 5401 West 20th Street, Greeley, CO 80634
 map_address: 5401 West 20th Street, Greeley, CO 80634
 description: Aims Edu Online TutorCruncher Company Profile
+country: United States
+city: Colorado
 categories: company
 ---
 

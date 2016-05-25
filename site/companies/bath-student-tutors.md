@@ -8,6 +8,8 @@ website: http://www.bathstudenttutors.com
 address: Taunton, United Kingdom
 map_address: Taunton, United Kingdom
 description: Bath Student Tutors TutorCruncher Company Profile
+country: United Kingdom
+city: Taunton
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: http://www.tutor.melbourne
 address: 203 Fulham Road Melbourne, Vic
 map_address: 203 Fulham Road Melbourne, Vic
 description: Home Tutoring Melbourne TutorCruncher Company Profile
+country: Australia
+city: Melbourne
 categories: company
 ---
 

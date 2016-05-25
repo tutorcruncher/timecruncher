@@ -10,6 +10,8 @@ website: "http://www.goeeprivatetutors.com/"
 address: "63 Curzon Street Mayfair, London W1J 8PD England"
 map_address: "63 Curzon Street Mayfair, London W1J 8PD England, United Kingdom"
 description: "GoEE Private Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 GoEE Private Tutors aims to help children, young adults and mature adults in the area of their education, with a focus

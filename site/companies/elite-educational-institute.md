@@ -8,6 +8,8 @@ website: http://www.eliteprep.com
 address: Elite Educational Institute USA, 1210 Roosevelt, Irvine, CA
 map_address: Elite Educational Institute USA, 1210 Roosevelt, Irvine, CA
 description: Elite Educational Institute TutorCruncher Company Profile
+country: United States
+city: California
 categories: company
 ---
 

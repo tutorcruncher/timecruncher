@@ -9,6 +9,8 @@ website: "http://inspiredmindstutors.com"
 description: "Inspired Minds TutorCruncher Company Profile"
 address: "London"
 map_address: "London"
+country: United Kingdom
+city: London
 categories: company
 ---
 Whether your child is preparing for common entrance, GCSE, A-level or university preparation we are ready to help.

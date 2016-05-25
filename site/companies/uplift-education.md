@@ -8,6 +8,8 @@ website: http://www.uplifteducation.org
 address: 1825 Market Center Blvd. Dallas, TX 75207
 map_address: 1825 Market Center Blvd. Dallas, TX 75207
 description: Uplift Education TutorCruncher Company Profile
+country: United States
+city: Dallas
 categories: company
 ---
 

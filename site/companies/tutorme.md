@@ -8,6 +8,8 @@ website: https://tutorme.co.uk
 address: 43-45 Dorset Street W1U 7NA
 map_address: 43-45 Dorset Street W1U 7NA
 description: Tutorme TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -11,6 +11,8 @@ website: "http://tutorhouse.co.uk/"
 address: "Rowallan Road, London, SW6 6AF"
 map_address: "Rowallan Road, London, SW6 6AF, United Kingdom"
 description: "Tutor House TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Tutor House is a private tutoring agency based in Fulham, London; managed by Alex Dyer. At Tutor House we provide

@@ -8,6 +8,8 @@ website: http://www.teachus.co.uk
 address: 78 York Street London W1H 1DP
 map_address: 78 York Street London W1H 1DP
 description: Teachus TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -10,6 +10,8 @@ website: "http://www.fleet-tutors.co.uk/"
 address: "251/253 Chiswick High Rd. London W4 4PU"
 map_address: "251/253 Chiswick High Rd. London W4 4PU, United Kingdom"
 description: "Fleet Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Fleet Tutors has helped over 100,000 students across London, the UK and internationally, achieve the results they need

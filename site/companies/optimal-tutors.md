@@ -10,6 +10,8 @@ website: "http://www.optimaltutors.co.uk"
 address: "11A, Memorial Road, Walkden, Manchester, M28 3AQ"
 map_address: "11A, Memorial Road, Walkden, Manchester, M28 3AQ, United Kingdom"
 description: "Optimal Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: Manchester
 categories: company
 ---
 

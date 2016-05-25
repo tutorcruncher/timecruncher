@@ -8,6 +8,8 @@ website: http://www.touchstoneschool.com
 address: 54 Leland St Grafton, MA
 map_address: 54 Leland St Grafton, MA
 description: Touchstone Tuition TutorCruncher Company Profile
+country: United States
+city: Massachusetts
 categories: company
 ---
 

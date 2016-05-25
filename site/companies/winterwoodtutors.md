@@ -7,9 +7,11 @@ founded: ""
 telephone: "07821 334903"
 email: "jade.everingham@winterwoodtutors.co.uk"
 website: "http://winterwoodtutors.co.uk/"
-address: "5 Holly Park Gardens, London, Finchley, London N3 3NH 07821 334903"
-map_address: "5 Holly Park Gardens, London, Finchley, London N3 3NH 07821 334903, United Kingdom"
+address: "5 Holly Park Gardens, London N3"
+map_address: "5 Holly Park Gardens, London N3"
 description: "Winterwood Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Winterwood Tutors is a joint venture managed by the co-founders, Thomas Parkinson and Jade Everingham. Both founders had

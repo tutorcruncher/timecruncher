@@ -8,5 +8,7 @@ website: http://advitamenglish.com
 address: Pendeen, 4 Highfield Road, Sedbergh
 map_address: Pendeen, 4 Highfield Road, Sedbergh
 description: Ad Vitam Tutoring TutorCruncher Company Profile
+country: United Kingdom
+city: Blackpool
 categories: company
 ---

@@ -10,6 +10,8 @@ website: "http://www.oc-ec.com/"
 address: "11 Elvaston Place London SW7 5QG United Kingdom"
 map_address: "11 Elvaston Place London SW7 5QG United Kingdom, United Kingdom"
 description: "Osborne Cawkwell Educational Consultants TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Osborne Cawkwell specialises in the introduction of private tutors by the hour in London, and residentially in the UK

@@ -8,6 +8,8 @@ website: http://bristoltutors.co.uk
 address: Broad Quay House 5th Floor Prince Street Bristol BS1 4DJ
 map_address: Broad Quay House 5th Floor Prince Street Bristol BS1 4DJ
 description: Bristol Tutors TutorCruncher Company Profile
+country: United Kingdom
+city: Bristol
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: https://www.aimpa.org
 address: 1200 River Road, Conshohocken PA 19428
 map_address: 1200 River Road, Conshohocken PA 19428
 description: Aim Academy TutorCruncher Company Profile
+country: United States
+city: Pennsylvania
 categories: company
 ---
 

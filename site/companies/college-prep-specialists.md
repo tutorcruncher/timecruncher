@@ -8,6 +8,8 @@ website: http://www.college-prep.org
 address: 6100 Broadway Oakland, CA 94618
 map_address: 6100 Broadway Oakland, CA 94618
 description: College Prep Specialists TutorCruncher Company Profile
+country: United States
+city: California
 categories: company
 ---
 

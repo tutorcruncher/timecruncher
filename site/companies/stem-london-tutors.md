@@ -8,6 +8,8 @@ website: http://stemlondontutors.com
 address: 251 Brompton Road, London SW3 2EP, United Kingdom
 map_address: 251 Brompton Road, London SW3 2EP, United Kingdom
 description: Stem London Tutors TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -10,6 +10,8 @@ website: "http://www.hollandparkeducation.com/"
 address: "70 Elgin Crescent London W11 2JJ United Kingdom"
 map_address: "70 Elgin Crescent London W11 2JJ United Kingdom, United Kingdom"
 description: "Holland Park Tuition TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Holland Park Tuition & Education Consultants is the leading source of private tutors and educational guidance to

@@ -10,6 +10,8 @@ website: "http://www.kctutors.co.uk/"
 address: "52 Queen's Gate Terrace, Kensington, London, SW7 5PJ"
 map_address: "52 Queenss Gate Terrace, Kensington, London, SW7 5PJ, United Kingdom"
 description: "Kensington Chelsea Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Kensington Chelsea Tutors provide high quality private tuition at your home or place of work in London and the South

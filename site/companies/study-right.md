@@ -8,6 +8,8 @@ website: http://studyright.co.uk
 address: 87-89 Wood St, London E17 3JX
 map_address: 87-89 Wood St, London E17 3JX
 description: Study Right TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

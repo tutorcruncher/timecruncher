@@ -8,6 +8,8 @@ website: http://www.openmindstuition.co.uk
 address: 11 Langley Dr, Brentwood CM14 4AD
 map_address: 11 Langley Dr, Brentwood CM14 4AD
 description: Open Minds Tuition Limited TutorCruncher Company Profile
+country: United Kingdom
+city: Brentwood
 categories: company
 ---
 

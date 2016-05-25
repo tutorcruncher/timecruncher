@@ -7,9 +7,11 @@ founded: ""
 telephone: "0800 854 714"
 email: "info@kumon.co.uk"
 website: "http://www.kumon.co.uk"
-address: "Worldwide"
-map_address: ""
+address: "100 High St, London N14 6BP"
+map_address: "100 High St, London N14 6BP"
 description: "Kumon Educational TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Kumon Educational is the UK’s largest supplementary education provider, offering maths and English study programmes for children of all ages and abilities. There are currently over 70,000 Kumon students learning at more than 680 study centres across the UK, with over 4 million students worldwide. The Kumon Method of Learning was developed in 1954 by Toru Kumon, both a parent and gifted teacher from Japan. He discovered his own son, Takeshi, was not fulfilling his potential in maths at school and so created worksheets for him to do at home every day.

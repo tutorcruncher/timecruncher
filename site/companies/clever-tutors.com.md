@@ -8,6 +8,8 @@ website: http://www.clevertutors.com
 address: The Portergate, Ecclesall Rd, Sheffield S11 8NX
 map_address: The Portergate, Ecclesall Rd, Sheffield S11 8NX
 description: Clever Tutors.com TutorCruncher Company Profile
+country: United Kingdom
+city: Sheffield
 categories: company
 ---
 

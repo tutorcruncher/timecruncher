@@ -10,6 +10,8 @@ website: "http://www.blackstonetutors.co.uk/"
 address: "78 York St, London W1H 1DP"
 map_address: "78 York St, London W1H 1DP, United Kingdom"
 description: "Blackstone Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 At BlackStone Tutors they have a very simple mission; to provide consistently excellent tuition to students throughout

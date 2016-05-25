@@ -8,6 +8,8 @@ website: http://www.bluekitetuition.co.uk
 address: United Kingdom
 map_address: United Kingdom
 description: Blue Kite Tuition TutorCruncher Company Profile
+country: United Kingdom
+city: Brighton
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: http://www.synarboreducation.com
 address: 34 Lime St EC3M 7AT
 map_address: 34 Lime St Ec3m 7AT
 description: Synarbor Education TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

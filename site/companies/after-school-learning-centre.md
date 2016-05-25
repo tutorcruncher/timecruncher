@@ -10,6 +10,8 @@ website: "http://www.afterschoollearning.com"
 address: "1 Oakwood Parade, Bramley Road, London, N14 4HY"
 map_address: "1 Oakwood Parade, Bramley Road, London, N14 4HY"
 description: "After School Learning Centre TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 The After-School Learning Centre, located in North London and Southgate caters for all children aged four to eighteen and is totally dedicated to helping your child achieve the best grades possible in English, Maths, Science, Verbal and Non-Verbal Reasoning and Mandarin through personalised and tailored one-to-one tutoring. All subjects are taught in lessons of one hour. You will find a regular day and time for your child to attend which fits your work commitments as we are open from Monday to Saturday.

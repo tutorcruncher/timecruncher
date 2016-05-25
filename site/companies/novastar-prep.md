@@ -8,6 +8,8 @@ website: http://www.novastarprep.com
 address: 11654 Plaza America Dr, 156 Reston, VA
 map_address: 11654 Plaza America Dr, 156 Reston, VA
 description: Novastar Prep TutorCruncher Company Profile
+country: United States
+city: Virginia
 categories: company
 ---
 

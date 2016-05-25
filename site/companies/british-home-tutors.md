@@ -10,6 +10,8 @@ website: "http://www.bht.co.uk/"
 address: "25 Colehill Lane, London SW6 5EF"
 map_address: "25 Colehill Lane, London SW6 5EF, United Kingdom"
 description: "British Home Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 British Home Tutors (BHT) is a collegiate group of around 60 school teachers who work or have worked at independent

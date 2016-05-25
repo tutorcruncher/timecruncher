@@ -10,6 +10,8 @@ website: "http://www.huntleytutors.co.uk"
 address: "35-37 Ludgate Hill, London, EC4M 7JN"
 map_address: "35-37 Ludgate Hill, London, EC4M 7JN"
 description: "Huntley Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 

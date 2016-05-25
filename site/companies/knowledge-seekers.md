@@ -11,6 +11,8 @@ website: "http://www.knowledgeseekers.co.uk/"
 address: "54 Grove Vale, East Dulwich London SE22 8DY"
 map_address: "54 Grove Vale, East Dulwich London SE22 8DY, United Kingdom"
 description: "Knowledge Seekers TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Knowledge Seekers specialise in providing bespoke private tuition for children from reception class to A-level,

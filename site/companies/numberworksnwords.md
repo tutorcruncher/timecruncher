@@ -10,6 +10,8 @@ website: "http://www.numberworks.com"
 address: "187A Lavender Hill, Clapham Junction, London, SW11 5TB"
 map_address: "187A Lavender Hill, Clapham Junction, London, SW11 5TB"
 description: "NumberWorks’nWords TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 NumberWorks’nWords is one of the world’s most experienced and successful after-school tuition providers. During 30 years of operation they’ve helped many thousands of children to catch up and get ahead. Quality maths and English tuition is tailored to each child’s individual needs using curriculum based programmes.

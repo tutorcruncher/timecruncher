@@ -7,9 +7,11 @@ founded: ""
 telephone: "0800 270 7979"
 email: "info@tetuition.com"
 website: "http://www.tetuition.com"
-address: "4th Floor, Alperton House, Bridgewater Road, Wembley, Middx, HA0 1EH"
-map_address: "4th Floor, Alperton House, Bridgewater Road, Wembley, Middx, HA0 1EH"
+address: "Bridgewater Road, Wembley, HA0 1EH"
+map_address: "Bridgewater Road, Wembley, HA0 1EH"
 description: "Talent Engaged Tuition TutorCruncher Company Profile"
+country: United Kingdom
+city: Greater London
 categories: company
 ---
 At Talent Engaged Tuition, they believe in giving each child the tools they will need to achieve for themselves. Programmes develop the skills and self-confidence that will give your child the best chance of succeeding in life. All of their tuition is delivered in direct accordance with the National Curriculum what ensures the teaching benefits your child’s development back in their school.

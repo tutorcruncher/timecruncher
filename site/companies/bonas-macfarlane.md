@@ -6,9 +6,11 @@ founded: "1992"
 telephone: "+44 (0) 207 223 2794"
 email: "info@bonasmacfarlane.co.uk"
 website: "http://www.bonasmacfarlane.co.uk"
-address: "Bonas MacFarlane Education, Bridges Court, London"
-map_address: "Bonas MacFarlane Education, Bridges Court, London"
+address: "London"
+map_address: "London"
 description: "Bonas MacFarlane TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Bonas MacFarlane are one of London's top tutoring companies, providing a range of services from tuition, 

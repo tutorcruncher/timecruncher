@@ -10,6 +10,8 @@ website: "http://www.athenatuition.co.uk/"
 address: "11 Frognal, London, NW3 6AL"
 map_address: "11 Frognal, London, NW3 6AL, United Kingdom"
 description: "Athena Tuition TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Athena Tuition is expert at finding the right tutor for students in London. Learning is like building Lego; complex

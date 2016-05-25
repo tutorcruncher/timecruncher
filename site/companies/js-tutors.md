@@ -8,6 +8,8 @@ website: http://www.jshometutors.co.uk
 address: 28 Handsworth Wood Rd, Birmingham B20 2DS
 map_address: 28 Handsworth Wood Rd, Birmingham B20 2DS
 description: Js Tutors TutorCruncher Company Profile
+country: United Kingdom
+city: Birmingham
 categories: company
 ---
 

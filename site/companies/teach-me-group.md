@@ -6,9 +6,11 @@ founded: 2012
 telephone: +44 (0) 800 689 0193
 email: info@shropshiretutor.co.uk
 website: http://www.shropshiretutor.co.uk
-address: The Shed, Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB
-map_address: "The Shed, Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB"
+address: Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB
+map_address: "Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB"
 description: "Teach Me Group TutorCruncher Company Profile"
+country: United Kingdom
+city: Bratton
 categories: company
 ---
 Teach Me Group (Shropshire Tutor) Limited are an independent, family run, educational provider, providing a range 

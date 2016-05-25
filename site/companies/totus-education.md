@@ -10,6 +10,8 @@ website: "http://www.totuseducation.com"
 address: "Trinity Hall, Rainsford, CM1 2XB"
 map_address: "Trinity Hall, Rainsford, CM1 2XB"
 description: "Totus Education TutorCruncher Company Profile"
+country: United Kingdom
+city: Chelmsford
 categories: company
 ---
 At Totus Education they take a different approach. They are the most effective method of getting your child into their school of their choice. But they also help them succeed once they arrive there. Their aim is to guide, inspire and equip students as they help them become more confident and effective learners in both the short and the long term. They are mentors as much as they are teachers. They teach the child based on the interests they themselves have, and their unique personality. They teach a student how to learn and put their learning into context for them. In short, they teach the mind and not just the brain.

@@ -10,6 +10,8 @@ website: "http://oxfordexclusif.co.uk/"
 address: "55 James Street Oxford OX4 1EU United Kingdom"
 map_address: "55 James Street Oxford OX4 1EU United Kingdom, United Kingdom"
 description: "Oxford Exclusif TutorCruncher Company Profile"
+country: United Kingdom
+city: Oxford
 categories: company
 ---
 Oxford Exclusif offers retake courses in every subject. If you’re unhappy with your results at A level or any other
