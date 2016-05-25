@@ -9,7 +9,7 @@ address: Henshaw Lane, Yeadon, Leeds, LS19 7RZ
 map_address: Henshaw Lane, Yeadon, Leeds, LS19 7RZ
 description: Autism Partnership TutorCruncher Company Profile
 country: United Kingdom
-city: Yeadon
+city: Leeds
 categories: company
 ---
 

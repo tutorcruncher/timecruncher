@@ -9,7 +9,7 @@ address: 13d Hunter Street, The Village East Kilbride, G74 4LZ
 map_address: 13d Hunter Street, The Village East Kilbride, G74 4LZ
 description: Cambuslang Tutor TutorCruncher Company Profile
 country: United Kingdom
-city: East Kilbride
+city: Glasgow
 categories: company
 ---
 

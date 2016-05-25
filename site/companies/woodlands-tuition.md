@@ -9,7 +9,6 @@ address: 95 Ashmead Road Bedford Bedfordshire MK41 7FD
 map_address: 95 Ashmead Road Bedford Bedfordshire MK41 7FD
 description: Woodlands Tuition TutorCruncher Company Profile
 country: United Kingdom
-city: Bedford
+city: Milton Keynes
 categories: company
 ---
-

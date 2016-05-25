@@ -10,7 +10,7 @@ address: Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB
 map_address: "Dulwich Grange, Bratton, Telford, Shropshire, TF5 0EB"
 description: "Teach Me Group TutorCruncher Company Profile"
 country: United Kingdom
-city: Bratton
+city: Telford
 categories: company
 ---
 Teach Me Group (Shropshire Tutor) Limited are an independent, family run, educational provider, providing a range 

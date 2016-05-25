@@ -11,7 +11,7 @@ address: "8 Cranmere Drive, Sale, Cheshire, M33 4LB"
 map_address: "8 Cranmere Drive, Sale, Cheshire, M33 4LB, United Kingdom"
 description: "Select Tutors TutorCruncher Company Profile"
 country: United Kingdom
-city: Sale
+city: Manchester
 categories: company
 ---
 Select Tutors, provides individual home tuition in academic school subjects for pupils at primary levels (KS1 & KS2),
