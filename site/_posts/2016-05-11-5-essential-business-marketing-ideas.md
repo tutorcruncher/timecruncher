@@ -6,7 +6,7 @@ tags:
  - Marketing
  - Tutoring
  - Starting a tuition business
-author: Michael Persyn
+author: Michaël Persyn
 ---
 Competition is growing every day and marketing is essential for every business. To establish a business that keeps innovating and growing, staying ahead of the competition is not easy. The market is evolving every day, the way someone searches for you today will not be the same within the next month or even week.
 
