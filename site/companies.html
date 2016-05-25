@@ -20,6 +20,9 @@ redirect_from:
       Name
     </th>
     <th>
+      City
+    </th>
+    <th>
       Address
     </th>
   </thead>
@@ -29,6 +32,9 @@ redirect_from:
       <tr>
         <td>
           <a href="{{ page.url }}">{{ page.title }}</a>
+        </td>
+        <td>
+          {{ page.city }}, {{ page.country }}
         </td>
         <td>
           {{ page.address }}

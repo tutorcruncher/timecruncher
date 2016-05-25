@@ -8,6 +8,8 @@ website: http://support2learn.nl
 address: Hollandsch Diep 61, 2904 Ct Capelle Aan Den Ijssel, Netherlands
 map_address: Hollandsch Diep 61, 2904 Ct Capelle Aan Den Ijssel, Netherlands
 description: Support2learn TutorCruncher Company Profile
+country: Netherlands
+city: Capelle aan den IJssel
 categories: company
 ---
 

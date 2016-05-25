@@ -10,6 +10,8 @@ website: "http://www.tutordoctorchelmsford.co.uk/"
 address: "8 Constantine Rd, Witham CM8 1HL"
 map_address: "8 Constantine Rd, Witham CM8 1HL"
 description: "TutorDoctor - Chelmsford TutorCruncher Company Profile"
+country: United Kingdom
+city: Witham
 categories: company
 ---
 Tutor Doctor was started in Toronto, in Canada in 2001 by a gentleman called John Hooi. John had been in education for a

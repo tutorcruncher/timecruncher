@@ -7,9 +7,11 @@ founded: ""
 telephone: "020 8574 2944"
 email: "info@owleducation.co.uk"
 website: "http://www.owleducation.co.uk/"
-address: "Norfolk House, 30 Charles II Street, London, SW1Y 4AE"
-map_address: "Norfolk House 30 Charles II Street London SW1Y 4AE, United Kingdom"
+address: "30 Charles II Street, London, SW1Y 4AE"
+map_address: "30 Charles II Street London SW1Y 4AE, United Kingdom"
 description: "Owl Education LTD TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -9,6 +9,8 @@ website: "http://www.theprofs.co.uk/"
 address: "Terminal House, 52 Grosvenor Gardens, London, SW1W 0AU"
 map_address: "Terminal House, 52 Grosvenor Gardens, London, SW1W 0AU"
 description: "The Profs TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 The Profs is a collective of highly qualified educators that provide personal tuition and academic mentoring to students of all ages, in all disciplines, from 11+ to PhD and professional qualifications. Our aim is to create a global knowledge sharing platform. Through our online service, our Profs are also working with students on every continent - from the US, Europe, Australia, Asia, Africa and South America.

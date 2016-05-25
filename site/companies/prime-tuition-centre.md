@@ -7,9 +7,11 @@ founded: ""
 email: "info@primetuition.co.uk"
 telephone: "020 3302 1524"
 website: "http://www.primetuition.co.uk"
-address: "10 Acre House,Brixton,London,SW2 5SG"
-map_address: "10 Acre House,Brixton,London,SW2 5SG"
+address: "10 Acre House, Brixton, London, SW2 5SG"
+map_address: "10 Acre House, Brixton, London, SW2 5SG"
 description: "Prime Tuition Centre TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Prime Tuition has been offering the highest quality tuition services to students of Primary, Secondary, Higher and A-Level Courses. The number of students has increased significantly as most of our students excel in their examinations.

@@ -10,6 +10,8 @@ website: "http://www.gabbitas.co.uk/"
 address: "Norfolk House 30 Charles II Street London SW1Y 4AE"
 map_address: "Norfolk House 30 Charles II Street London SW1Y 4AE, United Kingdom"
 description: "Gabbitas educational consultants TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Gabbitas is one of the most esteemed and respected educational consultancies in the world. Founded in 1873, they offer

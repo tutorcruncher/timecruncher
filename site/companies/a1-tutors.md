@@ -10,6 +10,8 @@ website: "http://www.privatetuition.co.uk/"
 address: "19 Annes Grove, Great Linford, Milton Keynes MK14 5DR"
 map_address: "19 Annes Grove, Great Linford, Milton Keynes MK14 5DR, United Kingdom"
 description: "A1 Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: Milton Keynes
 categories: company
 ---
 A1 Tutors provide private tuition and home schooling at all levels from Key Stage 1, 2 and 3 through GCSE (key stage 4),

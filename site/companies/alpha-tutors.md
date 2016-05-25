@@ -7,9 +7,11 @@ founded: ""
 telephone: "0844 567 1454"
 email: "info@alphatutors.co.uk"
 website: "http://www.alphatutors.co.uk/"
-address: "Alpha Tutors, 354 Cowley Road, Oxford, OX4 2AG"
-map_address: "Alpha Tutors, 354 Cowley Road, Oxford, OX4 2AG"
+address: "354 Cowley Road, Oxford, OX4 2AG"
+map_address: "354 Cowley Road, Oxford, OX4 2AG"
 description: "Alpha Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: Oxford
 categories: company
 ---
 Alpha Tutors is a leading education provider based in the UK. The Alpha Tutors Academy offers world class tutoring

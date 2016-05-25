@@ -8,8 +8,10 @@ email: info@regentlearning.com
 telephone: "020 8966 9900"
 website: "http://www.regentlearning.com"
 address: "167 Imperial Drive, Harrow, Middlesex, HA2 7HD"
-map_address: "167 Imperial Drive ,Harrow,Middlesex,HA2 7HD"
+map_address: "167 Imperial Drive, Harrow, Middlesex, HA2 7HD"
 description: " TutorCruncher Company Profile"
+country: United Kingdom
+city: Harrow
 categories: company
 ---
 Regent Learning is a tuition centre offering a range of unique supplementary education, tuition and academic programmes for all children between the ages of 3 and 18 using our bespoke and proven methodology.

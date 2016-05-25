@@ -7,9 +7,11 @@ founded: "1996"
 telephone: "(0)20 7233 9950"
 email: "info@greycoatlumleys.co.uk"
 website: "http://www.greycoatlumleys.co.uk/"
-address: "Elysium Gate Units 5 126-128 New Kings Road London SW6 4LZ"
-map_address: "Elysium Gate Units 5 126-128 New Kings Road London SW6 4LZ, United Kingdom"
+address: "126-128 New Kings Road London SW6 4LZ"
+map_address: "126-128 New Kings Road London SW6 4LZ, United Kingdom"
 description: "Greycoats Placement TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Greycoat Placements was founded in 1996 and from the very beginning the driving philosophy has always been one of

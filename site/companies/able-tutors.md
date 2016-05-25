@@ -10,6 +10,8 @@ website: "http://www.abletutors.co.uk/"
 address: "Ravenscroft Avenue, London NW11 8AU"
 map_address: "Ravenscroft Avenue, London NW11 8AU, United Kingdom"
 description: "Able Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Able Tutors provide quality private tutors in North West London - particularly covering Hendon, Golders Green, Finchley,

@@ -10,6 +10,8 @@ website: "http://www.tutora.co.uk"
 address: "52 Joshua Road, Sheffield, S7 1GY"
 map_address: "52 Joshua Road, Sheffield, S7 1GY, United Kingdom"
 description: "Tutora TutorCruncher Company Profile"
+country: United Kingdom
+city: Sheffield
 categories: company
 ---
 

@@ -9,6 +9,8 @@ website: "http://www.bonasmacfarlane.co.uk"
 address: "Bonas MacFarlane Education, Bridges Court, London"
 map_address: "Bonas MacFarlane Education, Bridges Court, London"
 description: "Bonas MacFarlane TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Bonas MacFarlane are one of London's top tutoring companies, providing a range of services from tuition, 

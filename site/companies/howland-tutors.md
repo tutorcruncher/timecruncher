@@ -7,9 +7,11 @@ founded: "1997"
 telephone: "01628 477164"
 email: "contact@howlandtutors.co.uk"
 website: "http://www.howlandtutors.co.uk/"
-address: "Howland Tutors 11 Westwood Road Marlow Bucks. SL7 2AT"
-map_address: "Howland Tutors 11 Westwood Road Marlow Bucks. SL7 2AT, United Kingdom"
+address: "11 Westwood Road Marlow Bucks. SL7 2AT"
+map_address: "11 Westwood Road Marlow Bucks. SL7 2AT, United Kingdom"
 description: "Howland Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: Marlow
 categories: company
 ---
 Howland Tutors provides access to over seventy tutors in Maths, English, History, Geography, French, German, Spanish and

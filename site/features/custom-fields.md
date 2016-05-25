@@ -1,6 +1,7 @@
 ---
 layout: features
 title: Custom Fields - TutorCruncher
+short_title: Custom Fields
 description: With TutorCruncher’s Extra Attributes, you can customise your system to record the information you need, when you need it.
 permalink: /features/custom-fields/
 ---

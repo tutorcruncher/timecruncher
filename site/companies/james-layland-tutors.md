@@ -10,6 +10,8 @@ website: "http://www.jameslaylandtutors.co.uk/"
 address: "109 Rossendale Way, London NW1 0XA"
 map_address: "109 Rossendale Way, London NW1 0XA, United Kingdom"
 description: "James Layland Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 James offers private tuition and advice about education through his company ‘James Layland Tutors’. He also runs a home

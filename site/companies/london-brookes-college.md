@@ -7,9 +7,11 @@ founded: ""
 email: info@londonbrookescollege.co.uk
 telephone: "44 (0) 208-202-2007"
 website: "http://www.londonbrookescollege.co.uk/"
-address: "42 The Burroughs,Hendon,London,NW4 4AP"
-map_address: "42 The Burroughs,Hendon,London,NW4 4AP"
+address: "42 The Burroughs, Hendon, London, NW4 4AP"
+map_address: "42 The Burroughs, Hendon, London, NW4 4AP"
 description: "London Brookes College TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 

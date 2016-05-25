@@ -5,9 +5,11 @@ title: Britcent
 telephone: 07760 663616
 email: 
 website: http://www.britcent.co.uk
-address: Britcent Ltd, Kemp House, 152 City Road London,
-map_address: Britcent Ltd, Kemp House, 152 City Road London,
+address: Kemp House, 152 City Road London,
+map_address: Kemp House, 152 City Road London,
 description: Britcent TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -7,9 +7,11 @@ founded: "2011"
 telephone: "(0) 20 7627 4535"
 email: "enquiries@owltutors.co.uk"
 website: "http://www.owltutors.co.uk/"
-address: "Maritime House, Clapham Old Town, London, SW4 0JW, United Kingdom"
-map_address: "Maritime House, Clapham Old Town, London, SW4 0JW, United Kingdom, United Kingdom"
+address: "Clapham Old Town, London, SW4 0JW, United Kingdom"
+map_address: "Clapham Old Town, London, SW4 0JW, United Kingdom, United Kingdom"
 description: "Owl Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 They represent about 100 fantastic tutors, the majority in London and a smaller number scattered across the world. They

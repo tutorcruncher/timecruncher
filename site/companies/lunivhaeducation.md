@@ -5,9 +5,11 @@ title: Lunivha Education
 telephone: 02037746984
 email: 
 website: http://lunivhaeducation.com
-address: 217b Island Business Centre 18-36 Wellington Street, Londo
-map_address: 217b Island Business Centre 18-36 Wellington Street, Londo
+address: 18-36 Wellington Street, London
+map_address: 18-36 Wellington Street, London
 description: Lunivhaeducation TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

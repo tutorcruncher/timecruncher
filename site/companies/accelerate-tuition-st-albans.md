@@ -9,6 +9,8 @@ website: "http://www.acceleratetuition.co.uk/"
 address: "Accelerate Tuition, 5 Dorcas Court, Old London Road, St. Albans, Hertfordshire, AL1 1PW"
 map_address: "Accelerate Tuition, 5 Dorcas Court, Old London Road, St. Albans, Hertfordshire, AL1 1PW, United Kingdom"
 description: "Accelerate Tuition TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 

@@ -9,6 +9,8 @@ website: "http://www.spanishandcoffee.co.uk"
 address: "94 West Hill, Putney, London, SW15 2YB"
 map_address: "94 West Hill, Putney, London, SW15 2YB"
 description: "Spanish and Coffee TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Spanish and Coffee is based in London and consists of a small team of carefully selected native Spanish tutors from Spain and Latin America. All tutors are highly qualified, very experienced, and share a passion for making classes as fun, engaging and personalised as possible.

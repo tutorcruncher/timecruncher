@@ -8,6 +8,8 @@ website: https://intuitioneducation.com.au
 address: 37-41 Oxford St Epping 2121
 map_address: 37-41 Oxford St Epping 2121
 description: Intuition Educational Support TutorCruncher Company Profile
+country: Australia
+city: Epping
 categories: company
 ---
 

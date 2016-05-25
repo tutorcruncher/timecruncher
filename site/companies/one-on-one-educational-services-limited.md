@@ -5,9 +5,11 @@ title: One On One Educational Services Limited
 telephone: 876 946-2275
 email: 
 website: https://www.getmylocker.com
-address: Unit 5, 22 Trafalgar Road Kingston 10 Jamaica, West Indies
-map_address: Unit 5, 22 Trafalgar Road Kingston 10 Jamaica, West Indies
+address: 22 Trafalgar Road Kingston 10 Jamaica, West Indies
+map_address: 22 Trafalgar Road Kingston 10 Jamaica, West Indies
 description: One On One Educational Services Limited TutorCruncher Company Profile
+country: Jamaica
+city: Kingston
 categories: company
 ---
 

@@ -8,6 +8,8 @@ website: http://www.tutor-place.com
 address: London
 map_address: London
 description: Tutor Place TutorCruncher Company Profile
+country: United Kingdom
+city: London
 categories: company
 ---
 

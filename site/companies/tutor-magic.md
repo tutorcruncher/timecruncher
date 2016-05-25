@@ -8,6 +8,8 @@ website: http://tutor-magic.co.uk
 address: Hampton In Arden, Solihull
 map_address: Hampton In Arden, Solihull
 description: Tutor Magic TutorCruncher Company Profile
+country: United Kingdom
+city: Solihull
 categories: company
 ---
 

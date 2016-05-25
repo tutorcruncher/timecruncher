@@ -10,6 +10,8 @@ website: "http://www.charltondhew.com/"
 address: "43 – 45 Portman Square London W1H 6HN"
 map_address: "43 – 45 Portman Square London W1H 6HN, United Kingdom"
 description: "Charlton Dhew TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Charlton Dhew offer the true Private Tutoring experience for every level  – a targeted, uniquely designed academic

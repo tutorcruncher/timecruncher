@@ -1,6 +1,7 @@
 ---
 layout: features
 title: Tutor-Student Matching - TutorCruncher
+short_title: Tutor-Student Matching
 description: Finding the perfect tutor for a client and student's need is a hugely important part of running an effective tutoring agency, so we've made it easy for you.
 permalink: /features/tutor-student-matching/
 ---

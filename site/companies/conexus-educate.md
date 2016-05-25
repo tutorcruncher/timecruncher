@@ -5,9 +5,11 @@ title: Conexus Educate
 telephone: +353 89 4834684
 email: info@conexuseducate.com
 website: http://www.conexuseducate.com
-address: Connolly Centre, 297 Beechwood Court, Stillorgan, Located Opposite The Setanta School.
-map_address: Connolly Centre, 297 Beechwood Court, Stillorgan, Located Opposite The Setanta School.
+address: Connolly Centre, 297 Beechwood Court, Stillorgan
+map_address: Connolly Centre, 297 Beechwood Court, Stillorgan
 description: Conexus Educate TutorCruncher Company Profile
+country: Ireland
+city: Dublin
 categories: company
 ---
 

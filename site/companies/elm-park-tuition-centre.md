@@ -10,6 +10,8 @@ website: "http://www.elmparktuitioncentre.co.uk/"
 address: "Hornchurch, Greater London RM12 4RS"
 map_address: "Hornchurch, Greater London RM12 4RS, United Kingdom"
 description: "Elm Park Tuition Centre TutorCruncher Company Profile"
+country: United Kingdom
+city: Greater London
 categories: company
 ---
 They offer classes in Mathematics, Science and English for children aged 5 to 18. Children are first assessed to

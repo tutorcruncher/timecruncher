@@ -10,6 +10,8 @@ website: "http://www.desilvatutors.co.uk/"
 address: "6 Rotherwood Road London SW15 1JZ"
 map_address: "6 Rotherwood Road London SW15 1JZ, United Kingdom"
 description: "De Silva Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 De Silva Tutors introduce the highest level tutors for a range of ages and across a broad spectrum of subjects. They can

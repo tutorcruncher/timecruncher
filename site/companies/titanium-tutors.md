@@ -10,6 +10,8 @@ website: "http://www.titaniumtutors.co.uk/"
 address: "37 Newton Court, Kingsley Walk, Cambridge, CB5 8TH"
 map_address: "37 Newton Court, Kingsley Walk, Cambridge, CB5 8TH, United Kingdom"
 description: "Titanium Tutors TutorCruncher Company Profile"
+country: United Kingdom
+city: Cambridge
 categories: company
 ---
 Run by a qualified teacher, Titanium Tutors works with over 700 inspirational private tutors across the UK.

@@ -5,9 +5,11 @@ title: Elite Educational Institute
 telephone: 
 email: answers@eliteprep.com
 website: http://www.eliteprep.com
-address: Elite Educational Institute Usa • 1210 Roosevelt • Irvine, Ca
-map_address: Elite Educational Institute Usa • 1210 Roosevelt • Irvine, Ca
+address: Elite Educational Institute USA, 1210 Roosevelt, Irvine, CA
+map_address: Elite Educational Institute USA, 1210 Roosevelt, Irvine, CA
 description: Elite Educational Institute TutorCruncher Company Profile
+country: United States
+city: California
 categories: company
 ---
 

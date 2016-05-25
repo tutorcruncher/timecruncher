@@ -10,6 +10,8 @@ website: "http://brightyoungthings.co.uk/"
 address: 8A Lower Grosvenor Place, London, SW11 2LW"
 map_address: "8A Lower Grosvenor Place, London, SW11 2LW"
 description: "Bright Young Things TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 At Bright Young Things the philosophy of inquisitive mind is being followed to help students get beyond beaten paths and apply their curiosity to the outside world. All tutors at the Tuition Centre manifest that philosophy and teaching methods, both of which have been developed over years of ‘on the ground’ experience, listening to parents, children and educators alike.

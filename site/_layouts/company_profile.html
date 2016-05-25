@@ -45,6 +45,12 @@ layout: page
             {{ page.address }}
           </address>
         </dd>
+        {% if page.city != null %}
+        <dt>City</dt>
+        <dd>
+          {{ page.city }}
+        </dd>
+        {% endif %}
       </dl>
       {% if page.map_address != null %}
       <div class="map-container">

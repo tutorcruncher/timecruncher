@@ -7,9 +7,11 @@ founded: "2012"
 telephone: "0208 741 0122"
 email: "info@torchlight-tuition.co.uk"
 website: "http://www.torchlight-tuition.co.uk/"
-address: "Studio 4, The Mews Barnes 46-52 Church Rd London SW13 0DQ"
-map_address: "Studio 4, The Mews Barnes 46-52 Church Rd London SW13 0DQ, United Kingdom"
+address: "The Mews Barnes 46-52 Church Rd London SW13 0DQ"
+map_address: "The Mews Barnes 46-52 Church Rd London SW13 0DQ, United Kingdom"
 description: "Torch Light Tuition TutorCruncher Company Profile"
+country: United Kingdom
+city: London
 categories: company
 ---
 Torchlight Tuition was set up and is run entirely by one person. This means a guaranteed personal and professional
