@@ -1,0 +1,16 @@
+$main-colour: #016997;
+$dark: #222;
+
+@mixin transition-all() {
+  -webkit-transition: all 0.65s;
+  -moz-transition: all 0.65s;
+  transition: all 0.65s;
+}
+
+@mixin background-cover()
+{
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}

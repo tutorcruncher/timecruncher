@@ -1,10 +1,12 @@
 language: ruby
+cache: bundler
 rvm:
 - 2.1
 script:
-- bundle exec jekyll build
-- bundle exec htmlproofer _site --check-html --disable-external --checks-to-ignore
-  ImageCheck,LinkCheck
+  - bundle exec jekyll --version
+  - ls -lah
+  - bundle exec jekyll build
+  - bundle exec htmlproofer _site --check-html --disable-external --checks-to-ignore ImageCheck,LinkCheck
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
