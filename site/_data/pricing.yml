@@ -13,6 +13,7 @@
     amount: 50
     amount_pas: 1.45
   price_short: 35
+  cap: 50
   highlight: False
   icon: fa-motorcycle
   desc: This tier is great for younger or smaller companies who deal with up to 20 clients per month.
@@ -42,6 +43,7 @@
     currency: $
     amount: 145
     amount_pas: 1.45
+  cap: 100
   highlight: True
   icon: fa-car
   desc: Perfect for medium and larger companies who want the further personalisation offered by TutorCruncher.

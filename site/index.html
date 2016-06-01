@@ -5,6 +5,7 @@
   <head>
     {% include head.html %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video-js.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.static }}/css/rangeslider.css" type="text/css">
     <link rel="stylesheet" href="{{ site.static }}/css/index-v1.css" type="text/css">
   </head>
   <body id="page-top">
@@ -15,9 +16,16 @@
     {% include front/signup.html %}
     {% include front/highlights.html %}
     {% include front/video.html %}
-    {% include front/pricing.html %}
+    {% include front/pricing_calc.html %}
 
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.1.1/rangeslider.js"></script>
+    <script>
+      var basic = {{ site.data.pricing[0] | jsonify }};
+      var premium = {{ site.data.pricing[1] | jsonify }};
+    </script>
+    <script src="{{ site.static }}/js/price_calculator.js"></script>
     {% include footer.html %}
   </body>
 </html>
