@@ -1,0 +1,75 @@
+<section id="pricing-calc">
+  <div class="container">
+    <h2 class="text-center">Savings Calculator</h2>
+    <p class="text-center">
+      Savings are based on data from companies currently using one of our paying packages.
+    </p>
+    <hr>
+    <div class="row padding-bottom-20">
+      <div class="col-md-3 slider-label">
+        <p>Number of active students</p>
+        <p class="text-muted">How many students have lessons per month?</p>
+      </div>
+      <div class="col-md-6">
+        <input id="num-students" max="250" value="40" type="range"/>
+      </div>
+      <div class="col-md-3 pull-left">
+        <span class="font-24" id="num-students-val"></span>
+      </div>
+    </div>
+    <div class="row padding-bottom-20">
+      <div class="col-md-3 slider-label">
+        <p>How much is your time worth?</p>
+        <p class="text-muted">Or how much does it cost for one of your admins?</p></div>
+      <div class="col-md-6">
+        <input id="hourly-rate" max="50" value="20" type="range"/>
+      </div>
+      <div class="col-md-3 pull-left">
+        <span class="font-24" id="hourly-rate-val"></span> per hour
+      </div>
+    </div>
+
+    <div class="row text-center">
+      <div class="col-md-6 col-md-push-3">
+        <span class="font-24" id="time-saved"></span>
+        <p>of administration saved per month</p>
+      </div>
+    </div>
+
+    <div class="row text-center padding-bottom-20">
+      <div class="col-md-6 col-md-push-3">
+        <div id="price-calculation">
+          <div>
+            <span class="font-24" id="admin-money-saved"></span>
+            <p class="saving-detail">saved in administration per month</p>
+          </div>
+          <div><p class="font-24">-</p></div>
+          <div>
+            <span class="font-24" id="tc-price"></span>
+            <p class="saving-detail">per month for TutorCruncher</p>
+          </div>
+          <div><p class="font-24">=</p></div>
+          <div>
+            <span class="font-24" id="final-price"></span>
+            <p class="saving-detail">total savings per month</p>
+          </div>
+        </div>
+        <div id="contact-us-message">
+          <a class="font-24" href="/contact/">Contact us to discuss pricing</a>
+        </div>
+      </div>
+    </div>
+    <p class="text-center">
+      These calculations are approximations of how much money you could save by using TutorCruncher but may vary from business to business.
+    </p>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <hr class="primary">
+        <h4 class="caption-spacing">
+          Learn more on our pricing page.
+        </h4>
+        <a href="/pricing/" class="btn btn-primary btn-xl page-scroll">Pricing Details</a>
+      </div>
+    </div>
+  </div>
+</section>

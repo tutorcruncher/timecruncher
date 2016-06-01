@@ -7,7 +7,6 @@ source: site
 static: https://cdn1.tutorcruncher.com
 exclude:
   - _posts/2000-01-01-blog-post-template.md
-static: https://cdn1.tutorcruncher.com
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
