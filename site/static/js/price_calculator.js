@@ -21,7 +21,7 @@ $(document).ready(function() {
     if (num_students < basic_cap) {
       return (usage_fee + basic_amount).toFixed(0);
     }
-    else if (num_students > basic_cap) {
+    else if (num_students >= basic_cap) {
        return (usage_fee + premium_amount).toFixed(0);
     }
   }
