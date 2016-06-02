@@ -42,7 +42,7 @@ in wasting money trying to bring in customers who are not interested in your pro
 Take a look at one our blog post [5 Essential Business Marketing Ideas](/5-essential-business-marketing-ideas/) for our
  best ideas on marketing.
 
-#### **5. How we manage and spend our time?**
+#### **4. How we manage and spend our time?**
 
 Good planning is vital. You need to deliver your product efficiently and effectively; your customers are satisfied and you
  will be able to reach your business goals. 
@@ -54,4 +54,4 @@ Good planning is vital. You need to deliver your product efficiently and effecti
 want to pay, or end up spending time and money on customers who take up a lot of your time while giving very little back in return, or waste 
 time dealing with antiquated software systems that take more time than if you were using paper!
 
-Part 2 will follow next week.
+Read part 2 [here](/how-to-create-a-business-plan-part-2/).
