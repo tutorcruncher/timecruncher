@@ -14,15 +14,13 @@ streamlines the whole business of running a tutoring agency, which frees up
 your time to focus on building your client-base and increasing the number of
 billable hours you can charge for.
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
-</div>
+<img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" class="lightboximage" alt-text="TutorCruncher Graph"/>
+
 
 ### Find Key Information Quicker
 
-With TutorCruncher’s [ data
-reporting tool for tutors ](http://www.tutorcruncher.com/features/records-and-
-analytics/) , you can access any element of your data instantly. Our software
+With TutorCruncher’s [data reporting tool for tutors](/features/analytics/), 
+you can access any element of your data instantly. Our software
 enables tutoring businesses to generate graphical reports, so you can keep a
 constant eye on your business growth. Having this key information to hand
 whenever you need it allows you to make better business decisions and helps
@@ -38,7 +36,7 @@ student and tutor records and lesson transactions all at the click of a mouse.
 If you’re still
 sending individual emails to parents every time student reports come around,
 you need to change your strategy. With our 
-[automated email system for tutoring companies](http://www.tutorcruncher.com/features/automated-emails/)
+[automated email system for tutoring companies](/features/automated-emails/)
 , you can send feedback to parents automatically when the time comes. All you
 need to do is have the email pre-prepared for sending whenever you want. Our
 system enables you to save and update emails as you go, so that you don’t need
@@ -51,7 +49,7 @@ Sending Student and Parent Invoices ** One of the most time-consuming tasks
 that a tutoring business faces is invoicing. Not just sending them but chasing
 up unpaid ones too. With TutorCruncher, our software enables you to
 automatically 
-[generate invoices and payslips](http://www.tutorcruncher.com/features/automated-invoicing-payroll/) 
+[generate invoices and payslips](/features/accounting/) 
 whenever you need to. Hours are logged automatically into our invoices, which means
 that you can save hours transferring data from timesheets over to your
 invoices. Our system also allows you to add your own company branding to your
@@ -62,7 +60,7 @@ invoices.
 Who says that you
 should wait until you reach the office before you start taking care of your
 admin? With the 
-[TutorCruncher Mobile App](http://www.tutorcruncher.com/features/mobile-app/),
+[TutorCruncher Mobile App](/features/cloud-software/),
 you can access any of
 the features of our software on the go. We’ve built our scheduling software so
 that everything is fully cloud-based and works on all platforms including

@@ -6,11 +6,10 @@ author: Jeevan Singh
 ---
 The great thing about the tuition industry is it's really easy to break into.
 You don't need to have any experience and you don't need to pass any teaching
-qualifications. You can virtually [ set up a tutoring business overnight
-](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
-business/) . This is exactly what I did and I'm now regarded (in my humble
-opinion) as a top tutor in my local area - Hillingdon, West London. Here is
-how you can do the same: 
+qualifications. You can virtually 
+[set up a tutoring business overnight](/launch-a-tutoring-business/). 
+This is exactly what I did and I'm now regarded (in my humble opinion) as a top tutor in my local area - Hillingdon, West London. 
+Here is how you can do the same: 
 
 ### What level to teach?
 
@@ -31,13 +30,13 @@ As you can see, GCSE is the most popular level. This means if you want to get
 a good return from your tutoring business, you must offer GCSE tuition. If you
 don't, you're missing out on a lion's share of the market. Although these
 statistics are taken from West London, you should expect similar results
-across all parts of the UK. Tools like TutorCruncher can provide useful
-insights and analytics into your business performance and guide your marketing
+across all parts of the UK. Tools like [TutorCruncher](https://tutorcruncher.com/) 
+can provide useful insights and [analytics](/features/analytics/) 
+into your business performance and guide your marketing
 efforts:
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" alt-text="TutorCruncher Graph"/>
-</div>
+<img src="{{ site.static}}/img/blogs/tutorcruncher-graph.jpg" class="lightboximage" alt-text="TutorCruncher Graph"/>
+
 
 A screenshot from the TutorCruncher Dashboard ** What subject to
 teach? ** There is no point offering GCSE tuition if you're not going to offer
@@ -65,9 +64,7 @@ that there are other family members around, it should give them peace of mind.
 If you're travelling to a student’s home, charge travel expenses. A good rule
 of thumb is £1 per mile.
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/TutorCruncher-Workspace-1024x688.png" alt-text="TutorCruncher Workspace"/>
-</div>
+<img src="{{ site.static}}/img/blogs/TutorCruncher-Workspace-1024x688.png" class="lightboximage"  alt-text="TutorCruncher Workspace"/>
 
 ### Equipment
 
@@ -77,7 +74,7 @@ may still have some lying around the house (from your studying days). If not,
 pick them up from your local WHSmith. Choose a textbook which has plenty of
 exercises. You can use the chapters in the book to structure your lessons
 going forward. For thousands of 
-[other free resources](http://www.tutorcruncher.com/modernising-tutoring-business-operations/), 
+[other free resources](/modernising-tutoring-business-operations/), 
 I would highly recommend [www.tes.co.uk](http://www.tes.co.uk) . 
 
 ### Contact

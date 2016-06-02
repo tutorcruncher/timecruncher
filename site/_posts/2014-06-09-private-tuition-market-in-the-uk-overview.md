@@ -8,7 +8,8 @@ According to a survey conducted by
 the private tuition market in the
 UK reached a value of £6 billion last year. The research found that more than
 a quarter of UK families are willing to spend up to £2,758 per year per child.
-Despite the average cost per hour, which is raised to £22, parents are ready
+Despite the average [cost](/features/card-payments/) 
+per hour, which is raised to £22, parents are ready
 to invest in their children's education, in order to secure them a better
 career in the future.
 

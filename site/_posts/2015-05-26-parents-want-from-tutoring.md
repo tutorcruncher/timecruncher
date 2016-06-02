@@ -4,11 +4,11 @@ title:  "What do Parents Want from a Tutoring Company?"
 permalink: parents-want-from-tutoring/
 author: TutorCruncher
 ---
-Every student has different needs and every parent uses the [services of a
-tutoring company](http://www.tutorcruncher.com/) for different reasons.
+Every student has different needs and every parent uses the [services of a tutoring company](http://www.tutorcruncher.com/) 
+for different reasons.
 However, there are some constants that parents expect as standard from a
 tutoring business. This post explores what parents want from private tutoring
-and how companies can meet those expectations. 
+and how companies can meet those expectations.
 
 ### Regular Contact
 
@@ -21,17 +21,16 @@ business’s routine will ensure that all parents are kept up to date with how
 lessons are going and it gives them the opportunity to ask any questions about
 their child’s progress.
 
-<div class="img-holder">
-   <img src="{{ site.static}}/img/blogs/IMG_9214-300x300.jpg" alt-text="Well Trained Tutors"/>
-</div>
+
+<img src="{{ site.static}}/img/blogs/IMG_9214-300x300.jpg" class="lightboximage" alt-text="Well Trained Tutors"/>
+
 
 ### Well-Trained Tutors
 
 Parents who use tutoring companies expect the tutors to be suitably qualified,
 have an up-to-date DBS certificate and to have undergone some form of
 training. Although most tutors who work for agencies will already have
-relevant [ tutoring experience ](http://www.tutorcruncher.com/interview-
-tutors-for-tutoring-company/) , as a tutoring business, it’s important that
+relevant [tutoring experience](/interview-tutors-for-tutoring-company/), as a tutoring business, it’s important that
 you continue to invest in your tutors after their initial recruitment. Every
 tutor can improve some aspect of their teaching and by providing regular
 training opportunities, you’ll ensure that your tutors stay ahead of the game
@@ -40,7 +39,7 @@ and offer the best possible service to students.
 ### Good Customer Service
 
 This should come as standard but one thing that all parents expect from a
-tutoring company is [good customer service](http://www.tutorcruncher.com/tutoring-business-customer-service/) . 
+tutoring company is [good customer service](/tutoring-business-customer-service/). 
 This
 means having staff on hand in your office, who can speak with parents and
 provide useful information. Businesses should also have someone to cover
@@ -52,9 +51,9 @@ your tutors to adopt the same procedures as your other staff. It’s important
 that your business has a documented customer service policy that can be shared
 throughout your organisation to maintain a high standard of service.
 
-<div class="img-holder">
-   <img src="{{ site.static}}/img/blogs/IMG_8904-300x300.jpg" alt-text="Student Improving"/>
-</div>
+
+<img src="{{ site.static}}/img/blogs/IMG_8904-300x300.jpg" class="lightboximage" alt-text="Student Improving"/>
+
 
 ### To see Students Improve
 

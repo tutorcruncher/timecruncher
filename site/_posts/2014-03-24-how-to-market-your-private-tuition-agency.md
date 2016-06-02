@@ -5,11 +5,9 @@ permalink: how-to-market-your-private-tuition-agency/
 ---
 As with any business, once you have all the legalities in place, the next step
 is to market your private tuition agency to your prospective customers. In the
-world of tuition, this means focusing on two different types of audience.
-Firstly, you need to find suitable tutors to register with your agency and
-secondly, you need to find students who are looking to use the services that
-your agency provides. This particular post will focus on marketing your agency
-by traditional and online methods.
+world of tuition, this means focusing on two different [types of audience](/features/tutor-student-matching/).
+Firstly, you need to find suitable tutors to [register](/features/tutor-client-student-profiles/) 
+with your agency and secondly, you need to find students who are looking to use the services that your agency provides. This particular post will focus on marketing your agency by traditional and online methods.
 
 ### Traditional Marketing
 
@@ -17,4 +15,5 @@ Unless your agency is exclusively online, you’ll want to spread the word about
 
 ### Online Marketing
 
-Consider what keywords people will use when searching for your tuition services online. If your tuition agency operates within a specific local area, then make sure you include these place names in your SEO efforts. Paying particular attention to page headlines, meta descriptions and tags can also give your website an edge in search engine rankings. These days, however, the most important element of your online marketing is content. Having a website with useful blog posts will greatly increase your chances of being found online. If your website doesn't already have a blog, it really should. By writing informative content that adds value to both tutors and students, search engines will rank your website more favourably. And the more often you post on your blog, the more often your pages will be indexed, increasing the momentum in which your website passes through the rankings. What are your experiences of marketing a tuition agency? Do you use any of the methods mentioned above? Perhaps you have a unique way of attracting business that you could share below? We’d love to hear your thoughts.
+Consider what keywords people will use when searching for your tuition services online. If your tuition agency operates within a specific local area, then make sure you include these place names in your SEO efforts. Paying particular attention to page headlines, meta descriptions and tags can also give your website an edge in search engine rankings. These days, however, the most important element of your online marketing is content. Having a website with[useful blog posts](/tuition-blog/) 
+will greatly increase your chances of being found online. If your website doesn't already have a blog, it really should. By writing informative content that adds value to both tutors and students, search engines will rank your website more favourably. And the more often you post on your blog, the more often your pages will be indexed, increasing the momentum in which your website passes through the rankings. What are your experiences of marketing a tuition agency? Do you use any of the methods mentioned above? Perhaps you have a unique way of attracting business that you could share below? We’d love to hear your thoughts.
