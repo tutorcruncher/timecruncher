@@ -1,13 +1,13 @@
 ---
 layout: company_profile
-permalink: /companies/clever-tutors.com/
+permalink: /companies/clever-tutors/
 title: Clever Tutors.com
 telephone: 0114 209 6006
 email: 
 website: http://www.clevertutors.com
 address: The Portergate, Ecclesall Rd, Sheffield S11 8NX
 map_address: The Portergate, Ecclesall Rd, Sheffield S11 8NX
-description: Clever Tutors.com TutorCruncher Company Profile
+description: Clever Tutors TutorCruncher Company Profile
 country: United Kingdom
 city: Sheffield
 categories: company

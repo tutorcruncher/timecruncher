@@ -7,8 +7,8 @@ founded: ""
 telephone: "0207 723 0506"
 email: "info@brightyoungthings.co.uk"
 website: "http://brightyoungthings.co.uk/"
-address: 8A Lower Grosvenor Place, London, SW11 2LW"
-map_address: "8A Lower Grosvenor Place, London, SW11 2LW"
+address: "8A Lower Grosvenor Place, London, SW1W 0EN"
+map_address: "8A Lower Grosvenor Place, London, SW1W 0EN"
 description: "Bright Young Things TutorCruncher Company Profile"
 country: United Kingdom
 city: London

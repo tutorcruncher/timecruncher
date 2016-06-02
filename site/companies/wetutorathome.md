@@ -5,8 +5,8 @@ title: Wetutorathome
 telephone: (310)400-6544
 email: info@wetutorathome.com
 website: http://wetutorathome.com/
-address: 9207 Eton Avenue ,chatsworth, CA 91311
-map_address: 9207 Eton Avenue ,chatsworth, CA 91311
+address: 9207 Eton Avenue, Chatsworth, CA 91311
+map_address: 9207 Eton Avenue, Chatsworth, CA 91311
 description: Wetutorathome TutorCruncher Company Profile
 country: United States
 city: California
