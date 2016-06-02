@@ -30,7 +30,7 @@ Expanding means more demand for your product, so you may need to change the prod
 - Work with other companies so that both of you get to a strong position.
 - Buy an company that helps you improve your business
 
-<img src="{{ site.static }}/img/blogs/TutorCruncher-calculator.jpg" class="lightboximage" alt-text="Create a business plan after reading this blog post."/>
+<img src="{{ site.static }}/img/blogs/business-plan-calculator.jpg" class="lightboximage" alt-text="Create a business plan after reading this blog post."/>
 
 #### **7. How can we increase our profit margins in our existing or new clientele?**
 Most of the people who think about starting a business start with the [financial](/features/accounting/) 
