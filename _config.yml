@@ -9,4 +9,4 @@ exclude:
   - _posts/2000-01-01-blog-post-template.md
 gems:
   - jekyll-redirect-from
-  - jekyll-sitem
+  - jekyll-sitemap
