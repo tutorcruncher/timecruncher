@@ -2,7 +2,7 @@
 layout: features
 title: Card Payments - TutorCruncher
 short_title: Card Payments
-description: Take payments quickly and easily with our integrated card payment service; usable by clients and admins.
+description: Take payments quickly and easily with our integrated card payment service, usable by clients and admins.
 permalink: /features/card-payments/
 redirect_from: /credit-card-payments/
 ---
