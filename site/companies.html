@@ -16,15 +16,11 @@ redirect_from:
 </i>
 <table class="table table-hover">
   <thead>
-    <th>
-      Name
-    </th>
-    <th>
-      City
-    </th>
-    <th>
-      Address
-    </th>
+    <tr>
+      <th>Name</th>
+      <th>City</th>
+      <th class="hidden-xs">Address</th>
+    </tr>
   </thead>
   <tbody>
     {% for page in site.pages %}
@@ -36,7 +32,7 @@ redirect_from:
         <td>
           {{ page.city }}, {{ page.country }}
         </td>
-        <td>
+        <td class="hidden-xs">
           {{ page.address }}
         </td>
       </tr>
