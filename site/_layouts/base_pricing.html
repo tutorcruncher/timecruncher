@@ -7,7 +7,38 @@
   <body id="page-top">
     {% include ga.html %}
     {% include nav.html %}
-    {{ content }}
+
+    <div class="container main">
+      <article>
+        <header>
+          <h1 class="text-center">{{ page.short_title }}</h1>
+        </header>
+        <div class="row">
+          {% for feature in site.data.pricing_features %}
+            {% include mixins/feature_block.html feature=feature %}
+          {% endfor %}
+        </div>
+      </article>
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+          <a href="https://secure.tutorcruncher.com/start/1/" class="btn btn-primary btn-xl">Sign up now for free</a>
+        </div>
+      </div>
+      <hr class="primary">
+      <h4 class="text-center">Every tier comes with a 14 day free trial!</h4>
+
+      <section id="pricing-table">
+        {{ content }}
+      </section>
+
+      <section id="extras">
+        <div class="text-center">
+          <p class="text-muted">Prices exclude UK VAT.</p>
+          <p class="text-muted"><sup>[1]</sup>Fair usage policy applies.</p>
+          <p class="text-muted"><sup>[2]</sup>See our support packages for more details.</p>
+        </div>
+      </section>
+    </div>
     {% include footer.html %}
   </body>
 </html>
