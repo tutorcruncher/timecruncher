@@ -1,0 +1,12 @@
+base_price_gb:
+  - £0
+  - £40
+  - From £200
+base_price_eu:
+  - €0
+  - €50
+  - From €250
+base_price_us:
+  - $0
+  - $55
+  - From $285

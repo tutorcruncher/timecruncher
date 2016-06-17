@@ -331,18 +331,42 @@ section#pricing-table {
   .table {
     text-align: center;
     font-size: 13px;
+    border-collapse: collapse;
+    border: none;
 
-    .feature-name {
-      text-align: left;
+    .table-head {
+      th {
+        text-align: center;
+      }
     }
+
     td {
       padding: 10px;
     }
-    th {
-      text-align: center;
-    }
     .fa {
       color: green;
+      font-size: 18px;
+    }
+
+    .feature-name {
+      text-align: left;
+      font-size: 14px;
+    }
+    .monthly-price {
+      font-weight: bold;
+    }
+    .online-payments {
+      font-weight: bold;
+      font-size: 16px;
+    }
+    .text-muted {
+      font-weight: normal;
+    }
+
+    .table-message {
+      padding: 15px;
+      font-weight: normal;
+      font-size: 16px;
     }
   }
 }

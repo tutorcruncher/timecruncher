@@ -1,0 +1,53 @@
+<div>
+  <table class="table table-responsive table-hover">
+    <thead>
+      <tr class="table-head">
+        <th class="col-md-3 table-message">We are friendly people, so get in contact to work out the best deal for your company!</th>
+        {% for i in (0..2) %}
+          <th class="col-md-3">
+            <p class="font-24">{{ site.data.tiers[i].name }}</p>
+            <p class="text-muted">{{ site.data.tiers[i].desc }}</p>
+          </th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="monthly-prices">
+        <td class="feature-name">Monthly Price</td>
+        {% for i in (0..2) %}
+          <td class="monthly-price font-20">{{ include.prices[i] }}</td>
+        {% endfor %}
+      </tr>
+      <tr>
+        <td class="feature-name">Online Payments</td>
+        {% for i in (0..2) %}
+          <td class="online-payments">{{ site.data.tiers[i].electric_revenue_percentage }}</td>
+        {% endfor %}
+      </tr>
+      <tr>
+        <td class="feature-name">External Gateway Payments</td>
+        {% for i in (0..2) %}
+          <td class="online-payments">{{ site.data.tiers[i].revenue_percentage }}</td>
+        {% endfor %}
+      </tr>
+      {% for feature in site.data.core_features %}
+        <tr>
+          <td class="feature-name">
+            {{ feature.name }}
+          </td>
+          {% for i in (0..2) %}
+            <td>
+              {% if feature.access == 'All' or feature.access[i] == true %}
+                <i class="fa fa-1x fa-check text-primary"></i>
+              {% elsif feature.access[i] %}
+                {{ feature.access[i] }}
+              {% else %}
+                &mdash;
+              {% endif %}
+            </td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

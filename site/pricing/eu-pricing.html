@@ -7,8 +7,6 @@ permalink: /eu/pricing/
 ---
 <div class="row">
   <section id="pricing-table">
-    {% for tier in site.data.pricing %}
-      {% include mixins/price_table.html tier=tier price=tier.base_price.price_eu %}
-    {% endfor %}
+    {% include mixins/price_table.html prices=site.data.international_pricing.base_price_eu %}
   </section>
 </div>
