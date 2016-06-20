@@ -41,11 +41,14 @@
   name: Customisable themed styling with editable CSS and HTML templates
   access: All
 -
-  name: One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
-  access: All
--
   name: API Access
   access: All
+-
+  name: One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
+  access:
+    -
+    - true
+    - true
 -
   name: Manage different branches
   access:
