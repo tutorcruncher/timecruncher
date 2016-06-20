@@ -6,7 +6,7 @@
     {% include head.html %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video-js.css" type="text/css">
     <link rel="stylesheet" href="{{ site.static }}/css/rangeslider.css" type="text/css">
-    <link rel="stylesheet" href="{{ site.static }}/css/index.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.static }}/css/index-v1.css" type="text/css">
   </head>
   <body id="page-top">
     {% include ga.html %}
@@ -26,7 +26,7 @@
       var startup = {{ site.data.tiers[1] | jsonify }};
       var base_price_us = {{ site.data.international_pricing.base_price_us | jsonify }};
     </script>
-    <script src="{{ site.static }}/js/price_calculator.js"></script>
+    <script src="{{ site.static }}/js/price_calculator_new.js"></script>
     {% include footer.html %}
   </body>
 </html>
