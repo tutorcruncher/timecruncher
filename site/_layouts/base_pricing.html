@@ -6,7 +6,7 @@ layout: base
     <header>
       <h1 class="text-center">{{ page.short_title }}</h1>
     </header>
-    <div class="row">
+    <div class="row top-padding-20">
       {% for feature in site.data.pricing_features %}
         {% include mixins/feature_block.html feature=feature %}
       {% endfor %}

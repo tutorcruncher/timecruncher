@@ -1,18 +1,23 @@
 <div>
+  <div class="row text-center" id="pricing-buttons">
+    <input type="button" class="btn btn-primary" id="show-payg" value="Pay as you go"</input>
+    <input type="button" class="btn btn-primary active" id="show-startup" value="Startup"</input>
+    <input type="button" class="btn btn-primary" id="show-enterprise" value="Enterprise"</input>
+  </div>
   <table class="table table-responsive table-hover">
     <thead>
       <tr class="table-head">
         <th class="col-md-3 table-message">We are friendly people, so get in contact to work out the best deal for your company!</th>
         {% for i in (0..2) %}
           <th class="col-md-3">
-            <p class="font-24">{{ site.data.tiers[i].name }}</p>
+            <p class="tier-name">{{ site.data.tiers[i].name }}</p>
             <p class="text-muted">{{ site.data.tiers[i].desc }}</p>
           </th>
         {% endfor %}
       </tr>
     </thead>
     <tbody>
-      <tr class="monthly-prices">
+      <tr>
         <td class="feature-name">Monthly Price</td>
         {% for i in (0..2) %}
           <td class="monthly-price font-20">{{ include.prices[i] }}</td>
@@ -38,7 +43,7 @@
           {% for i in (0..2) %}
             <td>
               {% if feature.access == 'All' or feature.access[i] == true %}
-                <i class="fa fa-1x fa-check text-primary"></i>
+                <i class="fa fa-check text-primary"></i>
               {% elsif feature.access[i] %}
                 {{ feature.access[i] }}
               {% else %}
@@ -51,3 +56,30 @@
     </tbody>
   </table>
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>
+$('#show-payg').on('click', function(event) {
+  $('tr th:nth-child(2), tr td:nth-child(2)').show();
+  $('tr th:nth-child(3), tr td:nth-child(3)').hide();
+  $('tr th:nth-child(4), tr td:nth-child(4)').hide();
+  $(this).addClass('active');
+  $('#show-startup').removeClass('active');
+  $('#show-enterprise').removeClass('active');
+});
+$('#show-startup').on('click', function(event) {
+  $('tr th:nth-child(2), tr td:nth-child(2)').hide();
+  $('tr th:nth-child(3), tr td:nth-child(3)').show();
+  $('tr th:nth-child(4), tr td:nth-child(4)').hide();
+  $('#show-payg').removeClass('active');
+  $(this).addClass('active');
+  $('#show-enterprise').removeClass('active');
+});
+$('#show-enterprise').on('click', function(event) {
+  $('tr th:nth-child(2), tr td:nth-child(2)').hide();
+  $('tr th:nth-child(3), tr td:nth-child(3)').hide();
+  $('tr th:nth-child(4), tr td:nth-child(4)').show();
+  $('#show-payg').removeClass('active');
+  $('#show-startup').removeClass('active');
+  $(this).addClass('active');
+});
+</script>
