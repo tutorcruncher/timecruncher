@@ -22,8 +22,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.10.1/video.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.1.1/rangeslider.js"></script>
     <script>
-      var basic = {{ site.data.pricing[0] | jsonify }};
-      var premium = {{ site.data.pricing[1] | jsonify }};
+      var payg = {{ site.data.tiers[0] | jsonify }};
+      var startup = {{ site.data.tiers[1] | jsonify }};
+      var base_price_us = {{ site.data.international_pricing.base_price_us | jsonify }};
     </script>
     <script src="{{ site.static }}/js/price_calculator.js"></script>
     {% include footer.html %}

@@ -1,16 +1,14 @@
-<div class="col-lg-4 col-sm-6 text-center feature">
-  <div class="service-box">
-    {% if include.feature.feature-page %}
-      <a href="{{ include.feature.feature-page }}">
-        <i class="fa fa-4x {{ include.feature.icon }} text-primary"></i>
-        <h2 class="font-24 text-primary">{{ include.feature.name }}</h2>
-      </a>
-    {% else %}
+<div class="col-lg-4 col-sm-4 col-xs-12 feature-block text-center">
+  {% if include.feature.feature-page %}
+    <a href="{{ include.feature.feature-page }}">
       <i class="fa fa-4x {{ include.feature.icon }} text-primary"></i>
       <h2 class="font-24 text-primary">{{ include.feature.name }}</h2>
-    {% endif %}
-    <p class="text-muted">
-      {{ include.feature.text }}
-    </p>
-  </div>
+    </a>
+  {% else %}
+    <i class="fa fa-4x {{ include.feature.icon }} text-primary"></i>
+    <h2 class="font-24 text-primary">{{ include.feature.name }}</h2>
+  {% endif %}
+  <p class="text-muted">
+    {{ include.feature.text }}
+  </p>
 </div>

@@ -1,55 +1,10 @@
 ---
 layout: base_pricing
 title: Pricing - TutorCruncher (Europe)
+short_title: Pricing
 description: Learn more about the pricing of TutorCruncher and features of every tier.
 permalink: /eu/pricing/
 ---
-<div class="container main">
-  <article>
-    <header>
-      <h1 class="text-center">{{ page.title }}</h1>
-    </header>
-    <div class="row">
-      {% for feature in site.data.pricing_features %}
-        {% include mixins/feature_block.html feature=feature %}
-      {% endfor %}
-    </div>
-  </article>
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 text-center">
-      <a href="https://secure.tutorcruncher.com/start/1/" class="btn btn-primary btn-xl">Sign up now for free</a>
-    </div>
-  </div>
-  <hr class="primary">
-  <h4 class="text-center">Every tier comes with a 14 day free trial!</h4>
-
-  <div class="row">
-    <section id="pricing-table">
-      {% for tier in site.data.pricing %}
-        {% include mixins/price_column.html tier=tier price=tier.price_eu %}
-      {% endfor %}
-    </section>
-  </div>
-
-  <section id="extras">
-    <div class="text-center">
-      <p class="text-muted"><sup>[1]</sup> A taught student is any student that receives a lesson or charge in a given month.</p>
-      <p class="text-muted"><sup>[2]</sup> extra emails negotiable on demand.</p>
-      <p class="text-muted"><sup>[3]</sup> First additional branch free, then €55 per branch after that.</p>
-      <p class="text-muted"><sup>[4]</sup> €40 per month optional extra after the first month.</p>
-      <p class="text-muted">Prices exclude UK VAT.</p>
-      <p class="text-muted">Discounts available for high volume users.</p>
-    </div>
-  </section>
-
-  <section id="stripe-details">
-    <h2>
-      Stripe pricing details
-    </h2>
-    <p>
-      You can find out more about Stripe and the benefits of using it inside TutorCruncher <a href="/features/card-payments/">here</a>.
-      Listed below are our individual rates for each of our pricing tiers. International payment rates differ.
-    </p>
-    {% include mixins/stripe-details.html %}
-  </section>
+<div class="row">
+  {% include mixins/price_table.html prices=site.data.international_pricing.base_price_eu %}
 </div>

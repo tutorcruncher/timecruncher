@@ -1,13 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% include head.html %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.1.0/css/flag-icon.min.css" type="text/css">
-  </head>
-  <body id="page-top">
-    {% include ga.html %}
-    {% include nav.html %}
+---
+layout: base
+---
+<div class="container main">
+  <article>
+    <header>
+      <h1 class="text-center">{{ page.short_title }}</h1>
+    </header>
+    <div class="row top-padding-20">
+      {% for feature in site.data.pricing_features %}
+        {% include mixins/feature_block.html feature=feature %}
+      {% endfor %}
+    </div>
+  </article>
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+      <a href="https://secure.tutorcruncher.com/start/1/" class="btn btn-primary btn-xl">Sign up now for free</a>
+    </div>
+  </div>
+  <hr class="primary">
+  <h4 class="text-center">Every tier comes with a 14 day free trial!</h4>
+
+  <section id="pricing-table" class="top-padding-30">
     {{ content }}
-    {% include footer.html %}
-  </body>
-</html>
+  </section>
+
+  <section id="extras">
+    <div class="text-center">
+      <p class="text-muted">Prices exclude UK VAT.</p>
+      <p class="text-muted"><sup>[1]</sup>Fair usage policy applies.</p>
+      <p class="text-muted"><sup>[2]</sup>See our support packages for more details.</p>
+      <p class="text-muted"><sup>[3]</sup>
+        Online payment fees are on top of transaction fees implemented by [Stripe](https://stripe.com/pricing)
+         for Card payments, or [GoCardless](https://gocardless.com/pricing/) for Direct Debit payments.
+      </p>
+    </div>
+  </section>
+</div>

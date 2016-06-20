@@ -187,8 +187,11 @@ section {
   }
 }
 
-.feature {
-  height: 230px;
+.feature-block {
+  height: auto;
+  @media (min-width: 768px) {
+    height: 230px;
+  }
 }
 
 .post-meta {
@@ -328,25 +331,79 @@ section#stripe-details {
 }
 
 section#pricing-table {
-  .panel {
+  .table {
     text-align: center;
-  }
-  .panel-default {
-    color: #777;
-  }
-  .panel-primary {
-    border-color: $main-colour;
-    >.panel-heading {
-      background-color: $main-colour;
-      border-color: $main-colour;
+    font-size: 13px;
+    border-collapse: collapse;
+    border: none;
+    max-width: 100%;
+
+    .table-head {
+      th {
+        text-align: center;
+      }
+      .tier-name {
+        font-size: 24px;
+      }
+    }
+
+    td {
+      padding: 10px;
+    }
+    .fa {
+      color: green;
+      font-size: 18px;
+    }
+
+    .feature-name {
+      text-align: left;
+      font-size: 14px;
+    }
+    .monthly-price {
+      font-weight: bold;
+    }
+    .online-payments {
+      font-weight: bold;
+      font-size: 16px;
+    }
+    .text-muted {
+      font-weight: normal;
+    }
+
+    .table-message {
+      padding: 15px;
+      font-weight: normal;
+      font-size: 16px;
     }
   }
-  .list-group-item {
-    height: 33px;
-    font-size: 13px;
-    padding: 6px 0 6px;
+
+  @media (min-width: 769px) {
+    #pricing-buttons {
+      display: none;
+    }
   }
-  padding-bottom: 50px;
+  @media (max-width: 769px) {
+    #pricing-buttons {
+      display: block;
+    }
+    tr th:nth-child(2), tr td:nth-child(2),
+    tr th:nth-child(4), tr td:nth-child(4)
+    {
+      display: none;
+    }
+    tr th:nth-child(2), tr td:nth-child(2),
+    tr th:nth-child(3), tr td:nth-child(3)
+    tr th:nth-child(4), tr td:nth-child(4) {
+      width: 50%
+    }
+    tr th:nth-child(2) > .tier-name {
+      font-size: 18px;
+    }
+  }
+}
+
+section#extras {
+  min-height: 100px;
 }
 
 .correct {
@@ -391,6 +448,10 @@ a:hover {
 
 .font-24 {
   font-size: 24px;
+}
+
+.font-20 {
+  font-size: 20px;
 }
 
 .font-16 {

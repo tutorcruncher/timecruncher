@@ -1,0 +1,72 @@
+-
+  name: Create unlimited users with their own login
+  access: All
+-
+  name: Scheduling done by admins or tutors with lesson reminders
+  access: All
+-
+  name: Match tutors to students by any criteria
+  access: All
+-
+  name: Secure and accessible from any device
+  access: All
+-
+  name: Customisable fields applicable to all users and jobs
+  access: All
+-
+  name: Fully automated invoicing and payroll
+  access: All
+-
+  name: Tax automatically calculated
+  access: All
+-
+  name: Charge clients monthly with subscriptions
+  access: All
+-
+  name: Upload documents and resources for tutors, clients and students
+  access: All
+-
+  name: Send Unlimited Emails<a href="/pricing/#extras"><sup>[1]</sup></a>
+  access: All
+-
+  name: Send customisable, automated emails from your own address
+  access: All
+-
+  name: International support for any currency, language or timezone
+  access: All
+-
+  name: Create marketing email campaigns
+  access: All
+-
+  name: Customisable themed styling with editable CSS and HTML templates
+  access: All
+-
+  name: One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
+  access: All
+-
+  name: API Access
+  access: All
+-
+  name: Manage different branches
+  access:
+    - One branch plus a demo branch
+    - One branch plus a demo branch
+    - Mulitple branches plus a demo branch
+-
+  name: Option to host on own server
+  access:
+    -
+    -
+    - true
+-
+  name: New feature request priority
+  access:
+    -
+    -
+    - true
+-
+  name: Personal Account Manager
+  access:
+    -
+    -
+    - true

@@ -1,0 +1,18 @@
+-
+  name: Pay as you go
+  icon: fa-motorcycle
+  desc: For younger companies getting started with TutorCruncher.
+  electric_revenue_percentage: 1%
+  revenue_percentage: 1.4%
+-
+  name: Startup
+  icon: fa-car
+  desc: For medium sized companies using TutorCruncher to grow the business.
+  electric_revenue_percentage: 0.4%
+  revenue_percentage: 0.8%
+-
+  name: Enterprise
+  icon: fa-fighter-jet
+  desc: For established companies wanting to take advantage of our most bespoke service.
+  electric_revenue_percentage: 0 &ndash; 0.4%
+  revenue_percentage: 0 &ndash; 0.8%
