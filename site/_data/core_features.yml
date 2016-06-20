@@ -26,7 +26,7 @@
   name: Upload documents and resources for tutors, clients and students
   access: All
 -
-  name: Send Unlimited Emails<a href="/pricing/#extras">[1]</a></sup>
+  name: Send Unlimited Emails<a href="/pricing/#extras"><sup>[1]</sup></a>
   access: All
 -
   name: Send customisable, automated emails from your own address
@@ -41,7 +41,7 @@
   name: Customisable themed styling with editable CSS and HTML templates
   access: All
 -
-  name: One hour's free training<sup><a href="/pricing/#extras">[2]</a></sup>
+  name: One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
   access: All
 -
   name: API Access

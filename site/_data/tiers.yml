@@ -14,6 +14,5 @@
   name: Enterprise
   icon: fa-fighter-jet
   desc: For established companies wanting to take advantage of our most bespoke service.
-  message: We're friendly people, get in touch to discuss what works best for you.
   electric_revenue_percentage: 0 &ndash; 0.4%
   revenue_percentage: 0 &ndash; 0.8%
