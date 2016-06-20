@@ -4,8 +4,7 @@ description: "TutorCruncher provides tutoring management software with card paym
 baseurl: ""
 url: "https://tutorcruncher.com"
 source: site
-#static: https://cdn1.tutorcruncher.com
-static: /static/
+static: https://cdn1.tutorcruncher.com
 exclude:
   - _posts/2000-01-01-blog-post-template.md
 gems:
