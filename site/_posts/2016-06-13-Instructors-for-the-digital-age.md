@@ -10,6 +10,7 @@ tags:
  - Tutors
 author: Mark Biggins
 ---
+
 Although not the world’s oldest professions, tutoring has to be somewhere close. Since antiquity, young people have been taught and mentored by tutors, whether it be Aristotle tutoring Alexander the great or John Skelton tutoring the young Henry VIII. But as we enter the digital age, the personal relationship between tutor and student that has always been so important is decreasing in importance.
 
 The tutoring market in Hong Kong might offer a vision of the future. It has been mentioned on these pages that tutoring is becoming almost ubiquitous in the UK, but in Hong Kong tutoring has been taken to another level. Exam performance is so important that star tutors become mini-celebrities, their faces appearing on billboards on the subway  and tv ads and earn literally millions of dollars a year as parents clamour to get their children into their classes.

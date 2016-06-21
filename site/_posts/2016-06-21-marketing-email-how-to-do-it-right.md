@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marketing Email, How to do it right"
+title:  "Marketing Email, How to do it right?"
 permalink: marketing-email-how-to-do-it-right/
 tags:
  - marketing 
@@ -13,8 +13,6 @@ tags:
 
 author: Michaël Persyn
 ---
-# Marketing Emails, how do I make them correctly?
-
 There are several marketing strategies for growing your business, more brand awareness, more sails.
 
 Marketing emails are a powerful tool, you can send your potential customers relevant information concerning your service, the benefits of your product and even make them think about problems they didn’t think they had. Making a marketing email campaign is complicated because customers don't want to get the feeling you are trying to get money off them. 
