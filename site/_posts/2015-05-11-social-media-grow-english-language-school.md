@@ -23,8 +23,6 @@ up to your courses.
    <img src="{{ site.static}}/img/blogs/images-3-150x150.jpeg" alt-text="Tutor Social Media"/>
 </div>
 
-** **
-
 By being proactive and sharing your latest blog posts, school news and course
 details, you’ll also encourage people to share your content with their
 followers, thus increasing the amount people you can reach with your message.
@@ -51,7 +49,6 @@ site.
 <div class="img-holder full-width">
    <img src="{{ site.static}}/img/blogs/smiley-heureux.jpg" alt-text="Happy Experience Tutoring"/>
 </div>
-
 ]({{ site.static}}/img/blogs/smiley-heureux.jpg) **
 
 Think about your social media accounts as an extension of your customer

@@ -20,7 +20,7 @@ adapt your thinking to stay ahead of the game.
 One of the most recent trends in the tutoring industry is the shift in mindset from competition to collaboration. 
 As the tutoring industry becomes ever more closely aligned, there are more opportunities out there than ever to grow 
 your tutoring business through working with others. Many 
-[tutoring businesses](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) 
+[tutoring businesses](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) 
 have begun partnering up with other companies in the education sector in order to grow their audience, 
 increase student referrals and improve their brand awareness. In the not too distant future, the businesses 
 that will experience significant growth will be those who make friends with their competitors, not rivals. 
@@ -32,7 +32,7 @@ their undivided attention and this means involving students in lesson planning. 
 teacher-centred approach, encourage them to work towards creating a culture of learning, where everyone’s opinions are 
 valued and taken onboard. Private tutors come from a range of different backgrounds, and each has different experiences 
 of education. The wealth of knowledge that many tutoring businesses have can be used to create a positive, 
-[student-centred approach to learning](http://www.tutorcruncher.com/how-to-encourage-students-to-take-control-of-their-learning/), 
+[student-centred approach to learning](https://tutorcruncher.com/how-to-encourage-students-to-take-control-of-their-learning/), 
 which improves student’s grades more effectively. 
 
 ### Selling Your Tutoring Services
@@ -48,7 +48,7 @@ conversations, encourage interaction and grow your business by being an enabler 
 Keeping track of your tutoring business by using an Excel spreadsheet, simply doesn’t cut the mustard in today’s 
 tech savvy marketplace. If you want to give a good impression to your students, parents and your tutors, then you 
 need to use tutor-specific software that takes care of all your administration. That’s why we created 
-[TutorCruncher](http://www.tutorcruncher.com) , a scheduling tool for the private tutoring industry that 
+[TutorCruncher](https://tutorcruncher.com) , a scheduling tool for the private tutoring industry that 
 handles student invoicing, lesson plans and staff payments. TutorCruncher will significantly reduce the amount of 
 time that you spend on administration, enabling you to focus on growing your tutoring business. _ Is your tutoring 
 business still using these outdated practices? If so, which do you see as being the most prohibitive to your business growth?

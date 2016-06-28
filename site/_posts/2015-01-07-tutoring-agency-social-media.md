@@ -3,16 +3,9 @@ layout: post
 title:  "How Will Your Tutoring Agency Use Social Media in 2015?"
 permalink: tutoring-agency-social-media/
 ---
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/social_media_marketing_2015_11.png" alt-text="Social Media"/>
-</div>
-
-]({{ site.static}}/img/blogs/social_media_marketing_2015_11.png) According to
-social media experts [ Social Media Examiner
-](http://www.socialmediaexaminer.com/social-media-marketing-predictions-
-for-2015/) , big changes are afoot in the world of social media this year.
+According to
+social media experts [Social Media Examiner](http://www.socialmediaexaminer.com/social-media-marketing-predictions-for-2015/), 
+big changes are afoot in the world of social media this year.
 With video and local search playing a big role in how businesses will market
 their services, we’ve compiled a list of social media elements that we think
 tutoring agencies should focus on this year. ** Educate and Inform using Video
@@ -42,15 +35,12 @@ so this year. When people search for tutoring agencies in your area using
 Google, customer reviews and star ratings will soon impact where your business
 appears in the rankings. We suggest that a focus on good customer service this
 year will really help encourage people to leave positive reviews about your
-agency and consequently [ improve your search engine rankings
-](http://www.tutorcruncher.com/local-seo-marketing-your-tuition-agency-
-online/) . 
+agency and consequently [improve your search engine rankings](https://tutorcruncher.com/local-seo-marketing-your-tuition-agency-online/) . 
 
 ### Personally Interact
 
-It’s been a long time coming but [ the
-future of social media ](http://www.tutorcruncher.com/social-media-strategy-
-for-tutoring-businesses/) looks to be about out personalisation. Does your
+It’s been a long time coming but [the future of social media](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/) 
+looks to be about out personalisation. Does your
 agency actively share other people’s content? Or do you spend all day linking
 to your own? Customers expect companies to provide them with useful content
 from all over the internet, not just their own blog. They also expect

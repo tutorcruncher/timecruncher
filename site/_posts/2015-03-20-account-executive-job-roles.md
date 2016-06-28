@@ -6,9 +6,9 @@ permalink: account-executive-job-roles/
 Account Executive job roles  Tutorcruncher is hiring,hurrah.  Tutorcruncher's
 HQ is based in Victoria London and is looking for the finest SAAS sales
 persons to join our team. See below our job description. For other jobs please
-see [ careers ](http://www.tutorcruncher.com/careers/) .
+see [careers](https://tutorcruncher.com/careers/) .
 
-Tutorcruncher  Account Executive  :
+Tutorcruncher  Account Executive :
 
 Tutorcruncher is offering an account executive sales position to individuals
 who are passionate about software as a service. The successful candidate will
@@ -37,4 +37,4 @@ best Software sales person would be a highly desired quality. An expectation
 to work in a commercial environment motivated by great team work and
 commission. A very good sense of humour. Ping pong skills…. Salary: Basic:
 £21,000 – On Target Earnings: £45,000 Please email CV and short cover letter
-to [ info@Tutorcruncher.com ](mailto:info@Tutorcruncher.com)
+to [info@tutorcruncher.com](mailto:info@tutorcruncher.com)

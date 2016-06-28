@@ -3,14 +3,6 @@ layout: post
 title:  "The Benefits of Using an Independent Learning Centre"
 permalink: benefits-using-independent-learning-centre/
 ---
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutoring-session.jpg" alt-text="tutoring-session"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2014/06/tutoring-
-session.jpg)
 
 There are many advantages to using an independent learning centre over a
 corporate or franchise education company. Independents tend to have a more
@@ -19,8 +11,7 @@ tailoring lessons to students’ specific needs.
 
 A Tailored Approach to Tutoring 
 
-[ Independent learning centres ](http://www.tutorcruncher.com/students-use-
-learning-centres/) have more flexibility in their approach to teaching. Tutors
+[Independent learning centres](https://tutorcruncher.com/students-use-learning-centres/) have more flexibility in their approach to teaching. Tutors
 are often given the scope to adopt their own learning styles, which means that
 students can be better matched to a tutor who suits their way of working. At
 the beginning of a block of lessons, tutors will normally create a tailored
@@ -52,9 +43,7 @@ Targeted Investment in Education
 Independent agencies are in charge of their own budget, which means that they
 have the option to invest in those areas of their business that will be of
 greatest value to their staff and students. Independent learning centres are
-also more likely to keep up to date with the latest [ trends in technology and
-educational resources ](http://www.tutorcruncher.com/digital-resources-
-tuition-agency/) , as they choose their own equipment and materials. They’re
+also more likely to keep up to date with the latest [trends in technology and educational resources](https://tutorcruncher.com/digital-resources-tuition-agency/) , as they choose their own equipment and materials. They’re
 also able to make quicker decisions in regards to spending compared to
 franchises or corporate agencies, meaning that their students will always be
 on the cutting edge of educational advancements.
@@ -62,9 +51,7 @@ on the cutting edge of educational advancements.
 Being Part of a Community 
 
 Perhaps the biggest advantage of using an independent learning centre is being
-part of a [ wider community of learners
-](http://www.tutorcruncher.com/maintaining-and-managing-your-tutoring-
-community/) outside the classroom. Independent agencies offer many
+part of a [wider community of learners](https://tutorcruncher.com/maintaining-and-managing-your-tutoring-community/) outside the classroom. Independent agencies offer many
 opportunities for students to meet people from other schools and feel a part
 of something bigger. Being a part of a tutoring community also often means
 being able to attend events that you wouldn’t usually have the opportunity to

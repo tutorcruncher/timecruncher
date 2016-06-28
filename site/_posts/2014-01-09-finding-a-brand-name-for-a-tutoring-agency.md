@@ -21,7 +21,7 @@ identity and memorability.
 
 ### When you're about to choose a brand name for a tutoring agency you also have to:
 
-* [ Check ](http://wck2.companieshouse.gov.uk//wcframe?name=accessCompanyInfo) that nobody already has the name 
+* [Check](https://www.gov.uk/government/organisations/companies-house) that nobody already has the name 
 * Keep it politically correct 
 * Ask opinions from other people 
 * Check if it works visually 
@@ -42,14 +42,3 @@ people were able to accurately remember it?" _
 * Avoid bad connotations in other languages 
 * Choose a trendy name 
 * Choose a name that is similar to businesses close to you 
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutoring-agency-brand-name1.jpg" alt-text="tutoring-agency-brand-name"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2014/01/tutoring-agency-
-brand-name1.jpg) What would be your top tip for choosing a brand name for a
-tutoring agency? 
-
-### Comment below with more ideas.

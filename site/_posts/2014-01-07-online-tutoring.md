@@ -4,16 +4,13 @@ title:  "Online Tutoring"
 permalink: online-tutoring/
 ---
 You may want to expand your tutoring services by offering online tuition. This
-may be an area of growth for existing and prospective tutors. [ Online
-tutoring ](https://tutorhub.com/) can be lower cost since all that is required
+may be an area of growth for existing and prospective tutors. [Online tutoring](https://tutorhub.com/) can be lower cost since all that is required
 is an internet connection and a webcam.  There are several options based on
-the tutor and client needs, [ Skype ](http://www.skype.com/en/) and [ Google
-Hangouts ](http://www.google.com/+/learnmore/hangouts/) are popular options
-which offer video. If a whiteboard is required [ IDroo ](http://idroo.com/) ,
-[ Scribblar ](http://www.scribblar.com/) and [ GroupBoard
-](http://www.groupboard.com/products/) can be used alongside them. Documents
-such as worksheets or presentations can also be shared via [ GoogleDocs
-](http://www.google.com/drive/apps.html) so that students can keep and revisit
+the tutor and client needs, [Skype](http://www.skype.com/en/) and [
+Google Hangouts](http://www.google.com/+/learnmore/hangouts/) are popular options
+which offer video. If a whiteboard is required [IDroo](http://idroo.com/),
+[Scribblar](http://www.scribblar.com/) and [GroupBoard](http://www.groupboard.com/products/) can be used alongside them. Documents
+such as worksheets or presentations can also be shared via [GoogleDocs](http://www.google.com/drive/apps.html) so that students can keep and revisit
 resources.
 
 Adding online tutoring to your business repertoire means there is greater

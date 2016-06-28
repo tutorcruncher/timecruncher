@@ -4,8 +4,7 @@ title:  "How to Ensure Your Tutors Reach Their Full Potential"
 permalink: how-to-ensure-your-tutors-reach-their-full-potential/
 ---
 As a tutoring agency directory, you’ll want to enable your tutors to reach
-their full potential and [ inspire their students
-](http://www.tutorcruncher.com/advice-for-tutors-how-to-inspire-learning/) to
+their full potential and [inspire their students](https://tutorcruncher.com/advice-for-tutors-how-to-inspire-learning/) to
 do their best. As a private tutor yourself, you may find it challenging to let
 your tutors find their own way in your agency but allowing them the space to
 discover their own strengths will ensure they tutor to the best of their
@@ -16,8 +15,7 @@ ability.
 Every tutor has a different educational
 background and so has a different skillset. As an agency directory, it’s your
 job to get to know your tutors and understand where their strengths lie. Your
-tutors should be able to [ teach to their strengths
-](http://www.tutorcruncher.com/improving-your-tuition-skills/) using
+tutors should be able to [teach to their strengths](https://tutorcruncher.com/improving-your-tuition-skills/) using
 techniques and methods that they find works best for their students. Although
 having teaching guidelines in place can help steer the structure of lessons,
 giving tutors a certain amount of free reign in how they approach lessons will
@@ -35,8 +33,7 @@ training, mentoring or arranging shadowing sessions with other tutors. ** Let
 Them Succeed in Their Own Way ** Sometimes, it’s best to leave your staff to
 their own devices to ensure they teach to their best. You may find that many
 of your tutors are self-motivators and are able to organise their own
-workloads and [ manage their time effectively
-](http://www.tutorcruncher.com/time-management-techniques/) without too much
+workloads and [manage their time effectively](https://tutorcruncher.com/time-management-techniques/) without too much
 direction. If your tutors appear to be succeeding on their own, perhaps all
 you need to do as a director is let them know that you’re there for support
 should they need it. Giving your tutors space to discover their own style and
@@ -48,13 +45,9 @@ potential. Some people are natural leaders and will want to take on more
 responsibility within your agency. In such cases, this ambition should be
 encouraged, as having strong leaders is important within a company. It can
 also give you, as a director, the opportunity to delegate certain tasks to
-ease up your workload. [
+ease up your workload.
 
-![reach your full
-potential]({{ site.static}}/img/blogs/reach-your-full-potential-300x200.jpg)
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/08/reach-your-full-potential.jpg) In what ways do you
+In what ways do you
 ensure that your tutors reach their full potential? Do you use any of the
 methods listed above? What do you do to empower your staff? And how do you
 recognize those who are natural leaders? We’d love to hear of any tips you

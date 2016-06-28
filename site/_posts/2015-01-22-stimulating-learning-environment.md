@@ -12,8 +12,7 @@ tutoring agencies can do to create a stimulating learning environment.
 ### Core Values
 
 One way to create a positive learning environment is to practice what you
-preach. Think about the [ core values of your tutoring agency
-](http://www.tutorcruncher.com/tuition-agency-ethics/) and what motivated you
+preach. Think about the [core values of your tutoring agency](https://tutorcruncher.com/tuition-agency-ethics/) and what motivated you
 to start your business in the first place. Let your tutors and students know
 what your business ethics are and remind them of your agency’s approach to
 learning. You may want to display your core values somewhere in your office
@@ -23,9 +22,6 @@ you’ll create a focused, positive place to work.
 
 ### Positive Atmosphere
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/1280px-A_smile_a_day_keeps_the_pain_and_the_doctor_away-300x194.jpg" alt-text="Smile"/>
-</div> Having a
 positive atmosphere in your tutoring agency is important for your students’
 learning. Make sure that your staff are encouraging and do what they can to
 boost students’ confidence. By giving praise where it’s due, your students
@@ -37,9 +33,9 @@ done well by mentioning them in your email newsletter or office noticeboard.
 
 ### Set Expectations
 
-Learning is a two-way street. If your tutors and students understand [ what is
-expected of them ](http://www.tutorcruncher.com/how-to-encourage-students-to-
-take-control-of-their-learning/) , your agency will be a productive place.
+Learning is a two-way street. If your tutors and students understand 
+[what is expected of them](https://tutorcruncher.com/how-to-encourage-students-to-take-control-of-their-learning/), 
+your agency will be a productive place.
 Some tutoring agencies have staff and student handbooks that they distribute,
 which outlines everyone’s role within the agency. Asking tutors and students
 to read through this information can be a good way to inform everyone of what
@@ -49,13 +45,10 @@ enthused to providing an excellent service.
 
 ### Resources
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/BCDS_Laptop-300x200.jpg" alt-text="Beaver Country Day School - Viewbook"/>
-</div> Students nowadays are used to
+Students nowadays are used to
 having technology at their fingertips and your tutoring agency should cater
 for this need. If you want your agency to be a stimulating place to learn,
-then you need to [ invest in resources that students will want to use
-](http://www.tutorcruncher.com/digital-resources-tuition-agency/) . This
+then you need to [invest in resources that students will want to use](https://tutorcruncher.com/digital-resources-tuition-agency/) . This
 includes laptops and mobile devices like iPads, as well as printers, scanners
 and Wi-Fi. Having resources on hand will motivate students to seek answers for
 themselves and carry out their own research too. Encourage your students to

@@ -20,12 +20,12 @@ This is aimed at a number of differing businesses and individuals in
 particular new Tutors and Tutoring companies who are just setting up. **
 Accounting, VAT and tax 
 
-### \- Are you an agent or a principle?
+### Are you an agent or a principle?
 
 Insurance
 and risk 
 
-### \- Are you liable for your tutors actions?
+### Are you liable for your tutors actions?
 
 Administration ** \-
 Build yourself a business not a job! Don't spend your profits on
@@ -33,15 +33,14 @@ administration. Streamline
 
 ### Tutor vetting and training
 
-\- What makes a
+What makes a
 great tutor and how to find them? 
 
 ### Marketing
 
-\- How to set your company
+How to set your company
 apart from the competition and build a valuable brand. It cost between £15 to
 £25 to register and the proceeds will be donated to the Charlie Waller
 Memorial Trust Charity. The full agenda and schedule for the event can be
-found at [ http://www.nationaltutoringconference.org.uk/
-](http://www.nationaltutoringconference.org.uk/) with regular updates posted
-to Twitter via:  [ #Tutorcon ](https://twitter.com/hashtag/tutorcon)
+found at [http://www.nationaltutoringconference.org.uk/](http://www.nationaltutoringconference.org.uk/) with regular updates posted
+to Twitter via:  [#Tutorcon](https://twitter.com/hashtag/tutorcon)

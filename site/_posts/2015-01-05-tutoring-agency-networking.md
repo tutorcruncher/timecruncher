@@ -4,15 +4,15 @@ title:  "How Offline Networking Can Grow Your Tutoring Agency"
 permalink: tutoring-agency-networking/
 ---
 In this digital age, when people hear the word ‘networking’, online forums,
-chat rooms and [ social media ](http://www.tutorcruncher.com/twitter-for-
-tutoring-agencies/) are usually the first things that come to mind. However,
+chat rooms and [social media](https://tutorcruncher.com/twitter-for-tutoring-agencies/) are usually the first things that come to mind. However,
 there’s a lot to be said for adopting ‘old school’ networking approaches and
 attending face to face events or simply meeting prospects in person. Here are
 our tips on how offline networking can help grow your tutoring agency.
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/Young_Chamber_Networking_Function.jpg" alt-text="Offline Networking"/>
-</div> ** Networking
-Creates Opportunities ** Despite the popularity of online marketing,
+
+
+### Networking Creates Opportunities
+ 
+Despite the popularity of online marketing,
 practically every city in the UK still has face to face networking events.
 These events offer great opportunities to meet other local businesses that you
 may be able work alongside to grow your business. These events can create
@@ -41,8 +41,7 @@ The internet
 is a huge place and with so much noise, people don’t always get the
 opportunity to ask the questions they want to ask about a business because of
 all the distractions online. By meeting people in person, you instantly [
-improve your communication channels
-](http://www.tutorcruncher.com/communication-is-key/) as you’re free to
+improve your communication channels](https://tutorcruncher.com/communication-is-key/) as you’re free to
 interact without the pressure of closing sales and relaying information.
 Interacting face to face can also help your tutoring agency gain people’s
 trust. Meeting someone in person can be very reassuring to a potential client
@@ -51,8 +50,7 @@ Find Inspiration ** Often, the most inspiring business stories aren’t found on
 the ‘about us’ page of a company’s website. Speaking to people face to face
 gives you’re the opportunity to really get to know the challenges and
 successes that other business have experienced and this can often provide you
-with inspiration to [ do things differently with your tutoring agency
-](http://www.tutorcruncher.com/grow-your-tutoring-business-outreach/) . You
+with inspiration to [do things differently with your tutoring agency](https://tutorcruncher.com/grow-your-tutoring-business-outreach/) . You
 may even find that people have faced the exact same challenges that your
 business might be facing and can provide useful insights into how to best
 overcome hurdles What are your thoughts on face to face networking? Have you

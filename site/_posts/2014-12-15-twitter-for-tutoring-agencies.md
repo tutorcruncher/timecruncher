@@ -8,13 +8,9 @@ permalink: twitter-for-tutoring-agencies/
 <div class="img-holder full-width">
    <img src="{{ site.static}}/img/blogs/twitter-245460_640-300x300.jpg" alt-text="Twitter "/>
 </div>
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/twitter-245460_640.jpg) [ Twitter is one of the most
-influential ](http://www.tutorcruncher.com/digital-resources-tuition-agency/)
-[ social netwo ](http://www.tutorcruncher.com/digital-resources-tuition-
-agency/) [ rks ](http://www.tutorcruncher.com/digital-resources-tuition-
-agency/) out there. Unlike Facebook, it tends to be more focused on business
+](https://tutorcruncher.com/wp-
+content/uploads/2014/12/twitter-245460_640.jpg) [Twitter is one of the most influential](https://tutorcruncher.com/digital-resources-tuition-agency/)
+[social netwo](https://tutorcruncher.com/digital-resources-tuition-agency/) [rks](https://tutorcruncher.com/digital-resources-tuition-agency/) out there. Unlike Facebook, it tends to be more focused on business
 and users tend to keep business and personal profiles separate, meaning that
 your audience is much more targeted. Here is our advice on how you can make
 the most of Twitter as a tutoring agency. 
@@ -24,9 +20,8 @@ the most of Twitter as a tutoring agency.
 You’ll want to ensure that people associate your profile with your brand. This
 means having a good profile photo, tagline and background image. Consider
 whether it would be more appropriate to have a photo of you as your profile
-image or a photo of your logo. Generally speaking, people tend to [ engage
-better with other people on Twitter
-](http://www.tutorcruncher.com/5_core_marketing_activities_focus/) but there
+image or a photo of your logo. Generally speaking, people tend to [engage
+better with other people on Twitter](https://tutorcruncher.com/5_core_marketing_activities_focus/) but there
 are no hard and fast rules about this. Also, make sure that your tagline says
 everything you want it to say about your agency. You may also want to consider
 getting some of your main keywords in there too to help with twitter searches.
@@ -44,8 +39,7 @@ by retweeting their best posts.
 ### Time Your Tweets
 
 We’ve previously
-written about [ how to know when to post on social media
-](http://www.tutorcruncher.com/know-post-social-media-2/) before on this blog,
+written about [how to know when to post on social media](https://tutorcruncher.com/know-post-social-media-2/) before on this blog,
 and there are a few anomalies you should consider when deciding when to share
 your content. First of all, consider where your customers are based. The
 chances are most will be based in the UK within a few miles of your locality,
@@ -55,8 +49,7 @@ during lunchtime and last thing before leaving work. This could therefore,
 have a bearing on what type of content you tweet and when. ** Use Hashtags and
 Keywords ** You can really improve the success of your Twitter marketing by
 considering the keywords people are likely to search for on Twitter to find
-agencies like yours. Try to [ include these keywords in your headlines
-](http://www.tutorcruncher.com/optimize-tutoring-agencys-blog/) so that your
+agencies like yours. Try to [include these keywords in your headlines](https://tutorcruncher.com/optimize-tutoring-agencys-blog/) so that your
 tweets show up in related search results. Also consider the most popular
 hashtags in the tutoring industry and use these to improve your profile’s
 presence. You can find the most popular hashtags in the industry by doing a

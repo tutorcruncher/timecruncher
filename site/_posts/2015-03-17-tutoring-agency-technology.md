@@ -5,7 +5,7 @@ permalink: tutoring-agency-technology/
 ---
 The face of education is changing and it looks like its set to go truly
 digital. Whereas a few years ago, smart boards were considered the height of 
-[education technology](http://www.tutorcruncher.com/technology-teaching-ideas-for-private-tutors/), 
+[education technology](https://tutorcruncher.com/technology-teaching-ideas-for-private-tutors/), 
 nowadays, it’s all about syncing individual devices
 through mobile platforms.
 
@@ -18,7 +18,7 @@ administration? If so, you could save yourself hours of inputting functions
 and data by moving your agency’s administration over to the cloud. Cloud
 technology enables businesses to access their databases from anywhere in the
 world, using any device. Our very own 
-[tutoring agency software](http://www.tutorcruncher.com) 
+[tutoring agency software](https://tutorcruncher.com) 
 has been built using cloud technology, which
 means that all your tutor invoicing and student lesson scheduling can be taken
 care of quickly, easily when you’re on the go.
@@ -52,8 +52,7 @@ delivering extra help to students outside of the classroom.  ** One for the
 Future: Wearable Technology **
 
 Although wearable tech in education is yet to be adopted as a staple of
-classrooms and learning centres, [ edtech pioneers
-](http://www.edudemic.com/guides/the-teachers-guide-to-google-glass/) predict
+classrooms and learning centres, [edtech pioneers](http://www.edudemic.com/guides/the-teachers-guide-to-google-glass/) predict
 that Google Glass will become a useful classroom tool. With its ability to
 carry out Google searches using voice recognition via a virtual projector
 interface, the possibilities of wearable technology in education are certainly

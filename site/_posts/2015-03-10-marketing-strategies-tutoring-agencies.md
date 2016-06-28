@@ -3,20 +3,10 @@ layout: post
 title:  "Top Five Marketing Strategies for Tutoring Agencies"
 permalink: marketing-strategies-tutoring-agencies/
 ---
-_ Tutoring agencies, like other businesses are understandably keen to adopt
+Tutoring agencies, like other businesses are understandably keen to adopt
 new marketing trends, particularly those with technology at their forefront.
 However, in the tutoring industry, there remains five proven strategies for
-attracting new students, retaining staff and growing business.  _
-
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/face-386626_640.jpg" alt-text="face-386626_640"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/face-386626_640.jpg)
-
-* 
+attracting new students, retaining staff and growing business.
 
 ### Word of Mouth Marketing
 
@@ -34,8 +24,7 @@ in your area.
 
 Perhaps one of the most overlooked aspects of marketing for tutoring agencies;
 email is a great way to follow up on any leads you’ve received and attract new
-business. We’ve previously written about [ email etiquette
-](http://www.tutorcruncher.com/email-marketing-mistakes/) in another post,
+business. We’ve previously written about [email etiquette](https://tutorcruncher.com/email-marketing-mistakes/) in another post,
 which you should definitely read if you’re new to the idea, but embracing the
 idea of engagement is a tried and tested way to grow a business. Tell people
 about your latest offers and promotions but be sure to provide them with
@@ -55,8 +44,7 @@ can all be effective ways to improve your agency’s presence in your community.
 
 ### Social Media
 
-A popular [ marketing method for tutoring agencies
-](http://www.tutorcruncher.com/tutoring-agency-social-media/) , social media
+A popular [marketing method for tutoring agencies](https://tutorcruncher.com/tutoring-agency-social-media/) , social media
 can be used to effectively target your ideal audience. People are using
 websites like Facebook and Twitter more than ever before, so your agency needs
 to be active on these platforms if you want to grow your online marketing. A
@@ -68,8 +56,7 @@ active on every platform out there.
 
 ### Search Engine Marketing
 
-[ Search Engine Marketing ](http://www.tutorcruncher.com/local-seo-marketing-
-your-tuition-agency-online/) , or SEO, is a must for any tutoring agency
+[Search Engine Marketing](https://tutorcruncher.com/local-seo-marketing-your-tuition-agency-online/) , or SEO, is a must for any tutoring agency
 looking to expand beyond face to face marketing. Make sure you optimize your
 website for relevant search terms in the tutoring industry and keep your blog
 up to date with useful, valuable content. You should also look at applying on

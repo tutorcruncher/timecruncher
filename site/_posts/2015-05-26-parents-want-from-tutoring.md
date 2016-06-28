@@ -4,7 +4,7 @@ title:  "What do Parents Want from a Tutoring Company?"
 permalink: parents-want-from-tutoring/
 author: TutorCruncher
 ---
-Every student has different needs and every parent uses the [services of a tutoring company](http://www.tutorcruncher.com/) 
+Every student has different needs and every parent uses the [services of a tutoring company](https://tutorcruncher.com/) 
 for different reasons.
 However, there are some constants that parents expect as standard from a
 tutoring business. This post explores what parents want from private tutoring

@@ -22,7 +22,7 @@ levels of confidence.
 For GCSE and A Level students who have exam resits in November, the summer
 holidays can provide a good opportunity to identify where they went wrong and
 what they need to improve. If your 
-[tutoring business](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) offers this 
+[tutoring business](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) offers this 
 support over the summer, you could find your business
 just as busy as other times of the year.
 
@@ -41,8 +41,7 @@ their subjects.
 
 ### Teach English as a Foreign Language
 
-There's a huge demand for  [ teaching English as a Foreign Language
-](http://www.tutorcruncher.com/running-english-language-school/) over the
+There's a huge demand for  [teaching English as a Foreign Language](https://tutorcruncher.com/running-english-language-school/) over the
 summer, particularly from overseas university students. Most university term
 times begin around September and many foreign students arrive in the UK during
 the summer. A lot of foreign students take English lessons before the start of
@@ -50,7 +49,7 @@ term time in order to give them a head start when their course begins.
 
 ### Diversify your Offerings
 
-As a  [tutoring agency](http://www.tutorcruncher.com/make-most-of-scheduling-software/), 
+As a  [tutoring agency](https://tutorcruncher.com/make-most-of-scheduling-software/), 
 the summer months can provide a good opportunity to
 experiment in offering different subjects. Why not diversify the subjects that
 you offer and introduce some niche classes that students won't find anywhere

@@ -4,8 +4,7 @@ title:  "5 Marketing Metrics Every Tutoring Agency should Track"
 permalink: 5-marketing-metrics-every-tutoring-agency-track/
 ---
 How does your tutoring agency monitor the progress of its online marketing
-efforts? It’s all well and good putting in the hours [ promoting your agency
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
+efforts? It’s all well and good putting in the hours [promoting your agency](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) , but what if your efforts could be better served in other
 areas? How would you know? These are our top 5 marketing metrics that we
 believe every tutoring agency should track using analytics software.
@@ -23,8 +22,7 @@ particularly if you’ve recently paid for advertising.
 ### Content Effectiveness
 
 Content is the reason that people use the internet and that’s why it’s so
-important that your [ tutoring ](http://www.tutorcruncher.com/tutoring-agency-
-needs-blog/) agency has a well-maintained blog. Google Analytics or other
+important that your [tutoring](https://tutorcruncher.com/tutoring-agency-needs-blog/) agency has a well-maintained blog. Google Analytics or other
 tracking software can provide you with information about the search terms
 people used to find your website. This information can prove very valuable in
 providing you with insights about which keywords your content has been
@@ -49,8 +47,7 @@ audience, you’ll be able to see if you’re marketing in the correct places. F
 example, if your tutoring agency only operates in the North East of England,
 any visits you receive from people in London may not be very useful to you.
 For more information on how to improve your local search presence, read our
-post on [ how to optimize your ](http://www.tutorcruncher.com/local-seo-
-marketing-your-tuition-agency-online/) website for local search.
+post on [how to optimize your](https://tutorcruncher.com/local-seo-marketing-your-tuition-agency-online/) website for local search.
 
 ### Referrals
 

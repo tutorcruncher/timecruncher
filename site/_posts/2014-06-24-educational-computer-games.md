@@ -21,7 +21,7 @@ than traditional classes.
 
 ### What is Digital Game-Based Learning
 
-According to [ Learn NC ](http://www.learnnc.org/lp/pages/4970) , Digital
+According to [Learn NC](http://www.learnnc.org/lp/pages/4970) , Digital
 Game-Based Learning (DGBL) can be defined as “an instructional method that
 incorporates educational content or learning principles into video games with
 the goal of engaging learners.”
@@ -37,8 +37,7 @@ are able to grab the attention of the learner and, at the same time, provide the
 
 When dived into an effective game-based learning environment, students are
 free to make mistakes without risks and learn the right way to do things
-through experimentation and practice, an article from [ Ed Tech Review
-](http://edtechreview.in/dictionary/298-what-is-game-based-learning) says.
+through experimentation and practice, an article from [Ed Tech Review](http://edtechreview.in/dictionary/298-what-is-game-based-learning) says.
 
 Furthermore, thought processes enabled by this kind of learning experience can
 be easily transferred from the simulated environment to real life.
@@ -48,19 +47,13 @@ be easily transferred from the simulated environment to real life.
 Those mentioned above are just the potential application of digital games in
 education, but how are teachers responding to this revolution?
 
-[ According to ](http://blogs.edweek.org/edweek/DigitalEducation/2014/06/teach
-ers_turn_to_each_other_to.html) [ a survey ](http://blogs.edweek.org/edweek/Di
-gitalEducation/2014/06/teachers_turn_to_each_other_to.html) produced by Joan
+[According to](http://blogs.edweek.org/edweek/DigitalEducation/2014/06/teachers_turn_to_each_other_to.html) [a survey](http://blogs.edweek.org/edweek/DigitalEducation/2014/06/teachers_turn_to_each_other_to.html) produced by Joan
 Ganz Cooney Center, a nonprofit research organization that studies children's
 learning and digital media, teachers are making frequent use of educational
 computer games in their classrooms, in order to better engage their students.
 With the help of the infographic below, we’ve tried to summarize some of the
 key findings of the research.
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutor-cruncher-digital-game-learning-559x1024.jpg" alt-text="tutor-cruncher-digital-game-learning"/>
-</div>
-
-_ Have you ever used digital games during your lessons? What kind of games and
+Have you ever used digital games during your lessons? What kind of games and
 devices do you prefer? What do you think are the major benefits of this
 teaching approach? Share your opinion below. _

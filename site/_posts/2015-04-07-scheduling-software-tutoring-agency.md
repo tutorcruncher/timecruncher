@@ -6,7 +6,7 @@ author: TutorCruncher
 ---
 The daily running of a business requires organisation and what better way to
 keep track of your student’s lesson schedules, tutor invoices and data
-reporting than with [ work scheduling software ](http://www.tutorcruncher.com)
+reporting than with [work scheduling software](https://tutorcruncher.com)
 ? TutorCruncher is a purpose built management system for private tutors and
 agencies and can greatly benefit your business in the following ways: ** Your
 Staff Can Access Your Database from Anywhere ** One of the advantages of using
@@ -22,9 +22,9 @@ most convenient.
 
 ### You’ll Save Money Using a Dedicated Management System
 
-Very few new agencies anticipate how much administration is involved in [
-running a tutoring business ](http://www.tutorcruncher.com/news-and-
-updates/how-to-start-a-tutoring-business/) and as it grows, the admin only
+Very few new agencies anticipate how much administration is involved in 
+[running a tutoring business](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) 
+and as it grows, the admin only
 increases. Constantly investing in updates to your administration system can
 be very expensive in the long term, that’s why most agencies use specifically
 designed work scheduling software like TutorCruncher to take care of their
@@ -46,8 +46,7 @@ business to grow next.
 From experience, we
 know that even the smallest of inaccuracies can completely throw an
 administration process, which can mean cancelling invoices and lessons and
-starting completely from scratch. However, with [ work scheduling software
-](http://www.tutorcruncher.com/features/) , all errors are kept to an absolute
+starting completely from scratch. However, with [work scheduling software](https://tutorcruncher.com/features/) , all errors are kept to an absolute
 minimum. All you’ll need to do is double check your data entry while the rest
 is taken care of automatically using TutorCruncher’s advanced system. What do
 you see as being the biggest benefit of work scheduling software? Do you

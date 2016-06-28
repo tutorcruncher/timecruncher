@@ -11,9 +11,8 @@ here:
 
 ### Complements School Work
 
-One of the advantages of [ using a
-tutoring agency from the beginning of a school year
-](http://www.tutorcruncher.com/why-tutoring-matters/) is that tutors can plan
+One of the advantages of [using a
+tutoring agency from the beginning of a school year](https://tutorcruncher.com/why-tutoring-matters/) is that tutors can plan
 lessons to coincide with a student’s work in school. This enables students to
 focus on specific topics that they need extra help with without falling behind
 with other work in class. An added benefit of using an agency early in the
@@ -38,8 +37,7 @@ addressed accordingly.
 ### Encourages a Regular Study Schedule
 
 One of the
-most difficult things about studying is [ time management
-](http://www.tutorcruncher.com/time-management-techniques/) . Many students go
+most difficult things about studying is [time management](https://tutorcruncher.com/time-management-techniques/) . Many students go
 through their school career without having worked to a study schedule and this
 can have a negative impact on their results at the end of the year. A private
 tutor will ensure that students keep to a regular study schedule throughout
@@ -57,14 +55,11 @@ tuition agencies are at their busiest during exam time. However, using an
 agency at the beginning of a school year will ensure that when exam time
 comes, students will already be well-versed in how to approach exams. Learning
 about exam techniques is a very important part of a student’s school work and
-without them, good students often fall short. [ A good tutoring agency
-](http://www.tutorcruncher.com/tuition-agency-ethics/) will focus on exam
+without them, good students often fall short. [A good tutoring agency](https://tutorcruncher.com/tuition-agency-ethics/) will focus on exam
 preparation before it’s needed to ensure that students feel fully prepared on
-the day and have the confidence to answer questions in the correct way. [
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/exam.jpg" alt-text="exam"/>
-</div>
-]({{ site.static}}/img/blogs/exam.jpg) What do
+the day and have the confidence to answer questions in the correct way.
+
+What do
 you see as being the advantages of using a tutoring agency at the beginning of
 the academic year? How important do you think focusing on study schedules and
 exam preparation is from the beginning of the year? We’d be keen to hear your

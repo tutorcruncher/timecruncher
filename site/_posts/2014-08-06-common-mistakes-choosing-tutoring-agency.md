@@ -8,9 +8,7 @@ ensure that the agency you choose is reliable, has a good reputation and
 delivers the kind of results you’re looking for. To help you make your
 decision on which tutoring agency to choose, we’ve put together a list of the
 most common mistakes people make when making their choice. ** A Lack of
-Research ** [ Competition within the private tuition industry
-](http://www.tutorcruncher.com/private-tuition-market-in-the-uk-overview/
-"Private Tuition Market in the UK: Overview" ) is high and your local area
+Research ** [Competition within the private tuition industry](https://tutorcruncher.com/private-tuition-market-in-the-uk-overview/ "Private Tuition Market in the UK: Overview" ) is high and your local area
 might have several different agencies to choose from. The best way to ensure
 that you choose the right one for you is to do your research. Visit each
 agency’s website and have a look at what services they offer. Compare the
@@ -26,9 +24,7 @@ one will be best.
 When speaking with a
 tuition agency by phone or in person, many people don’t ask the correct
 questions to determine whether the agency will be suitable. You’ll want to
-know how many students attend the agency, how do they [ select their tutors
-](http://www.tutorcruncher.com/how-to-match-students-and-tutors/ "How to Match
-Students and Tutors" ) and what qualifications do they have, what their
+know how many students attend the agency, how do they [select their tutors](https://tutorcruncher.com/how-to-match-students-and-tutors/ "How to Match Students and Tutors" ) and what qualifications do they have, what their
 success rate is and what facilities will be on offer on-site. It can help to
 write down a list of questions you’d like to ask beforehand to help gather
 your thoughts before the conversation. 
@@ -45,10 +41,8 @@ you an idea of what the atmosphere is like. Can you see yourself being
 productive in this space? What facilities do they have on offer? Does the
 staff seem friendly and inviting? ** Not Taking Time to Speak With Existing
 Students and Tutors ** During your tour of the agency, make sure you allow
-time to speak with individual tutors. Their insights can help you [ decide
-whether the agency will be suitable for you
-](http://brightyoungthings.co.uk/how-to-choose-a-tuition-agency-for-your-
-child/ "How to Choose a Tuition Agency For Your Child" ) . Ask what their
+time to speak with individual tutors. Their insights can help you [decide
+whether the agency will be suitable for you](http://brightyoungthings.co.uk/how-to-choose-a-tuition-agency-for-your-child/ "How to Choose a Tuition Agency For Your Child" ) . Ask what their
 overall approach is to learning at the agency, do they enjoy working there?
 How many staff are on hand during a typical day? You should also take this
 opportunity to speak with existing students. Do they enjoy studying at the

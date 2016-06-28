@@ -6,8 +6,7 @@ permalink: attract-best-tutors-agency/
 Every tutoring agency wants to have the best tutors and with increasing
 competition, ensuring that the best ones come to you, can be challenging.
 We’ve put together a list of ways you can help attract the crème de la crème
-of private tutors and ensure your agency grows a [ reputable reputation
-](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
+of private tutors and ensure your agency grows a [reputable reputation](https://tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
 for delivering results.
 
 ### Have an Online Presence
@@ -19,19 +18,10 @@ listen and most people like to interact. It’s important to have all your bases
 covered if you want to attract as many people as possible to your agency. Make
 sure that you post content regularly, including videos and podcasts. People
 like to get a feel for the companies that they apply to and more often than
-not, they do this through [ social media
-](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
+not, they do this through [social media](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 . One way you can make a good first impression on social media is to link to
 the profiles of your current tutors, post photos of your office and encourage
 potential tutors to ask questions about your agency.
-
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg" alt-text="Popular_Social_Networks"/>
-</div>
-
-]({{ site.static}}/img/blogs/Popular_Social_Networks_Gavin_Llewellyn_CC.jpg)
 
 ### Show Them How They Can Make a Difference
 
@@ -49,20 +39,11 @@ Education in the UK is always evolving and the school curriculum is constantly
 being refined and updated, with new subjects being added all the time. If you
 stay ahead of the game and show that you keep up to date with these
 developments, you’ll attract good tutors, who have an interest in modern
-teaching methods. Being tech savvy and keeping on top of [ new technology
-](http://www.tutorcruncher.com/technology-teaching-ideas-for-private-tutors/)
+teaching methods. Being tech savvy and keeping on top of [new technology](https://tutorcruncher.com/technology-teaching-ideas-for-private-tutors/)
 is also important if you want to create a modern, innovation image within the
 industry. Younger tutors especially, will likely already be well-versed in how
 to use mobile devices and other interactive e-learning tools and you’ll want
 to cater for tutors who have this skill set.
-
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/e-learning.jpg" alt-text="e-learning"/>
-</div>
-
-]({{ site.static}}/img/blogs/e-learning.jpg)
 
 ### Provide Development Opportunities
 

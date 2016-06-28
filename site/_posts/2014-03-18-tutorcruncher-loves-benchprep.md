@@ -11,5 +11,4 @@ the top publishers with help from educators, bloggers and students, who love
 their product as much as we do.
 
 We will let BenchPrep do the rest of the talking. But TutorCruncher hearts
-BenchPrep.  For more information about BenchPrep go to - [ BenchPrep
-](https://benchprep.com/)
+BenchPrep.  For more information about BenchPrep go to - [BenchPrep](https://benchprep.com/)

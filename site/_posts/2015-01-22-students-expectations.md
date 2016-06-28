@@ -11,14 +11,12 @@ As a tutoring agency, you’re there to help students with their studies by
 teaching them the skills they need to develop their knowledge and
 understanding. It’s important that your agency differentiates between
 empowering learning and simply providing answers. Here are our top tips for
-agencies on [ how to set your students’ expectations
-](http://www.tutorcruncher.com/tuition-agency-ethics/) of your services.
+agencies on [how to set your students’ expectations](https://tutorcruncher.com/tuition-agency-ethics/) of your services.
 
 ### Provide a Clear Framework
 
-[ When a student first joins your agency
-](http://www.tutorcruncher.com/beginning-school-year-best-time-use-tuition-
-agency/) , make sure you take the time to go over the structure of their
+[When a student first joins your agency](https://tutorcruncher.com/beginning-school-year-best-time-use-tuition-agency/), 
+make sure you take the time to go over the structure of their
 lessons and what assistance you’re able to provide. For example, some students
 may be under the impression that you can help with graded assignments or that
 your tutors can actually do the work for them. By providing a clear framework
@@ -55,8 +53,7 @@ met.
 
 While tutoring agencies have a responsibility to set students’ expectations,
 students should also have the opportunity to explain what they expect from
-your service. Give them the opportunity to [ express their expectations
-](http://www.tutorcruncher.com/communication-is-key/) and confirm whether your
+your service. Give them the opportunity to [express their expectations](https://tutorcruncher.com/communication-is-key/) and confirm whether your
 agency is able to meet them. Students may have expectations that are
 unrealistic or lower than what your agency can deliver. It’s important that
 these issues are addressed at the very start of a student’s registration in

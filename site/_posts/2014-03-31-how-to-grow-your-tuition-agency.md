@@ -31,8 +31,7 @@ running their own business, you’ll benefit as well by having someone else grow
 your brand. When choosing someone to run your franchise, it’s important that
 both parties are clear on the terms so that everyone involved knows what to
 expect from the relationship. For more information on becoming a franchise,
-there’s a great post on the [ Business Insider
-](http://www.businessinsider.com/franchising-tips-2011-4) website that
+there’s a great post on the [Business Insider](http://www.businessinsider.com/franchising-tips-2011-4) website that
 provides more information on the subject. 
 
 ### Form an Alliance

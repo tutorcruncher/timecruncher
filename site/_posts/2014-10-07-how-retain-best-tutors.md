@@ -3,8 +3,7 @@ layout: post
 title:  "How Your Tutoring Agency Can Retain its Best Tutors"
 permalink: how-retain-best-tutors/
 ---
-A recent survey by Monster Jobs, found that [ 70% of people
-](http://www.about-monster.com/content/monster-poll-reveals-motivating-power-
+A recent survey by Monster Jobs, found that [70% of people](http://www.about-monster.com/content/monster-poll-reveals-motivating-power-
 vacation-start-job-search) are more likely to look for a new job after a
 holiday period. So, with the summer holidays now over and Christmas just
 around the corner, how can you ensure that your agency retains its staff?
@@ -26,8 +25,7 @@ be perfect for one of your tutors?
 
 ### Create an Open Culture
 
-[ Private tutoring is all about communication
-](http://www.tutorcruncher.com/communication-is-key/) , not only between
+[Private tutoring is all about communication](https://tutorcruncher.com/communication-is-key/) , not only between
 students and tutors but also between an agency and its staff. It’s important
 that you keep your tutors up to date with the latest happenings within the
 business and encourage people to ask questions and share ideas. A mistrust of
@@ -38,13 +36,9 @@ they’ll be more likely to stay with your company.
 
 ### Share Your Mission
 
-What was it that inspired you to [ start a tutoring agency
-](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
+What was it that inspired you to [start a tutoring agency](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
 business/) in the first place? Whatever your reason, telling your tutors your
-start-up story can he
-<div class="img-holder full-width">
-   <img src="https://c1.staticflickr.com/5/4107/5144677794_242acb13e5_z.jpg" alt-text=""/>
-</div> lp get
+start-up story can he lp get
 them on board with what you’re trying to achieve. If your staff feel that
 they’re a part of something bigger and are making a difference with the work
 that they do, they’ll be more likely to continue working for your agency over

@@ -3,10 +3,8 @@ layout: post
 title:  "Success stories : The tutoress"
 permalink: success-stories-the-tutoress/
 ---
-### Today's success story is [ Victoria's ](http://thetutoress.com/home/meet-
-our-tutors/) one, a brilliant woman who agreed to share her very own
-experience in the tutoring industry. Here is an exclusive interview with [ The
-Tutoress ](http://thetutoress.com/) .
+### Today's success story is [Victoria's](http://thetutoress.com/home/meet-our-tutors/) one, a brilliant woman who agreed to share her very own
+experience in the tutoring industry. Here is an exclusive interview with [The Tutoress](http://thetutoress.com/) .
 
 ### If you had to describe the concept of the Tutoress...
 

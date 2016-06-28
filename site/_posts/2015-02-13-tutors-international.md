@@ -30,6 +30,5 @@ that deals with international placements, or you can absorb this sort of
 operation into your core offering, especially if you are at the higher-end of
 the market already.
 
-_ We would love to hear your thoughts on international tutoring and tutors.
-Let us know in the comments, or tweet us [ @tutorcruncher
-](https://twitter.com/tutorcruncher) . _
+We would love to hear your thoughts on international tutoring and tutors.
+Let us know in the comments, or tweet us [@tutorcruncher](https://twitter.com/tutorcruncher) . _

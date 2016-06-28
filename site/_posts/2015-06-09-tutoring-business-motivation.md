@@ -7,7 +7,7 @@ author: TutorCruncher
 Whether you run a tutoring centre or are a 
 [solopreneur](http://www.entrepreneur.com/article/239522), 
 finding the motivation and focus to 
-[grow your tutoring business](http://www.tutorcruncher.com/how-to-grow-your-tuition-agency/) 
+[grow your tutoring business](https://tutorcruncher.com/how-to-grow-your-tuition-agency/) 
 can be challenging. Everyone loses track of their
 goals once in a while and some working days are inevitably more productive
 than others. If you ever find your enthusiasm dwindling and need some help to
@@ -22,7 +22,7 @@ stay focused on your tutoring business, then this post is for you.
 If you
 find that you’re losing track of your tutoring business or you’re not quite
 sure where it’s going, it can be useful to revisit your 
-[original business plan](http://www.tutorcruncher.com/how-to-make-a-business-plan-part-1/) for
+[original business plan](https://tutorcruncher.com/how-to-make-a-business-plan-part-1/) for
 some inspiration. As well as acting as a reminder of why you started your
 business in the first place, this exercise can also help you gain more control
 over where your business is headed. Perhaps you’ll realise that you've veered
@@ -45,8 +45,7 @@ need to take a step back and let someone else take the reins with particular
 tasks. Delegating work to other staff members is the difference between
 working _ in _ your tutoring business and working _ on _ your business. Giving
 other people more responsibility within your agency helps free up your time to
-focus on other areas, while your [ tutoring business continues to grow
-](http://www.tutorcruncher.com/tuition-centre-software-can-transform-
+focus on other areas, while your [tutoring business continues to grow](https://tutorcruncher.com/tuition-centre-software-can-transform-
 business/) in those existing areas. 
 
 ### Implement some Business Changes

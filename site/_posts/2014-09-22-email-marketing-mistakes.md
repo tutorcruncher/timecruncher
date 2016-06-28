@@ -5,10 +5,8 @@ permalink: email-marketing-mistakes/
 ---
 Email marketing can be a hugely effective way for tutoring agencies to
 generate more business. However, if done incorrectly, your efforts can
-actually lose your agency business. To help ensure that you’re [ making the
-most of your email ma ](http://www.tutorcruncher.com/how-to-improve-your-
-email-marketing/) [ rketing campaigns, ](http://www.tutorcruncher.com/how-to-
-improve-your-email-marketing/) we’ve put together the most common mistakes
+actually lose your agency business. To help ensure that you’re [making the most of your email ma](https://tutorcruncher.com/how-to-improve-your-
+email-marketing/) [rketing campaigns,](https://tutorcruncher.com/how-to-improve-your-email-marketing/) we’ve put together the most common mistakes
 that tutoring agencies make in their email marketing efforts. ** Sending Only
 Promotional Emails ** There’s nothing wrong with telling your customers about
 your latest offers and promotions, just don’t do it all the time. It’s
@@ -29,9 +27,7 @@ Sending Too Many Emails Too
 Often ** One sure fire way of encouraging people to unsubscribe from your
 emails is to bombard them with promotions every day. Knowing the best time to
 send an email can greatly improve the success of your campaigns. According to
-a [ 2012 study by marketing experts Experian
-](http://www.experian.com/assets/cheetahmail/white-papers/email-marketing-
-quarterly-benchmark-study-q4-2012.pdf) , people are more likely to respond to
+a [2012 study by marketing experts Experian](http://www.experian.com/assets/cheetahmail/white-papers/email-marketing-quarterly-benchmark-study-q4-2012.pdf) , people are more likely to respond to
 promotional emails they receive over the weekend – when the amount of emails
 they receive is at its lowest. Given this information, consider what type of
 email your agency normally sends during the week – is it promotional or
@@ -50,14 +46,10 @@ meaning your email will go straight into your recipient’s junk folder. Also,
 make sure that your email subject isn’t misleading and actually delivers what
 it promises. There’s nothing more frustrating reading through an email only to
 findthat there’s a catch or condition attached to it
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/SubjectLinesMakeADifference-300x200.jpg" alt-text="SubjectLinesMakeADifference"/>
-</div> ** Writing
-Long Emails ** Think about how many emails your tutoring agency receives on a
+
+Think about how many emails your tutoring agency receives on a
 daily basis. If you’re anything like us, you’ll spend the best part of your
-morning sifting through emails and [ responding to those which are most
-pressing ](http://www.tutorcruncher.com/tuition-agencies-how-to-prepare-for-
-busy-periods/) . One way to ensure that people read all the way to the bottom
+morning sifting through emails and [responding to those which are most pressing](https://tutorcruncher.com/tuition-agencies-how-to-prepare-for-busy-periods/) . One way to ensure that people read all the way to the bottom
 of your email is to keep it short and to the point. When it comes to email
 marketing, long text often puts people off reading in the first place, so make
 sure that your email is long enough to get your point across but not too long

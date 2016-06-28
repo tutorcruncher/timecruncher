@@ -10,9 +10,7 @@ marketing groups. They send messages to their friends through instant
 messaging services, they hear there news through social media platforms and
 they pursue their interests and learning through online videos. Does your
 tutoring agency have a presence in these places? We suggest following these
-steps to [ creating a marketing strategy
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
-tuition-agency/) geared towards attracting students to your agency.
+steps to [creating a marketing strategy](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-tuition-agency/) geared towards attracting students to your agency.
 
 ### Listen to Their Conversations
 
@@ -28,9 +26,7 @@ be to make your agency’s brand appeal to them.
 ### Be Consistent in Your Communication Efforts
 
 Part of the purpose of communicating with your target audience is to gain
-their trust and one of the best ways to do this is to [ be consistent in your
-communication ](http://www.tutorcruncher.com/get-the-best-out-of-your-online-
-communication/) . If you normally make social media posts about the latest
+their trust and one of the best ways to do this is to [be consistent in your communication](https://tutorcruncher.com/get-the-best-out-of-your-online-communication/) . If you normally make social media posts about the latest
 education news on a Monday morning then make sure you continue this and
 position your brand as being reliable. Whether you tend to communicate by
 email or through regular blog posts, being consistent is the key to engaging
@@ -60,8 +56,7 @@ experiences of interacting with your agency.
 Students appreciate creative thinking and enjoy looking for new perspectives
 and new ways to communicate. If you have a unique idea of how you can market
 your tutoring agency to students then why not give it a go. Whether it’s a new
-way of communicating online or taking a more [ guerrilla approach to marketing
-](http://www.tutorcruncher.com/5_core_marketing_activities_focus/) , you could
+way of communicating online or taking a more [guerrilla approach to marketing](https://tutorcruncher.com/5_core_marketing_activities_focus/) , you could
 find yourself winning over a whole new audience. Image sharing websites are
 particularly popular at the moment. Instagram, for example is being used more
 and more by young people, which could provide the perfect opportunity for you

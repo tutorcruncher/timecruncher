@@ -4,8 +4,7 @@ title:  "Making a Living from Learning"
 permalink: making-a-living-from-learning/
 ---
 Tutoring is a lucrative field to work within. Play your cards right and you
-will excel. However a lot depends on your [ terms of business
-](http://www.businessdictionary.com/definition/terms-and-conditions.html) and
+will excel. However a lot depends on your [terms of business](http://www.businessdictionary.com/definition/terms-and-conditions.html) and
 your entry price into the market. Setting the price of your services can prove
 to be tricky. You’ll need to find out what the prevailing market rate is and
 then set your prices in relation to this. This will require a lot of research.
@@ -23,9 +22,7 @@ between £30 and £50 per student. At first parents are reluctant to pay this.
 Your marketing needs to assure them that this will enable your administration
 team to spend resources and time finding the perfect tutor for your child. A
 tutor placement fee is worth considering as it will cover your costs.
-Investing in [ TutorCruncher software can halve the time your agency spend
-matching a pupil with a tutor and increase your revenues
-](https://tutorcruncher.com/features.html) so is worth thinking about, even in
+Investing in [TutorCruncher software can halve the time your agency spend matching a pupil with a tutor and increase your revenues](https://tutorcruncher.com/features/) so is worth thinking about, even in
 the early stages.
 
 You may also want to consider what your travel margins are. For example, are

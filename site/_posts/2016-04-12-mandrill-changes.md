@@ -41,7 +41,7 @@ All companies that wish to send emails from their own email addresses will need 
 
 **As of April 27th, any emails attempting to send from an unapproved domain will instead be sent from noreply@tutorcruncher.com.**
 
-For example, we at TutorCruncher are sending emails from tom@tutorcruncher.com and info@tutorcruncher.com, so I have gone to my [Email Styles](https://secure.tutorcruncher.com/comms/emailstyle/list/) and made sure that I have added SPF and DKIM records for [tutorcruncher.com](http://www.tutorcruncher.com), as well as verifying the domain by sending an email to one of the addresses eg. tom@tutorcruncher.com.
+For example, we at TutorCruncher are sending emails from tom@tutorcruncher.com and info@tutorcruncher.com, so I have gone to my [Email Styles](https://secure.tutorcruncher.com/comms/emailstyle/list/) and made sure that I have added SPF and DKIM records for [tutorcruncher.com](https://tutorcruncher.com), as well as verifying the domain by sending an email to one of the addresses eg. tom@tutorcruncher.com.
 
 [Click here to view our guide](http://help.tutorcruncher.com/verifying-domain/).
 

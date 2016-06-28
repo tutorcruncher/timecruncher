@@ -8,17 +8,14 @@ permalink: mobile-responsive-tutoring-website/
 <div class="img-holder full-width">
    <img src="{{ site.static}}/img/blogs/Responsive_Web_Design.png" alt-text="Mobile responsive web"/>
 </div>
-
-]({{ site.static}}/img/blogs/Responsive_Web_Design.png) In the UK, [ 7 out of 10
-people now own a smartphone ](http://mobilemarketingmagazine.com/7-10-people-
+]({{ site.static}}/img/blogs/Responsive_Web_Design.png) In the UK, [7 out of 10 people now own a smartphone](http://mobilemarketingmagazine.com/7-10-people-
 uk-now-own-smartphone/) . That’s a whole lot of people who could be searching
 for your tutoring agency on their mobiles. In order to increase your traffic,
 improve your ranking in search results and nail your customer service, you
 need to have a mobile responsive website. Here are our top reasons why your
 agency needs a mobile friendly website today: ** Your Website Needs to be as
 User Friendly as Possible ** Okay, so your website might look good on a
-desktop device, but if doesn’t [ convert well to mobile devices and tablets
-](http://www.tutorcruncher.com/features/mobile-app/) then people won’t spend
+desktop device, but if doesn’t [convert well to mobile devices and tablets](https://tutorcruncher.com/features/mobile-app/) then people won’t spend
 any time on your site. When it comes to navigating online, people want
 convenience. As a tutoring agency, your website is likely to be visited by a
 lot of parents, many of whom won’t be as tech savvy as students and parents,
@@ -45,9 +42,7 @@ for information elsewhere.
 
 When people visit your agency’s website, you need to direct them to fulfil a
 specific call to action, whether it be to make contact with you or sign up to
-a newsletter. If your website is mobile responsive, people are [ 67% more
-likely ](http://googlemobileads.blogspot.co.uk/2012/09/mobile-friendly-sites-
-turn-visitors.html) to carry out any actions you request of them. The more
+a newsletter. If your website is mobile responsive, people are [67% more likely](http://googlemobileads.blogspot.co.uk/2012/09/mobile-friendly-sites-turn-visitors.html) to carry out any actions you request of them. The more
 people interact with your website, the more likely you are to be able to turn
 them into potential leads. 
 

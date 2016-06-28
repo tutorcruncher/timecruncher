@@ -29,17 +29,16 @@ grow. At this point it is probably best to concentrate on the topic/ stage
 that you yourself are most familiar with.
 
 With the correct research, analysis and preparation you will be able to find
-the relevant gap in the market - [ your niche
-](http://www.startupdonut.co.uk/startup/start-up-business-ideas/how-i-turned-
-my-new-business-idea-into-a-successful-niche-job-site) \- and this is where
+the relevant gap in the market - 
+[your niche](http://www.startupdonut.co.uk/startup/start-up-business-ideas/how-i-turned-my-new-business-idea-into-a-successful-niche-job-site) 
+- and this is where
 you will want to direct your business towards. Look at your competitors’
 offerings and see if you can find any components that they are missing. You
 want to be new and innovative whilst objectively looking at other tutoring
 companies in your areas' pros and cons. Think realistically about the
 boundaries that your geographical area can fall within - considering travel
 time and transport costs, alongside whether you can viably secure mobile
-tutors. These observations will form the basis of your [ business plan
-](https://www.gov.uk/write-business-plan) which can then be infused with your
+tutors. These observations will form the basis of your [business plan](https://www.gov.uk/write-business-plan) which can then be infused with your
 own ideas to rival your competitors’ business models and offerings. If you
 discover that there is in fact a demand, and that you can cater to meet that
 need, you are on your way to consolidating your market position - a necessary

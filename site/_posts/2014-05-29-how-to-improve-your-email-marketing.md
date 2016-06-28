@@ -11,9 +11,7 @@ If you want your email marketing to work efficiently, then you need to make
 sure you are using the right approach. This means you need to use an email
 marketing tool to create effective emails and target the most appropriate
 audience. Understanding the engagement metrics of your emails is an important
-step to improving your approach and comparing your results to the [ industry
-benchmarks ](http://mailchimp.com/resources/research/email-marketing-
-benchmarks/) can help you decide if a change of approach is required.
+step to improving your approach and comparing your results to the [industry benchmarks](http://mailchimp.com/resources/research/email-marketing-benchmarks/) can help you decide if a change of approach is required.
 
 Find five tips to help you improve your email marketing below:
 

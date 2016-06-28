@@ -8,11 +8,9 @@ which means that your tutoring agency needs to have an online presence if you
 hope to attract as much business as possible. Digital marketing takes time but
 with the right strategy, you can grow your agency using the internet as your
 tool. We’ve outlined some of the ways that a digital marketing strategy can
-help [ grow your tutoring agency ](http://www.tutorcruncher.com/grow-your-
-tutoring-business-outreach/ "TutorCruncher Grow your tutoring business" ) . **
+help [grow your tutoring agency](https://tutorcruncher.com/grow-your-tutoring-business-outreach/ "TutorCruncher Grow your tutoring business" ) . **
 Search Engine Optimization ** SEO is the art of writing for humans and search
-engines at the same time. [ SEO techniques
-](http://www.tutorcruncher.com/local-seo-marketing-your-tuition-agency-
+engines at the same time. [SEO techniques](https://tutorcruncher.com/local-seo-marketing-your-tuition-agency-
 online/) are constantly evolving and many that were used just a year ago are
 now considered obsolete. Whereas websites used to get away with keyword
 stuffing and unnatural link building, today, such marketing techniques are
@@ -26,8 +24,7 @@ information useful.
 ### Social Media
 
 Sometimes it can seem like there’s a
-new [ social media website ](http://www.tutorcruncher.com/social-media-
-strategy-for-tutoring-businesses/) springing up every week, so our advice to
+new [social media website](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/) springing up every week, so our advice to
 tutoring agencies would be to focus on one or two platforms that work well for
 you. Twitter and Facebook are obvious choices as they are the most widely used
 throughout the UK. Make sure that you use your social media accounts to

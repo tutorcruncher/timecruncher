@@ -6,18 +6,9 @@ permalink: learning-centre/
 Having access to a dedicated learning space outside of school can really help
 improve a student’s academic performance. Attending one to one or group
 tuition can make all the difference in helping students achieve their goals.
-For those who haven’t used a [ learning centre
-](http://www.tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-
-business/) before, we’ve put together a list of some of the ways they can help
+For those who haven’t used a [learning centre](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) before, we’ve put together a list of some of the ways they can help
 improve a student’s grades.
 
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/pen-162124_640.png" alt-text="A"/>
-</div>
-
-]({{ site.static}}/img/blogs/pen-162124_640.png)
 
 Complement School Work 
 
@@ -37,9 +28,8 @@ Focused Learning
 Unlike in school, where all students are taught the same subjects in the same
 way and at the same time, learning centres are able to tailor lessons
 specifically to students’ needs, ensuring that they focus on their weak spots
-as well as their strengths. [ A good learning centre
-](http://www.tutorcruncher.com/beginning-school-year-best-time-use-tuition-
-agency/) will encourage their tutors to create structured lesson plans, based
+as well as their strengths. [A good learning centre](https://tutorcruncher.com/beginning-school-year-best-time-use-tuition-agency/) 
+will encourage their tutors to create structured lesson plans, based
 on evidence from schoolwork and assessments. Learning centres can also take
 the time to understand each student’s personal learning style and adapt their
 tutoring approach to suit individual needs.
@@ -67,9 +57,8 @@ Making Use of Resources
 
 Most learning centres will have different resources on hand for students to
 use as they need them, which is perfect for those who share computers at home.
-Learning centres are usually good at keeping up to date with trends in [
-educational technology ](http://www.tutorcruncher.com/choose-best-tuition-
-centre-software/) so you can expect to find iPads, laptops and eBook readers
+Learning centres are usually good at keeping up to date with trends in [educational technology](https://tutorcruncher.com/choose-best-tuition-centre-software/) 
+so you can expect to find iPads, laptops and eBook readers
 at your disposal. Learning centres also provide the space that many students
 don’t have at home, to study and focus without household distractions.
 

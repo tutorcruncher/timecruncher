@@ -23,8 +23,7 @@ business to your business. If you show that you’re a business that cares about
 people more than money, your reputation for providing a valuable service will
 indirectly help your business to grow in the long term.
 
-The same applies to [ social media too ](http://www.tutorcruncher.com/make-
-the-most-social-media/) . Rather than using your social platforms to only
+The same applies to [social media too](https://tutorcruncher.com/make-the-most-social-media/) . Rather than using your social platforms to only
 promote your services, make the effort to engage with your followers. Ask them
 how you can help and engage them in a conversation.
 
@@ -39,8 +38,7 @@ solution that will benefit everyone involved.
 
 ### It Pays to Hire the Right Staff
 
-When it comes to [ hiring private tutors for your business
-](http://www.tutorcruncher.com/how-to-recruit-tutors-for-your-agency/) ,
+When it comes to [hiring private tutors for your business](https://tutorcruncher.com/how-to-recruit-tutors-for-your-agency/) ,
 you’ll want to know that your staff share your ideas on what makes good
 customer service. You’ll want to recruit tutors who are willing to go beyond
 teaching lessons and who are willing to offer advice and support whenever a
@@ -57,8 +55,7 @@ level of service necessary to maintain a high level of customer service.
 Investing in resources like laptops, mobile devices and high speed internet
 enable your staff to provide an even better customer experience.
 
-It’s also important that you have a good [ tutoring management system
-](http://www.tutorcruncher.com/) in place that enables you to keep track of
+It’s also important that you have a good [tutoring management system](https://tutorcruncher.com/) in place that enables you to keep track of
 student lessons and tutor invoices. TutorCruncher is the UK’s leading tutoring
 software provider, enabling agencies to spend more time growing their business
 while their administration is taken care of using a flexible, reliable system.

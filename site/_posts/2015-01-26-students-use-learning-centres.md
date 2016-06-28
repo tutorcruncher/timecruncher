@@ -3,8 +3,7 @@ layout: post
 title:  "Why do Students Use Learning Centres?"
 permalink: students-use-learning-centres/
 ---
-Students decide to use [ learning centres ](http://www.tutorcruncher.com/news-
-and-updates/how-to-start-a-tutoring-business/) for a variety of different
+Students decide to use [learning centres](https://tutorcruncher.com/news-and-updates/how-to-start-a-tutoring-business/) for a variety of different
 reasons. However, during our time as learning centre directors, we’ve noticed
 some common trends in why students decide to seek extra help with their
 studies. Here’s the lowdown:
@@ -28,8 +27,7 @@ time over exercises and really absorb what they’re learning.
 
 ### To Improve Time Management Skills
 
-We’ve noticed that one of the biggest issues students struggle with is [ time
-management ](http://www.tutorcruncher.com/time-management-techniques/) .
+We’ve noticed that one of the biggest issues students struggle with is [time management](https://tutorcruncher.com/time-management-techniques/) .
 Setting aside time to study is all well and good but students also need to
 ensure they’re spending their time productively. One thing that learning
 centres do really well is to help students prioritise their workload. They can
@@ -55,8 +53,7 @@ to adapt to new learning styles and approaches.
 ### To Learn Exam Skills
 
 We always find it surprising how many students feel they don’t have the
-necessary [ skills to prepare for exams ](http://www.tutorcruncher.com/exams-
-revision-techniques/) . Having the knowledge and understanding of a subject is
+necessary [skills to prepare for exams](https://tutorcruncher.com/exams-revision-techniques/) . Having the knowledge and understanding of a subject is
 one thing, but being able to present your thoughts under exam conditions is
 another. Learning centres can help prepare students for exam day by working
 through practical exam questions to help familiarise them with the context and

@@ -12,10 +12,9 @@ trust.
 
 The story of your brand needs to be convincing. It should serve to strengthen
 your business and be the means by which you can connect with your customers
-about what is most meaningful to them. You only have to think about [ Richard
-Branson ](http://www.brand-journalism.co.uk/sample-page/section-3-brand-
-journalism-storytelling-paths/chapter-24-establishing-a-personal-brand-how-
-richard-branson-has-built-his-personal-brand/) to appreciate the power of
+about what is most meaningful to them. You only have to think about 
+[Richard Branson](http://www.brand-journalism.co.uk/sample-page/section-3-brand-journalism-storytelling-paths/chapter-24-establishing-a-personal-brand-how-richard-branson-has-built-his-personal-brand/) 
+to appreciate the power of
 connecting clients to your brand story.
 
 In the case of a tutoring business you will want to demonstrate that your

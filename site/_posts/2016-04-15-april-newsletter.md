@@ -75,7 +75,7 @@ Using Google's Distance Matrix TutorCruncher now checks distances between your l
 
 ## What else?
 
-We've also done a tonne of smaller improvements and big fixes, all viewable on the full changelog at [www.tutorcruncher.com/change_log](http://www.tutorcruncher.com/change_log).
+We've also done a tonne of smaller improvements and big fixes, all viewable on the full changelog at [www.tutorcruncher.com/change_log](https://tutorcruncher.com/change_log).
 
 ## Thanks!
 

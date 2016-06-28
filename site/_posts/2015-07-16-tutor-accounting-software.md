@@ -25,7 +25,7 @@ TutorCruncher's easy to use [accounting](/features/accounting/),
 there’s virtually no
 chance of businesses producing erroneous financial figures. Our system allows
 you to automate your invoicing and payroll, run reports on financial data and
-[work out your tutoring VAT costs](http://www.tutorcruncher.com/features/) , 
+[work out your tutoring VAT costs](https://tutorcruncher.com/features/) , 
 all at the
 click of a button. Our software is designed to streamline and automate your
 accounting process, ensuring that your finances are accurate and that your
@@ -54,7 +54,7 @@ The more time you spend working out your finances, the more likely you are to
 start making mistakes, which in the long run only ends up costing you more
 money. With TutorCruncher’s accounting software for tutors, you’ll find
 yourself with more time on your hands to spend elsewhere in your business. Our
-[automated invoicing and payment system](http://www.tutorcruncher.com/features/) 
+[automated invoicing and payment system](https://tutorcruncher.com/features/) 
 means that sending invoices, requesting payment and paying tutors is all taken care
 of quickly. Our system will streamline your accounting process, so that you
 get paid from parents quicker, can pay tutors quicker and have more available
@@ -69,7 +69,7 @@ information all in the one database. Having all this information at your
 fingertips enables you to see the bigger picture and identify any gaps that
 that can help you make more money. And best of all, you don’t even need to be
 in the office to access all these resources. With TutorCruncher’s 
-[cloud-based accounting mobile app](http://www.tutorcruncher.com/features/), 
+[cloud-based accounting mobile app](https://tutorcruncher.com/features/), 
 you can access your financial data from anywhere, meaning you can make
 decisions and take advantage of business opportunities as soon as they present
 themselves. _ How do you handle your tutoring business’ accounts? Are you

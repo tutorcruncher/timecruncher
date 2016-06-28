@@ -11,8 +11,7 @@ our blog readers’
 </div>
 
 experiences at the
-forefront of our efforts. How engaged are your [ blog readers
-](http://www.tutorcruncher.com/blogging-ideas-tutoring-agency/) with your
+forefront of our efforts. How engaged are your [blog readers](https://tutorcruncher.com/blogging-ideas-tutoring-agency/) with your
 content? Would you like them to be more so? Here are our top tips for
 optimizing your tutoring agency’s blog for your audience. ** Target Your
 Content ** Whereas keywords are undoubtedly important for search engine
@@ -27,13 +26,11 @@ navigate around. Make sure that your blog is filterable by categories so that
 people can easily find the types of articles that they’re looking for. It’s
 also a good idea to have a search bar implemented into your blog so your
 readers can search for posts by keywords and phrases. Perhaps most importantly
-for bounce rates, having [ related ](http://www.tutorcruncher.com/tutoring-
-agency-needs-blog/) [ articles on your blog
-](http://www.tutorcruncher.com/tutoring-agency-needs-blog/) can encourage
+for bounce rates, having [related](https://tutorcruncher.com/tutoring-agency-needs-blog/) 
+[articles on your blog](https://tutorcruncher.com/tutoring-agency-needs-blog/) can encourage
 people to read beyond your first article, which means they’re more likely to
 stick around to fulfil your website’s calls to action. ** Allow Social Sharing
-** Every blog should be active on [ social media websites
-](http://www.tutorcruncher.com/make-the-most-social-media/) . In the tutoring
+** Every blog should be active on [social media websites](https://tutorcruncher.com/make-the-most-social-media/) . In the tutoring
 industry, some social platforms work more effectively than others so it can
 help to spend some time determining which sites will be most effective for
 your agency. In any case, your audience will likely be active on sites that

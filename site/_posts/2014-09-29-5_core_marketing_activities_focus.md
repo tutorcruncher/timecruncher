@@ -7,9 +7,11 @@ Particularly when your tutoring agency is in its early stages, it can be
 challenging to refine your marketing focus with so many different options
 available. While it’s good to try new methods and experiment with different
 strategies, there remains five activities that every tutoring agency should
-implement as part of their [ core marketing strategy
-](http://www.tutorcruncher.com/4-things-should-know-marketing/) . ** Marketing
-Planning ** A marketing plan isn’t something that you write once then let it
+implement as part of their [core marketing strategy](https://tutorcruncher.com/4-things-should-know-marketing/) .
+ 
+### Marketing Planning
+
+A marketing plan isn’t something that you write once then let it
 gather dust in a drawer. If you want to continually grow your agency, then you
 need to refer to your original strategy frequently. You may find that after
 several months, you’ve veered off track with your marketing efforts and need
@@ -33,9 +35,7 @@ agency as best they can.
 
 ### Face to Face Networking￼
 
-<div class="img-holder full-width">
-   <img src="http://www.exordo.com/blog/wp-content/uploads/2013/11/networking.jpg" alt-text=""/>
-</div> In
+In
 the digital world, it can be easy to ignore one to one networking in favour of
 social media or email. However, face to face relationship building still plays
 a huge role in the growth of tutoring agencies, particularly for local
@@ -46,9 +46,7 @@ of them about the services you offer.
 
 ### Email Marketing
 
-[ Promoting your
-tutoring services by email ](http://www.tutorcruncher.com/email-marketing-
-mistakes/) remains one of the most effective ways of generating new business
+[Promoting your tutoring services by email](https://tutorcruncher.com/email-marketing-mistakes/) remains one of the most effective ways of generating new business
 for your agency. Let your distribution list know about any offers or
 promotions that your agency is running to entice them to try out your
 services. Likewise, send your customers regular updates about what your agency
@@ -59,20 +57,18 @@ there to help.
 ### Social Media Marketing
 
 Definitely one of the core
-strategies of any [ tutoring agency’s marketing strategy
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
-tuition-agency/) , social media can play a significant role in the way you
+strategies of any [tutoring agency’s marketing strategy](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-tuition-agency/), 
+social media can play a significant role in the way you
 market your business and engage with customers. You don’t need to post on
 social media all the time; a few updates a week can be enough to get you
 started. Starting conversations on social networking platforms can be a great
 way of attracting new business to your agency and spreading the word about
 your brand in your local area. Virtually everyone uses some form of social
 media today so make sure you have a presence across the most relevant
-platforms in the industry. **
-<div class="img-holder full-width">
-   <img src="https://c2.staticflickr.com/4/3267/3256031851_6d0a863f71_z.jpg?zz=1" alt-text=""/>
-</div> What
+platforms in the industry.
+
+What
 are the core marketing activities that your tutoring agency focuses on? How
 easily do you become distracted from these important elements? What other
 activities do you see as being the most important to tutoring agencies? We
-welcome your thoughts. **
+welcome your thoughts.

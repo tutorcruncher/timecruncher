@@ -25,7 +25,13 @@ university level.
 
 ### PowerPoint
 
-Another great way to vary the structure of lessons is to introduce PowerPoint presentations. Tutors can collate presentations by themselves or find pre-made presentations from various resource-sharing websites. Particularly good for [ exam revision ](http://www.brightyoungthings.co.uk/parents-blog/2014/5/7/how-to-help-your-child-prepare-for-exams) , PowerPoints often appeal to students who are visual learners or prefer to learn by experiencing things for themselves. Because PowerPoints are more interactive than other traditional tutoring methods, students often retain the information they learn more easily. Tutor should also encourage students to create their own PowerPoints, based on what they’ve learned throughout a particular topic. These presentations can also form the basis of revision material when exam time comes. 
+Another great way to vary the structure of lessons is to introduce PowerPoint presentations. 
+Tutors can collate presentations by themselves or find pre-made presentations from various resource-sharing websites. 
+Particularly good for [exam revision](http://www.brightyoungthings.co.uk/parents-blog/2014/5/7/how-to-help-your-child-prepare-for-exams), 
+PowerPoints often appeal to students who are visual learners or prefer to learn by experiencing things for themselves. Because PowerPoints are 
+more interactive than other traditional tutoring methods, students often retain the information they learn more easily. Tutor should also encourage 
+students to create their own PowerPoints, based on what they’ve learned throughout a particular topic. These presentations can also form the basis of 
+revision material when exam time comes. 
 
 ### Smart Boards
 

@@ -10,8 +10,7 @@ even find that by streamlining some of your tasks,you’ll be able to branch out
 into other areas. Here are our top tips for making the most of your social
 media marketing when you have a busy schedule. ** Think About What You’re
 Trying to Achieve ** Simply posting content whenever the notion takes you
-isn't [ the best strategy for social media success
-](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
+isn't [the best strategy for social media success](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 . Consider what you’re hoping to gain from your social media posts. We’d
 suggest that you’re looking to expand your outreach, encourage people to
 engage with your brand and make enquiries about your services. If you want to
@@ -20,17 +19,15 @@ goals.
 
 ### Go Mobile
 
-Make sure that you have your [ social media profiles
-connected to your mobile devices
-](http://www.tutorcruncher.com/features/mobile-app/) . Download all the apps
+Make sure that you have your [social media profiles
+connected to your mobile devices](https://tutorcruncher.com/features/mobile-app/) . Download all the apps
 you’ll need to post updates to all the platforms you’re active on. By being
 able to post on the go, you can achieve your goals while you’re in between
 meetings, on the tube or killing time before a conference starts. You probably
 already check your emails during these times, so why not add your social media
 posts into the mix too to ensure that you’re maximising your time.
 
-![social-
-media-on-mobile-phone]({{ site.static}}/img/blogs/social-media-on-mobile-phone-300x300.jpg)
+![social- media-on-mobile-phone]({{ site.static}}/img/blogs/social-media-on-mobile-phone-300x300.jpg)
 
 ** Automate
 Your Social Media Posts ** There are several different tools out there that
@@ -50,6 +47,5 @@ someone else’s posts, they’ll thank you for it, which can then lead to furth
 discussion about how you may be able to help them. How do you make the most of
 your social media strategy? Do you ever find yourself pushed for time? Do you
 use any of the tips above? Which have worked particularly well for you in the
-past? Please share your thoughts with the [ TutorCruncher community
-](http://www.tutorcruncher.com/how-to-build-an-online-tutoring-community/) in
+past? Please share your thoughts with the [TutorCruncher community](https://tutorcruncher.com/how-to-build-an-online-tutoring-community/) in
 the comments section below.

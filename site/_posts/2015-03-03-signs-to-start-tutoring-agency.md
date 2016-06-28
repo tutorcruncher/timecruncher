@@ -8,11 +8,7 @@ difficult to determine. To help you identify when you should make the
 transition from a sole trader to a limited company, we’ve put together a list
 of 5 signs that could help you decide when the time is right. _
 
-You can no Longer Keep up with Demand [
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/images-150x150.jpeg" alt-text="images"/>
-</div>
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/images.jpeg) **
+You can no Longer Keep up with Demand
 
 When the time comes that you have to turn students down because you don’t have
 any spaces left, you only have 
@@ -45,13 +41,7 @@ home and existing virtually.
 
 Your Students are Achieving Their Goals 
 
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/tutoring1-150x150.jpg" alt-text="tutoring1"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2015/03/tutoring1.jpg) If
+If
 your students are consistently achieving the grades they hoped for, then you
 know that you’re doing your job well. Having confidence in your own ability
 can often act  as the catalyst for starting new business ventures. If you
@@ -74,8 +64,7 @@ way to grow your income.
 Other Tutors are Asking for your Advice  [
 <div class="img-holder full-width">
    <img src="{{ site.static}}/img/blogs/dialog-148815_640.png" alt-text="dialog-148815_640"/>
-</div>
-]({{ site.static}}/img/blogs/dialog-148815_640.png)
+</div>]({{ site.static}}/img/blogs/dialog-148815_640.png)
 
 If you’re one of those tutors who is constantly being asked for advice by
 other tutors, then you might want to consider yourself a leading figure. If

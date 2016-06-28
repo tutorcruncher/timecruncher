@@ -3,9 +3,7 @@ layout: post
 title:  "Best Practices For Checking a Tutor’s Qualifications"
 permalink: best-practices-tutors-qualifications/
 ---
-According to [ a survey published in the Independent
-](http://www.independent.co.uk/news/education/education-news/a-third-of-
-employers-never-check-job-applicants-qualifications-survey-finds-9681286.html)
+According to [a survey published in the Independent](http://www.independent.co.uk/news/education/education-news/a-third-of-employers-never-check-job-applicants-qualifications-survey-finds-9681286.html)
 , a third of employers never check applicants’ qualifications. Whereas this
 might not seem particularly important in some industries, in the tutoring
 profession, alongside verifying DBS checks, checking qualifications is a must.
@@ -45,7 +43,7 @@ the evidence you need to determine their suitability for your agency, this
 method brings with it its own issues. For example, many people no longer have
 their original qualification certificates and may not be willing to pay for
 new ones to be issued. That’s where using a qualification checking service
-like [ Qualification Check ](http://www.qualificationcheck.com) comes in
+like [Qualification Check](http://www.qualificationcheck.com) comes in
 useful.
 
 Their service will verify a tutor’s qualification directly with universities
@@ -62,8 +60,7 @@ takes safety seriously and that you have high standards as a business. In the
 event that qualification checks don’t match a tutor’s application, providing
 feedback will give you the opportunity to express the seriousness of
 exaggerating academic claims. As a matter of course, you should reiterate how
-important it is to [ promote safety in the tutoring industry
-](http://www.tutorcruncher.com/safe-tutoring-agency/) . By confronting tutors
+important it is to [promote safety in the tutoring industry](https://tutorcruncher.com/safe-tutoring-agency/) . By confronting tutors
 over fraudulent claims, hopefully, you’ll deter them from trying the same
 thing with other organisations.
 

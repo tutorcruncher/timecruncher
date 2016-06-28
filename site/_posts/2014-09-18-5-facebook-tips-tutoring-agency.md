@@ -3,17 +3,14 @@ layout: post
 title:  "5 Facebook Tips for Your Tutoring Agency"
 permalink: 5-facebook-tips-tutoring-agency/
 ---
-There are currently [ 1.28 billion active Facebook users worldwide
-](http://www.statista.com/statistics/264810/number-of-monthly-active-facebook-
+There are currently [1.28 billion active Facebook users worldwide](http://www.statista.com/statistics/264810/number-of-monthly-active-facebook-
 users-worldwide/) and that’s a whole lot of people your tutoring agency could
 be engaging with. Whether you’re looking to sell more lessons, recruit more
 students or generally increase the awareness of your tutoring agency, a
 Facebook strategy can be a valuable resource. We’ve put together our 5 top
-tips for using Facebook for your tutoring agency. **
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/Facebook_like_thumb-300x256.png" alt-text="Facebook_like_thumb"/>
-</div> Give Your Followers
-Value ** The trick to building your agency’s reputation on Facebook is to
+tips for using Facebook for your tutoring agency.
+
+The trick to building your agency’s reputation on Facebook is to
 focus on creating quality posts, rather than sharing any old content that can
 be found on a dozen other Facebook pages. Share interesting statistics,
 infographics and events that provide a unique insight into the tutoring
@@ -26,8 +23,7 @@ valuable industry resource.
 ### The Shorter the Better
 
 People don’t like to
-read long posts on Facebook. [ The average person has 338 friends on Facebook,
-](http://www.pewresearch.org/fact-tank/2014/02/03/6-new-facts-about-facebook/)
+read long posts on Facebook. [The average person has 338 friends on Facebook,](http://www.pewresearch.org/fact-tank/2014/02/03/6-new-facts-about-facebook/)
 so their social feeds are constantly updating, they want short, digestible
 pieces of information that they can share with their friends. Research
 suggests that the most effective Facebook posts are around 60 characters in
@@ -37,8 +33,7 @@ not share some photos from the event on your page and encourage others to
 comment on them? Perhaps you could run a caption competition? Reach out to
 your followers and ask them to post some of their photos from the event to
 your page. Not only does this improve engagement with people but it also adds
-to your [ social media content. ](http://www.tutorcruncher.com/social-media-
-strategy-for-tutoring-businesses/) 
+to your [social media content.](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/) 
 
 ### Focus on Engagement Not Selling
 
@@ -60,9 +55,8 @@ your services, so you should be ready to respond to enquiries quickly. Think
 of your Facebook strategy as an extension of your customer service strategy
 and try to be as helpful as possible. Make your replies friendly to show
 people that your agency is approachable.
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/FacebookMessenger_nouveau_logo.png" alt-text="FacebookMessenger_nouveau_logo"/>
-</div> In what ways do
+
+In what ways do
 you use Facebook for your tutoring agency? Do you have any tips of your own
 that you’d like to share with our readers? What do you find the most
 challenging aspect of using Facebook for your agency? We’d be keen to hear

@@ -12,7 +12,7 @@ services is worthwhile.
 
 Identify Shared Goals and Values
 
-As a  [tutoring company](http://www.tutorcruncher.com/tutor-agencies/) ,
+As a  [tutoring company](https://tutorcruncher.com/tutor-agencies/) ,
 it’s important that you appeal to your student’s goals. What do you offer that
 they want? By getting to know your students better, you’ll have a greater
 understanding of what they hope to gain from using your tutoring services.
@@ -50,7 +50,7 @@ feeling overwhelmed by the amount of work ahead.
 One of the biggest advantages that private tutoring has over classroom
 learning is that students have a tutor’s attention throughout the whole
 lesson. By encouraging your tutors to
-[plan lessons in advance](http://www.tutorcruncher.com/tutor-scheduling-software/)
+[plan lessons in advance](https://tutorcruncher.com/tutor-scheduling-software/)
 and tailor them to
 students’ individual needs, students will feel that attention is being paid to
 their learning.

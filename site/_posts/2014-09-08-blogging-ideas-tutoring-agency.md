@@ -3,18 +3,11 @@ layout: post
 title:  "Blogging Ideas for Your Tutoring Agency"
 permalink: blogging-ideas-tutoring-agency/
 ---
-Thinking up [ new ideas for your blog posts
-](http://www.tutorcruncher.com/tutoring-agency-needs-blog/) can be tricky and
+Thinking up [new ideas for your blog posts](https://tutorcruncher.com/tutoring-agency-needs-blog/) can be tricky and
 it’s even more challenging to write a post about something completely unique.
 Everyone gets writer’s block once in a while, so to help you on your way to
 creating valuable content, we’ve compiled a list of blog post ideas to breathe
-new life into your tutoring blog. [
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/images.jpg" alt-text="images"/>
-</div>
-
-]({{ site.static}}/img/blogs/images.jpg)
+new life into your tutoring blog.
 
 ### Comment on New Developments
 
@@ -35,21 +28,12 @@ heap of questions they’d like to ask. Think about all the questions you had
 when you first became a private tutor, what would you have loved to have read
 about the industry then? There will always be a market for writing entry-level
 blog posts about the tutoring industry, especially given its rapid growth over
-the last decade. [
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/faq-150x150.png" alt-text="faq"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/09/faq.png) 
+the last decade. 
 
 ### Review New Technology
 
 If you want your
-tutoring agency to be on the cutting edge of education then you need to [
-adapt to using new technology ](http://www.tutorcruncher.com/technology-
-teaching-ideas-for-private-tutors/) . Why not be the first in the industry to
+tutoring agency to be on the cutting edge of education then you need to [ adapt to using new technology](https://tutorcruncher.com/technology-teaching-ideas-for-private-tutors/) . Why not be the first in the industry to
 review a new product that may be useful to tutoring agencies? Perhaps there’s
 a new e-learning programme on the market or some new educational software?
 Reviewing technology can be a great way of ensuring your blog has a steady
@@ -58,8 +42,7 @@ and new products are being launched every week.
 
 ### Create ‘Best of’ Lists
 
-Compiling your [ favourite resources in one place
-](http://www.tutorcruncher.com/great-tutoring-websites-and-blogs/) can form
+Compiling your [favourite resources in one place](https://tutorcruncher.com/great-tutoring-websites-and-blogs/) can form
 the basis of great blog posts. Not only are these types of posts quick and
 easy to write, but they also get shared more than any other blog post. If
 you’ve written a ‘top ten’ or an ‘ultimate guide’ then why not alert the

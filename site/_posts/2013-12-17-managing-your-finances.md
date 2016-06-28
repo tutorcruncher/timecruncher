@@ -2,6 +2,8 @@
 layout: post
 title:  "Managing your Finances"
 permalink: managing-your-finances/
+redirect_from:
+  - /managing-your-finances-2/
 ---
 A lot of people avoid monitoring the financial side of their initial business
 plan. However, before you are generating a steady income it is vital to
@@ -9,8 +11,7 @@ consider and consolidate your budget. Your plan should begin with a lot of
 careful research into the realistic amount you can earn from tuition per month
 – considering factors such as hourly rate for each level, average hours per
 month per client, and the average amount you have to pay your tutors per hour.
-You should use a [ spreadsheet program ](http://spreadsheet-software-
-review.toptenreviews.com/) , such as Excel, in order to effectively gauge your
+You should use a [spreadsheet program](http://spreadsheet-software-review.toptenreviews.com/) , such as Excel, in order to effectively gauge your
 progress and lay-out your prospective plans.It is perhaps better not to be
 overly optimistic when working out your monthly objectives or targets.
 However, reasonable assumptions are necessary to ensure that you are not
@@ -27,10 +28,8 @@ month and that was your goal ask yourself
 
 and do something about it.
 You could potentially persuade your tutors to recruit for you by sending a
-group email round, (using a program like [ MailChimp ](http://mailchimp.com/?p
-id=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your
-database size) and offering them a reward (such as [ Starbuck’s vouchers
-](https://www.starbucks.co.uk/card) ) if they successfully introduce new
+group email round, (using a program like [MailChimp](http://mailchimp.com/?pid=GAW&source=website&gclid=CMeGrou-t7sCFTMdtAodu28AZQ) depending on your
+database size) and offering them a reward (such as [Starbuck’s vouchers](https://www.starbucks.co.uk/card) ) if they successfully introduce new
 students to you. You can also consider investing more money in advertising and
 cutting the time you spend on administration to focus on marketing and
 generating new business.

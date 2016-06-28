@@ -7,18 +7,13 @@ One of the most difficult tasks new tutoring agencies face is marketing. The
 internet is a hub of information and sometimes it can be difficult to separate
 good advice from bad. If your agency is suffering from information overload in
 terms of marketing, then our list should help you clear a path and enable you
-see the wood from the trees. ** Marketing Doesn’t Need to Cost a Fortune
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/top-email-marketing-service-mailchimp-logo.png" alt-text="top-email-marketing-service-mailchimp-logo"/>
-</div> **
+see the wood from the trees. ** Marketing Doesn’t Need to Cost a Fortune**
 Nowadays, there are so many free marketing tools out there, that you can [
-easily implement an online marketing strategy
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
+easily implement an online marketing strategy](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) without breaking the bank. It doesn’t cost a thing to send an
 email to your contacts to get you started and most large scale email providers
 like MailChimp offer free accounts, which are ideal for new businesses. Savvy
-marketers know that [ marketing essentials
-](http://www.tutorcruncher.com/digital-resources-tuition-agency/) like
+marketers know that [marketing essentials](https://tutorcruncher.com/digital-resources-tuition-agency/) like
 analytics software and image creation tools can actually be accessed for free
 using trial versions of products or by searching for free alternatives online.
 Basic software packages usually provide more than enough functionality for new
@@ -29,13 +24,10 @@ distribution. Make a list of journalists who regularly write about the tuition
 industry and ask if they’d be interested in receiving your press releases. By
 carefully targeting who you send information to, your PR efforts will be more
 effective than simply sending press releases to anyone in the media. Nowadays,
-journalists use press release websites and [ social media to keep track of the
-latest tutoring news ](http://www.tutorcruncher.com/make-the-most-social-
-media/) , so make sure you post your press releases on these platforms too.
+journalists use press release websites and [social media to keep track of the latest tutoring news](https://tutorcruncher.com/make-the-most-social-media/) , so make sure you post your press releases on these platforms too.
 Why go to them if you can get them to come to you? **
 
-![analysing-market-
-research]({{ site.static}}/img/blogs/analysing-market-research-300x300.jpg)
+![analysing-market- research]({{ site.static}}/img/blogs/analysing-market-research-300x300.jpg)
 
 Market Research is a Necessity Not an Option **
 Every tutoring agency should conduct regular market research. Not only does

@@ -41,5 +41,4 @@ second ‘new’ Kent Test results are published and there will be some
 opportunities to discuss individual cases in the last half hour at least. The
 conference  is raising money for children's mental health charity, ' Charlie
 Waller Memorial Trust'. More information and early bird tickets available
-please visit: [ www.  nationaltutoringconference.  org.uk
-](http://www.nationaltutoringconference.org.uk/) and #Kenttest
+please visit: [www.  nationaltutoringconference.  org.uk](http://www.nationaltutoringconference.org.uk/) and #Kenttest

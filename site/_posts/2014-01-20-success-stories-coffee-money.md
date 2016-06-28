@@ -8,9 +8,7 @@ tutoring industry, hoping you can learn the ropes of managing your own
 tutoring business out of their personal experiences. Today's success story is
 Neil's one.  Neil runs a charity in Ireland and in his spare time he teaches
 people how to own their own profitable online business.  His areas of
-knowledge and expertise are content marketing, blogging, [ SEO
-](http://en.wikipedia.org/wiki/Search_engine_optimization) , [ SEM
-](http://en.wikipedia.org/wiki/Search_engine_marketing) , social media
+knowledge and expertise are content marketing, blogging, [SEO](http://en.wikipedia.org/wiki/Search_engine_optimization) , [SEM](http://en.wikipedia.org/wiki/Search_engine_marketing) , social media
 marketing, email marketing, copywriting.  ** A little bit more about his
 background...  ** He has been teaching and coaching offline since 1984.  He
 started teaching online in 2008.  He is a qualified soccer coach and began his
@@ -28,34 +26,12 @@ expertise and began teaching and running online classes myself.  Having
 experienced both online and offline tutoring, these are some skills he would
 highly recommend having if you want to succeed in that field :
 
-* 
-
 ### Subject Knowledge
 
-* 
+* **Lesson Planning** setting goals, objectives and deliverables. 
+* **Communication skills** prior to, during and post tutoring- in order to get the best out of everyone involved 
+* **Time management** critical both online and offline. Online, the added concern here is often working with different time zones. 
+* **Coaching** asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
 
-### Lesson Planning
-
-\- setting goals, objectives and deliverables. 
-* 
-
-### Communication skills
-
-\- prior to, during and post tutoring- in order to get the best out of everyone involved 
-* 
-
-### Time management
-
-\- critical both online and offline. Online, the added concern here is often working with different time zones. 
-* 
-
-### Coaching
-
-\- asking the right questions, agreeing action plans and creating accountability and outcome ownership for all those involved. 
-
-### Neil Ashworth teaches small business owners how to grow their business
-online. Learn more about him on [ Google+
-](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [
-website ](http://www.coffeemoney.co.uk/) **
-
-### Comment to share your own success story with us !
+Neil Ashworth teaches small business owners how to grow their business
+online. Learn more about him on [Google+](https://plus.google.com/u/0/+NeilAshworthUK/about) or by visiting his [ website](http://www.coffeemoney.co.uk/) **

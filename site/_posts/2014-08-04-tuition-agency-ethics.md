@@ -17,17 +17,16 @@ the priority for every tuition agency. Because tuition agencies offer their
 services to those under 16 and to other vulnerable members of society, we
 believe that every tutor should undergo a criminal background check from the
 Disclosure and Barring Service before they are offered a contract with an
-agency. Ideally, we also believe that tutors should be given training on [ how
-to be safety conscious ](http://www.tutorcruncher.com/interviewing-your-
-tutors/ "Interviewing Tutors" ) during lessons and students should receive
+agency. Ideally, we also believe that tutors should be given training on
+[how to be safety conscious](https://tutorcruncher.com/interviewing-your-tutors// "Interviewing Tutors" ) during lessons and students should receive
 information on how to stay safe when they’re on their own. We believe that
 safety is everyone’s responsibility and everyone involved in a student’s
 education should have a responsibility of care. ** Suitable Qualifications for
 Tutors ** Tutors come from a range of different backgrounds and that’s one of
 the things that make the industry so successful. However, we believe that
-there needs to be a minimum qualification level set for people who want [ to
-become private tutors ](http://www.tutorcruncher.com/how-to-recruit-tutors-
-for-your-agency/ "Recruiting Tutors" ) . We don’t necessarily think that every
+there needs to be a minimum qualification level set for people who want 
+[to become private tutors](https://tutorcruncher.com/how-to-recruit-tutors-for-your-agency/ "Recruiting Tutors" ). 
+We don’t necessarily think that every
 tutor should hold a teaching qualification but we do believe that they should
 have a qualification in the subject that they plan to teach. Ideally, we think
 tutors should be educated to degree level and have relevant experience of
@@ -36,9 +35,9 @@ Learning ** One of the main differences between private tuition and classroom
 learning is that one to one tuition enables tutors to give more time to
 understanding what students think of particular learning points. We believe
 that one to one tuition gives students more of an opportunity to express their
-opinions, which [ encourages independent learning
-](http://www.tutorcruncher.com/how-to-encourage-students-to-take-control-of-
-their-learning/ "Encourage Independent Learning" ) . By taking a student-
+opinions, which 
+[encourages independent learning](https://tutorcruncher.com/how-to-encourage-students-to-take-control-of-their-learning/ "Encourage Independent Learning" ). 
+By taking a student-
 focused approach, students form their own opinions quicker, which can help
 with all aspects of their education including exam preparation and making the
 transition from high school to university. 

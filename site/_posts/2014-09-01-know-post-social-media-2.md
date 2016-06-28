@@ -3,8 +3,7 @@ layout: post
 title:  "How to Know When to Post on Social Media"
 permalink: know-post-social-media-2/
 ---
-Social media is an integral part of any [ tutoring agency’s marketing strategy
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
+Social media is an integral part of any [tutoring agency’s marketing strategy](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) but finding and creating content to post is only one half of
 the social media equation. You need to ensure that people actually see what
 you post. Here are our top tips for knowing the best times to post on social
@@ -13,8 +12,7 @@ media.
 ### Consider Your Own Social Media Use
 
 Have a think about when you’re
-most likely to use [ social media platforms
-](http://www.tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
+most likely to use [social media platforms](https://tutorcruncher.com/social-media-strategy-for-tutoring-businesses/)
 when you’re just browsing. Do you check your profiles first thing in the
 morning before you make a start on your tasks for the day? Or do you wait
 until mid-afternoon until you’re having your lunch before you explore what
@@ -44,8 +42,7 @@ using software like HootSuite and Buffer.
 Of
 course, you could go down the route of exploring what other companies have
 discovered about the best times to post your social media updates. According
-to content experts [ Add This ](http://www.addthis.com/blog/2014/04/03/whens-
-the-best-day-and-time-to-post-on-social-media/#.VARlOfl5MwA) , the best time
+to content experts [Add This](http://www.addthis.com/blog/2014/04/03/whens-the-best-day-and-time-to-post-on-social-media/#.VARlOfl5MwA) , the best time
 to post on Facebook is between 9am and 12pm on a Thursday, whereas the best
 time to post a tweet on Twitter is on Fridays between 2pm and 3pm. This
 research was carried out using insights from their own websites visitors, so

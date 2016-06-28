@@ -6,17 +6,13 @@ permalink: marketing-goals-new-year/
 As another New Year begins, business owners are given the opportunity to
 refine their goals for the coming months. As a tutoring agency, you may
 already have your goals mapped out and that’s great. However, if you need some
-inspiration for how you’ll [ grow your business this year
-](http://www.tutorcruncher.com/digital-marketing-strategy-can-help-grow-
+inspiration for how you’ll [grow your business this year](https://tutorcruncher.com/digital-marketing-strategy-can-help-grow-
 tuition-agency/) , here are 4 marketing goals that we think every agency
-should focus on. [
+should focus on.
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/target-418917_640.jpg" alt-text="Goal's Target"/>
-</div>
+### Share Your Goals with Others
 
-]({{ site.static}}/img/blogs/target-418917_640.jpg) ** Share Your Goals with Others
-** Whether you have a specific plan in place or not, sharing your goals for
+Whether you have a specific plan in place or not, sharing your goals for
 the coming year will benefit your business in several ways. First of all,
 it’ll motivate your tutors to help you succeed in your quest and it’ll show
 your tutors that you care about the quality of education they receive at your
@@ -31,8 +27,7 @@ you achieve them.
 Every
 business can benefit from improved communication. How will you ensure that
 your tutors and students are kept updated with your announcements this year?
-Perhaps it’s time to embrace that new technology or [ social media platform
-](http://www.tutorcruncher.com/make-the-most-social-media/) that you’ve been
+Perhaps it’s time to embrace that new technology or [social media platform](https://tutorcruncher.com/make-the-most-social-media/) that you’ve been
 avoiding for so long? Or maybe your internal communication would benefit from
 some good old fashioned face to face meetings? And how about externally? Are
 you making the most of your email marketing and print advertising? There’s a
@@ -49,8 +44,7 @@ share, can provide you with some useful insights to help your business grow.
 Similarly, by taking time out to consider the tutoring marketplace, you’ll
 also be able to spot market changes that you can take advantage off. What new
 trends appear to be emerging this year? How can you get in on the act? ** Be
-the Change You’d Like to See ** Whether you’re a [ tutoring agency director
-](http://www.tutorcruncher.com/productive-tutoring-agency/) or a tutor,
+the Change You’d Like to See ** Whether you’re a [tutoring agency director](https://tutorcruncher.com/productive-tutoring-agency/) or a tutor,
 practicing what you preach can really help aim your business in the right
 direction. By setting an example for you staff and students, you’ll inspire
 them to adopt any new practices you introduce into the business. You’ll also

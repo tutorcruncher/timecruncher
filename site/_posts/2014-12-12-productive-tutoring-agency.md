@@ -14,8 +14,7 @@ come up with this list of ways to ensure your time is spent wisely. **
 and Targets ** When you’re involved in the day to day running of a tutoring
 agency, it can be easy to lose track of the bigger picture. It’s important to
 make sure that you’re keeping to the original plan you set out in your [
-business strategy
-](http://www.tutorcruncher.com/5_core_marketing_activities_focus/) and aren’t
+business strategy](https://tutorcruncher.com/5_core_marketing_activities_focus/) and aren’t
 being distracted by other fruitless avenues. By comparing your progress to
 your initial predictions, you’ll be able to see if any of your business
 operations need adjusted in order to stay on track and move forward. If you
@@ -25,9 +24,7 @@ approach.
 ### Hire a Second Pair of Eyes
 
 Sometimes there just aren’t enough
-hours in the day and with all the responsibilities that go with being a [
-tutoring agency owner ](http://www.tutorcruncher.com/what-makes-a-good-
-tuition-agency-director/) , you can’t afford not to spend your days
+hours in the day and with all the responsibilities that go with being a [ tutoring agency owner](https://tutorcruncher.com/what-makes-a-good-tuition-agency-director/) , you can’t afford not to spend your days
 productively. One of the best moves you can make to lighten your load is to
 hire a second pair of eyes. Appointing an assistant manager can help ensure
 your focus remains on the tasks at hand while they take care of other aspects
@@ -37,8 +34,7 @@ staff willing to step up the career ladder.
 ### Use Email Sparingly
 
 Other
-than social media, [ checking emails ](http://www.tutorcruncher.com/email-
-marketing-mistakes/) is one of the most distracting aspects of running a
+than social media, [checking emails](https://tutorcruncher.com/email-marketing-mistakes/) is one of the most distracting aspects of running a
 business. It can be tempting to keep your inbox open all day and deal with
 emails as they come in, but this could be doing your productivity more harm
 than good. Although being able to multitask is a useful skill, in order to

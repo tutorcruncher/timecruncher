@@ -58,5 +58,4 @@ TutorCruncher is about to release its most substantial update within the next
 * Ability to not bill a job through the Invoicing and Billing Platform 
 * Many other bug fixes and minor improvements. 
 I hope you are as excited to see the new features as we are and if you have
-any bright ideas for new features please get in touch at [
-info@tutorcruncher.com ](mailto:info@tutorcruncher.com) .
+any bright ideas for new features please get in touch at [ info@tutorcruncher.com](mailto:info@tutorcruncher.com) .

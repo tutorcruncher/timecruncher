@@ -4,8 +4,7 @@ title:  "How to Promote Your Tuition Agency Online Using Google AdWords"
 permalink: promote-tuition-agency-online-using-google-adwords/
 ---
 For tuition agencies that want to promote themselves online and don’t have
-much of a budget, [ Google AdWords
-](http://support.google.com/adwords/bin/answer.py?hl=en&answer=1704410) can be
+much of a budget, [Google AdWords](http://support.google.com/adwords/bin/answer.py?hl=en&answer=1704410) can be
 a great way of ensuring your site appears on Google’s first page for some of
 the crucial search phrases. You can spend as much or as little as you like on
 AdWords because it operates on a pay-per-click model and you’re only charged
@@ -26,8 +25,7 @@ looking for agencies rather than individual tutors. These shorter tail
 keywords can have high costs per click, due to there being lots of competition
 so you should also try to target some long tail keywords as well using longer
 sentences or phrases. People often search using several different combinations
-of words, so make sure you have those covered too. Phrases like ‘ [ how to
-choose a tutoring agency ](http://www.tutorcruncher.com/common-mistakes-
+of words, so make sure you have those covered too. Phrases like ‘ [how to choose a tutoring agency](https://tutorcruncher.com/common-mistakes-
 choosing-tutoring-agency/) ’ are usually particularly effective. You can use
 the keyword planner within the Adwords interface to help you find more
 keywords when you’re stuck for ideas.
@@ -45,8 +43,7 @@ are actually interested in using your agency’s services.
 
 ### Device Targeting
 
-The future of online marketing is [ device targeting
-](http://www.tutorcruncher.com/features/mobile-app/) and things are no
+The future of online marketing is [device targeting](https://tutorcruncher.com/features/mobile-app/) and things are no
 different with Google AdWords. With AdWords, you can adjust your bids
 depending on whether a search has been carried out on desktop computers or
 laptops, mobile devices or tablets. Bid adjustments can be made within
@@ -55,14 +52,6 @@ keep in mind the direction in which the search market is moving. This is
 currently towards mobile. Indeed, as shown in the following graph, the
 percentage of web search on tablets and smartphones has been appreciably
 increasing by 5 and 3,5 per cent respectively, in 2013.
-
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/Mobile-Traffic.png" alt-text="Mobile Traffic"/>
-</div>
-
-]({{ site.static}}/img/blogs/Mobile-Traffic.png)
 
 Remember that with Google AdWords, you only spend as much as you want. You’re
 able to set your budget per day, which can be as little as £1. AdWords can be

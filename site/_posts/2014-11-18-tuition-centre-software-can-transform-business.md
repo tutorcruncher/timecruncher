@@ -14,7 +14,7 @@ to day running of the business is administration. As an agency starts to grow,
 so does the paperwork and that means it becomes easier to lose track of admin
 tasks. With tuition centre software, you’ll be better organised, which means
 your business operations will run more smoothly. TutorCruncher’s tutoring
-software takes care of everything from [tutor invoices](http://www.tutorcruncher.com/features/automated-invoicing-payroll/) to
+software takes care of everything from [tutor invoices](https://tutorcruncher.com/features/automated-invoicing-payroll/) to
 student lessons and data profiles.
 
 ### Reducing Errors
@@ -43,8 +43,7 @@ software is that its cloud based, meaning you can access your management
 system from anywhere in the world – all you need is an internet connection.
 This enables you to ‘work on the go’, while you’re travelling to meetings or
 at home. It can also afford you a more practical work/life balance, given that
-you don’t need to visit the office every day to get work done. [Cloud-based
-tuition centre software](/features/cloud-software) also opens up greater employment opportunities as any admin staff that
+you don’t need to visit the office every day to get work done. [Cloud-based tuition centre software](/features/cloud-software) also opens up greater employment opportunities as any admin staff that
 you recruit can work remotely, meaning you’re not restricted to hiring within
 a 15 mile radius of your office. [TutorCruncher](/) is a bespoke management software tool
 for the private tutoring industry. The market leader in tuition agency

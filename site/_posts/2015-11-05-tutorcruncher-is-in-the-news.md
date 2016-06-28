@@ -29,7 +29,7 @@ not to the everyday operation of their business, but reaching new markets,
 developing new products, and tackling the inevitable challenges that await in
 the sector. 
 
-The article can be accessed at [ http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/ ](http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/)
+The article can be accessed at [http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/](http://estateandmanor.com/would-warren-buffett-buy-a-tuition-agency/)
 
 <div class="img-holder full-width">
   <img src="{{ site.static}}/img/blogs/warrenbuffett-620x400.jpg" alt="Warren Buffett"/>

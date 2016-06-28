@@ -15,8 +15,6 @@ We’ve put together a list of instances that a student should approach a
 tutoring agency for extra assistance. You can take a look at our top 5
 tutoring website and blogs to find out more about the pros of tutoring.
 
-** **
-
 ### Falling Grades
 
 If a student notices a decline in their academic performance, whether it be
@@ -85,13 +83,8 @@ in working with children with
 learning disabilities. Having a tutor who understands which techniques work
 best with students can be invaluable in helping them get back on track with
 their studies and enjoying their lessons more. Tutoring can really make a
-difference. [
+difference.
 
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/IMG_9263-1024x614.jpg" alt-text="tutoring-matters"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) _ Have
-you ever used a private tuition agency? When did you know it was time to seek
+Have you ever used a private tuition agency? When did you know it was time to seek
 extra help? How did extra tutoring help with your confidence levels? We’d like
 to hear about your experiences. _

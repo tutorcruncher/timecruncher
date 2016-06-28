@@ -11,10 +11,10 @@ collaborate remotely.
 
 ### Tell us a bit about the concept of your business:
 
-What do we do? \- “We connect STUDENTS with AFFORDABLE online QUALITY TUTORS
-who help them achieve HIGHER GRADES” Why do we do it? \- “We BELIEVE tutoring
-should be ACCESSIBLE, AFFORDABLE and FUN” How do we do it? \- “By providing a
-SECURE, EASY TO USE, globally ACCESSIBLE ONLINE tutoring PLATFORM” ** What
+What do we do? \- "We connect STUDENTS with AFFORDABLE online QUALITY TUTORS
+who help them achieve HIGHER GRADES" Why do we do it? \- "We BELIEVE tutoring
+should be ACCESSIBLE, AFFORDABLE and FUN" How do we do it? \- "By providing a
+SECURE, EASY TO USE, globally ACCESSIBLE ONLINE tutoring PLATFORM" ** What
 lead you to start an online business? Where did you get the idea from? ** I
 have extensive experience working within the blue chip technology companies.
 My expertise has mainly been around managing the self-service based online
@@ -42,17 +42,9 @@ strongly believe that the only thing constant in the world is change. Here at
 Tuition desk we strive every day to ensure that all issues reported to us are
 found and fixed immediately because we strive to not only meet, but also to
 exceed customer expectations. If you would like to apply to become an online
-tutor with Tuition Desk visit their website [ here
-](http://www.tuitiondesk.com/) where you can register for free. You can also
-find Tuition Desk on [ Twitter ](https://twitter.com/TuitionDesk) , [ Facebook
-](https://www.facebook.com/TuitionDesk) and [ Google + ](https://plus.google.c
-om/u/0/b/108797775424570902970/108797775424570902970/posts) . They are
+tutor with Tuition Desk visit their website [here](http://www.tuitiondesk.com/) where you can register for free. You can also
+find Tuition Desk on [Twitter](https://twitter.com/TuitionDesk), 
+[Facebook](https://www.facebook.com/TuitionDesk) and 
+[Google +](https://plus.google.com/u/0/b/108797775424570902970/108797775424570902970/posts) . They are
 celebrating 1000 fans on Facebook and for this reason they have organised a
-photo contest where you can win €25 / £25 credit. Visit their [ blog
-](http://www.tuitiondesk.com/blogs/photo-competition-who-has-the-messiest-
-workstation/) for more information and good luck. [
-
-![Tuition
-Desk]({{ site.static}}/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)
-
-]({{ site.static}}/img/blogs/Schermata-2014-06-24-alle-3.41.49-PM.png)
+photo contest where you can win €25 / £25 credit. Visit their [blog](http://www.tuitiondesk.com/blogs/photo-competition-who-has-the-messiest-workstation/) for more information and good luck.

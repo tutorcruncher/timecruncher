@@ -9,8 +9,7 @@ permalink: improve-your-tutoring-blog/
 understand the importance of having a blog on their website. Given that
 there’s now a lot more competition in the tutoring blogsphere, how exactly can
 you make yours stand out from the rest of the crowd? Here are our five tips to
-improve your [ tutoring agency blog ](http://www.tutorcruncher.com/tutoring-
-agency-needs-blog/) and set your company apart from the competition. ** Report
+improve your [tutoring agency blog](https://tutorcruncher.com/tutoring-agency-needs-blog/) and set your company apart from the competition. ** Report
 on Industry News Before Anyone Else ** There’s a lot to be said for being the
 first to alert people to breaking news stories. If you report on any changes
 or trends within the tutoring industry before anyone else, you’re blog is
@@ -24,8 +23,7 @@ news stories individually.
 
 If you want
 to establish your blog as the best in the industry, then you need to become a
-thought leader. To do this, you need to [ write blog posts that are forward-
-thinking ](http://www.tutorcruncher.com/blogging-ideas-tutoring-agency/) and
+thought leader. To do this, you need to [write blog posts that are forward- thinking](https://tutorcruncher.com/blogging-ideas-tutoring-agency/) and
 define the tutoring industry in some way. Conducting tutor surveys can be a
 great way to build your blog’s reputation, as can conducting interviews with
 influential members of the tutoring community. When it comes to building a
@@ -55,8 +53,7 @@ Style and Tone ** When it comes to writing blog posts, those that are written
 in a conversational tone tend to be the most engaging. Although the tutoring
 industry can be quite factual, especially if writing about specific subjects,
 try to present information in an entertaining way. You may also want to
-consider [ how your blog posts are laid out on the page
-](http://www.tutorcruncher.com/optimize-tutoring-agencys-blog/) . People tend
+consider [how your blog posts are laid out on the page](https://tutorcruncher.com/optimize-tutoring-agencys-blog/) . People tend
 to engage with posts that are written using subheadings and paragraphs.
 Sometimes breaking traditional writing rules can also help make your content
 stand out. For example, if a sentence is particularly important, why not give

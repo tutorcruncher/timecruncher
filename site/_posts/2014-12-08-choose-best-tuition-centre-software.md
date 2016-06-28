@@ -3,15 +3,7 @@ layout: post
 title:  "How to Choose the Best Tuition Centre Software"
 permalink: choose-best-tuition-centre-software/
 ---
-[
-
-<div class="img-holder full-width">
-   <img src="{{ site.static}}/img/blogs/software-500956_640-229x300.jpg" alt-text="software"/>
-</div>
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-500956_640.jpg) When it comes to choosing [
-software for your tutoring agency ](http://www.tutorcruncher.com/) , you want
+ When it comes to choosing [ software for your tutoring agency](https://tutorcruncher.com/) , you want
 a product that makes your everyday business operations more streamline. Here
 are our tips on how to choose the best tuition centre software for your
 tutoring agency: 
@@ -23,8 +15,7 @@ your software to do. Are your needs fairly basic or do you need software that
 can handle more complex operations? Write down a list of features that you
 need your tuition software to have and give each one a priority, these are the
 things that you need your software to do on the most basic level. Also,
-consider [ how much you’re looking to spend
-](http://www.tutorcruncher.com/pricing/) ? Are you a start-up with a limited
+consider [how much you’re looking to spend](https://tutorcruncher.com/pricing/) ? Are you a start-up with a limited
 budget or a multi-national with more money to spend? Your agency’s finances
 should also have a bearing on the software that you choose. ** Ask For a
 Demonstration or a Free Trial ** One of the best ways to decide what tuition
@@ -43,8 +34,7 @@ that will enable your agency to grow? Is there anything limiting about the
 product? It’s also a good idea to find out what upgrades the software is due
 and how the company plan to add more value in the future. ** What do Other
 Users Say? ** Buying on recommendation is one of the best ways to determine
-which tuition centre software is for you. Find out what other [ tutoring
-agencies ](http://www.tutorcruncher.com/tutor-agencies/) use the software and
+which tuition centre software is for you. Find out what other [tutoring agencies](https://tutorcruncher.com/tutor-agencies/) use the software and
 ask them how they find the technology. What are its positives and negatives?
 What other software have they tried and how did it compare? Perhaps most
 importantly, try to gauge whether other users think the software is good value

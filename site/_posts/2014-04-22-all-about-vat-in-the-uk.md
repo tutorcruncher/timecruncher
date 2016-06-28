@@ -27,8 +27,7 @@ you'll have to register for VAT if either:
 * You think your turnover will soon go over this limit 
 You can choose to register for VAT if you want, even if you don’t have to pay
 yet  Follow this link to find out more about how and when to register for VAT:
-[ http://www.hmrc.gov.uk/vat/start/register/index.htm
-](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
+[http://www.hmrc.gov.uk/vat/start/register/index.htm](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
 and accounted for? ** If you’re VAT-registered the VAT you add to the sale
 price of your tutoring goods or services are called your 'output tax'. The VAT
 you pay when you buy goods and services for your business are called your
@@ -118,8 +117,7 @@ you'll have to register for VAT if either:
 * You think your turnover will soon go over this limit 
 You can choose to register for VAT if you want, even if you don’t have to pay
 yet  Follow this link to find out more about how and when to register for VAT:
-[ http://www.hmrc.gov.uk/vat/start/register/index.htm
-](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
+[http://www.hmrc.gov.uk/vat/start/register/index.htm](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
 and accounted for? ** If you’re VAT-registered the VAT you add to the sale
 price of your tutoring goods or services are called your 'output tax'. The VAT
 you pay when you buy goods and services for your business are called your
@@ -207,8 +205,7 @@ you'll have to register for VAT if either:
 * You think your turnover will soon go over this limit 
 You can choose to register for VAT if you want, even if you don’t have to pay
 yet  Follow this link to find out more about how and when to register for VAT:
-[ http://www.hmrc.gov.uk/vat/start/register/index.htm
-](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
+[http://www.hmrc.gov.uk/vat/start/register/index.htm](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
 and accounted for? ** If you’re VAT-registered the VAT you add to the sale
 price of your tutoring goods or services are called your 'output tax'. The VAT
 you pay when you buy goods and services for your business are called your
@@ -296,8 +293,7 @@ you'll have to register for VAT if either:
 * You think your turnover will soon go over this limit 
 You can choose to register for VAT if you want, even if you don’t have to pay
 yet  Follow this link to find out more about how and when to register for VAT:
-[ http://www.hmrc.gov.uk/vat/start/register/index.htm
-](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
+[http://www.hmrc.gov.uk/vat/start/register/index.htm](http://www.hmrc.gov.uk/vat/start/register/index.htm) ** How VAT is charged
 and accounted for? ** If you’re VAT-registered the VAT you add to the sale
 price of your tutoring goods or services are called your 'output tax'. The VAT
 you pay when you buy goods and services for your business are called your

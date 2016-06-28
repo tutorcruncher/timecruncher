@@ -3,13 +3,7 @@ layout: post
 title:  "What Does Tuition Centre Software Offer that Traditional Accounting Software"
 permalink: tuition-centre-software/
 ---
-[
-
-![software](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-417880_640-300x280.jpg)
-
-](http://www.tutorcruncher.com/wp-
-content/uploads/2014/12/software-417880_640.jpg) You’ve probably heard about
+You’ve probably heard about
 online accounting software that enables you to take care of your books.
 Software like KashFlow, Sage and ClearBooks all offer some great accounting
 features but you’re running a tutoring agency, so what you need is software

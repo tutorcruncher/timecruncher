@@ -22,11 +22,9 @@ teaching methods…). Regarding that, decide if you should assign them to
 another student or simply replace them. Remember, communication is key !  **
 You don’t have enough students.  ** As for finding tutors, you can post an ad
 on tutoring websites, you can also spread the word around your relatives,
-friends. You might also want to post some flyers at local [ schools
-](http://schoolsguide.brightyoungthings.co.uk/schools.aspx) and contact school
+friends. You might also want to post some flyers at local [schools](http://schoolsguide.brightyoungthings.co.uk/schools.aspx) and contact school
 counsellors. A good way to spread the word is to ask your former students to
-share their tutoring experiences with you on [ social networks
-](https://www.facebook.com/) or with their friends.  ** You are going through
+share their tutoring experiences with you on [social networks](https://www.facebook.com/) or with their friends.  ** You are going through
 schedule issues.  ** If you or the student can not attend a lesson, aim notify
 in advance and then reschedule the appointment. You might also want to set up
 a cancellation policy as you experience this type of problem.  Let us know

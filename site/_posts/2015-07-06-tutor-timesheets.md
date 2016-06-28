@@ -64,5 +64,5 @@ reduces scope for error. At TutorCruncher, timesheets are only one of the
 [features of our tutor scheduling software](/features/). 
 There are many more features that will help your business be more organised and reduce your overall
 administration time. But don’t just take our word for it, check out some of
-the [tutoring businesses we work with](http://www.tutorcruncher.com/testimonials/) and see how we have helped
+the [tutoring businesses we work with](https://tutorcruncher.com/testimonials/) and see how we have helped
 improve the way they organise their business operations.

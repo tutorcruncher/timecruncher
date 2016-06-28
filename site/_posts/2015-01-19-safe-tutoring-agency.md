@@ -3,16 +3,10 @@ layout: post
 title:  "How to Ensure Your Tutoring Agency is a Safe Place to Study"
 permalink: safe-tutoring-agency/
 ---
-[
-
-![tutoring-matters](http://www.tutorcruncher.com/wp-
-content/uploads/2014/04/IMG_9263-1024x614.jpg)
-
-](http://www.tutorcruncher.com/wp-content/uploads/2014/04/IMG_9263.jpg) One of
+One of
 the most essential things that students look for when choosing a tutoring
 agency is how safe the learning environment is. As an agency, it’s your
-responsibility to ensure that you provide [ a safe, secure place for students
-to study ](http://www.tutorcruncher.com/tuition-agency-ethics/) . We’ve
+responsibility to ensure that you provide [a safe, secure place for students to study](https://tutorcruncher.com/tuition-agency-ethics/) . We’ve
 created a safety checklist to ensure that your agency has all the safety boxes
 ticked. 
 
@@ -33,8 +27,7 @@ avoid the potential for accidents.
 Students and
 parents will want to know that the tutors you employ have been appropriately
 vetted. A good tutoring agency will ensure that each of their staff undergoes
-a Disclosure and Barring Service Check (DBS) as part of their [ recruitment
-process ](http://www.tutorcruncher.com/how-to-recruit-tutors-for-your-agency/)
+a Disclosure and Barring Service Check (DBS) as part of their [recruitment process](https://tutorcruncher.com/how-to-recruit-tutors-for-your-agency/)
 . Agencies should also check their employees’ references before offering them
 a position as previous work records are just as important as criminal
 background checks. 
@@ -54,8 +47,7 @@ guardian’s consent.
 ### Create Open Spaces
 
 Students are more likely to feel
-secure [ studying in an open plan environment
-](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
+secure [studying in an open plan environment](https://tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/)
 where they are in full view of the rest of the office. It can be a good idea
 to create open spaces as much as possible in your agency rather than having
 separate rooms for tuition. Glass rooms can work particularly well for

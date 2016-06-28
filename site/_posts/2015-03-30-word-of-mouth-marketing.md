@@ -6,17 +6,15 @@ author: TutorCruncher
 ---
 Digital technology may be the future of marketing but when it comes to private
 tutoring, word of mouth remains the lifeblood of the industry. Here are our
-top tips on how you can [ grow your tutoring business
-](http://www.tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/) by
+top tips on how you can [grow your tutoring business](https://tutorcruncher.com/how-to-make-your-tutoring-agency-stand-out/) by
 spreading the word throughout your local community. ** Have a Strong Local
 Presence ** In order to get people talking about your tutoring business, you
 need to put yourself out there and mingle with other businesses and the local
 community. Keep up to date with local events and look for opportunities to
 spread the word about your tutoring agency. Perhaps you can sign up as an
 exhibitor at a business networking event or act as a sponsor of an educational
-conference? The more involved you become in your [ local community
-](http://www.tutorcruncher.com/local-seo-marketing-your-tuition-agency-
-online/) , the more people will recognise your brand and start talking about
+conference? The more involved you become in your [local community](https://tutorcruncher.com/local-seo-marketing-your-tuition-agency-online/), 
+the more people will recognise your brand and start talking about
 your services. 
 
 ### Pay Extra Special Attention to your Customer Service
@@ -47,8 +45,7 @@ great way to get people talking about your business. Perhaps your tutoring
 agency has had a record year of students achieving A’s in their exams? Or
 maybe you’ve recently recruited a new employee with an impressive track
 record? These achievements make for great local news stories and can really
-help boost awareness of your brand in your local area. Before [ pitching a
-story idea ](http://www.tutorcruncher.com/marketing-via-print-and-online/) to
+help boost awareness of your brand in your local area. Before [pitching a story idea](https://tutorcruncher.com/marketing-via-print-and-online/) to
 a newspaper or magazine, make an effort to build up a relationship with them
 first so that they get to know a bit more about what you do and what your
 investment in the local community is. _ What do you find to be the best ways
