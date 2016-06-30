@@ -2,10 +2,10 @@
   name: Create unlimited users with their own login
   access: All
 -
-  name: Scheduling done by admins or tutors with lesson reminders
+  name: Scheduling done by admins or contractors with appointment reminders
   access: All
 -
-  name: Match tutors to students by any criteria
+  name: Match contractors to clients by any criteria
   access: All
 -
   name: Secure and accessible from any device
@@ -23,7 +23,7 @@
   name: Charge clients monthly with subscriptions
   access: All
 -
-  name: Upload documents and resources for tutors, clients and students
+  name: Upload documents and resources for contractors and clients
   access: All
 -
   name: Send Unlimited Emails<a href="/pricing/#extras"><sup>[1]</sup></a>

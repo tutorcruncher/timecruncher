@@ -1,8 +1,8 @@
-# tutorcruncher.com
+# timecruncher.com
 
-[![Build Status](https://travis-ci.org/tutorcruncher/tutorcruncher.com.svg?branch=master)](https://travis-ci.org/tutorcruncher/tutorcruncher.com)
+[![Build Status](https://travis-ci.org/tutorcruncher/timecruncher.com.svg?branch=master)](https://travis-ci.org/tutorcruncher/timecruncher.com)
 
-Public TutorCruncher site
+Public TimeCruncher site
 
 To run locally:
 

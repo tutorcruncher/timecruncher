@@ -1,13 +1,13 @@
 -
   name: Pay as you go
   icon: fa-motorcycle
-  desc: For younger companies getting started with TutorCruncher.
+  desc: For younger companies getting started with TimeCruncher.
   electric_revenue_percentage: 1%
   revenue_percentage: 1.4%
 -
   name: Startup
   icon: fa-car
-  desc: For medium sized companies using TutorCruncher to grow the business.
+  desc: For medium sized companies using TimeCruncher to grow the business.
   electric_revenue_percentage: 0.4%
   revenue_percentage: 0.8%
 -

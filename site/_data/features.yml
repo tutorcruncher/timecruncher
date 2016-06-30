@@ -3,22 +3,22 @@
   icon: fa-calendar
   feature-page: /features/scheduling
   text: |
-    TutorCruncher makes scheduling easy. Lessons can be
-    scheduled by both tutors and admins, and clients or students can log in to view their calendar.
+    TimeCruncher makes scheduling easy. Appointments can be
+    scheduled by both contractors and admins, and clients can log in to view their calendar.
 -
   name: Automated Invoices
   icon: fa-money
   feature-page: /features/accounting
   text: |
-    TutorCruncher accounting software automatically generates
+    TimeCruncher automatically does the accounting for you by generating
     invoices, leaving you time to get on with growing your business.
 -
   name: Multi-user profiles
   icon: fa-users
   /feature-page: /features/tutor-client-student-profiles/
   text: |
-    All of your users, be they clients, students or tutors, can log into
-    TutorCruncher to view their profile and view the information relevant to them.
+    All of your users, be they clients or contractors, can log into
+    TimeCruncher to view their profile and view the information relevant to them.
 -
   name: Automated Emails
   icon: fa-paper-plane
@@ -45,15 +45,15 @@
   icon: fa-edit
   feature-page: /features/custom-fields/
   text: |
-    Create your own custom fields for tutors, students, clients and lesson reports. editable fields let you manage
-    your company in your own unique way.
+    Create your own custom fields for contractors, clients, appointments reports and more.
+    Editable fields let you record information in your own unique way.
 -
   name: Tutor-Student Matching
   icon: fa-user-plus
   feature-page: /features/tutor-student-matching/
   text: |
-    Post jobs on your job board and notify your tutors to let them apply.
-    Filter your tutor list by whatever you want, including taught subjects.
+    Post jobs on your job board and notify your contractors to let them apply.
+    Filter your contactor list by whatever you want, including taught subjects.
 -
   name: Tax Calculations
   icon: fa-percent
@@ -66,11 +66,11 @@
   icon: fa-cloud
   feature-page: /features/cloud-software/
   text: |
-    TutorCruncher can be safely and securely used on all platforms including desktops, laptops, tablets and mobiles - only internet
+    TimeCruncher can be safely and securely used on all platforms including desktops, laptops, tablets and mobiles - only internet
     access is required.
 -
   name: International Support
   icon: fa-language
   feature-page: /features/multi-language/
   text: |
-    With support for any language, timezone and currency, TutorCruncher can be used anywhere in the world.
+    With support for any language, timezone and currency, TimeCruncher can be used anywhere in the world.

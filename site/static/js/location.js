@@ -10,7 +10,7 @@ function init_map() {
   new google.maps.Marker({
       map: map_us,
       position: pos_us,
-      title: 'TutorCruncher US'
+      title: 'TimeCruncher US'
   });
 
   var map_gb = new google.maps.Map(document.getElementById('map_gb'), {
@@ -21,6 +21,6 @@ function init_map() {
   new google.maps.Marker({
       map: map_gb,
       position: pos_gb,
-      title: 'TutorCruncher GB'
+      title: 'TimeCruncher GB'
   });
 }

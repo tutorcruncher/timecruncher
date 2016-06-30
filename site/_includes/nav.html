@@ -7,8 +7,8 @@
       <span class="icon-bar"></span>
     </button>
     <a href="{% if page.url == '/index.html' %}#page-top{% else %}/{% endif %}" class="navbar-brand page-scroll">
-      <img src="{{ site.static }}/img/tc_logo_tiny.png" alt="TutorCruncher Logo" class="pull-left"/>
-      TutorCruncher
+      <img src="{{ site.static }}/img/tc_logo_tiny.png" alt="TimeCruncher Logo" class="pull-left"/>
+      TimeCruncher
     </a>
   </div>
   <div id="navbar" class="collapse navbar-collapse">
@@ -18,9 +18,6 @@
       </li>
       <li{% if page.path contains 'features/' %} class="active"{% endif %}>
         <a href="/features/">Features</a>
-      </li>
-      <li{% if page.path == 'blogs.html' or page.path == 'archive.html' or page.path contains '_posts/' %} class="active"{% endif %}>
-        <a href="/blog/">Blog</a>
       </li>
       <li{% if page.path == 'testimonials.html'%} class="active"{% endif %}>
         <a href="/testimonials/">Testimonials</a>
@@ -39,9 +36,6 @@
         <ul class="dropdown-menu">
           <li{% if page.path == 'about.md' %} class="active"{% endif %}>
             <a href="/about/">About</a>
-          </li>
-          <li{% if page.path == 'companies.html' %} class="active"{% endif %}>
-            <a href="/companies/">Company Directory</a>
           </li>
           <li{% if page.path == 'careers.md' %} class="active"{% endif %}>
             <a href="/careers/">Careers</a>

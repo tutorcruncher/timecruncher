@@ -1,13 +1,33 @@
 -
+  name: Rob Willetts
+  img: /img/team/rob.png
+  title: Managing Director
+  bio: Fantastic industry knowledge and a knack of explaining how TimeCruncher can help
+  extended_bio: |
+    <p>Having managed a diverse range of businesses, including a tutoring agency, Rob has a proper understanding of how challenging it can be to run a
+    business efficiently. This allows him to be able to demonstrate how TimeCruncher can work for you business, whether
+    big or small.</p>
+-
+  name: Tom Hamilton Stubber
+  img: /img/team/tom.png
+  title: Director of Operations
+  bio: The world expert in how to do just about anything with TimeCruncher
+  extended_bio: |
+    <p>Tom studied in Oxford, and has been with TimeCruncher since development started. He now runs operations to
+    make sure clients get what they need.</p>
+
+    <p>Tom works on development as well as helping current users, so he knows the system from back to front. He writes
+    and tests new features to make sure they are easily used, and is in charge of any releases that go out.</p>
+-
   name: Samuel Colvin
   img: /img/team/samuel.png
   title: CTO
-  bio: The technical mastermind behind TutorCruncher
+  bio: The technical mastermind behind TimeCruncher
   extended_bio: |
     <p>After reading engineering at Cambridge Samuel worked in the oil industry in Indonesia and the UK, when that got
-    boring he moved to London and joined TutorCruncher.</p>
+    boring he moved to London and joined TimeCruncher.</p>
 
-    <p>Samuel designed and wrote most of the code for the lastest version of TutorCruncher. With the initial development
+    <p>Samuel designed and wrote most of the code for the lastest version of TimeCruncher. With the initial development
     stage complete he concentrates on developing and integrating new advanced features while keep the system simple
     enough for the casual user.</p>
 -
@@ -17,24 +37,4 @@
   bio: 7 years in the tuition industry as a tutor and company owner
   extended_bio: |
     <p>After graduating from Oxford, Malachy spent years designing a fully automated CRM system for Bright Young Things
-    Tuition that would eventually lead to TutorCruncher.</p>
--
-  name: Tom Hamilton Stubber
-  img: /img/team/tom.png
-  title: Head of Operations
-  bio: The world expert in how to do just about anything with TutorCruncher
-  extended_bio: |
-    <p>Tom studied in Oxford, and has been with TutorCruncher since development started. He now runs operations to
-    make sure clients get what they need.</p>
-
-    <p>Tom works on development as well as helping current users, so he knows the system from back to front. He writes
-    and tests new features to make sure they are easily used, and is in charge of any releases that go out.</p>
--
-  name: Rob Willetts
-  img: /img/team/rob.png
-  title: Head of Sales
-  bio: Fantastic industry knowledge and a knack of explaining how TutorCruncher can help
-  extended_bio: |
-    <p>Having managed a diverse range of businesses, including a tutoring agency, Rob has a proper understanding of how challenging it can be to run a
-    business efficiently. This allows him to be able to demonstrate how TutorCruncher can work for you business, whether
-    big or small.</p>
+    Tuition that would eventually lead to TimeCruncher.</p>

@@ -46,7 +46,7 @@ def create_yaml():
 
 
 def download_data():
-    command = 'github_changelog_generator tutorcruncher/TutorCruncher2'
+    command = 'github_changelog_generator tutorcruncher/TimeCruncher2'
     os.system(command)
 
 

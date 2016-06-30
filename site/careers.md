@@ -1,7 +1,7 @@
 ---
 layout: careers
-title: Careers - TutorCruncher
-description: TutorCruncher does more than providing tuition management software. We are a place to explore potential. 
+title: Careers - TimeCruncher
+description: TimeCruncher does more than providing tuition management software. We are a place to explore potential.
 permalink: /careers/
 ---
 
@@ -9,7 +9,7 @@ permalink: /careers/
 
 Want an internship in a rapidly growing software startup?
 
-TutorCruncher is recruiting team members to help with the programming and coding.
+TimeCruncher is recruiting team members to help with the programming and coding.
 
 Job requirements:
 
@@ -34,7 +34,7 @@ To apply, please send your CV and a brief cover letter to tom@tutorcruncher.com.
 
 ## Exciting Marketing And Business Internship In Central London
 
-TutorCruncher is a fast-growing software company in Central London that provides academic tuition for clients in the UK and all over the world. We are offering an amazing opportunity for the right candidate to join our young and dynamic team, which includes smart and creative people from all over Europe.
+TimeCruncher is a fast-growing software company in Central London that provides academic tuition for clients in the UK and all over the world. We are offering an amazing opportunity for the right candidate to join our young and dynamic team, which includes smart and creative people from all over Europe.
 
 We are looking for someone to assist us in developing and implementing our marketing strategies, helping with social media management, SEO, posting blogs, market research, email marketing and much more. You will learn how to develop marketing strategies and be involved in “live” marketing execution through the 4 Ps. Price, Place, Product and Promotion.
 
