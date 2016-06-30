@@ -36,7 +36,7 @@
 -
   name: Online Payments
   icon: fa-credit-card-alt
-  feature-page: /features/card-payments/
+  feature-page: /features/online-payments/
   text: |
     With our integrated card and direct debit payment service, you can take payment quickly and easily,
     leaving you time to grow your business.
