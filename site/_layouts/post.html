@@ -2,6 +2,7 @@
 layout: base
 ---
 <div class="container main post narrow">
+  <div id="fb-root"></div>
   <article itemscope itemtype="http://schema.org/Article">
     <header>
       <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
@@ -36,23 +37,39 @@ layout: base
       {{ content }}
     </div>
   </article>
-
-  <div id="disqus_thread" class=""></div>
+  <div
+    class="fb-like"
+    data-share="true"
+    data-width="450"
+    data-show-faces="true">
+  </div>
+  <div class="fb-comments" data-href="https://tutorcruncher.com" data-width="500" data-numposts="5"></div>
 </div>
 
+
 <script>
-    var page_url = "/" + "{{ page.permalink }}" + "/";
-    var disqus_config = function () {
-        this.page.url = "{{ site.url }}" + page_url;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = page_url;
-    };
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1643426365974188',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
 
-        s.src = '//tutorcruncherblog.disqus.com/embed.js';
-
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.6&appId=1643426365974188";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
