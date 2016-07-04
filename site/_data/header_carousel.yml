@@ -1,15 +1,15 @@
 -
-  img: img/frontpage-screenshots/dashboard.jpg
+  img: img/frontpage-screenshots/dashboard.png
   name: TimeCruncher Dashboard
 -
-  img: img/frontpage-screenshots/tutors.jpg
-  name: TimeCruncher Contractors List
--
-  img: img/frontpage-screenshots/calendar.jpg
+  img: img/frontpage-screenshots/calendar.png
   name: TimeCruncher Calendar
 -
-  img: img/frontpage-screenshots/invoice.jpg
+  img: img/frontpage-screenshots/contractor-list.png
+  name: TimeCruncher Contractor List
+-
+  img: img/frontpage-screenshots/invoice.png
   name: TimeCruncher Sales Invoice
 -
-  img: img/frontpage-screenshots/analytics.jpg
+  img: img/frontpage-screenshots/analytics.png
   name: Analytics in TimeCruncher
