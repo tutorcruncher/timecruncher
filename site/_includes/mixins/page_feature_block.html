@@ -1,0 +1,27 @@
+<div class="container-fluid feature-page">
+  <article>
+    <header>
+      <h1 class="text-center">{{ page.short_title }}</h1>
+    </header>
+    <hr>
+    <div>
+      <div class="row animated fadeIn short-delay">
+        <p class="text-center font-16 padding-bottom-20">
+          TimeCruncher helps you not only run your business effectively, but grow it going forward.
+          Collecting and analysing data on how the business runs is essential for this, and takes time and insight.
+        </p>
+        {% for feature in include.features %}
+          <div class="row feature-page-block {% cycle 'background-grey', '' %}">
+            <div class="col-md-6 {% cycle '', 'col-md-push-6' %}">
+              <h2>{{ feature.title }}</h2>
+              <p>{{ feature.text }}</p>
+            </div>
+            <div class="col-md-6 {% cycle '', 'col-md-pull-6' %}">
+              <img src="{{ site.static }}/img/features/{{ feature.img }}" class="lightboximage" alt-text="{{ feature.img-alt }}"/>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+</div>
