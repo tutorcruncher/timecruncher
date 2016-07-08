@@ -9,7 +9,7 @@ fi
 
 mkdir ${tmp}
 
-cp -r _site ${tmp}/_site
+cp -r _site ${tmp}/site
 cp -r deploy/Dockerfile ${tmp}/
 
 git checkout built
