@@ -3,7 +3,7 @@
     <div class="header-content">
       <div class="header-content-inner animated fadeIn short-delay">
         <div class="col-md-12">
-          <div class="col-md-6">
+          <div class="col-md-4">
             <h1>TimeCruncher</h1>
             <hr class="light">
             <p class="animated fadeIn long-delay">Business management software with online payments, CRM, invoicing, payroll, scheduling, timesheets and more.</p>
@@ -11,23 +11,17 @@
             <p><a href="/contact/" class="btn-default btn-xl">Request a demo</a></p>
           </div>
 
-          <div class="col-md-6">
-            <img class="screenshot" src="{{ site.static }}/img/frontpage-screenshots/calendar.png" alt="">
-
-            <!--<div class="wrapper animated fadeInUp long-delay">-->
-              <!--<div class="carousel slide" data-interval="3500" data-ride="carousel">-->
-                <!--<div class="carousel-inner">-->
-                  <!--{% for screenshot in site.data.header_carousel %}-->
-                    <!--<div class="item {% if forloop.index == 1 %}active{% endif %}">-->
-
-                      <!--</div>-->
-                      <!--<img src="{{ site.static }}/{{ screenshot.img }}" alt="{{ screenshot.name }}">-->
-                    <!--</div>-->
-                  <!--{% endfor %}-->
-                <!--</div>-->
-              <!--</div>-->
-          <!--</div>-->
-        <!--</div>-->
+          <div class="col-md-6 hidden-xs hidden-sm col-md-push-2">
+            <div class="carousel slide vertical" data-interval="5500" data-ride="carousel">
+              <div class="carousel-inner">
+                {% for screenshot in site.data.header_carousel %}
+                  <div class="item {% if forloop.index == 1 %}active{% endif %}">
+                    <img src="{{ site.static }}/{{ screenshot.img }}" alt="{{ screenshot.name }}">
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
       </div>
     </div>
   </div>

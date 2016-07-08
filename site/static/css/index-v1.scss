@@ -24,6 +24,9 @@ header {
   p {
     margin-bottom: 30px;
   }
+  .header-content {
+    margin-top: 150px;
+  }
   @media (min-width: 768px) {
     header h1 {
       margin-top: 0;
@@ -31,20 +34,23 @@ header {
       padding-top: 15px;
       font-size: 26px;
     }
+    .container {
+      @media (min-width: 991px) {
+        margin-left: 100px;
+        width: 100%;
+        max-width: 100%;
+      }
+    }
     .header-content {
       width: 100%;
       @media (max-width: 767px) {
-        margin-top: 80px;
+        h1 {
+          font-size: 26px;
+        }
       }
       @media (min-width: 768px) {
-        top: 30%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-30%);
         padding: 0 50px 20px 50px;
-        margin-top: 150px;
         .header-content-inner {
-          max-width: 1000px;
           margin-left: auto;
           margin-right: auto;
           p {
@@ -54,13 +60,47 @@ header {
       }
     }
   }
-  @media (max-width: 768px) {
-    .header-content {
-      margin-top: 80px;
-      h1 {
-        font-size: 26px;
-      }
+  .carousel {
+  }
+  .vertical .carousel-inner {
+    img {
+      border-radius: 10px;
     }
+  }
+  .carousel.vertical .item {
+    -webkit-transition: 1.5s ease-in-out top;
+    -moz-transition: 1.5s ease-in-out top;
+    -ms-transition: 1.5s ease-in-out top;
+    -o-transition: 1.5s ease-in-out top;
+    transition: 1.5s ease-in-out top;
+  }
+  .carousel.vertical .active {
+    top: 0;
+  }
+
+  .carousel.vertical .next {
+    top: 400px;
+  }
+
+  .carousel.vertical .prev {
+    top: -400px;
+  }
+
+  .carousel.vertical .next.left,
+  .carousel.vertical .prev.right {
+    top: 0;
+  }
+
+  .carousel.vertical .active.left {
+    top: -400px;
+  }
+
+  .carousel.vertical .active.right {
+    top: 400px;
+  }
+
+  .carousel.vertical .item {
+      left: 0;
   }
 }
 
@@ -117,44 +157,6 @@ section#pricing {
   div.col-sm-3 {
     p {
       margin-top: 10px;
-    }
-  }
-}
-
-section#team {
-  >.carousel {
-    @include background-cover;
-    background: url('/static/img/team_back.jpg') center;
-  }
-  h1 {
-    color: white;
-    padding-top: 30px;
-    padding-bottom: 20px;
-  }
-  .carousel {
-    margin-bottom: 20px;
-  }
-  .carousel-inner {
-    img {
-      width: 120px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .item {
-      height: 290px;
-    }
-  }
-    .carousel-caption {
-      left: 15%;
-      right: 15%;
-    }
-  @media (max-width: 768px) {
-    .carousel-caption {
-      right: 0;
-      left: 0;
-      h3 {
-        font-size: 20px;
-      }
     }
   }
 }

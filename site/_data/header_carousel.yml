@@ -8,8 +8,11 @@
   img: img/frontpage-screenshots/contractor-list.png
   name: TimeCruncher Contractor List
 -
-  img: img/frontpage-screenshots/invoice.png
+  img: img/frontpage-screenshots/invoice-pg2.png
   name: TimeCruncher Sales Invoice
 -
   img: img/frontpage-screenshots/analytics.png
   name: Analytics in TimeCruncher
+-
+  img: img/frontpage-screenshots/stripe-payment.png
+  name: Online Payments in TimeCruncher
