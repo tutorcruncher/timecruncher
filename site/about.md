@@ -11,7 +11,7 @@ association with lots of tutoring companies.
 
 ## Where TimeCruncher came from
 
-From 2008 to 2013 Bright Young Things Tuition struggled to find an efficient way of invoicing their clients.
+Bright Young Things Tuition struggled to find an efficient way of invoicing their clients.
 They tried numerous off-the-shelf tools for invoicing but nothing really worked. 
 
 There were payroll tools but they had no concept of requiring an invoice before you paid tutors. Of course there were invoicing tools too but they did
@@ -35,7 +35,7 @@ each invoice manually.
 
 ## Selling Software
 
-Despite the pain, TutorCruncher was launched in 2-13 as a cloud-based and generated satisfactory Invoices and Payment Orders.
+Despite the pain, TutorCruncher was launched in 2013 as a cloud-based and generated satisfactory Invoices and Payment Orders.
 
 The kicker was that once you have a database of Tutors and Clients (which you require anyway to generate invoices) you 
 can start using the system for [customer relationship management (CRM)](/features/crm/) on the client side and as an employee database
@@ -65,7 +65,7 @@ With the recruitment of Samuel as our CTO we agreed it was time to put TimeCrunc
 something which learnt the lessons of all the systems which went before but which was developed from the beginning to
 meet the demands of a modern tutoring company. 
 
-Meet TimeCruncher 2, the product of 7 years in the tuition industry and 18 months of flat-out development.
+Meet TimeCruncher 2, the product of years in the tuition industry and 2 years of flat-out development.
 TimeCruncher 2 has a vastly increased range of capabilities compared to its predecessors and is quickly becoming the gold
 standard in how far you can go in automating the boring bits of running an agency, leaving you free to concentrate on
 the interesting and ultimately profit-generating parts of running your company.
