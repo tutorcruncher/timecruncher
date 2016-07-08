@@ -200,7 +200,7 @@ section {
   font-size: 16px;
 
   .feature-page-block {
-    padding: 20px 320px 20px 320px;
+    padding: 20px 100px 20px 100px;
     line-height: 1.5;
 
     .thumbnail {
@@ -216,7 +216,6 @@ section {
     background-color: #e6f8ff;
   }
 }
-
 
 .post-meta {
   color: #666;
@@ -615,14 +614,15 @@ span.green {
     margin-bottom: -40px;
   }
   iframe {
-    height: 600px;
+    height: 900px;
     width: 900px;
     border: none;
     @media (max-width: 920px) {
-      height: 750px;
+      height: 1000px;
       width: 600px;
     }
     @media (max-width: 620px) {
+      height: 1000px;
       width: 300px;
     }
   }

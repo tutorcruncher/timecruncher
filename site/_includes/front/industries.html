@@ -1,0 +1,33 @@
+<section id="industries">
+  <div class="container-fluid">
+    {% for industry in site.data.industries %}
+      <div class="row industry-block {% cycle 'background-grey', '' %}">
+
+        <div class="col-md-6 col-sm-6 col-xs-8 col-xs-push-2 {% cycle 'col-md-push-6 col-sm-push-6', '' %}">
+          {% if industry.industry_page %}
+            <a href="{{ industry.industry_page }}"><h2>{{ industry.title }}</h2></a>
+          {% else %}
+            <h2>{{ industry.title }}</h2>
+          {% endif %}
+          <p class="padding-bottom-10">{{ industry.text }}</p>
+          {% for feature in industry.features %}
+          <div class="row padding-bottom-20">
+            <div class="industry-feature">
+              <div class="feature-icon">
+                <i class="fa fa-4x {{ feature.icon }} text-primary"></i>
+              </div>
+              <div class="feature-desc">
+                <p><b>{{ feature.title }}</b></p>
+                <p>{{ feature.text }}</p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <div class="col-md-6 col-sm-6 hidden-xs text-center top-margin-60 {% cycle 'col-md-pull-6 col-sm-pull-6', '' %}">
+          <i class="fa {{ industry.icon }} full-size text-primary"></i>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>

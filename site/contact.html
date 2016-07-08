@@ -1,13 +1,14 @@
 ---
 layout: base
 title: Contact - TimeCruncher
+short-title: Get in contact
 description: Contact the team for support, to ask questions, or for more help or information.
 permalink: /contact/
 ---
 <div id="contact-us" class="container-fluid">
   <article>
     <header class="animated fadeIn short-delay">
-      <h1 class="text-center header-spacing">{{ page.title }}</h1>
+      <h1 class="text-center header-spacing">{{ page.short-title }}</h1>
       <hr>
     </header>
   </article>
@@ -29,8 +30,8 @@ permalink: /contact/
     {% endfor %}
   </div>
   <hr>
-  <div align="center" class="animated fadeIn long-delay top-padding-30">
-    <iframe class="enquiry-form" src="https://secure.tutorcruncher.com/meta/enquiry/?iframe=1" style="height: 1100px"></iframe>
+  <div align="center" class="animated fadeIn long-delay top-padding-30 enquiry-form">
+    <iframe src="https://secure.tutorcruncher.com/meta/enquiry/?iframe=1"></iframe>
   </div>
 
 </div>

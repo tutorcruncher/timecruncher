@@ -29,14 +29,13 @@ The only solution was to write out each invoice manually each month. Running a t
 two weeks of every month writing invoices isn't much fun. There had to be a better way.
 
 The only thing to do was to build a custom system. It seemed mad that a tuition agency needed its own piece of software
-but that was how it was. Three systems followed, each one better than the last; but dealing with developers and paying 
-for a bespoke piece of complex accounting software just for one company was only marginally less painful than writing
-out each invoice manually.
+but that was how it was. Three systems followed, each one better than the last; but dealing with developers and paying
+for a bespoke piece of complex accounting software just for one company was only marginally less painful than writing out
+each invoice manually.
 
 ## Selling Software
 
-Despite the pain, the result by late 2012 was a pretty usable system. TimeCruncher as it came to be known was
-cloud-based and generated satisfactory Invoices and Payment Orders.
+Despite the pain, TutorCruncher was launched in 2-13 as a cloud-based and generated satisfactory Invoices and Payment Orders.
 
 The kicker was that once you have a database of Tutors and Clients (which you require anyway to generate invoices) you 
 can start using the system for [customer relationship management (CRM)](/features/crm/) on the client side and as an employee database

@@ -1,0 +1,44 @@
+-
+  title: For Tutoring Companies
+  icon: fa-graduation-cap
+  industry_page: https://tutorcruncher.com/
+  text: |
+    After 5 years of providing software to the tutoring industry, we've got a firm grasp of how we can help people manage
+     their business with TutorCruncher.
+  features:
+    -
+      title: Tutor Student Matching
+      text: Filtering your tutors by where they live and what subjects they teach means you can find the right tutor quickly.
+      icon: fa-user-plus
+    -
+      title: In Depth Business Analytics
+      text: TimeCruncher's analytics lets you monitor your revenue broken down by tutors, clients, even which subjects or subject level.
+      icon: fa-line-chart
+-
+  title: For Cleaning Companies
+  icon: fa-trash-o
+  text: |
+    Whether it's find out out which cleaners are available when, or
+  features:
+    -
+      title: Admin Dashboard
+      text: Your dashboard will show you how your business is performing as soon as you log in, so you can monitor the business day by day.
+      icon: fa-desktop
+    -
+      title: Find Cleaners Quickly
+      text: Ringing your contractors up to find availability is a thing of the past with TimeCruncher, your cleaners can apply for a job as soon as it comes in.
+      icon: fa-exchange
+-
+  title: For Music Teaching Companies
+  icon: fa-music
+  text: |
+    No clue.
+  features:
+    -
+      title: Easy lesson management
+      text: Schedule repeating lessons with reminders so noone misses another lesson
+      icon: fa-calendar-check-o
+    -
+      title: Monitor student progress
+      text: With our customisable lesson reports, you can monitor student growth in any area you want.
+      icon: fa-bar-chart

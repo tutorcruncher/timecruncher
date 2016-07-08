@@ -11,14 +11,23 @@
           Collecting and analysing data on how the business runs is essential for this, and takes time and insight.
         </p>
         {% for feature in include.features %}
-          <div class="row feature-page-block {% cycle 'background-grey', '' %}">
-            <div class="col-md-6 {% cycle '', 'col-md-push-6' %}">
-              <h2>{{ feature.title }}</h2>
-              <p>{{ feature.text }}</p>
-            </div>
-            <div class="col-md-6 {% cycle '', 'col-md-pull-6' %}">
-              <img src="{{ site.static }}/img/features/{{ feature.img }}" class="lightboximage" alt-text="{{ feature.img-alt }}"/>
-            </div>
+          {% if feature.img %}
+            <div class="row feature-page-block {% cycle 'background-grey', '' %}">
+              <div class="col-md-6 col-sm-6 {% cycle '', 'col-md-push-6 col-sm-push-6' %}">
+                <h2>{{ feature.title }}</h2>
+                <p>{{ feature.text }}</p>
+              </div>
+              <div class="col-md-6 col-sm-6  {% cycle '', 'col-md-pull-6 col-sm-pull-6' %}">
+                <img src="{{ site.static }}/img/features/{{ feature.img }}" class="lightboximage" alt-text="{{ feature.img-alt }}"/>
+              </div>
+            {% else %}
+              <div class="row feature-page-block text-center">
+                <div class="col-md-6 col-md-push-3">
+                  <h2>{{ feature.title }}</h2>
+                  <p>{{ feature.text }}</p>
+                </div>
+              </div>
+            {% endif %}
           </div>
         {% endfor %}
       </div>

@@ -1,0 +1,58 @@
+-
+  title:  Easy to use calendar
+  text: |
+    Our easy to view calendar allows you to view it by day, week or month. Filter it by contractor, client or job to
+     view the right set of appointments, or colour code to, for instance, view all appointments that haven't been marked complete
+     yet.
+    
+    You, or any of your users, can integrate TimeCruncher's calendar into their own calendars using our iCal integration.
+  img: calendar.png
+  img-alt: Your calendar can be colour coded.
+-
+  title:  Contractors can apply for jobs
+  text: |
+    If you haven't decided on which contractor to match to a client, then you can make a job 'Available for Application'. This means
+     contractors can apply to work that job, and even compete on what rate they will do it for.<br><br>
+
+    You can also send out notifications to all or some of them to ask them to apply.
+  img: send-notifications.png
+  img-alt: Send notifications to all or just some contractors.
+-
+  title:  Contractors log appointments and reports
+  text: |
+    Free up time to grow your business by allowing your contractors to log their hours instead of sending you a time sheet.<br><br>
+
+    Reports can be created for each appointment so that when the client receives their invoice, they receive information from the
+     contractor about the work that was completed. Like most of TimeCruncher, reports are customisable for recording any
+     and all relevant information.
+  img: lesson-report-example.png
+  img-alt: Create customised appointment reports.
+-
+  title:  Locations
+  text: |
+    Use locations on appointments so that your contractors know where to go. You can use the client's address, or use your own custom locations.
+  img: map-directions.png
+  img-alt: Your contractors can use our maps integration to get directions.
+-
+  title:  Repeating Appointments
+  text: |
+    Appointments can repeat many times a week or month, and can last for any length. You'll save more time creating these in
+     one easy step in TimeCruncher.
+  img: repeater.png
+  img-alt: Create repeating appointments.
+-
+  title:  Upload Resources
+  text: |
+    Documents and other resources can be uploaded to jobs for customisable access by admins, contractors and clients.<br><br>
+
+    A good use of this is for your contractors to upload their qualifications for the client to view, or for the client to
+     download any relevant forms to fill out.
+  img: document-details.png
+  img-alt: Upload documents with different access levels.
+-
+  title:  Appointment reminders
+  text: |
+    Clients and contractors will never forget an appointment again with our reminders, customisable for when a reminder is sent
+     and who they are sent to.
+  img: reminders-create.png
+  img-alt: Create Appointment reminders so that no one forgets an appointment.

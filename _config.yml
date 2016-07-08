@@ -1,11 +1,10 @@
-title: "TimeCruncher: Tutoring Management Software"
+title: "TimeCruncher: Business Management Software"
 email: info@tutorcruncher.com
-description: "TimeCruncher provides tutoring management software with card payments, CRM, invoicing, payroll, scheduling, timesheets and more. Buy and get support."
+description: "TimeCruncher provides business management software with card payments, CRM, invoicing, payroll, scheduling, timesheets and more. Buy and get support."
 baseurl: ""
-url: "https://tutorcruncher.com"
+url: "https://timecruncher.com"
 source: site
-#static: https://cdn1.tutorcruncher.com
-static: /static
+static: https://cdn1.tutorcruncher.com
 exclude:
   - _posts/2000-01-01-blog-post-template.md
 gems:

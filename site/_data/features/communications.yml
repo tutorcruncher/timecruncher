@@ -1,0 +1,24 @@
+-
+  title:  Send Customised Automated Emails
+  text: |
+    TimeCruncher can send emails for almost anything, such as appointment reminders, sending invoices or just welcoming a new
+     client. Often this is the only time you have contact with a client, so we've made sure you can customise all emails within
+     TimeCruncher with your own content and logo. You can even write your own HTML templates.<br><br>
+
+    Our integrated mail service allows you to send emails from your own address - your clients can reply straight to your inbox.
+  img: email-example.png
+  img-alt: TimeCruncher sends smart customised emails.
+-
+  title:  Marketing Campaigns
+  text: |
+    You can run marketing campaigns to communicate with your clients and contractors to grow your market. Using our advanced filtering
+     you can target the people you wish to send an email to, such as clients who live in a certain area.
+  img: create-broadcast.png
+  img-alt: Create broadcasts to send to your clients.
+-
+  title:  Measure Success
+  text: |
+    With our Analytics, so you can see exactly what happening to your emails, including your open rate and spam complaints.
+     That will allow you to monitor Marketing Campaigns and improve communication with your clients and contractors.
+  img: email_analytics.png
+  img-alt: Review your email campaigns with Analytics.

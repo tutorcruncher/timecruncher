@@ -10,15 +10,17 @@ html, body {
 header {
   position: relative;
   width: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-  background: url('/static/img/header.jpg') center;
+  background: $main-colour center;
   text-align: center;
   color: white;
   padding-bottom: 10px;
   overflow: hidden;
+  height: 550px;
+
+  .btn-default {
+    font-size: 14px;
+  }
+
   p {
     margin-bottom: 30px;
   }
@@ -165,44 +167,80 @@ section#footer {
   width:100%;
   height:400px;
 }
+section#industries {
+  .industry-block {
+    @media (min-width: 768px) {
+      padding: 40px 100px 40px 100px;
+    }
 
-.rangeslider--horizontal {
-  height: 30px;
-  border-radius: 3px;
-  width: 100%;
+    line-height: 1.5;
+  }
 
-  .rangeslider__handle {
-    top: -5px;
-    border-radius: 2px;
-    width: 10px;
-    &:after {
-      background: 0;
+  .background-grey {
+    background-color: #e6f8ff;
+  }
+
+  .full-size {
+    font-size: 180px;
+  }
+
+  .borderless {
+    border: none !important;
+  }
+
+  .industry-feature {
+    display: flex;
+    max-width: 600px;
+
+    .feature-desc {
+      padding-left: 20px;
+    }
+  }
+}
+
+section#pricing-calc {
+  padding-bottom: 40px;
+
+  .rangeslider--horizontal {
+    height: 30px;
+    border-radius: 3px;
+    width: 100%;
+
+    .rangeslider__handle {
+      top: -5px;
+      border-radius: 2px;
+      width: 10px;
+      &:after {
+        background: 0;
+      }
+    }
+
+    .rangeslider__fill {
+      border-radius: 3px;
+      height: 30px;
+      background-color: white;
     }
   }
 
-  .rangeslider__fill {
-    border-radius: 3px;
-    height: 30px;
-    background-color: $main-colour;
-  }
-}
+  .slider-label {
+    p {
+      font-size: larger;
+      margin-bottom: 0;
+    }
 
-.slider-label {
-  p {
-    margin-bottom: 0;
-  }
-
-  .text-muted {
-    font-size: smaller;
-  }
-}
-
-#price-calculation {
-  div {
-    float:left;
-    width: 20%;
-    .saving-detail {
+    .text-muted-light {
       font-size: smaller;
+      color: white;
+    }
+  }
+
+  #price-calculation {
+    div {
+      float: left;
+      width: 20%;
+      .saving-detail {
+        font-size: smaller;
+      }
     }
   }
 }

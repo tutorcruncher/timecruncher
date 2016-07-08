@@ -13,7 +13,7 @@
   </div>
   <div id="navbar" class="collapse navbar-collapse">
     <ul class="nav navbar-nav navbar-right">
-      <li{% if page.path == 'pricing.md' %} class="active"{% endif %}>
+      <li{% if page.path contains 'pricing' %} class="active"{% endif %}>
         <a href="/pricing/">Pricing</a>
       </li>
       <li{% if page.path contains 'features/' %} class="active"{% endif %}>
