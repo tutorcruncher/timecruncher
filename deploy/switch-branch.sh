@@ -11,6 +11,7 @@ mkdir ${tmp}
 
 cp -r _site ${tmp}/site
 cp -r deploy/Dockerfile ${tmp}/
+cp -r deploy/*.conf ${tmp}/
 
 git checkout built
 
