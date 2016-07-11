@@ -3,14 +3,13 @@ cache: bundler
 rvm:
 - 2.1
 script:
-  - bundle exec jekyll --version
-  - ls -lah
-  - bundle exec jekyll build
-  - bundle exec htmlproofer _site --check-html --disable-external --checks-to-ignore ImageCheck,LinkCheck
+- bundle exec jekyll --version
+- ls -lah
+- bundle exec jekyll build
+- bundle exec htmlproofer _site --check-html --disable-external --checks-to-ignore ImageCheck,LinkCheck
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - domain: timecruncher.com
-  - secure: Z3WY8pmOnFZRZb0g0NfbzUbMS9r6+F9aidbW0zXzFRF28CqQEw5mhCFKWetZG8KMR+2QzD3CJ25/ak4EIOU4jYaJFtJQEW3p9qAtCMBvVSBvZ/CrQJvHuX2/l0kh7yb5fkCrUmfFvuJ8I9Y1Ct+jIWzbhTJ5zOCFsFvkC7vDitLWqmnVzrshp32mTwhzb00gTmg2y+6nSr8ass5MibXKxuZKW7qiyDCSeeRIrGuSwpfG5I5FOP2IdpG2YtMvKz5Qhb95WvOFHOK4ebe8B1NTvfo+zTcCMnToh49c5hgy79IP7AyIGyQGySEB8ZKGmJZn/GsqxdbKo2wJaLZVmaruITwSnoW4ZvdrabinV5BLpDGuRLbvBNqfh/f1pTz5tv8H3uPk0YHudTDbqUBm94HS57gEz4Q5DItNRRZh3JRtOEGNvM7hE2yE8KNIQMS6CkKp5RVT6NlW7hkjUmQgM7EuBdkR8/F01IVgh+Iz2R55ZqQ3fq6KZ0VgAxn26cLmAsDFSSJn+KOUxNXta8q9KyWCkRSZ5oJGecUHRIQOtA3Ls6b4MS9HZSRZ/QPakuCLAqLJdeoCkme/k4Obhz2Rkck0un0qH+TynPVIpYrMWx6Dh9g3KrPtFyRm53+lKRo5ETp6VX+M/PIqj2oxls3Re7GfIucVY10Hj5gBV6ObsWytRdk=
+  - secure: LjMUb40UtPTNcsEbGt8VOF0tfhBdGTj43QfmIBeqfPBmQszRFIkJbty4lSl/mEdhcMn/sFDljnDkjfcyt7yMUc0zv+cJUyKhrPMffeGvHHp6T1wfasXhQBJQHKgqkYXRBdIz65W//7OfzTHFenKKGRu0AGS8INmLbqSEWxZGORk+sicEPGxxzfFEnZ1KYZYi3IwAhfIoxDes5dqSN7/X1IjYFN3d1zpqSj4fG6k0djcs7uB8KpJ0m0KiIalWVVt7+ca0USx5NpJZy7BJ69Nlp3tkcPfj6XVXg5//dpEAx2MxZfwQGvhZ4sFLge2qX16/KBHAXEBL1lO7fB7HSuZ1QUVHYsozh5/ZwK5F8CgHbDOpfjfM0X9tJqjwEaZJQ2dbkLCEI7HIZZbXmFmtyj7So59rACs44XsOMPLdLJz5TRx9/FY6NiJoBJwfNZ2C3HUoJXcTyvD1EZmggXstxYeVEs3zVzCqgufHCyjAOvn9ipaT+9tqfiYwg7hwytfUackkVqvadA6konskc5SawusQuIue00GGd+Ab0YYa4DxWEqzx8WZaPg3hPvofetMfy/o92yMzKLrr6X+2JaSYDKlW9kABwmsjtHdwfCoXvWdufPPwYZcGFArQbmeDAkyqly/0L0LVh9JELhFXCGofd1jtHOwZ0g2RFzKhrsUelfE9NEg=
 after_success:
-  - ./deploy.sh
+- "./deploy/deploy.sh"
