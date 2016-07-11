@@ -37,10 +37,13 @@ echo "switched to built branch   ✓"
 
 cp -r ${tmp}/* .
 echo "copied files to new branch ✓"
+git add site/
 
 echo "git status:"
 git status
 
+git config user.name travis
+git config user.email travis@timecruncher.com
 echo "committing \"$commit_msg\""
 git commit -am "$commit_msg"
 echo "deploying..."
