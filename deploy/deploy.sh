@@ -8,15 +8,16 @@ if [ ! "$TRAVIS_BRANCH" == "master" ]; then
     exit 0
 fi
 
-echo "on master ✓"
+echo "on master                  ✓"
 
 chmod 600 deploy/ssh_key
 ssh-keygen -p -P "$passphrase" -N "" -f deploy/ssh_key
-ssh-add ./deploy/ssh_key
-commit_msg=$(git log --oneline -1)
+mv deploy/ssh_key ~/.ssh/id_rsa
 git remote add dokku dokku@timecruncher.com:timecruncher
 
 git fetch dokku
+echo "added dokku remote         ✓"
+commit_msg="deploying '$(git log --oneline -1)'"
 
 
 if [ -d "${tmp}" ]; then
@@ -29,8 +30,16 @@ cp -r _site ${tmp}/site
 cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf ${tmp}/
 
 git checkout -b built dokku/master
+echo "switched to built branch   ✓"
 
 cp -r ${tmp}/* .
+echo "copied files to new branch ✓"
 
-git commit -am "deploying '$commit_msg'"
+echo "git status:"
+git status
+
+echo "committing \"$commit_msg\""
+git commit -am "$commit_msg"
+echo "deploying..."
 git push dokku built:master
+echo "done                       ✓"
