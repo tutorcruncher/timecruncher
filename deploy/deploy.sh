@@ -10,6 +10,9 @@ fi
 
 echo "on master                  ✓"
 
+printf "Host *\n    StrictHostKeyChecking no\n" > ~/.ssh/config
+chmod 400 ~/.ssh/config
+
 chmod 600 deploy/ssh_key
 ssh-keygen -p -P "$passphrase" -N "" -f deploy/ssh_key
 mv deploy/ssh_key ~/.ssh/id_rsa
