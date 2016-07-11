@@ -22,7 +22,6 @@ git fetch dokku
 echo "added dokku remote         ✓"
 COMMIT_MSG="deploying '$(git log --oneline -1)'"
 
-
 if [ -d "${tmp}" ]; then
   rm -rf ${tmp}
 fi
