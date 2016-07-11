@@ -37,14 +37,21 @@ echo "switched to built branch   ✓"
 
 cp -r ${tmp}/* .
 echo "copied files to new branch ✓"
+printf "\
+branch:     $TRAVIS_BRANCH
+commit:     $TRAVIS_COMMIT
+commit msg: $commit_msg
+build id:   $TRAVIS_JOB_ID
+time:       $(date +"%Y-%d-%m %T")\n" > site/build.txt
+echo "build.txt:"
+cat site/build.txt
 git add site/
-
-echo "git status:"
-git status
 
 git config user.name travis
 git config user.email travis@timecruncher.com
-echo "committing \"$commit_msg\""
+echo "git status:"
+git status
+
 git commit -am "$commit_msg"
 echo "deploying..."
 git push dokku built:master
