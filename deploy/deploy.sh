@@ -20,7 +20,7 @@ git remote add dokku dokku@timecruncher.com:timecruncher
 
 git fetch dokku
 echo "added dokku remote         ✓"
-commit_msg="deploying '$(git log --oneline -1)'"
+COMMIT_MSG="deploying '$(git log --oneline -1)'"
 
 
 if [ -d "${tmp}" ]; then
@@ -38,11 +38,11 @@ echo "switched to built branch   ✓"
 cp -r ${tmp}/* .
 echo "copied files to new branch ✓"
 printf "\
-branch:     $TRAVIS_BRANCH
-commit:     $TRAVIS_COMMIT
-commit msg: $commit_msg
-build id:   $TRAVIS_JOB_ID
-time:       $(date +"%Y-%d-%m %T")\n" > site/build.txt
+branch:       $TRAVIS_BRANCH
+commit:       $TRAVIS_COMMIT
+commit msg:   $COMMIT_MSG
+build number: $TRAVIS_JOB_NUMBER
+time:         $(date +"%Y-%d-%m %T") UTC\n" > site/build.txt
 echo "build.txt:"
 cat site/build.txt
 git add site/
@@ -52,7 +52,7 @@ git config user.email travis@timecruncher.com
 echo "git status:"
 git status
 
-git commit -am "$commit_msg"
+git commit -am "$COMMIT_MSG"
 echo "deploying..."
 git push dokku built:master
 echo "done                       ✓"
