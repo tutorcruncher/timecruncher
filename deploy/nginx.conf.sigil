@@ -38,10 +38,21 @@ server {
   listen      [::]:80;
   listen      80;
   server_name {{ .NOSSL_SERVER_NAME }};
-  access_log  /var/log/nginx/timecruncher-access.log;
-  error_log   /var/log/nginx/timecruncher-error.log;
+  access_log  /var/log/nginx/{{ .APP }}-access.log;
+  error_log   /var/log/nginx/{{ .APP }}-error.log;
 
   return 301 https://$host:$request_uri;
+}
+
+server {
+  listen      [::]:80;
+  listen      80;
+  server_name www.{{ .NOSSL_SERVER_NAME }};
+  location / {
+    return 301 https://{{ .NOSSL_SERVER_NAME }}$request_uri;
+  }
+  access_log  /var/log/nginx/{{ .APP }}-access.log;
+  error_log   /var/log/nginx/{{ .APP }}-error.log;
 }
 
 upstream {{ .APP }} {
@@ -49,4 +60,3 @@ upstream {{ .APP }} {
   server {{ . }};
 {{ end }}
 }
-
