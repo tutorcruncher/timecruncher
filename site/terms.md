@@ -7,7 +7,7 @@ permalink: /terms/
 
 ## Terms of Service
 
-By using the TimeCruncher web site, you are agreeing to be bound by the following terms and conditions (“Terms of Service”).
+By using the TimeCruncher and TutorCruncher web sites, you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 TimeCruncher Ltd (Company No. 08385970) is registered in England and Wales.
 
 TimeCruncher reserves the right to update and change the Terms of Service from time to time without notice.
@@ -37,7 +37,7 @@ shall be subject to the Terms of Service. Continued use of the Service after any
 
 ## Cancellation and Termination
 
-1. You alone are responsible for the proper cancellation of your account. You may cancel your account by emailing info@tutorcruncher.com
+1. You alone are responsible for the proper cancellation of your account. You may cancel your account by emailing info@timecruncher.com
 1. All of your Content will be immediately deleted from the Service upon request.
 1. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
 1. TimeCruncher, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service for any reason at any time.
@@ -55,7 +55,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ## General Conditions
 
-1. Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
+1. Your use of the Service is at your sole risk. The service is provided on an "as is" and "as available" basis.
 1. We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.
 1. You agree not to resell, duplicate, reproduce or exploit any part of the Service without the express written permission of TimeCruncher.
 1. It is your responsibility to check every invoice and payment order to make sure they are correct before receiving or dispensing funds.
@@ -67,3 +67,19 @@ We do not sell, trade, or rent Users personal identification information to othe
 1. The failure of TimeCruncher to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and TimeCruncher and govern your use of the Service, superseding any prior agreements between you and TimeCruncher (including, but not limited to, any prior versions of the Terms of Service).
 1. Questions regarding the Terms of Service should be sent to support@tutorcruncher.com
 1. Customer support can be reached at support@tutorcruncher.com
+
+
+## Fee Calculations
+
+TimeCruncher fees are made up of two components: a fixed monthly fee and a usage fee which is proportional the revenue Companies put through TimeCruncher.
+
+Companies on the "Pay as You Go" price tier have no fixed monthly fee, similarly some Companies on the enterprise tier may negotiate an agreement where they pay
+no usage fee. For more details on pricing see the [pricing page](/pricing).
+
+Fixed monthly fees are charged retrospectively via invoice. Usage fees are calculated and charged in two steps:
+
+1. For "electronic payments" (eg. where money is collected by Stripe or GoCardless) linked to TimeCruncher an "application fee" is applied at transaction time
+based on the usage fee percentage.
+1. The total revenue for a company (eg. sum of charges for complete or "cancelled but chargeable" appointments and undeleted Ad Hoc Charges) for 
+each calendar month is calculated. The sum of electronic payments is then subtracted to arrive at "total non-electric revenue", the percentage usage 
+fee is then calculated and added to the invoice along with the monthly fee.
