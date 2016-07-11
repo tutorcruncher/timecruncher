@@ -1,18 +1,35 @@
 #!/usr/bin/env bash
 set -e
 
-if [ ! "env:$TRAVIS_BRANCH" == "env:master" ]; then
+tmp="/tmp/nginx-pages-build"
+
+if [ ! "$TRAVIS_BRANCH" == "master" ]; then
     echo not on master, not deploying
     exit 0
 fi
 
 echo "on master ✓"
 
+ssh-keygen -p -P "$passphrase" -N "" -f deploy/ssh_key
 ssh-add ./deploy/ssh_key
 commit_msg=$(git log --oneline -1)
 git remote add dokku dokku@timecruncher.com:timecruncher
 
-./deploy/switch-branch.sh
+git fetch dokku
+
+
+if [ -d "${tmp}" ]; then
+  rm -rf ${tmp}
+fi
+
+mkdir ${tmp}
+
+cp -r _site ${tmp}/site
+cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf ${tmp}/
+
+git checkout -b built dokku/master
+
+cp -r ${tmp}/* .
 
 git commit -am "deploying '$commit_msg'"
 git push dokku built:master

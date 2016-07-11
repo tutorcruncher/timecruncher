@@ -10,7 +10,7 @@ fi
 mkdir ${tmp}
 
 cp -r _site ${tmp}/site
-cp -r deploy/Dockerfile deply/nginx.conf.sigil deploy/site.conf ${tmp}/
+cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf ${tmp}/
 
 git checkout built
 
