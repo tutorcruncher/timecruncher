@@ -10,6 +10,7 @@ fi
 
 echo "on master ✓"
 
+chmod 600 deploy/ssh_key
 ssh-keygen -p -P "$passphrase" -N "" -f deploy/ssh_key
 ssh-add ./deploy/ssh_key
 commit_msg=$(git log --oneline -1)

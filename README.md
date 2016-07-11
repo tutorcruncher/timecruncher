@@ -1,6 +1,6 @@
 # timecruncher.com
 
-[![Build Status](https://travis-ci.org/tutorcruncher/timecruncher.com.svg?branch=master)](https://travis-ci.org/tutorcruncher/timecruncher.com)
+[![Build Status](https://travis-ci.org/tutorcruncher/timecruncher.svg?branch=master)](https://travis-ci.org/tutorcruncher/timecruncher)
 
 Public TimeCruncher site
 
