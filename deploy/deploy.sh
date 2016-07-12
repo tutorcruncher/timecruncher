@@ -20,7 +20,7 @@ git remote add dokku dokku@timecruncher.com:timecruncher
 
 git fetch dokku
 echo "added dokku remote         ✓"
-COMMIT_MSG="deploying '$(git log --oneline -1)'"
+COMMIT_MSG="$(git log --oneline -1)"
 
 if [ -d "${tmp}" ]; then
   rm -rf ${tmp}
@@ -38,10 +38,10 @@ cp -r ${tmp}/* .
 echo "copied files to new branch ✓"
 printf "\
 branch:       $TRAVIS_BRANCH
-commit:       $TRAVIS_COMMIT
+commit sha:   $TRAVIS_COMMIT
 commit msg:   $COMMIT_MSG
 build number: $TRAVIS_JOB_NUMBER
-time:         $(date +"%Y-%d-%m %T") UTC\n" > site/build.txt
+time:         $(TZ=Europe/London date +"%Y-%d-%m %T")0\n" > site/build.txt
 echo "build.txt:"
 cat site/build.txt
 git add site/
