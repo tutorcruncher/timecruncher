@@ -22,8 +22,8 @@ $(document).ready(function() {
       return parseFloat(v.replace(/[^\d.-]/g, ''));
     }
     var startup_base_fee = base_price_us[1].replace(/[^\d.-]/g, '');
-    var payg_percentage = (parse_to_float(payg['revenue_percentage']) + parse_to_float(payg['electric_revenue_percentage'])) / 2 / 100;
-    var startup_percentage = (parse_to_float(startup['revenue_percentage']) + parse_to_float(startup['electric_revenue_percentage'])) / 2 / 100;
+    var payg_percentage = (parse_to_float(payg['revenue_percentage'])) / 100;
+    var startup_percentage = (parse_to_float(startup['revenue_percentage'])) / 100;
 
     var payg_usage_fee = (payg_percentage * revenue);
     var startup_usage_fee = parse_to_float(startup_base_fee.replace(/[^\d.-]/g, '')) + (startup_percentage * revenue);
