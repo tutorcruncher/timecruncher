@@ -3,13 +3,6 @@ set -e
 
 tmp="/tmp/nginx-pages-build"
 
-if [ ! "$TRAVIS_BRANCH" == "master" ]; then
-    echo not on master, not deploying
-    exit 0
-fi
-
-echo "on master                  ✓"
-
 printf "Host *\n    StrictHostKeyChecking no\n" > ~/.ssh/config
 chmod 400 ~/.ssh/config
 
@@ -55,3 +48,15 @@ git commit -am "$COMMIT_MSG"
 echo "deploying..."
 git push dokku built:master
 echo "done                       ✓"
+
+echo "delay to allow site to be deployed..."
+sleep 10
+
+echo "checking site has been deployed..."
+if curl https://timecruncher.com/build.txt 2>/dev/null | grep -q $TRAVIS_COMMIT
+then
+    echo "commit sha found in build.txt, site deployed successfully ✓"
+else
+    echo "commit sha $TRAVIS_COMMIT not found in build.txt, site has note been deployed"
+    exit 1
+fi

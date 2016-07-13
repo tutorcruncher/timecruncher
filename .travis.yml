@@ -11,5 +11,9 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - secure: LjMUb40UtPTNcsEbGt8VOF0tfhBdGTj43QfmIBeqfPBmQszRFIkJbty4lSl/mEdhcMn/sFDljnDkjfcyt7yMUc0zv+cJUyKhrPMffeGvHHp6T1wfasXhQBJQHKgqkYXRBdIz65W//7OfzTHFenKKGRu0AGS8INmLbqSEWxZGORk+sicEPGxxzfFEnZ1KYZYi3IwAhfIoxDes5dqSN7/X1IjYFN3d1zpqSj4fG6k0djcs7uB8KpJ0m0KiIalWVVt7+ca0USx5NpJZy7BJ69Nlp3tkcPfj6XVXg5//dpEAx2MxZfwQGvhZ4sFLge2qX16/KBHAXEBL1lO7fB7HSuZ1QUVHYsozh5/ZwK5F8CgHbDOpfjfM0X9tJqjwEaZJQ2dbkLCEI7HIZZbXmFmtyj7So59rACs44XsOMPLdLJz5TRx9/FY6NiJoBJwfNZ2C3HUoJXcTyvD1EZmggXstxYeVEs3zVzCqgufHCyjAOvn9ipaT+9tqfiYwg7hwytfUackkVqvadA6konskc5SawusQuIue00GGd+Ab0YYa4DxWEqzx8WZaPg3hPvofetMfy/o92yMzKLrr6X+2JaSYDKlW9kABwmsjtHdwfCoXvWdufPPwYZcGFArQbmeDAkyqly/0L0LVh9JELhFXCGofd1jtHOwZ0g2RFzKhrsUelfE9NEg=
-after_success:
-- "./deploy/deploy.sh"
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: deploy/deploy.sh
+  on:
+    branch: master
