@@ -49,14 +49,19 @@ echo "deploying..."
 git push dokku built:master
 echo "done                       ✓"
 
-echo "delay to allow site to be deployed..."
-sleep 10
-
 echo "checking site has been deployed..."
-if curl https://timecruncher.com/build.txt 2>/dev/null | grep -q $TRAVIS_COMMIT
-then
-    echo "commit sha found in build.txt, site deployed successfully ✓"
-else
-    echo "commit sha $TRAVIS_COMMIT not found in build.txt, site has note been deployed"
-    exit 1
-fi
+for i in $(seq 15); do
+    curl https://timecruncher.com/build.txt 2>/dev/null > /tmp/build.txt
+    if grep -q $TRAVIS_COMMIT /tmp/build.txt; then
+        echo ""
+        echo "$i commit sha found in build.txt, build.txt:"
+        cat /tmp/build.txt
+        echo "site deployed successfully ✓"
+        exit 0
+    fi
+    printf "$i, "
+    sleep 1
+done
+echo ""
+echo "commit sha $TRAVIS_COMMIT not found in build.txt, site has note been deployed"
+exit 1
