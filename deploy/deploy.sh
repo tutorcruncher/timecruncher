@@ -15,19 +15,20 @@ git fetch dokku
 echo "added dokku remote         ✓"
 COMMIT_MSG="$(git log --oneline -1)"
 
-if [ -d "${tmp}" ]; then
-  rm -rf ${tmp}
+if [ -d "$tmp" ]; then
+  rm -rf $tmp
 fi
 
-mkdir ${tmp}
+mkdir $tmp
 
-cp -r _site ${tmp}/site
-cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf deploy/.gitignore ${tmp}/
+cp -r _site $tmp/site
+cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf deploy/.gitignore $tmp/
 
 git checkout -b build dokku/master
 echo "switched to build branch   ✓"
 
-cp -r ${tmp}/* .
+cp -r $tmp/* .
+cp $tmp/.gitignore .
 echo "copied files to new branch ✓"
 printf "\
 branch:       $TRAVIS_BRANCH
@@ -37,7 +38,6 @@ build number: $TRAVIS_JOB_NUMBER
 time:         $(TZ=Europe/London date +"%Y-%d-%m %T")0\n" > site/build.txt
 
 git add site/
-git add .gitignore
 
 git config user.name travis
 git config user.email travis@timecruncher.com
