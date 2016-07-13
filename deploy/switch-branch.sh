@@ -12,9 +12,9 @@ mkdir ${tmp}
 cp -r _site ${tmp}/site
 cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf ${tmp}/
 
-git checkout built
+git checkout build
 git pull
-echo "switched to built branch   ✓"
+echo "switched to build branch   ✓"
 
 cp -r ${tmp}/* .
 echo "copied files to new branch ✓"

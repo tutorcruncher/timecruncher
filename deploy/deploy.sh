@@ -22,10 +22,10 @@ fi
 mkdir ${tmp}
 
 cp -r _site ${tmp}/site
-cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf ${tmp}/
+cp -r deploy/Dockerfile deploy/nginx.conf.sigil deploy/site.conf deploy/.gitignore ${tmp}/
 
-git checkout -b built dokku/master
-echo "switched to built branch   ✓"
+git checkout -b build dokku/master
+echo "switched to build branch   ✓"
 
 cp -r ${tmp}/* .
 echo "copied files to new branch ✓"
@@ -35,9 +35,9 @@ commit sha:   $TRAVIS_COMMIT
 commit msg:   $COMMIT_MSG
 build number: $TRAVIS_JOB_NUMBER
 time:         $(TZ=Europe/London date +"%Y-%d-%m %T")0\n" > site/build.txt
-echo "build.txt:"
-cat site/build.txt
+
 git add site/
+git add .gitignore
 
 git config user.name travis
 git config user.email travis@timecruncher.com
@@ -46,7 +46,7 @@ git status
 
 git commit -am "$COMMIT_MSG"
 echo "deploying..."
-git push dokku built:master
+git push dokku build:master
 echo "done                       ✓"
 
 echo "checking site has been deployed..."
@@ -54,7 +54,7 @@ for i in $(seq 15); do
     curl https://timecruncher.com/build.txt 2>/dev/null > /tmp/build.txt
     if grep -q $TRAVIS_COMMIT /tmp/build.txt; then
         echo ""
-        echo "$i commit sha found in build.txt, build.txt:"
+        echo "commit sha found in build.txt:"
         cat /tmp/build.txt
         echo "site deployed successfully ✓"
         exit 0
