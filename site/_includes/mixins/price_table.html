@@ -20,7 +20,7 @@
       <tr>
         <td class="feature-name">Monthly Price</td>
         {% for i in (0..2) %}
-          <td class="monthly-price font-20">{{ include.prices[i] }}</td>
+          <td class="monthly-price font-20">{{ include.prices.base_price[i] }}</td>
         {% endfor %}
       </tr>
       <tr>
@@ -47,6 +47,36 @@
           {% endfor %}
         </tr>
       {% endfor %}
+      <tr class="blank-row"><td colspan="4"></td></tr>
+      <tr class="support-header"><td colspan="4">Support</td></tr>
+      {% for support_feature in site.data.support %}
+        <tr>
+          <td class="feature-name">
+            {{ support_feature.name }}
+          </td>
+          {% for i in (0..2) %}
+            <td>
+              {% if support_feature.access == 'All' or support_feature.access[i] == true %}
+                <i class="fa fa-check text-primary"></i>
+              {% elsif support_feature.access[i] %}
+                {{ support_feature.access[i] }}
+              {% else %}
+                &mdash;
+              {% endif %}
+            </td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    <!-- Phone support has different currencies, so has to be done differently -->
+    <tr>
+      <td class="feature-name">Phone support</td>
+      {% for i in (0..1) %}
+        <td>
+          {{ include.prices.phone_support }}
+        </td>
+      {% endfor %}
+      <td>Included as standard</td>
+    </tr>
     </tbody>
   </table>
 </div>

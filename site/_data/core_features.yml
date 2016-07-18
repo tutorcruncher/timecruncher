@@ -44,12 +44,6 @@
   name: API Access
   access: All
 -
-  name: One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
-  access:
-    -
-    - true
-    - true
--
   name: Manage different branches
   access:
     - One branch plus a demo branch

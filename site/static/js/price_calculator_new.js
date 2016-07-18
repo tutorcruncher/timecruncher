@@ -99,7 +99,19 @@ $(document).ready(function() {
       }
     })
     .on('input', function () {
-      $num_students_value.text(this.value);
-      update_calculations();
+      if (this.value == this.max) {
+        $num_students_value.text(this.value + '+');
+        $tier.text('Enterprise');
+        lock_tier = true;
+        $price_calcs.hide();
+        $contact_us.show();
+      }
+      else {
+        $num_students_value.text(this.value);
+        lock_tier = false;
+        update_calculations();
+        $price_calcs.show();
+        $contact_us.hide();
+      }
     });
 });

@@ -390,6 +390,17 @@ section#pricing-table {
       font-weight: bold;
       font-size: 16px;
     }
+    .blank-row {
+      height: 36px;
+    }
+    .support-header {
+      text-align: left;
+      font-size: 24px;
+      background-color: #ddd;
+      td {
+       padding: 5px 10px 7px 10px;
+      }
+    }
     .text-muted {
       font-weight: normal;
     }
