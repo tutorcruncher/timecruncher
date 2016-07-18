@@ -19,7 +19,7 @@
     <script>
       var payg = {{ site.data.tiers[0] | jsonify }};
       var startup = {{ site.data.tiers[1] | jsonify }};
-      var base_price_us = {{ site.data.international_pricing.base_price_us | jsonify }};
+      var base_price_us = {{ site.data.international_pricing.us.base_price | jsonify }};
     </script>
     <script src="{{ site.static }}/js/price_calculator_new.js"></script>
     {% include footer.html %}
