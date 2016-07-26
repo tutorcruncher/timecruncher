@@ -67,16 +67,28 @@
           {% endfor %}
         </tr>
       {% endfor %}
-    <!-- Phone support has different currencies, so has to be done differently -->
-    <tr>
-      <td class="feature-name">Phone support</td>
-      {% for i in (0..1) %}
-        <td>
-          {{ include.prices.phone_support }}
+
+      <!-- Support has different currencies, so has to be done differently -->
+
+      <tr class="blank-row"><td colspan="4"></td></tr>
+      <tr class="support-header"><td colspan="4">Support</td></tr>
+      <tr>
+        <td class="feature-name">
+          One hour's free training<a href="/pricing/#extras"><sup>[2]</sup></a>
         </td>
-      {% endfor %}
-      <td>Included as standard</td>
-    </tr>
+        <td>&mdash;</td>
+        <td><i class="fa fa-check text-primary"></i></td>
+        <td><i class="fa fa-check text-primary"></i></td>
+      </tr>
+      <tr>
+        <td class="feature-name">
+          One on One Chat and Phone support<sup>[4]</sup>
+        </td>
+        {% for i in (0..1) %}
+          <td>{{ include.prices.support_pricing }}</td>
+        {% endfor %}
+        <td><i class="fa fa-check text-primary"></i></td>
+      </tr>
     </tbody>
   </table>
 </div>

@@ -3,19 +3,16 @@ gb:
     - £0
     - £40
     - From £200
-  phone_support: £30 per hour, or £75 for a month
-  training: £30
+  support_pricing: £40 per month
 eu:
   base_price:
     - €0
     - €50
     - From €250
-  phone_support: €36 per hour, or €90 for a month
-  training: €36
+  support_pricing: €50 per month
 us:
   base_price:
     - $0
     - $55
     - From $285
-  phone_support: $40 per hour, or $100 for a month
-  training: €40
+  support_pricing: $55 per month
