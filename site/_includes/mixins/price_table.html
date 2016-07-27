@@ -47,26 +47,6 @@
           {% endfor %}
         </tr>
       {% endfor %}
-      <tr class="blank-row"><td colspan="4"></td></tr>
-      <tr class="support-header"><td colspan="4">Support</td></tr>
-      {% for support_feature in site.data.support %}
-        <tr>
-          <td class="feature-name">
-            {{ support_feature.name }}
-          </td>
-          {% for i in (0..2) %}
-            <td>
-              {% if support_feature.access == 'All' or support_feature.access[i] == true %}
-                <i class="fa fa-check text-primary"></i>
-              {% elsif support_feature.access[i] %}
-                {{ support_feature.access[i] }}
-              {% else %}
-                &mdash;
-              {% endif %}
-            </td>
-          {% endfor %}
-        </tr>
-      {% endfor %}
 
       <!-- Support has different currencies, so has to be done differently -->
 
