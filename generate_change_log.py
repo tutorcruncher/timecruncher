@@ -23,7 +23,7 @@ def create_yaml():
         ('##.*?\[(.*?)\].*', r'\1\n'),
         (' \[\\\\.*', ''),
         ('(v\d\d.*\n)', r'-\n  title: \1  notes:'),
-        ('\n\- ', '\n    - ')
+        # ('\n\- (.)', r'\n    - \U\1')
     ]
 
     data_regexes = [
@@ -41,11 +41,15 @@ def create_yaml():
     ]
 
     print 'Formatting for YAML'
+
+    def upper(match):
+        return '\n    - ' + match.group(1)[0].capitalize()
+
     new_data = []
     for release in releases:
         for p, r in release_regexes:
             release = re.sub(p, r, release)
-        release = release.capitalize()
+        release = re.sub(r'\n\- (.)', upper, release)
         new_data.append(release)
 
     data = ''.join(new_data)

@@ -1,208 +1,208 @@
 -
   title: v16-08-02.01
   notes:
-    - email templates unicode fix
+    - Email templates unicode fix
 
 -
   title: v16-08-02
   notes:
-    - bug fixes
-    - excluding cancelled lessons from ical
-    - translations
-    - no zero amounts in ahc creation;
-    - email definition for setting up go cardless
+    - Bug fixes
+    - Excluding cancelled Lessons from ical
+    - Translations
+    - No zero amounts in ahc creation;
+    - Email definition for setting up go cardless
 
 -
   title: v16-07-26
   notes:
-    - text-centering the message in messge.jinja
-    - creating `get_long_display_items` and tests.
-    - fix regeneration failed message display
-    - send django.security to sentry
-    - company google analytics support
+    - Text-centering the message in messge.jinja
+    - Creating `get_long_display_items` and tests.
+    - Fix regeneration failed message display
+    - Send django.security to sentry
+    - Company google analytics support
 
 -
   title: v16-07-22
   notes:
-    - fix regen x / 0 and show regen error
+    - Fix regen x / 0 and show regen error
 
 -
   title: v16-07-20.01
   notes:
-    - using powered by timecruncher
-    - prevent direct login to super admin
-    - uprev django and others
-    - improvements to translations
+    - Using Powered by TimeCruncher
+    - Prevent direct login to super admin
+    - Uprev django and others
+    - Improvements to translations
 
 -
   title: v16-07-20
   notes:
-    - remove meaningless translation from get_group_display
-    - fixing document access
-    - tutor viewing client balance
-    - adding new price tiers
-    - check deferred payments when credit notes
-    - check activity for all actions
+    - Remove meaningless translation from get_group_display
+    - Fixing document access
+    - Tutor viewing client balance
+    - Adding new price tiers
+    - Check deferred payments when credit notes
+    - Check activity for all actions
 
 -
   title: v16-06-11
   notes:
-    - fixing signup user choice
+    - Fixing signup user choice
 
 -
   title: v16-06-08
   notes:
-    - removing deleted eads from details view and removing autocomplete:off
-    - improved agency creation workflow
-    - global accounts fix
-    - correcting docs queryset
-    - improving actions.verbs
-    - remove keen
-    - enable direct debit for all agencies
+    - Removing deleted EADs from details view and removing autocomplete:off
+    - Improved agency creation workflow
+    - Global accounts fix
+    - Correcting Docs queryset
+    - Improving Actions.VERBS
+    - Remove keen
+    - Enable Direct Debit for all agencies
 
 -
   title: v16-06-29
   notes:
-    - setting role location with map
-    - add and respect stripe_live setting
-    - refine ratelimit logic
-    - only update index for models in searchable models
-    - fix for webhook for payments that arent tc related
-    - filtering invoices by branch rather than client_user_branch
-    - allow disabling of save card details field
-    - label-is-set-and-unset-automatically
-    - creating global tutor profiles
+    - Setting role location with map
+    - Add and respect STRIPE_LIVE setting
+    - Refine ratelimit logic
+    - Only update index for models in searchable models
+    - Fix for webhook for payments that arent TC related
+    - Filtering invoices by branch rather than client_user_branch
+    - Allow disabling of Save Card Details field
+    - Label-is-set-and-unset-automatically
+    - Creating global Tutor profiles
 
 -
   title: v16-06-18
   notes:
-    - add robots.txt
-    - excluding deleted lessons for hours taught
-    - allow tutors to be deleted by admins with edit_tutor perm
-    - summed request time rate limitting
-    - ad-hoc charge category sort function error
-    - added a redirection from \.menu_\d+ to \
+    - Add robots.txt
+    - Excluding deleted Lessons for hours taught
+    - Allow Tutors to be deleted by admins with EDIT_Tutor perm
+    - Summed request time rate limitting
+    - Ad-hoc charge category sort function error
+    - Added a redirection from \.menu_\d+ to \
 
 -
   title: v16-06-10
   notes:
-    - skip cli_subs where cli.branch = cli_sub.branch
-    - remove postgres speedups from tests
-    - add suffix to proforma invoices
-    - fix 404 @ /browserconfig.xml
-    - add lesson start and finish to sso tokens
-    - adding ratelimiting middleware
-    - updating requirements
-    - fix inactive companies links
-    - fix ical 403
-    - fix con menu
-    - py3 prep
-    - revenue pricing
+    - Skip cli_subs where cli.branch = cli_sub.branch
+    - Remove postgres speedups from tests
+    - Add suffix to proforma invoices
+    - Fix 404 @ /browserconfig.xml
+    - Add Lesson start and finish to sso tokens
+    - Adding ratelimiting middleware
+    - Updating requirements
+    - Fix inactive companies links
+    - Fix ical 403
+    - Fix con menu
+    - PY3 prep
+    - Revenue pricing
 
 -
   title: v16-06-03
   notes:
-    - correct client_manager initial
-    - check_trans script and fix translations
-    - anon views
+    - Correct client_manager initial
+    - Check_trans script and fix translations
+    - Anon views
 
 -
   title: v16-06-02
   notes:
-    - german translations
+    - German translations
 
 -
   title: v16-06-01
   notes:
-    - move agents down in main menu
-    - fix to report name
-    - patch to add additional info to clients
-    - sso
+    - Move agents down in main menu
+    - Fix to report name
+    - Patch to add additional info to clients
+    - SSO
 
 -
   title: v16-05-28
   notes:
-    - mobile views
+    - Mobile views
 
 -
   title: v16-05-26
   notes:
-    - branch.ignore_zero_lessons and accounting calcs cleanup
-    - scss
+    - Branch.ignore_zero_Lessons and accounting calcs cleanup
+    - SCSS
+    - Adding a default Job tax setting to the branch
 
 -
   title: v16-05-18
   notes:
-    - separate permissions for analytics and lesson reports
-    - allow a negative branch amount and fix confirm-delete-item div
-    - upgrade requirements
-    - adding a default job tax setting to the branch
+    - Separate permissions for analytics and lesson reports
+    - Allow a negative branch amount and fix confirm-delete-item div
+    - Upgrade requirements
 
 -
   title: v16-05-14
   notes:
-    - freezing some packages temporarily
-    - balance update created check
-    - allowing branch cut to be 0 for a xero export
+    - Freezing some packages temporarily
+    - Balance update created check
+    - Allowing branch cut to be 0 for a Xero export
 
 -
   title: v16-05-08
   notes:
-    - showing the save button on lesson form
+    - Showing the save button on Lesson form
+    - Translations
 
 -
   title: v16-05-05
   notes:
-    - translations
-    - adding the student to demo reports
+    - Adding the Student to demo reports
 
 -
   title: v16-05-03
   notes:
-    - german translations
-    - received emails field on an admin fix
-    - add card fee functionality
+    - German Translations
+    - Received emails field on an admin fix
+    - Add card fee functionality
 
 -
   title: v16-05-01
   notes:
-    - fix report sending to studentclients
+    - Fix report sending to StudentClients
 
 -
   title: v16-04-29
   notes:
-    - correct fix for \#3282
-    - allow add-role-to-user for students
-    - switch report address student \> client
-    - fix enquiry map
-    - update reqs
-    - help link displayed on login page
-    - speedup tutor skill filter queries
-    - working on fix for failed payments
-    - sending invoice emails to studentclients
+    - Correct fix for \#3282
+    - Allow add-role-to-user for Students
+    - Switch report address Student \> client
+    - Fix enquiry map
+    - Update reqs
+    - Help link displayed on login page
+    - Speedup Tutor skill filter queries
+    - Working on fix for failed payments
+    - Sending invoice emails to StudentClients
 
 -
   title: v16-04-26-2
   notes:
-    - fixes before release
+    - Fixes before release
 
 -
   title: v16-04-26
   notes:
-    - display a job link on the tender
-    - use country factory for seltests
-    - simply the default user query
-    - removing countryfactory from user
-    - add allow_unapproved_email_style option
-    - add date filter to reports list
-    - using the lookup-ed name for the email trigger
-    - reports for each student on an lesson
+    - Display a Job link on the tender
+    - Use Country Factory for seltests
+    - Simply the default User query
+    - Removing CountryFactory from user
+    - Add ALLOW_UNAPPROVED_EMAIL_STYLE option
+    - Add date filter to reports list
+    - Using the lookup-ed name for the email trigger
+    - Reports for each Student on an Lesson
 
 -
   title: v16-04-21
   notes:
-    - use the branchs first email style if none declared
-    - custom rates on cli_subs
+    - Use the branchs first email style if none declared
+    - Custom rates on cli_subs
 
 -
   title: v16-04-05
@@ -210,150 +210,150 @@
 -
   title: v16-04-08
   notes:
-    - patch to correct access types on accounting docs
+    - Patch to correct access types on accounting docs
 
 -
   title: v16-04-19
   notes:
-    - gc event fix
-    - split the crm tests
-    - status for rcras
+    - Gc event fix
+    - Split the CRM tests
+    - Status for rcras
 
 -
   title: v16-04-18
   notes:
-    - allow clients to view own invoices
-    - add student role_form
-    - fix annoyance in translations
-    - fix timezone activation on tasks.
-    - remove intercomm events
-    - repeat email intercept
-    - cleaning up role crud
-    - multiple clients on an student
-    - rubbish bin filter
+    - Allow clients to view own invoices
+    - Add Student role_form
+    - Fix annoyance in translations
+    - Fix timezone activation on tasks.
+    - Remove intercomm events
+    - Repeat email intercept
+    - Cleaning up role crud
+    - Multiple clients on an Student
+    - Rubbish bin filter
 
 -
   title: v16-04-13
   notes:
-    - fixing duplicate email problem on deleted users
-    - upgrade requirements
-    - fix display on dropdowns
+    - Fixing duplicate email problem on deleted users
+    - Upgrade requirements
+    - Fix display on dropdowns
 
 -
   title: v16-04-11
   notes:
-    - trans 11-04-2016
-    - improve performance on index page
-    - remove additional info from con signup
-    - create related item and document access objects for docs
-    - mandrill domain approval
-    - robs change
-    - document uploads
-    - labels dropdown on a role list.
-    - new simpler subscriptions
-    - tasks
+    - Trans 11-04-2016
+    - Improve performance on index page
+    - Remove additional info from con signup
+    - Create related item and document access objects for docs
+    - Mandrill domain approval
+    - Robs change
+    - Document uploads
+    - Labels dropdown on a role list.
+    - New simpler subscriptions
+    - Tasks
 
 -
   title: v16-03-30
   notes:
-    - use new gc oauth scope
-    - change auth description to char field
-    - fix the 24hr display of time on calendar
-    - improving the tutor help
-    - travel time conflicts
-    - document improvements 1
+    - Use new GC OAuth Scope
+    - Change auth description to char field
+    - Fix the 24hr display of time on calendar
+    - Improving the Tutor help
+    - Travel time conflicts
+    - Document improvements 1
 
 -
   title: v16-03-23
   notes:
-    - fix stripe display for clients with no card
-    - fix the po export
-    - uprev django
+    - Fix stripe display for clients with no card
+    - Fix the po export
+    - Uprev django
 
 -
   title: v16-03-21
   notes:
-    - small performance tweaks to search
-    - remove choices from email def trigger
-    - removing messages completely
-    - prevent problem with xero amount pos
-    - enquiries
-    - removing new relics
-    - auto charge
+    - Small performance tweaks to search
+    - Remove choices from email def trigger
+    - Removing messages completely
+    - Prevent problem with xero amount pos
+    - Enquiries
+    - Removing new relics
+    - Auto charge
 
 -
   title: v16-03-16
   notes:
-    - job cap improvements for ed smallwood
-    - add unicode chars to tests
-    - fixing the add-role to job modals
+    - Job cap improvements for ed smallwood
+    - Add unicode chars to tests
+    - Fixing the add-role to Job modals
 
 -
   title: v16-03-09
   notes:
-    - increase meta generation time
+    - Increase meta generation time
 
 -
   title: v16-03-07
   notes:
-    - invoice send/pay fix
-    - check user matches email context data
+    - Invoice send/pay fix
+    - Check user matches email context data
 
 -
   title: v16-03-01
   notes:
-    - fix email sending to correct client
-    - translations
-    - re-add the invoice_count field
-    - invoice and po send speedups
-    - branch pdf logo couldnt be uploaded
-    - add sleep for seltest
-    - moving templates to app directories
-    - remove libmemcached dependencies
-    - uprev python
-    - fix tender send for unicode chars
-    - fixing report view performance issue
-    - lesson reminders
+    - Fix email sending to correct client
+    - Translations
+    - Re-add the invoice_count field
+    - Invoice and PO send speedups
+    - Branch PDF logo couldnt be uploaded
+    - Add sleep for seltest
+    - Moving templates to app directories
+    - Remove libmemcached dependencies
+    - Uprev python
+    - Fix tender send for unicode chars
+    - Fixing report view performance issue
+    - Available balance fix
+    - Lesson Reminders
 
 -
   title: v16-02-18
   notes:
-    - available balance fix
-    - dont show inactive emails and limit results to top 50
-    - delete agent from client
-    - fix add as student issues
-    - xss smoke
-    - add/delete icon
-    - check for the same email address as lower
-    - trans fixes
-    - allow tracked job expiry
-    - calendar bug fix
-    - add slugignore and slow mail
-    - exempt urls and coverage change
-    - gocardless
-    - fixing branch edit branch.pdf_extras
-    - add options to the tax-setup lists
-    - fixing deleting roles
-    - increase timeout for invoice generation
-    - email retry
-    - using heroku scheduler
-    - tutor pay rate in tutor job list and details.
+    - Dont show inactive emails and limit results to top 50
+    - Delete agent from client
+    - Fix add as Student issues
+    - Xss smoke
+    - Add/delete icon
+    - Check for the same email address as lower
+    - Trans fixes
+    - Allow tracked job expiry
+    - Calendar bug fix
+    - Add slugignore and slow mail
+    - Exempt urls and coverage change
+    - Gocardless
+    - Fixing branch edit branch.pdf_extras
+    - Add options to the tax-setup lists
+    - Fixing deleting roles
+    - Increase timeout for invoice generation
+    - Email retry
+    - Using heroku Scheduler
+    - Tutor pay rate in Tutor Job list and details.
 
 -
   title: v16-01-27
   notes:
-    - add extensions back again
-    - if one client on po name client
-    - correct email validation
-    - small bug fixes
+    - Add extensions back again
+    - If one client on PO name client
+    - Correct email validation
+    - Small bug fixes
     - to_stage error on invoice staging.
-    - extra attribute date display fix
-    - conjob lessons
-    - added mailto hyperlink to details page
-    - allow student first name in emails
-    - add 7 second delay to imminent shutdown errors
-    - updating requirements
-    - prevent student clients being edited
+    - Extra attribute date display fix
+    - Conjob Lessons
+    - Added mailto hyperlink to details page
+    - Allow Student first name in emails
+    - Add 7 second delay to imminent shutdown errors
+    - Updating requirements
+    - Prevent Student clients being edited
 
 -
   title: v16-01-19.01
@@ -361,458 +361,180 @@
 -
   title: v16-01-19
   notes:
-    - credit note gen error
-    - change genders
-    - attributes crud get_button fix
-    - skip missing invoices and payment orders on search index
-    - catching more intercom and mixpanel errors
+    - Credit note gen error
+    - Change genders
+    - Attributes crud get_button fix
+    - Skip missing invoices and payment orders on search index
+    - Catching more intercom and mixpanel errors
     - 500 with bad date on location availability
-    - reports url fixed
-    - allow searching by email and numbers with commas in
-    - less scary 403 &nbsp;nbsp;nbsp;nbsp;nbsp; 404 pages
-    - allow filtering by label on role export
-    - add bcrypt password hashing
-    - allow wildcard search
-    - correct report request_qs
-    - updated readme
-    - labelling filters
+    - Reports url fixed
+    - Allow searching by email and numbers with commas in
+    - Less scary 403 &nbsp; 404 pages
+    - Allow filtering by label on role export
+    - Add bcrypt password hashing
+    - Allow wildcard search
+    - Correct report request_qs
+    - Updated README
+    - Labelling filters
 
 -
   title: v16-01-08
   notes:
-    - translations
-    - added missing migration
-    - updated readme
-    - fix 403s
-    - created is_deleted field for extra attributes
-    - faster search
-    - speedup tutor index
-    - removing gender and dob fields and creating as eads
-    - improving pricing logic and updating pricing
-    - fix available balance display
-    - improving agents
+    - Translations
+    - Added missing migration
+    - Updated README
+    - Fix 403s
+    - Created is_deleted field for extra attributes
+    - Faster search
+    - Speedup Tutor index
+    - Removing gender and dob fields and creating as EADs
+    - Improving pricing logic and updating pricing
+    - Fix available balance display
+    - Improving agents
 
 -
   title: v15-12-17
   notes:
-    - easy-thumbnail updated 
-    - job radius filter
-    - ead dropdown filter now has a none option
-    - change integerfield to bigintegerfield for eads
-    - query count for clients/cons details pages fixed
-    - fix theme css
-    - showing pay by card button on invoices sent list
-    - radius filter for map
+    - Easy-thumbnail updated 
+    - Job radius filter
+    - EAD dropdown filter now has a none option
+    - Change integerfield to bigintegerfield for eads
+    - Query count for clients/cons details pages fixed
+    - Fix theme css
+    - Showing pay by card button on invoices sent list
+    - Radius filter for map
 
 -
   title: v15-12-04
   notes:
-    - agency ranking
-    - hide back to tutor button
-    - delete all replaced migrations
-    - add students views for tutors
-    - fix queries on job filter page and client filter and fix \#3031
-    - added te to transcode dropdown on agency
-    - fixing show all url bug
-    - clean up job deets page
+    - Agency ranking
+    - Hide Back to Tutor Button
+    - Delete all replaced migrations
+    - Add Students views for Tutors
+    - Fix queries on Job filter page and client filter and fix \#3031
+    - Added te to transcode dropdown on agency
+    - Fixing show all url bug
+    - Clean up Job deets page
 
 -
   title: v15-12-01
   notes:
-    - con profile completeness
-    - unicode name in broadcasts
-    - added english temping lanuage
-    - repeat every 0 weeks
-    - fixing invoice search indexing
-    - tiny fixes while faffing around
-    - lesson repeat fix
-    - lesson list on a job
+    - Con profile completeness
+    - Unicode name in broadcasts
+    - Added English Temping lanuage
+    - Repeat every 0 weeks
+    - Fixing invoice search indexing
+    - Tiny fixes while faffing around
+    - Lesson Repeat Fix
+    - Lesson list on a Job
 
 -
   title: v15-11-25
   notes:
-    - fix permissions on map
-    - qual levels display fix
-    - use the right qs for rcrs on adding an lesson
-    - agent percentage display for lesson details
-    - unicode error fixed
-    - improvements to filters
-    - add to job actions
-    - deleting proforma invoices
+    - Fix permissions on map
+    - Qual levels display fix
+    - Use the right qs for rcrs on adding an Lesson
+    - Agent percentage display for Lesson details
+    - Unicode error fixed
+    - Improvements to filters
+    - Add to Job Actions
+    - Deleting Proforma Invoices
 
 -
   title: v15-11-23
   notes:
-    - long extra attribute control
+    - Long extra attribute control
 
 -
   title: v15-11-19
   notes:
-    - squash migrations intermediate
-    - squash django migrations
-    - couldnt view conjobs on an lesson if no rcrs
-    - fix for having own email template
-    - fixing template for emails
-    - allowing document upload by non-approved tutors and from the con dashboard
-    - increase job timeout time for importing users
-    - added extra columns for the profs
-    - initial value for bal adj null
-    - order jobs by activity
-    - fix problem with repeating lessons spanning dst switch
+    - Squash migrations intermediate
+    - Squash Django Migrations
+    - Couldnt view conjobs on an Lesson if no rcrs
+    - Fix for having own email template
+    - Fixing template for emails
+    - Allowing document upload by non-approved Tutors and from the con dashboard
+    - Increase job timeout time for importing users
+    - Added extra columns for the profs
+    - Initial value for Bal Adj null
+    - Order Jobs by activity
+    - Fix problem with repeating Lessons spanning dst switch
 
 -
   title: v15-11-16
   notes:
-    - allow all quals and subjects to be hidden
-    - changing the old value for meta_paid
-    - activity on job and lesson
+    - Allow all quals and subjects to be hidden
+    - Changing the old value for meta_paid
+    - Activity on Job and Lesson
 
 -
   title: v15-11-12.01
   notes:
-    - fix 2984
+    - Fix 2984
 
 -
   title: v15-11-12
   notes:
-    - add trans code to agency
-    - better meta accounting
+    - Add trans code to agency
+    - Better meta accounting
 
 -
   title: v15-11-09
   notes:
-    - fixing con hours taught page
-    - mixpanel timeout
-    - rcr agent percentage
-    - issue with institutions
+    - Fixing con hours taught page
+    - Mixpanel timeout
+    - Rcr agent percentage
+    - Issue with institutions
+    - Changing RCRas when the RCR changes
 
 -
   title: v15-11-06
   notes:
-    - analytics fixes
-    - display jobs even when only finished ones
-    - update django to 1.8.6
-    - overlay
-    - required reports
-    - changing rcras when the rcr changes
-    - fixed tutor url
-    - demo branch changes
-    - improving editors
-    - prevent duplicate cons on job
-    - adding new institutions
+    - Analytics fixes
+    - Display Jobs even when only finished ones
+    - Update django to 1.8.6
+    - Overlay
+    - Required reports
+    - Fixed Tutor url
+    - Demo branch changes
+    - Improving editors
 
 -
   title: v15-10-29
   notes:
-    - activity time fix and qual form grades display
-    - bug fixes
-    - set self.con_can_edit even if deleted
-    - report views
-    - translations for calendar
-    - remove richard as a manager
-    - updating requirements and python
-    - tutor login improvements
-    - edit notes on all cons
+    - Activity time fix and qual form grades display
+    - Bug fixes
+    - Set self.con_can_edit even if deleted
+    - Report views
+    - Translations for calendar
+    - Remove Richard as a manager
+    - Updating requirements and python
 
 -
   title: v15-10-22
   notes:
-    - disabling the submit button as well as hiding it
-    - translations
-    - colour change for availability calendars
-    - lesson.units dft to 1 null=false
-    - merging students for an agency
-    - show rcra client cost instead of charge rate
-    - enable pg connection pooling
-    - lesson con availability
-    - issue with job absolute url
-    - broadcast errors
-    - changed : and - to _ so that we can view /django_rq/ jobs
-    - accounting speedup
-    - fixing sentry tags
-    - fix use of dates in accounting calcs
-    - fix order of activities on admin dash
-    - lesson &nbsp;nbsp;nbsp;nbsp;nbsp; report workflow
-    - show notifications on inv po and pfi
-    - adding notes to jobs
-    - 2666 ahc for admin
+    - Disabling the submit button as well as hiding it
+    - Translations
+    - Colour change for availability calendars
+    - Merging Students for an agency
+    - Show RCRa client cost instead of charge rate
+    - Enable pg connection pooling
+    - Broadcast errors
+    - Changed : and - to _ so that we can view /django_rq/ jobs
+    - Accounting speedup
+    - Fix order of activities on admin dash
 
 -
   title: v15-10-16
   notes:
-    - fix conjob get_absolute_url
-    - improving job recording and tests
-
--
-  title: v15-10-14
-  notes:
-    - fix for a pretty tweet
-    - job recording
-    - fixing translations
-    - fix po regen with void po and send invoice
-    - correct today for timezones
-    - clean up rq interface
-    - tutor form loading correctly
+    - Fix conjob get_absolute_url
 
 -
   title: v15-10-12
   notes:
-    - fix for timezone bugs
-    - all search index updates happening on worker
-    - test for amount owed
-    - fixing timezone support
-    - fixing availability and job modals posting
-    - adding charge.branch_cut
-    - move ahc meta gen onto long worker
-    - multi tutor availability
-    - operationalerror catch and retry
-    - lesson availability display
-    - improving availability
-    - fixes to tab filtering sorting daterangepicker
-    - admin add to job from student/cli
-
--
-  title: v15-10-07
-  notes:
-    - fix lesson first label
-    - mandrill details error
-    - speeding up tests
-    - update jquery and django
-    - allowed clients to edit their students
-    - report saves if extra attr
-    - label first lesson
-
--
-  title: v15-10-5
-  notes:
-    - change usage cost to decimal
-    - accounting po gen issue
-    - deleted slug ignore
-    - speeding up admin index page
-    - use html_hard_wrap instead of regex
-    - fix hoedown_html_renderer_free misaka error
-    - trackedjob sigterm handler
-    - tutors see ahc
-
--
-  title: v15-10-3
-  notes:
-    - misaka ascii issue
-    - fix import script
-    - fix for static files in migrate
-
--
-  title: v15-10-2
-  notes:
-    - fixes to email filtering and analytics
-    - fix translations variables
-    - agency_slug unique
-    - misaka
-
--
-  title: v15-09-30
-  notes:
-    - rearrange common
-    - email template generated before threading
-    - error fixes
-    - email analytics issues
-    - improve coverage exclude_lines and generate xml
-    - possible test speedups
-    - coverage improvements
-    - fix edit lesson includes students only on lesson
-    - oauth2 for gdrive
-    - allow notes to be edited
-    - job cap displays decimals
-    - email speedups
-    - fix deleting of rcrs and conjobs
-    - added links
-
--
-  title: v15-09-28
-  notes:
-    - requirements fixes
-    - bug fix for calendar filter
-    - student dashboard
-
--
-  title: v15-09-23
-  notes:
-    - fixing email style templates with broadcasts
-    - move 2 agency
-    - customer rq worker which closes connections
-    - fixed pdfs from displaying inactive emails
-    - date formatting for extra attributes
-    - 2661 report edit
-
--
-  title: v15-09-22
-  notes:
-    - adding subject categories to desired skills
-    - improve select2 update ratelimit
-    - adding tax setup to ahc cat
-    - active students now calced from ahcs also
-    - fix image indexing problem
-    - test speedups
-    - edit extra attr to date bug
-    - adding logout2view page
-    - fix agencypermissionqsmixin allowing no pk
-    - allow null option on modelchoices
-    - location displayed to tutor
-    - remove tc1 migrations scripts
-    - street view and small migs fixes
-    - added client name to job/assignment add student w/ filtering
-    - improved sentry reporting for rq functions
-    - email fixes
-    - add request header to 40x entries
-    - changed calculating amount owed
-
--
-  title: v15-09-15
-  notes:
-    - expenses on lesson
-    - fixing search images
-    - tutors viewing charge rate
-    - fix url for institions.json lookup
-    - fixing user import
-    - activity demo
-    - draft totals
-    - 2565 registration trans
-
--
-  title: v15-09-14.01
-  notes:
-    - switch off search index for most tests
-    - test improvements
-
--
-  title: v15-09-14
-  notes:
-    - added titles to hidden skills pages
-    - more sane mandrill tags translation fix
-    - tutor name missing
-    - fix french translations
-    - net setting with charge via tutor
-    - fr fix
-    - create patch for update skills display name
-    - lesson update for invoices
-    - default rate back to student form
-    - cap fix
-    - search improvements
-
--
-  title: v15-09-09
-  notes:
-    - meta improvements
-    - make sure we dont translate in analytics events
-    - stripe fixes
-    - improving sentry
-    - client emails
-    - first login redirection
-
--
-  title: v15-09-08
-  notes:
-    - fixing import script
-    - fr tanslation
-    - splitting users
-    - stripe card saving
-    - display phone number on cli/con list and detail
-    - 2621 select2 fix
-    - numerous system speedups
-
--
-  title: v15-09-07
-  notes:
-    - sentry improvements and 40xs
-    - fix unicode csv export
-    - new field on client sign up
-
--
-  title: v15-09-04
-  notes:
-    - french translations quick fix
-    - lesson edt fix
-    - tutor amount_owed fix
-
--
-  title: v15-09-03
-  notes:
-    - show more info for caps
-    - add sales codes edit to branch setup
-
--
-  title: v15-08-28.01
-  notes:
--
-  title: v15-08-28
-  notes:
--
-  title: v15-08-26
-  notes:
--
-  title: v15-08-25
-  notes:
--
-  title: v15-08-24
-  notes:
--
-  title: v15-08-20.01
-  notes:
--
-  title: v15-08-20
-  notes:
--
-  title: v15-08-12.02
-  notes:
--
-  title: v15-08-12.01
-  notes:
--
-  title: v15-08-12
-  notes:
--
-  title: v15-08-05
-  notes:
--
-  title: v15-08-04.01
-  notes:
--
-  title: v15-08-04
-  notes:
--
-  title: v15-07-29
-  notes:
--
-  title: v15-07-28
-  notes:
--
-  title: v15-07-24.01
-  notes:
--
-  title: v15-07-24
-  notes:
--
-  title: v15-07-17.01
-  notes:
--
-  title: v15-07-17
-  notes:
--
-  title: v15-07-16
-  notes:
--
-  title: v15-07-15
-  notes:
--
-  title: v15-07-09.01
-  notes:
--
-  title: v15-07-09
-  notes:
--
-  title: v15-07-08
-  notes:
--
-  title: v15-07-03
-  notes:
+    - Fix for timezone bugs
+    - Fixing timezone support
+    - Fixing availability and Job modals posting
+    - Multi Tutor availability
+    - OperationalError catch and retry
 
