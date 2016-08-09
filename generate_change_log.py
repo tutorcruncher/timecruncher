@@ -9,44 +9,59 @@ import os
 import sys
 import re
 
+change_log_dir = './site/_data/change_log.yml'
+
 
 def create_yaml():
-    with open('./_data/generated_change_log.yml', 'r') as f:
+    with open(change_log_dir, 'r') as f:
         old_data = f.read()
+
     block_regex = '(?s)##.*?\n\n'
-
     releases = re.findall(block_regex, old_data)
-    fix_title_regex = '##.*?\[(.*?)\].*'
-    fix_body_regex = ' \[\\\\.*'
 
-    new_data = []
+    release_regexes = [
+        ('##.*?\[(.*?)\].*', r'\1\n'),
+        (' \[\\\\.*', ''),
+        ('(v\d\d.*\n)', r'-\n  title: \1  notes:'),
+        ('\n\- ', '\n    - ')
+    ]
+
+    data_regexes = [
+        ("([,'\"!?])", ""),
+        ('\\\_', '_'),
+        ('\ntc1-mig.*\n', '\n'),
+    ]
+
+    translations = [
+        ('service recipient|sr|recipient', 'Student'),
+        ('service', 'Job'),
+        ('contractor', 'Tutor'),
+        ('appointment|appt|apt', 'Lesson'),
+        ('&', '&nbsp;')
+    ]
+
     print 'Formatting for YAML'
+    new_data = []
     for release in releases:
-        release = re.sub(fix_title_regex, r'\1\n', release)
-        release = re.sub(fix_body_regex, '', release)
-        release = re.sub('(v\d\d.*\n)', r'-\n  title: \1  notes:', release)
-        release = re.sub('\n\- ', '\n    - ', release)
+        for p, r in release_regexes:
+            release = re.sub(p, r, release)
+        release = release.capitalize()
         new_data.append(release)
 
     data = ''.join(new_data)
+    for p, r in data_regexes:
+        data = re.sub(p, r, data)
 
-    data = re.sub("([,'\"!?])", "", data)
-    data = re.sub('\\\_', '_', data)
-    data = re.sub('\ntc1-mig.*\n', '\n', data)
+    print 'Creating rough translation'
+    for p, r in translations:
+        data = re.sub(p, r, data, flags=re.I)
 
-    print 'Rough translation'
-    data = re.sub('service recipient|sr|recipient', 'Student', data, flags=re.I)
-    data = re.sub('service', 'Job', data, flags=re.I)
-    data = re.sub('contractor', 'Tutor', data, flags=re.I)
-    data = re.sub('appointment|appt|apt', 'Lesson', data, flags=re.I)
-    data = re.sub('&', '&nbsp;', data)
-
-    with open('./_data/generated_change_log.yml', 'w') as f:
+    with open(change_log_dir, 'w') as f:
         f.write(data)
 
 
 def download_data():
-    command = 'github_changelog_generator tutorcruncher/TimeCruncher2'
+    command = 'github_changelog_generator tutorcruncher/TutorCruncher2'
     os.system(command)
 
 
