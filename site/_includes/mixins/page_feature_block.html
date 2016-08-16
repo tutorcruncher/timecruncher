@@ -1,6 +1,6 @@
 {% for feature in include.features %}
-  {% if feature.img %}
-    <div class="row feature-page-block {% cycle 'background-grey', '' %}">
+  <div class="row feature-page-block {% cycle 'background-grey', '' %}">
+    {% if feature.img %}
       <div class="col-md-6 col-sm-6 {% cycle '', 'col-md-push-6 col-sm-push-6' %}">
         <h2>{{ feature.title }}</h2>
         <p>{{ feature.text }}</p>
