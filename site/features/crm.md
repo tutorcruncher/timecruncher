@@ -2,8 +2,8 @@
 layout: base_feature
 title: Powerful User Profiles - TimeCruncher
 short_title: Powerful User Profiles
-description: TimeCruncher's CRM system keeps track of your users allows give you easy access to their profiles.
-aside: All of your users, be they clients, students or contractors, can use TimeCruncher's powerful CRM system to view their profile and view the information relevant to them.
+description: TimeCruncher's CRM system keeps track of your users and gives you easy access to their profiles.
+aside: All of your users, be they clients, students or contractors, can use TimeCruncher's powerful CRM system to view their profile and all information relevant to them.
 permalink: /features/crm/
 ---
 <div class="row">
