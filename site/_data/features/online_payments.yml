@@ -2,13 +2,13 @@
   title:  Card Payments
   text: |
     We've partnered with the Card Payment provider Stripe to allow you to take card payments. Invoices received by clients
-     have a link for paying by card without them having to log in, and your clients can save their card details so that this
-     is a one click payment.<br><br>
+     have a link for paying by card without them having to log in, and your clients can save their card details so
+     that future payments can be made with just one click. <br><br>
 
     Admins can also take payment over the phone for those clients who prefer to talk to someone, or admins can take deferred
      payments for those clients who save their details.<br><br>
 
-    Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing">Stripe's pricing page</a> for details.
+    Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing" target="_blank">Stripe's pricing page</a> for details.
   img: stripe-payment.png
   img-alt: Your card payment interface contains your own logo.
 -
@@ -17,4 +17,4 @@
     Our Direct Debit payment partner GoCardless allows you to setup a direct debit mandate for your clients and charge straight
      to their bank account.<br><br>
 
-    <a href="https://gocardless.com/">Find out more about GoCardless</a>.
+    <a href="https://gocardless.com/" target="_blank">Find out more about GoCardless</a>.

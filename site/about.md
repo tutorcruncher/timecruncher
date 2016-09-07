@@ -5,9 +5,9 @@ description: Get to know the team and where TimeCruncher came from.
 permalink: /about/
 ---
 
-TimeCruncher Ltd. was incorporated in February 2013 as an independently owned technology company born out of years
-of experience administering tuition businesses. It has separate owners and directors but still benefits from close 
-association with lots of tutoring companies. 
+TimeCruncher Ltd. was incorporated in February 2013 as a privately owned technology company born out of years of 
+experience in the administration of tuition businesses. It operates as an exclusively independent entity whilst 
+benefiting from its associations with many companies active in the tutoring industry.
 
 ## Where TimeCruncher came from
 
@@ -35,7 +35,8 @@ each invoice manually.
 
 ## Selling Software
 
-Despite the pain, TutorCruncher was launched in 2013 as a cloud-based and generated satisfactory Invoices and Payment Orders.
+Despite the pain, TutorCruncher was launched in 2013 as a cloud-based system and generated 
+satisfactory Invoices and Payment Orders.
 
 The kicker was that once you have a database of Tutors and Clients (which you require anyway to generate invoices) you 
 can start using the system for [customer relationship management (CRM)](/features/crm/) on the client side and as an employee database
