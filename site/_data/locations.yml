@@ -1,4 +1,14 @@
 -
+  name: USA
+  location: us
+  address:
+    - 24761 Masters Cup Way
+    - Valencia
+    - Los Angeles
+    - California 91355
+  phone: <a href="tel:0016614362294">+1 661 4362294</a>
+  map: map_us
+-
   name: London
   location: gb
   address:
@@ -10,7 +20,7 @@
   map: map_gb
 -
   name: Canada
-  location: us
+  location: ca
   address:
     - 604 Edward Avenue
     - Suite 14
@@ -19,4 +29,4 @@
     - Canada
     - L4C9Y7
   phone: <a href="tel:0018883068259">1.888.306.8259 Ext. 2211</a>
-  map: map_us
+  map: map_ca
