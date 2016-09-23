@@ -7,49 +7,12 @@
   img: industries/music-teacher-profile.png
   img-alt: Record and view all the relevant information on your users.
 -
-  title:  Adjustable Filter Options
-  text: |
-    Finding the perfect teacher for each student is a crucial part of your business. TimeCruncher allows you to filter your contractors by any attribute given in a profile or even
-     your own custom fields. This makes it a lot easier for you to match students and teachers.
-  img: industries/filter-music-teacher.png
-  img-alt: Filter your users by any attribute you like.
--
-  title:  Simple and Intuitive Calendar Function
-  text: |
-    You can view all of your school's lessons per day, week or month. Filter the calendar by teacher, student, status or location of a lesson. A simple
-     colour code makes your schedule clearer and more structured. Using iCal integration, any user can synchronise the TimeCruncher calendar with their own one. 
-  img: industries/calendar-music.png
-  img-alt: View all of your scheduled lessons at a glance.
--
-  title:  Teachers Can Apply for Jobs
-  text: |
-    If you haven't decided which teacher you'd like to assing to a job, you have the option to make it 'Available for Application'. This allows teachers to apply for that job
-     directly and even compete on the rate they will do it for.
-
-    You can also send out notifications to all or only some of your teachers asking them to apply.
-  img: industries/send-notifications.png
-  img-alt: Send notifications to all or only certain teachers to inform them about available jobs.
--
-  title:  Customisable User Map
-  text: |
-    TimeCruncher's map functions allows you to view all of your users, such as teachers and clients, at a glance. You can filter by role type or geographical
-     area to make it easier for you to assign a job to a particular teacher.
-  img: industries/user-map.png
-  img-alt: Customise TimeCruncher's map to facilitate matching teachers and students.
--
   title:  Create Repeated Lessons
   text: |
     Lessons can be repeated on a weekly or daily basis and be scheduled to continue until any set date. You can create a source lesson and then automatically
      repeat it in one easy step.
   img: industries/music-repeated-lesson.png
   img-alt: Simply create an original lesson and set it to be repeated for a long as you wish.
--
-  title:  Lesson Reminders
-  text: |
-    You can customise lesson reminders regarding their target audience and the time you want to send them.
-     For instance, you could set a reminder to go out to all students 24 hours before each lesson. 
-  img: industries/lesson-reminders-music.png
-  img-alt: Make sure your students and teachers never forget a lesson.
 -
   title:  Share Content Easily
   text: |
@@ -60,107 +23,10 @@
   img: industries/documents-music.png
   img-alt: Upload documents to lessons to share information with a particular group of users.
 -
-  title:  Teachers Log Own Lessons and Create Reports
+  title:  Teachers Create Reports
   text: |
-    TimeCruncher allows your teachers to log their own hours instead of requiring you to manage their schedules.
-
-    Teachers are also able to create reports after each lesson so that when the client receives their invoice, they receive information from the
+    Teachers are able to create reports after each lesson so that when the client receives their invoice, they also receive information from the
      teacher regarding the progress the student made, recommendations for further lessons etc.
      Like most of TimeCruncher, reports are customisable so that they can help you record any and all relevant information.
   img: industries/report-music.png
   img-alt: Create customisable lesson reports to keep your clients well-informed.
--
-  title: Monitor Students' progress
-  text: |
-    TimeCruncher keeps track of how your students' performance improves over time. You can filter the reports by date range, teacher or student.
-     For instance, you could compare the performance of all students one teacher has in order to evaluate that contractor's teaching skills.
-  img: industries/music-reports-list.png
-  img-alt: Keep track of how your students are doing with the help of teachers' reports on each lesson.
--
-  title:  Automated Invoices
-  text: |
-    Using the lesson data you provide, TimeCruncher automatically generates invoices. In order to make sure you're billing the correct amount, you can review
-     drafted invoices before sending them to clients.
-  img: industries/draft-invoices.png
-  img-alt: Review the invoices you created before you send them to your clients.
--
-  title:  Customisable Invoices
-  text: |
-    In order for your invoices to portray the correct image to your clients, you can customise your invoices to look as smart as possible, for instance by including
-     your company logo, address details and more. You can even tailor them further for your business with our editable templates.
-  img: industries/invoice-music.png
-  img-alt: Customise your invoices to look as professional as possible.
--
-  title:  Tax Included
-  text: |
-    TimeCruncher does not only automatically calculate the correct amount of tax on each invoice; it also allows you to customise and apply different tax setups,
-     giving you more time to grow your business.
-
-    If you are acting as an agent for your music teachers, TimeCruncher allows you to charge for the job via the contractor. Since you are then no longer
-     acting as a service provider, the tax will only be charged on the commission that the teacher pays you, giving you the obvious benefits.
-  img: industries/tax-invoice-music.png
-  img-alt: Automatically include the correct amount of tax in your invoices.
--
-  title: Credit Control
-  text: |
-    Managing credit control is easy - TimeCruncher will show you who hasn't paid and, by sending them a reminder, you can make sure your clients always remember
-     to pay. Since the main reason for bad debtors is simply forgetting to pay, we've made it as easy as possible for clients to pay using our online payments.
-  img: industries/sent-invoices.png
-  img-alt: TimeCruncher lets you view all your unpaid invoices and send reminders.
--
-  title:  Paying your Teachers
-  text: |
-    In addition to automatically generating invoices, TimeCruncher also generates payment orders for you to send to your teachers to inform them about
-     the amount you are paying them and the exact lessons those payments refer to.
-  img: industries/po-example.png
-  img-alt: Payment orders can be generated just as easily as invoices.
--
-  title:  Automated Emails
-  text: |
-    With TimeCruncher, you can create email styles for almost anything, such as lesson reminders, sending invoices or welcoming a new client.
-     You can of course customise your emails to include your own content and company logo and even write your own HTML templates.
-
-    Our integrated mail service allows you to send emails from your own address so that your clients can reply straight to your inbox.
-  img: industries/email-example.png
-  img-alt: Customise almost any kind of email with TimeCruncher.
--
-  title:  Marketing Campaigns
-  text: |
-    You can quickly launch marketing campaigns, for instance via email, using the tools provided by TimeCruncher. Our advanced filtering options allow you to
-     specify your target audience, such as all clients living in a certain area.
-  img: industries/broadcast-music.png
-  img-alt: Create broadcasts or marketing emails to send to your clients.
--
-  title:  Measure Marketing Success
-  text: |
-    Thanks to TimeCruncher's Email Analytics, you can see exactly how well your emails are received, including opening rate and spam complaints. This allows you to 
-     monitor your marketing campaigns and improve communication with your clients and contractors.
-  img: industries/email_analytics.png
-  img-alt: TimeCruncher's analytics help you monitor the success of your email campaigns.
--
-  title:  Detailed Business Analysis
-  text: |
-    TimeCruncher keeps track of your cashflow and breaks it down into your monthly income, revenue, expenses, tax and more. You can see information such as
-     what type of lesson generates the highest revenue or the lessons each teacher is giving.
-
-    TimeCruncher also provides you with helpful graphs and visual data to let you see at a glance how well your business is doing.
-  img: industries/timecruncher-income-breakdown.png
-  img-alt: TimeCruncher's income breakdown.
--
-  title:  Card Payments
-  text: |
-    We collaborate with the Card Payment provider Stripe to allow you to take card payments. Invoices received by clients also feature a link for paying by card without
-     them having to log in, and your clients can save their card details for future payments.
-
-    Admins can also take payments over the phone, which is a great tool for clients that prefer to talk to someone. Furthermore, admins can take deferred
-     payments for clients saving their details.
-
-    Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing">Stripe's pricing page</a> for details.
-  img: industries/stripe-payment.png
-  img-alt: Your card payment interface contains your own logo.
--
-  title:  Direct Debit Payments
-  text: |
-    Our Direct Debit Payment partner GoCardless allows you to set up a direct debit mandate for your clients and charge straight to their bank account.<br><br>
-
-    <a href="https://gocardless.com/">Find out more about GoCardless</a>.
