@@ -17,7 +17,7 @@
 -
   title: For Driving Schools
   icon: fa-car
-  industry_page: https://timecruncher.com/industries/driving/
+  industry_page: /industries/driving/
   text: |
     Thanks to our long-time cooperation with tutoring agencies, adapting our software to suit the needs of driving schools was a rather easy and natural step for us.
      Find out how TimeCruncher can help you manage your business more effectively.
@@ -33,7 +33,7 @@
 -
   title: For Cleaning Companies
   icon: fa-trash-o
-  industry_page: https://timecruncher.com/industries/cleaning/
+  industry_page: /industries/cleaning/
   text: |
     TimeCruncher's great location system and powerful automated emails enable you to find cleaners and get them to the right place
      quickly and easily, giving your clients the best service possible.
@@ -49,7 +49,7 @@
 -
   title: For Music Teaching Companies
   icon: fa-music
-  industry_page: https://timecruncher.com/industries/music/
+  industry_page: /industries/music/
   text: |
     Looking back on years of experience in the tuition industry, we found adjusting TimeCruncher to manage Music Teaching Companies an easy step.
      Find out how we can help you run and grow your business.

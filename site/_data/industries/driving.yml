@@ -4,21 +4,21 @@
     Driving instructors can set up their own profiles with just a few clicks. They can fill in their details, such as information regarding their professional
      experience and skills, upload a profile picture and much more. As an administrator, you have direct access to the profiles of all your instructors, students and
      clients and you can even collect more information by adding new, fully customisable fields.
-  img: /industries/contractor-profile.png
+  img: industries/contractor-profile.png
   img-alt: Record and view all the relevant information on your instructors.
 -
   title:  Customisable Filter Options
   text: |
     Using the customised fields you created yourself or any other attribute given in a profile, you can filter all of your instructors to find the perfect
      one for each of your students.
-  img: /industries/contractors-filtered.png
+  img: industries/contractors-filtered.png
   img-alt: Filter your users by any attribute relevant to you.
 -
   title:  Simple and Intuitive Calendar Function
   text: |
     You can view all of your company's lessons per day, week or month. Filter the calendar by contractor, service recipient, status or location of a lesson. A simple
      colour code makes your schedule clearer and more structured. Using iCal integration, any user can synchronise the TimeCruncher calendar with their own one. 
-  img: /industries/driving-calendar.png
+  img: industries/driving-calendar.png
   img-alt: View all of your scheduled lessons at a glance.
 -
   title:  Teachers Can Apply for Jobs
@@ -27,21 +27,21 @@
      directly and even compete on the rate they will do it for.
 
     You can also send out notifications to all or only some of your teachers asking them to apply.
-  img: /industries/send-notifications.png
+  img: industries/send-notifications.png
   img-alt: Send notifications to all or only certain teachers to inform them about available jobs.
 -
   title:  Create Repeated Lessons
   text: |
     Lessons can be repeated on a weekly or daily basis and be scheduled to continue until any set date. You can create a source lesson and then automatically
      repeat it in one easy step.
-  img: /industries/repeater.png
+  img: industries/repeater.png
   img-alt: Simply create an original lesson and set it to be repeated for a long as you wish.
 -
   title:  Lesson Reminders
   text: |
     You can customise lesson reminders regarding their target audience and the time you want to send them.
      For instance, you could set a reminder to go out to all students 24 hours before each lesson. 
-  img: /industries/lesson-reminders.png
+  img: industries/lesson-reminders.png
   img-alt: Make sure your students and contractors never forget a lesson.
 -
   title:  Share Content Easily
@@ -50,7 +50,7 @@
      viewed by users it's relevant to.
 
     A good use of this is for your instructors to upload their qualifications for the client to view, or for the client to download any relevant forms to fill in.
-  img: /industries/document-details.png
+  img: industries/document-details.png
   img-alt: Share your documents and other resources with a customisable group of users.
 -
   title:  Instructors Log Own Lessons and Create Reports
@@ -60,21 +60,21 @@
     Instructors are also able to create reports after each lesson so that when the client receives their invoice, they receive information from the
      instructor regarding the progress the student made, recommendations for further lessons etc.
      Like most of TimeCruncher, reports are customisable so that they can help you record any and all relevant information.
-  img: /industries/lesson-report-example.png
+  img: industries/lesson-report-example.png
   img-alt: Create customisable lesson reports to keep your clients well-informed.
 -
   title: Monitor Students' progress
   text: |
     TimeCruncher gives you an overview of the development of your students' performance over time. You can filter the reports by date range, instructor or student.
      For instance, you could compare the performance of all students one instructor has in order to evaluate an instructor's teaching skills.
-  img: /industries/driving-reports.png
+  img: industries/driving-reports.png
   img-alt: Keep track of how your students are doing with the help of instructors' reports on each lesson.
 -
   title:  Automated Invoices
   text: |
     Using the lesson data you provide, TimeCruncher automatically generates invoices. In order to make sure you're billing the correct amount, you can review
      drafted invoices before sending them to clients.
-  img: /industries/draft-invoices.png
+  img: industries/draft-invoices.png
   img-alt: Review the invoices you created before you send them to your clients.
 -
   title:  Tax Included
@@ -84,21 +84,21 @@
      
     If you are acting as an agent for your instructors, TimeCruncher allows you to charge for the job via the instructor. Acting as an agent rather than a service
      provider means that the tax will only be charged on the commission that the instructor pays you, giving you the obvious benefits.
-  img: /industries/invoice-charge-via-con.png
+  img: industries/invoice-charge-via-con.png
   img-alt: Automatically include the correct amount of tax in your invoices.
 -
   title: Credit Control
   text: |
     TimeCruncher makes it easy for you to manage credit control - You can see at a glance who hasn't paid their invoices yet and quickly send them a reminder.
      Since the main reason for bad debtors is simply forgetting to pay, we've made it as easy as possible for clients to pay using our online payments.
-  img: /industries/sent-invoices.png
+  img: industries/sent-invoices.png
   img-alt: TimeCruncher lets you view all your unpaid invoices and send reminders.
 -
   title:  Paying your Instructors
   text: |
     TimeCruncher can automatically generate both invoices and payment orders, making it easy for you to inform your driving instructors about the amount you are paying them and
      the exact lessons those payments refer to.
-  img: /industries/po-example.png
+  img: industries/po-example.png
   img-alt: Payment orders can be generated just as easily as invoices.
 -
   title:  Automated Emails
@@ -107,7 +107,7 @@
      You can of course customise your emails to include your own content and company logo and even write your own HTML templates.
 
     Our integrated mail service allows you to send emails from your own address so that your clients can reply straight to your inbox.
-  img: /industries/email-example.png
+  img: industries/email-example.png
   img-alt: Customise almost any kind of email with TimeCruncher.
 -
   title:  Detailed Business Analysis
@@ -116,7 +116,7 @@
      what type of lesson generates the highest revenue or the lessons each instructor is teaching.
 
     TimeCruncher also provides you with helpful graphs and visual data to let you see at a glance how well your business is doing.
-  img: /industries/timecruncher-income-breakdown.png
+  img: industries/timecruncher-income-breakdown.png
   img-alt: TimeCruncher's income breakdown.
 -
   title:  Card Payments
@@ -128,7 +128,7 @@
      payments for clients who save their details.
 
     Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing">Stripe's pricing page</a> for details.
-  img: /industries/stripe-payment.png
+  img: industries/stripe-payment.png
   img-alt: Your card payment interface contains your own logo.
 -
   title:  Direct Debit Payments
