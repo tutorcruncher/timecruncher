@@ -1,25 +1,24 @@
 -
   title:  Self sign up
   text: |
-    Let your contractors create their own profiles so you don't have to. They can sign themselves up, fill in their details
-     including data such as their skills and qualifications, upload a CV and profile picture, and much more.<br><br>
+    Let your contractors create their own profiles so you don't have to. They can sign themselves up, fill in details such as their skills and qualifications,
+     upload a CV and a profile picture and much more.<br><br>
 
-    With our embeddable enquiry form clients can get in contact with you and their details are added to TimeCruncher.
+    With our embeddable enquiry form clients can get in contact with you and have their details added to TimeCruncher.
   img: contractor-reg.png
   img-alt: Contractors can sign themselves up with TimeCruncher.
 -
   title:  Customisable profiles
   text: |
-    Between our range of customisable fields you can record anything you want about your users, be it if they can drive or
-     how they heard about your business. You can then report on them to find out, for instance, how many of the users that were created
-     last month were attracted by your most recent ad campaign?
+    Between our range of customisable fields you can record anything you want about your users, be it whether or not they can drive or how they came across your business.
+     You can then report on them to find out, for instance, how many of the users created last month were attracted by your most recent ad campaign.
   img: contractor-profile.png
   img-alt: You can record any information you need for your contractors.
 -
   title:  Advanced filtering
   text: |
-    Matching a contractor to a client can be a tricky part of the your business. With TimeCruncher, you can filter your
+    Matching a contractor to a client can be a tricky part of your business. With TimeCruncher, you can filter your
      contractors by anything you want, such as where they live, what skills or qualifications they have, or even any of the customised
      fields you have created, so you can find the right match for your client quickly and easily.
   img: contractors-filtered.png
-  img-alt: Filter your users by any fields you want.
+  img-alt: Filter your users by any attribute you like.

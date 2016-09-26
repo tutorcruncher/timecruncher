@@ -8,13 +8,13 @@
     Admins can also take payment over the phone for those clients who prefer to talk to someone, or admins can take deferred
      payments for those clients who save their details.<br><br>
 
-    Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing" target="_blank">Stripe's pricing page</a> for details.
-  img: stripe-payment.png
+    Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing">Stripe's pricing page</a> for details.
+  img: /features/stripe-payment.png
   img-alt: Your card payment interface contains your own logo.
 -
   title:  Direct Debit Payments
   text: |
-    Our Direct Debit payment partner GoCardless allows you to setup a direct debit mandate for your clients and charge straight
+    Our Direct Debit payment partner GoCardless allows you to set up a direct debit mandate for your clients and charge straight
      to their bank account.<br><br>
 
     <a href="https://gocardless.com/" target="_blank">Find out more about GoCardless</a>.

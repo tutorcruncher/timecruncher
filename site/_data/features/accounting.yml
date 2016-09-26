@@ -26,8 +26,8 @@
     Unlike other business management software, TimeCruncher automatically calculates tax on invoices,
      which can be applied in any way, depending on the model of your business and your tax setup.<br><br>
 
-    If you are acting as an agent for your contractors then TimeCruncher allows you to charge for the job via the contractor.
-     This means that because you are acting as an agent and not a service provider that the tax will only be charged on
+    If you are acting as an agent for your contractors TimeCruncher allows you to charge for the job via the contractor.
+     This means that because you are acting as an agent and not a service provider the tax will only be charged on
      the commission that the contractor pays you, giving you the obvious benefits.<br><br>
 
     <a href="http://tutorcruncher.github.io/TutorCruncher-invoice-template/examples/example-invoice-charge-via-contractor.pdf">
@@ -46,14 +46,14 @@
 -
   title: Paying your Contractors
   text: |
-    As well as automating the invoicing process, TimeCruncher generates Payment Orders for you to send to your contractors to
-     let them know how much you are paying them, and what for.
+    As well as automating the invoicing process, TimeCruncher generates payment orders for you to send to your contractors to
+     let them know exactly how much you are paying them, and what for.
   img: po-example.png
-  img-alt: Payment Orders can be generated just as easily as invoices.
+  img-alt: Payment orders can be generated just as easily as invoices.
 -
   title: Exporting Accounting Information
   text: |
-    You can export your accounting information in to whichever accounting package you use to manage your books; you'll quickly
+    You can export your accounting information into whichever accounting package you use to manage your books; you'll quickly
      be able to see any discrepancies that need to be taken care of.
   img: xero-export.png
   img-alt: Export your accounting info into your accounting package.
