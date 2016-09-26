@@ -1,24 +1,24 @@
 -
   title:  Customisable User Map
   text: |
-    TimeCruncher's map functions allows you to view all of your users, such as contractors and clients, at a glance. You can filter by role type or geographical
+    TimeCruncher's map functions allows you to view all of your users, such as cleaners and clients, at a glance. You can filter by role type or geographical
      area to make it easier for you to assign a job to a particular cleaner.
   img: industries/user-map.png
-  img-alt: Customise TimeCruncher's map to facilitate matching contractors and jobs.
+  img-alt: Customise TimeCruncher's map to facilitate matching cleaners and jobs.
 -
   title:  Cleaners Can Apply for Jobs
   text: |
-    If you haven't decided which contractor you'd like to assing to a job, you have the option to make it 'Available for Application'. This allows cleaners to apply for that job
+    If you haven't decided which cleaner you'd like to assing to a job, you have the option to make it 'Available for Application'. This allows cleaners to apply for that job
      directly and even compete on the rate they will do it for.
 
     You can also send out notifications to all or only some of your cleaners asking them to apply.
   img: industries/send-notifications.png
-  img-alt: Send notifications to all or only certain teachers to inform them about available jobs.
+  img-alt: Send notifications to all or only certain cleaners to inform them about available jobs.
 -
   title:  Locations
   text: |
-    If you provide locations on appointments, your contractors can use our maps integration to get directions. Use your client's address or a custom location to let
-     your contractors know where to go.
+    If you provide locations on appointments, your cleaners can use our maps integration to get directions. Use your client's address or a custom location to let
+     your cleaners know where to go.
   img: industries/map-directions.png
   img-alt: TimeCruncher makes it easier for a cleaner to find their way to the location of a job.
 -

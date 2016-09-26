@@ -8,7 +8,7 @@
 -
   title:  Simple and Intuitive Calendar Function
   text: |
-    You can view all of your company's lessons per day, week or month. Filter the calendar by contractor, service recipient, status or location of a lesson. A simple
+    You can view all of your company's lessons per day, week or month. Filter the calendar by instructor, student, status or location of a lesson. A simple
      colour code makes your schedule clearer and more structured. Using iCal integration, any user can synchronise the TimeCruncher calendar with their own one. 
   img: industries/driving-calendar.png
   img-alt: View all of your scheduled lessons at a glance.
@@ -18,7 +18,7 @@
     You can customise lesson reminders regarding their target audience and the time you want to send them.
      For instance, you could set a reminder to go out to all students 24 hours before each lesson. 
   img: industries/lesson-reminders.png
-  img-alt: Make sure your students and contractors never forget a lesson.
+  img-alt: Make sure your students and instructors never forget a lesson.
 -
   title:  Instructors Log Their Own Lessons
   text: |
