@@ -1,4 +1,147 @@
 -
+  title: v16-10-13
+  notes:
+    - Better handling of no card in stripe
+    - Resetting the cache for activity
+    - Fixing error for customers with no sources
+    - Initiate Select2 in edit_basic.jinja
+    - Fix pdf timezones
+    - Adding menu bar scroll and makin activity feed display on small screens.
+    - Removing recip as option on rcr form and cleanup.
+    - Few small cleanups after deploy
+    - Redis fix
+    - Speed-ups to critical queries
+    - Uprevs
+    - Adding save cards button to client
+    - Gc app_fee None not zero if nil
+    - Making repeat button available when Lesson is locked
+    - Exporting reports
+    - Editing card details setting default
+
+-
+  title: v16-10-03
+  notes:
+    - Using the correct js file name
+    - Patch to remove duplicate rcrs and conjobs
+    - Few ui tweaks for mobile
+    - Selenium improvements
+    - Fix Lesson viability with wrong rcrs
+    - Delete old blank CVs
+    - Adding charge based timeseries chart
+    - Change the Invoice ID start field to a positive int field
+    - Working to arrange schedule models in a more sane way
+
+-
+  title: v16-09-26
+  notes:
+    - Use display email for export
+    - Excluding charges from analytics where amount == 0
+    - Math domain error fix
+    - Fixing the verb display on activity log
+    - Exporting users even if they have no email address
+
+-
+  title: v16-09-22
+  notes:
+    - Fixing float pixel ratio
+    - Schedule bug fixes
+    - Fix balance updates view
+    - Dont change meta user names
+    - Unicode error when exporting.
+    - Better static map styles
+    - Branch completion check list - take 2
+    - Converting to proper python3
+    - Converting scripts to py3
+    - Add charge_via_branch to Tutor
+    - Ead form imps
+    - Fix availability bug
+    - PFI not having pending status if no client payment deets
+    - Changing to https://help
+    - Email def added to Job
+
+-
+  title: v16-09-17
+  notes:
+    - Fix bootstrap columns
+    - Fix csv export with S3
+    - Datetime picker overflow
+    - Email imgs
+    - Change python version to 3.5
+
+-
+  title: v16-09-14
+  notes:
+    - Fix meta ranking page created sort
+    - Add client balance as email variable
+    - Fixing selenium
+    - Replace VERSION_REF in footer with system.txt page
+    - Upgrading reqs
+    - Uprev and Add Vaheed to the new agency signups emails
+    - ICal available if cannot edit lessons
+    - Fix analytics bug for 0 charge Lessons
+    - Allow qualifications from 1950
+    - Py3
+    - Cloudflare
+    - Weekly notification patch
+    - Fix double login causing CStudentF failures
+    - Bug fixes
+
+-
+  title: v16-09-06
+  notes:
+    - Updating test reqs
+    - Improve user export
+    - Set max-width for the logo in emails
+    - Allow creation of Lessons that drop balance to 0
+    - Fix viability 400 response
+    - Analytics improvements
+
+-
+  title: v16-09-02
+  notes:
+    - Fixing add label slow page
+    - Fix weekly update email
+    - Dont include cancelled lessons on Tutor availability
+    - Extend list of cStudentf redirect urls to include signup
+    - Converted ip2geolocation strings into unicode + test
+    - Checking for no long or lat
+
+-
+  title: v16-08-26
+  notes:
+    - Fix availability time parsing
+    - Updating requirements
+    - Fixing completion donut after nvd3 update
+    - Import eads
+    - Making the labels filter AND not OR
+
+-
+  title: v16-08-16
+  notes:
+    - Fix wsgi import order
+    - Add change location to all role_types
+    - Updating static files related to analytics
+    - Isort import order
+    - Coloring Tutor calendar by status by default
+    - Improved favicons
+    - Allocated funds
+    - Showing completed tasks on role details
+    - Profile Completion \(clean PR\)
+    - Weekly update Email \(clean PR\)
+
+-
+  title: v16-08-08
+  notes:
+    - Fix unicode error on label notification
+    - Change description for Tutor
+    - Adding support_package to the fields on an agency and sending to intercom
+    - Making the TimeCruncher sign up page
+    - Improvements to ahc crud validation
+    - Customisation menu
+    - Edit location Tutor 404
+    - Replacing glyphicons with fontawesome
+
+-
   title: v16-08-02.01
   notes:
     - Email templates unicode fix
@@ -498,6 +641,8 @@
     - Fixed Tutor url
     - Demo branch changes
     - Improving editors
+    - Prevent duplicate cons on Job
+    - Adding new institutions
 
 -
   title: v15-10-29
@@ -509,6 +654,8 @@
     - Translations for calendar
     - Remove Richard as a manager
     - Updating requirements and python
+    - Tutor login improvements
+    - Edit notes on all cons
 
 -
   title: v15-10-22
@@ -516,25 +663,562 @@
     - Disabling the submit button as well as hiding it
     - Translations
     - Colour change for availability calendars
+    - Lesson.units dft to 1 null=False
     - Merging Students for an agency
     - Show RCRa client cost instead of charge rate
     - Enable pg connection pooling
+    - Lesson con availability
+    - Issue with Job absolute url
     - Broadcast errors
     - Changed : and - to _ so that we can view /django_rq/ jobs
     - Accounting speedup
+    - Fixing sentry tags
+    - Fix use of dates in accounting calcs
     - Fix order of activities on admin dash
+    - Lesson &nbsp; report workflow
+    - Show notifications on Inv PO and PFI
+    - Adding notes to Jobs
+    - 2666 ahc for admin
 
 -
   title: v15-10-16
   notes:
     - Fix conjob get_absolute_url
+    - Improving job recording and tests
+
+-
+  title: v15-10-14
+  notes:
+    - Fix for a pretty tweet
+    - Job recording
+    - Fixing translations
+    - Fix po regen with void po and send invoice
+    - Correct today for timezones
+    - Clean up rq interface
+    - Tutor form loading correctly
 
 -
   title: v15-10-12
   notes:
     - Fix for timezone bugs
+    - All search index updates happening on worker
+    - Test for amount owed
     - Fixing timezone support
     - Fixing availability and Job modals posting
+    - Adding charge.branch_cut
+    - Move AHC meta gen onto long worker
     - Multi Tutor availability
     - OperationalError catch and retry
+    - Lesson availability display
+    - Improving availability
+    - Fixes to tab filtering sorting daterangepicker
+    - Admin add to Job from Student/Cli
 
+-
+  title: v15-10-07
+  notes:
+    - Fix Lesson first label
+    - Mandrill details error
+    - Speeding up tests
+    - Update jquery and django
+    - Allowed clients to edit their Students
+    - Report saves if extra attr
+    - Label first Lesson
+
+-
+  title: v15-10-5
+  notes:
+    - Change usage cost to decimal
+    - Accounting po gen issue
+    - Deleted slug ignore
+    - Speeding up admin index page
+    - Use HTML_HARD_WRAP instead of regex
+    - Fix hoedown_html_renderer_free misaka error
+    - TrackedJob SIGTERM handler
+    - Tutors see AHC
+
+-
+  title: v15-10-3
+  notes:
+    - Misaka ascii issue
+    - Fix import script
+    - Fix for static files in migrate
+
+-
+  title: v15-10-2
+  notes:
+    - Fixes to email filtering and analytics
+    - Fix translations variables
+    - Agency_slug unique
+    - Misaka
+
+-
+  title: v15-09-30
+  notes:
+    - Rearrange common
+    - Email template generated before threading
+    - Error fixes
+    - Email analytics issues
+    - Improve coverage exclude_lines and generate xml
+    - Possible test speedups
+    - Coverage improvements
+    - Fix edit Lesson includes Students only on Lesson
+    - OAuth2 for GDrive
+    - Allow notes to be edited
+    - Job cap displays decimals
+    - Email speedups
+    - Fix deleting of rcrs and conjobs
+    - Added links
+
+-
+  title: v15-09-28
+  notes:
+    - Requirements fixes
+    - Bug fix for Calendar Filter
+    - Student Dashboard
+
+-
+  title: v15-09-23
+  notes:
+    - Fixing email style templates with broadcasts
+    - Move 2 agency
+    - Customer rq worker which closes connections
+    - Fixed pdfs from displaying inactive emails
+    - Date Formatting for Extra Attributes
+    - 2661 report edit
+
+-
+  title: v15-09-22
+  notes:
+    - Adding subject categories to desired skills
+    - Improve select2 update ratelimit
+    - Adding tax setup to ahc cat
+    - Active students now calced from ahcs also
+    - Fix image indexing problem
+    - Test speedups
+    - Edit extra attr to date bug
+    - Adding logout2view page
+    - Fix AgencyPermissionQsMixin allowing no pk
+    - Allow null option on ModelChoices
+    - Location displayed to Tutor
+    - Remove tc1 migrations scripts
+    - Street view and small migs fixes
+    - Added client name to Job/assignment add Student w/ filtering
+    - Improved sentry reporting for rq functions
+    - Email fixes
+    - Add request header to 40X entries
+    - Changed calculating amount owed
+
+-
+  title: v15-09-15
+  notes:
+    - Expenses on Lesson
+    - Fixing search images
+    - Tutors viewing charge rate
+    - Fix url for institions.json lookup
+    - Fixing user import
+    - Activity Demo
+    - Draft Totals
+    - 2565 registration trans
+
+-
+  title: v15-09-14.01
+  notes:
+    - Switch off search index for most tests
+    - Test improvements
+
+-
+  title: v15-09-14
+  notes:
+    - Added Titles to Hidden skills pages
+    - More sane mandrill tags translation fix
+    - Tutor name missing
+    - Fix french translations
+    - Net setting with charge via Tutor
+    - FR fix
+    - Create patch for update skills display name
+    - Lesson update for invoices
+    - Default Rate back to Student form
+    - Cap fix
+    - Search improvements
+    - Tutor Login Improvements \#2631
+    - Broadcast improvement
+
+-
+  title: v15-09-09
+  notes:
+    - Meta improvements
+    - Make sure we dont translate in analytics events
+    - Stripe fixes
+    - Improving sentry
+    - Client emails
+    - First login redirection
+
+-
+  title: v15-09-08
+  notes:
+    - Fixing import script
+    - Fr tanslation
+    - Splitting users
+    - Stripe card saving
+    - Display phone number on cli/con list and detail
+    - 2621 select2 fix
+    - Numerous system speedups
+    - 2491 adh panel improvements
+
+-
+  title: v15-09-07
+  notes:
+    - Sentry improvements and 40Xs
+    - Fix unicode csv export
+    - New field on client sign up
+    - Label improvements
+
+-
+  title: v15-09-04
+  notes:
+    - French translations quick fix
+    - Lesson edt fix
+    - Tutor amount_owed fix
+    - Check pdf
+
+-
+  title: v15-09-03
+  notes:
+    - Show more info for caps
+    - Add sales codes edit to branch setup
+    - Readme fix
+    - Fix very intermittent bug in ConflictsTests
+    - Fixing safe text/bytes
+    - Lesson date am/pm
+    - Increase logo sizes for better display
+    - Extra attribute permissions
+    - Allow editting qual to existing value
+    - Numerous small improvements
+    - Location conflicts
+    - Client manager analytics
+    - Extra attribute for Student in API
+    - JVS XSS issue
+    - More connection closing
+    - Fix the issue and solve a bug in get_subject_url
+    - Report edit and preview
+
+-
+  title: v15-08-28.01
+  notes:
+    - Switching ahc order fix dt error
+    - Numerous test/management fixes
+
+-
+  title: v15-08-28
+  notes:
+    - Improving pdf translations
+    - Fixing filter problems and improving forms
+    - Remove django-user-accounts
+    - Close connection on TrackedJob
+
+-
+  title: v15-08-26
+  notes:
+    - Con editing documents
+    - Fixing rubbish bin to include pagination
+    - Broadcasts to deleted
+    - Prevent client logins if client_settings
+    - Void btn on po added
+    - Tutoring translation
+    - Add client tabs
+    - Mailchimp csv export
+    - 2492 more info invoices pos
+    - Url fix
+
+-
+  title: v15-08-25
+  notes:
+    - Skills merging
+    - Meta charge generation
+    - Deleting ad hoc charges
+    - Fixing meta
+
+-
+  title: v15-08-24
+  notes:
+    - Pdf translations
+    - Switch from coveralls to codecov
+    - Uprev. django to 1.8.4
+    - Speed up Tutor list views
+    - Add a test for closing Job activity
+    - 2352 filter by label for Job
+    - Broadcasts
+    - Cancelled but chargeable
+    - Add delete buttons
+    - 2493 select2 on skillset
+    - 2382 ahc Tutor
+    - 403 in analytics links
+
+-
+  title: v15-08-20.01
+  notes:
+    - Fix codemirror js
+    - Ahc_fix
+    - Translation up to date
+    - Make help text look less dreadful
+
+-
+  title: v15-08-20
+  notes:
+    - Fix for template form on superadmin
+    - Add attribute defintion/value api example
+    - Lesson mark complete fix
+    - Js lint
+    - Allow hidden subjects and quals to be blank
+    - Job panel improvements
+    - Add date created for client everywhere
+    - Rcr set null fixes
+    - 2470 Tutor filtering tag bug
+    - Tutor closing Job
+    - Non owner admin permissions
+    - 2444 add expense from Job Lesson
+    - PDF report display
+    - READ-ME update
+    - Client balance display date filter
+    - PDF generation for balance history
+    - Accounting coverage
+    - Analytic hours pb
+    - 2252 last activity on Job
+    - Email balance
+    - Add help_text to item_details
+    - Job counter and labels
+
+-
+  title: v15-08-12.02
+  notes:
+    - Fixing Tutor amount_owed
+
+-
+  title: v15-08-12.01
+  notes:
+    - Flake8
+
+-
+  title: v15-08-12
+  notes:
+    - Client force charge via branch
+    - Expenses as net values
+    - Lesson charge via
+    - Add Rob to list of Managers
+    - Lesson unlocking
+    - PDF spinner
+    - JVS injection vulnerability
+    - Pfi amount \> 0
+    - Agent form improvement
+    - Tutor dashboard accounting
+    - View client balances
+
+-
+  title: v15-08-05
+  notes:
+    - Change to text
+    - Small active page fixes
+    - PDF preview eye removal when no stripe
+    - Balance history with credit note fix
+    - Admin detail view js now works
+    - Mailto link dont show spinner
+    - Link open in a new tab
+    - Fix admin display
+    - Balance history Fix
+    - Time display fix for Lesson details
+    - Improve contamination tests
+
+-
+  title: v15-08-04.01
+  notes:
+    - Urgent fix label filter queryset
+    - Demo password stripe javascript
+
+-
+  title: v15-08-04
+  notes:
+    - Ci improvements
+    - Ci speedup
+    - Solve tag bug
+    - Hide subjects and qualification levels
+    - Add a disabled field showing the Job name
+    - Change Lesson colour on calendar
+    - Working on simple locations
+    - Map improvements
+    - Uprev to python 2.7.9 and django-accounts
+    - Link to add another Lesson on Lesson detail
+    - Invoice date and view
+    - Circle CI test performance
+    - Change card to tcs pay system
+    - Hide help dashboard
+    - Adding paid invoice email def
+    - Select2 correction
+    - Improved balance history
+    - Change default labels and add label filter
+    - Mobile visual improvements
+    - 2250 proforma invoice from client page
+    - Activity role set
+    - Fixed balance filter pagination
+
+-
+  title: v15-07-29
+  notes:
+    - CircleCI
+    - Allow qual levels and subjects to be merged
+    - 40X page css
+    - Academic year
+    - Ical feed performance
+    - Change footer on every mail
+    - Add help text in analytics pages
+    - Calendar iCal
+
+-
+  title: v15-07-28
+  notes:
+    - Add reset pw link to this page
+    - Add inv and po start id
+    - Displaying template form to admins
+    - Adding Student to Lesson
+    - AHC Con bug needs to be distinctified
+    - Agency/branch settings improvements
+    - Balance view improvement
+    - Add french translation
+
+-
+  title: v15-07-24.01
+  notes:
+    - Force non demo branch for migrations
+    - Fixes to documents views
+    - Showing academic year as an option again
+    - Add otp as a superadmin user option
+    - Add db company name check to migrations
+
+-
+  title: v15-07-24
+  notes:
+    - Changed white label to premium and pay with stripe is gone
+    - Fix migrations for foreign companies
+    - Fix issue with intolerant collectstatic
+    - Agency calcs fix
+    - Documents linking and managements for selected Objects - take 2
+    - Remove useless descriptions
+    - Fix translations on login page
+    - Student form improvement
+    - Clients Available balance
+    - Added error messages for wrong/empty times
+    - Improve static file bundling
+    - 403 links - Tutors view
+    - 2016 navigation improvement
+    - Allow Tutor expense on available Jobs
+    - 2172 document improvement
+    - Changed desired skill and adhoc charge cats for demo branch
+
+-
+  title: v15-07-17.01
+  notes:
+    - Accounting calcs performance
+    - Adding api examples with tests
+    - Payment credentials delete
+    - Ah-hoc form charges warning
+    - 2150 admin perm
+    - 2028 exit forms warning
+
+-
+  title: v15-07-17
+  notes:
+    - Allow viewing of void invoice PDFs again
+    - Add branch logo to report
+    - Improving details tests and
+
+-
+  title: v15-07-16
+  notes:
+    - Powerd by TutorCruncher links open a new tab
+    - Fix browsable api static file issue
+    - Clients &nbsp; Tutors performance
+
+-
+  title: v15-07-15
+  notes:
+    - Fixes to static files
+    - Allow super admins to create branches
+    - Use whitenoise for static files add minification
+    - Mark_safe problem solved in general search
+    - Buildpack update
+    - Increased ratelimt to 8/m
+    - Dont migrate documents
+    - Tax Tutor cannot be edited by Tutors themself
+    - Stop Lessons.ics 404 logging
+    - Prevent charge duplication on ahc
+    - Activity date selector
+    - Extend filename length
+    - Date picker pb in other languages
+    - Removed the popover for Tutor in the buggy view
+    - Hide report tab for Students
+    - Prevent moving branch between agencies
+    - Agents turn-off switch
+    - Removed None from adhoc charges breakdown
+    - Add Tutor rate on Jobs pages
+    - Remove one of the dft_charge_type field in Job details
+    - Hide report templates
+    - Double admins error fix
+    - Academic year save/load
+    - Links to clients in income breakdown
+    - 2124 dashboard help
+
+-
+  title: v15-07-09.01
+  notes:
+    - Migrations fixes
+    - Uprev django to 1.8.3
+    - Fix institutions.json request interupted
+    - Speedup by hours analytics
+
+-
+  title: v15-07-09
+  notes:
+    - Better fix for 2127
+    - Intercom user error
+    - Capitalize Credit Note
+    - Possible CI cache fix
+    - Migrations cleanup
+    - Change valid time for password reset expiry from 3 days to 2 weeks
+    - Apis fixes while trying to migrate
+    - 2143 search page 2 error
+    - Proper mark-as-paid amounts + still-to-pay refactoring
+    - Payment fixes
+    - 2068 jvs injection
+    - Made date_sent for PFI work and added date sent to list
+    - Role activity views
+    - 2017_fix add Lesson removed when no job available
+
+-
+  title: v15-07-08
+  notes:
+    - Intercom
+    - Job extra attributes
+    - Changed bespoke to premium
+    - Added correct demo stripe credentials
+    - Use same urls for draft and sent invoices and pos
+    - 1936 small changes to early users messages
+    - Availability issues
+    - 2055 subject data demo
+
+-
+  title: v15-07-03
+  notes:
+    - Admin visitting Job application page
+    - Lesson edit js bug
+    - Duplication tax
+    - Saved card data fix
+    - Hide the add-an-Lesson button for Student
+    - Add random LOCATION to testing cache
+    - Translation added
+    - Further fixes to emails
+    - Fix typo on waiting screen.
+    - Coverage fixes from emails
+    - Dont store null transcode
+    - Prevent Invalid HTTP_HOST header emails to admins
+    - Add the possibility for admin and Tutors to edit the receive Job notification Tutor field
+    - Analytics - hours added

@@ -40,7 +40,7 @@ def create_yaml():
         ('&', '&nbsp;')
     ]
 
-    print 'Formatting for YAML'
+    print('Formatting for YAML')
 
     def upper(match):
         return '\n    - ' + match.group(1)[0].capitalize()
@@ -56,7 +56,7 @@ def create_yaml():
     for p, r in data_regexes:
         data = re.sub(p, r, data)
 
-    print 'Creating rough translation'
+    print('Creating rough translation')
     for p, r in translations:
         data = re.sub(p, r, data, flags=re.I)
 
@@ -73,8 +73,8 @@ if __name__ == '__main__':
     command = sys.argv[-1].lower()
     assert command in {'download', 'create', 'all'}, '%s not a valid command: download, create all' % command
     if command in {'download', 'all'}:
-        print 'Downloading the change log'
+        print('Downloading the change log')
         download_data()
     if command in {'create', 'all'}:
-        print 'Creating YAML file'
+        print('Creating YAML file')
         create_yaml()
