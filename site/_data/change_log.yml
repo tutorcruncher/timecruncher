@@ -1,4 +1,42 @@
 -
+  title: v16-11-03
+  notes:
+    - Translations and changing {% trans %} to {%- trans -%}
+    - Add option for Force no Branch Tax
+    - Uprev
+    - Allow exporting of PFIs as invoices
+    - Billing
+    - Rearranging tcsales methods
+    - Prevent Lesson mark complete if job finished
+    - Improved permissions
+
+-
+  title: v16-10-28
+  notes:
+    - Calling ga function
+    - Adding constants for role types
+    - Fix google maps key
+    - Inactive Jobs
+    - Stripe inactive card error
+    - Improve lesson export
+    - Job deets performance improvements
+    - Change string method and assert conjob.Job
+    - DatetimeChargeIncomeBreakdown now uses the correct date range
+    - Report list fixes
+    - Allow PROPFIND \(used by ios bot\) in .ics page
+    - Weekly email imps
+    - Static asset 404s
+    - Fix for users with no cards rebased off latest version
+    - Conjob Lesson rates
+
+-
+  title: v16-10-17
+  notes:
+    - Meta ahc description
+    - Fix for users with no cards
+    - Fixing migrations py3
+
+-
   title: v16-10-13
   notes:
     - Better handling of no card in stripe
@@ -1222,3 +1260,737 @@
     - Prevent Invalid HTTP_HOST header emails to admins
     - Add the possibility for admin and Tutors to edit the receive Job notification Tutor field
     - Analytics - hours added
+    - Replaced Django-ace with CodeMirror
+    - Improve API browsing performance
+    - Ahc link fixed
+    - Acces to the map only for admin fix
+    - Jobs sorting + some adLessonive CSS
+    - Log 403 and 404 as info not error
+    - Agency loss ajusted
+    - 1877 attribute definition deletion 2
+    - Improved selenium logging on errors
+    - 2067 tax
+    - Add multiple size of apple favicon
+    - Email improvements
+    - Edit&nbsp;remove removed for clients
+    - Fix for failing master
+    - Redirection to 403.jinja
+    - Resolve signup error
+    - 403 404 fix
+    - Api options contamination
+    - Permissions fixes
+    - Demo admin generating with incorrect permissions
+    - Exclude demo branch from signup form
+    - Analytics DateTimePicker bug
+    - Report and pdf invoices tests
+    - Fix accounting export tests
+    - Translation &nbsp; help text
+    - Fixing spinners for download links
+    - Adding login-choice
+    - Fix user upload geocoding
+    - Lesson improvements
+    - Fix stripe-mixpanel vars tweak deploy scripts
+    - Help t text box added
+    - Improve pfi view
+    - Speed up pdf generation
+    - Slightly more selective 403/4 logging
+    - Additional check for mass creation form
+    - Improve overlay and resolve video js reference
+    - Uprev new relics
+    - Allow pos to be voided
+    - Tender email definitions
+    - Tutor view sentry bug
+    - Remove Lesson disp name
+    - Allow admins to create role with existing email
+    - Speeding up demo agency creation and improve waiting page
+    - Moment explicit locale on Availability
+    - Add tests to mini map and remove print
+    - Availability rendering bug
+    - Middleware logging 403 and 404 to sentry
+    - Geocoding fixes
+    - Password reset no longer 404s
+    - Demo branch
+    - Calendar filter
+    - Reducing warnings on load
+    - Fix email def list for no email defs
+    - Removing ahc from tc1 migration
+    - UpdateSingleSkill titled incorrectly
+    - Added access control validation for all GenericForeignKeys
+    - Cv upload
+    - Tc1 migrations fixes
+    - Added bonus credit as an option
+    - Remove Generate CV button and links
+    - Calculating agency costs
+    - Add Tutor to existing Job
+    - Client views fixed
+    - Lower case email addresses
+    - Fixing account perms on a Tutors page
+    - Improved email defs
+    - Timezone no longer forcing branch default
+    - Job list query reduction
+    - Fix intermittent 403 bug on master \(hopefully\)
+    - Invoice items now showing actual_start date
+    - Proforma invoice mark-paid 403 bug
+    - Reports now showing date of Lesson start
+    - Demo branch
+    - Fix default rate display on Jobs
+    - Fixed syntax error + added tests for it
+    - RQ unicodedecodeerror
+    - Fixing Lesson units on Job update
+    - API Checks
+    - Role list speed ups
+    - Add full deploy script and remove unused scripts
+    - Add more bs tour
+    - Skillset improvements
+    - Fix ALLOWED_HOSTS in settings
+    - User accounts fix
+    - Less restrictive clients filtering
+    - Reduce middleware queries from 8 to 4 and simplify
+    - Log new sign ups straight into demo branch
+    - Massive simplification of migrations script
+    - Global visual bugs
+    - Jinja template garbling uri with no url_params
+    - Job list changes
+    - Js improvements
+    - Draft inv speedup
+    - More translations
+    - Tenders now displaying Tutor with link
+    - Client cration ignoring client manager field
+    - Invoice reminder stripe link
+    - Fix client invoices
+    - Tutor Job list bug
+    - Revert accounts back to fork.
+    - Fixing default timezones and currencies
+    - \#1837-fix-permissions
+    - Reduce query count on Student add and Tutor add
+    - Small views changes
+    - Package updates
+    - Tutors geocoding + geosearch
+    - Improve cal performance
+    - Tutors available Jobs list improvement
+    - Update to django 1.8.2
+    - Add check for unicode in stripe callback
+    - Help link and popover fixes
+    - Fixing demo agency creation bug
+    - Slug improvements
+    - Add Tutor tax to form
+    - Lesson edit ui changes
+    - Stripe logo fix
+    - Signup email change and order Jobs by date created
+    - Switch debug default to false
+    - More translations fix agency creation
+    - Implemented attributes admin only feature
+    - Adding translation tests
+    - Fixes and change the help_site domain
+    - Fixed segfaults and changed parallel testing backend
+    - Qualification bug
+    - Help messages links
+    - Double repeating lessons bugfix
+    - Logos not saving
+    - 317 availability
+    - Added direct debit to payment dropdown and translated EAD types
+    - Stripe polishing
+    - Added reports and tenders and tests
+    - Editing some meta agency fields from Client form
+    - Make a start on bootstrapform_jinja_plus
+    - Return to using @override_settings
+    - Fixes and translations
+    - Global search 404 bug fix
+    - Sales codes corrections
+    - Corrected payment page access control
+    - Add basic performance testing
+    - Small dashboard speedup
+    - Async email sending
+    - Protected objects deletion fix
+    - Fix meta client creation
+    - Filter attributes and render stars
+    - Translations
+    - Fixes to page logo and few other small things
+    - Fix mixpanel and form for signup
+    - Login templates
+    - Payment Order display error \(tab\)
+    - Docs fixes
+    - Better on demand migrations on CI
+    - Improving inspectlet and ga analytics
+    - Django 1.8
+    - Tweaking postgresql.conf
+    - Dont add Student to future completed Lessons
+    - Clients account details screen keyerror fix
+    - Payment receipts
+    - Improved coverage
+    - More proper testing of migrations - on demand
+    - Job details: Lesson and location fixed
+    - Faster Docker postgres
+    - Small Stripe tuning
+    - Repeat Lesson creation
+    - Translate for anons on agency pages
+    - 1091 demo branch
+    - Correct EXEMPT_URLS
+    - Meta agency
+    - Help messages
+    - AHC  now filtering out deleted records.
+    - Draft pdf file rendering issue
+    - Client views
+    - Improved waiting spinner
+    - Fix HighPriorityTrackedJob bug
+    - Low balance notification
+    - Fix worker names
+    - Add more info to mixpanel
+    - Fix worker concurrency as per discussion
+    - Add coveralls submission
+    - Button menu was repeating for Tutors
+    - Fix problem with subject import output
+    - Ensure there are no rogue rcra records before we try to bulk create
+    - Stripe Connect
+    - Agent issues
+    - Uprev djang-jinja and django-jinja-bootstrap-form
+    - Fix email def error
+    - Try simple worker concurrency
+    - Allow editing of all_invoices_paid too
+    - Text changes
+    - No multiedit qualifications
+    - Correct invoice figures
+    - Add-nanny-trans-code
+    - Seltests
+    - Allow superadmins to set accounting_complete
+    - Redis tests and fix for schedule export bug
+    - Wording changes and translation updates
+    - Added balance history page
+    - Fix for sudden high request count
+    - Fix item count
+    - Agency price plan
+    - Zero-decimal currencies support for Stripe
+    - DRF 3.1
+    - 1091 demo branch
+    - Repeater UI fix - switching repeat modes now resets counter/date
+    - Google analytics improvements
+    - SQL queries optimization
+    - Implement better activity feed
+    - Changed the video in the agency signup email
+    - Updating the nanny translation file and correcting some non translated s...
+    - Staged Item guards on detail views
+    - Student form fixes
+    - Remove Job package status
+    - Crn fixes
+    - SearchAll tabs now using short-code
+    - Proforma Invoices details link and payment for clients
+    - Add apple link ical
+    - Create Student inherit Client
+    - Job datetime error
+    - Creating Job via client screen was not attacking Student
+    - Pro forma invoices
+    - Better support for repeat agency code and url_slug
+    - Added the Nanny trans file
+    - Reduce test verbosity
+    - Adding payment details to the readme for testing
+    - Alt selenium tests
+    - Small CSS fix for Firefox
+    - Revert use redis for cache on tests
+    - Use redis for cache on tests
+    - Adding links to Jobs in emails
+    - Add priorty to industry regions for signup page
+    - Adhoc charge button menu
+    - Proper Jobs filtering
+    - Better TZ handling
+    - Fixing client emails
+    - Default rates on Tutor and client
+    - More translations
+    - Topping up
+    - Sign up and email fixes
+    - Script that moves fuzzy entries to bottom of file for ease of use
+    - Adding Student to future Lessons
+    - More translations
+    - Hide messages
+    - Hide edit css/html pages
+    - Remove userinfo alter coverage
+    - Allow Lessons on void invoices to be editted
+    - Tutor list timeout
+    - Tutor Filter bug
+    - Credit note set accounting complete
+    - Superuser uni login fix
+    - Deleting roles
+    - Split schudule/views.py into seperate files
+    - Signup direct login
+    - Further Stripe integration
+    - Retry selenium tests
+    - Add pending status tab to Jobs
+    - Signup improvements
+    - Filtering by more subject
+    - Much better UI for sent POs
+    - Delete invoices for deleted Lessons
+    - Ad hoc charge list link to detail and show vat
+    - Migrations fixes
+    - Small UI changes
+    - Timing bug on Lessons
+    - Password reset client link correction
+    - Password reset improvements
+    - Calendar colours
+    - Fix: Document.client must be a Client instance
+    - Add Tutor to Job
+    - Expand use of simple_theme.jinja inheritance
+    - Client profile field restrictions
+    - Better URLs for pagination/tabs keeping filter parameters
+    - One Time Passwords
+    - Wrong slashes
+    - Fix for No Agency Error and missing password_length
+    - Pointed master refs to a tag
+    - Better fix for \#1503 and fix \#1508
+    - Only display link to reports if they exist
+    - Report Improvements
+    - Turning off Lesson reports autosend with invoice
+    - Catch accessing files which dont exist fix \#1503
+    - Fix Lesson edit form and speed up desired skill modal
+    - Improve desired skill qs
+    - Deal better with divide by zero
+    - Added few bulk creates into agency creation
+    - Fixed djdt js error
+    - Fix html displayed on ad hoc charge page
+    - Rcr Lesson rate
+    - Docs edit/delete for admin and uploader
+    - Tweaks to migrations
+    - Document creation with template with no file.
+    - Speedup tests
+    - Auto mark paid
+    - Cv generation bug
+    - Order My Jobs
+    - Client signup
+    - Unicode fix
+    - Skills -\> teaching skills
+    - Tutor filter
+    - Migrations fixes
+    - Fix rendering problem on Lesson repeat model
+    - Signup improvements
+    - Add DE_TU
+    - Avoid image gen in ci
+    - Deploy
+    - Data import bug
+    - Basic Stripe functionality
+    - Fixing bug
+    - Allow reports to be viewed after Lesson is invoiced
+    - Fixed queryset bug with subjects
+    - Changing courses back to jobs...
+    - Allow environ secret key + django 1.7.7
+    - Pupil is paying client
+    - Fixed muted roles display
+    - Enable cached sessions
+    - Fix links in admin display
+    - Available Balance
+    - Tutors cv uploads
+    - Fixed js on Lesson form
+    - Ical feed integration
+    - Univeersal login page
+    - 1360 duration box bug
+    - Agency URL slug
+    - Balance update alterations
+    - Deleted Students show on clients
+    - Make proposed_start and proposed_finish required
+    - Fixes while testing prior to deploy
+    - Client detail balance
+    - Fix photo updating
+    - Re-enable collectstatic on deploy
+    - Translations
+    - Fix Lesson updates
+    - Sidebar menu
+    - Client details display balance \#1393
+    - Minor changes to Tutor dashboard 
+    - Add balance topups
+    - Change agency welcome email
+    - Job help text changes
+    - Admin Job Creation Workflow \#1276
+    - Make agency delete atomic
+    - Make regen atomic fix regen history
+    - Accounting tests speedup
+    - Basic reports \(table + graph registrations only no filters\)
+    - Enable Student premium
+    - Fix import_gdrive
+    - New Django
+    - Fix email confirmation if unauthenicated
+    - Added test for admin
+    - Fix po commission
+    - Revenue chart fixes
+    - Improve urls
+    - Starting to solve \#1260
+    - Easy agency signup
+    - \#1364 fixed
+    - Some more small changes
+    -  done store client on document
+    - Logout failing \#1355
+    - Persistent session for Phonegap
+    - Set admin on client
+    - Date created Tutor filter
+    - Ad hoc charges change
+    - Added my email to the admins list to receive CI notifications.
+    - More info on Sentry reports from workers
+    - Xero Export
+    - Async xero export
+    - Translations and grammar fix for calendar message
+    - Ignore super admin activity when querying History
+    - Email definitions resetting
+    - Small fix
+    - Async export
+    - Institution form fixes and modalify
+    - Contamination. Clients should not be able to see other clients names
+    - Job form improvements
+    - Better deleted Lessons treatment
+    - Adhoc charges list view make the roles URLS to profiles
+    - Search improvements \#1054
+    - Improved login and signup
+    - Vim additions to gitignore
+    - Making popovers with edit and details btns that looks nice
+    - Tutor dashboard \#997
+    - Fix mixpanel login event
+    - Fixed email bug and changed email defs a bit
+    - Fixed email bug and changed email defs a bit
+    - When adding a Student address should autofill to be associated client address
+    - For viewing invoices on a client Show all
+    - Remove invoice indirect
+    - More functionality for draft invoices/pos
+    - Lost in translation
+    - Schedule export to CSV - 1152
+    - Better repeating UI
+    - Pages to disable until they are built \#1263
+    - Job improvements
+    - Basic UI redesign
+    - Fix filter lists for Jobs pos invoices
+    - Fix tender access from con page
+    - Clients/Students should not be able to move Lessons on the calendar
+    - Fix Lesson save bug
+    - RCR model form problems
+    - History display changes
+    - Fix net setting
+    - AHC editable
+    - Fix collectstatic
+    - Reapply to a tender
+    - History mixpanel integration
+    - Mark invoice as paid from sent invoices list
+    - Fix signup tests with cLessona
+    - Added cLessoncha on tutor sign-up page
+    - Approach to Lesson repeater
+    - Credit Notes
+    - ReadMe Changes
+    - Tutors should not be able to add skill sets
+    - Fix deletion
+    - Help text for email styles
+    - Calendar bug fixes
+    - Introuducing linked client to Students search results \#1212
+    - Student details displaying incorrect paying client name \#1211
+    - EmailDefs for email_confirm/password_reset/passowrd_change
+    - Select2 fixed for skill groups + filtering
+    - DB query optimizations
+    - Extra info on Sent Invoice and Sent Payment Orders pages
+    - Add branch to accounting items
+    - Dashboard updates
+    - Tweak mixpanel integration
+    - Setup crud for ahc cats and sales code groups
+    - Accounting
+    - Job list ordering
+    - Job list ordering
+    - Fix pagination bug
+    - More sent po per page
+    - Fixes \#1189 &nbsp; \#1186
+    - Added google analytics js
+    - Contamination test done right
+    - Fixes for \#1124 - dashboard pie charts 
+    - Test fixes
+    - Solved the issue
+    - Bug fixed
+    - New Job workflow
+    - Add login styles
+    - Magic speed up
+    - Ease demo agency creation
+    - Accounting fixes more
+    - Lesson report improvements
+    - Fix upload issues
+    - Making nicer Agency Signup page
+    - Client side select filtering for expenses form
+    - Enhachements to Lesson form
+    - Better Mandrill mocks
+    - Tiny Translation
+    - Accounting fixes
+    - Mixpanel initial integration
+    - Lighter factory-based agency creator
+    - Better mandrill testing
+    - Alt sel tests
+    - Fix email_sub_account bug
+    - Calendar filtering issue
+    - Removed url from Student page if seen by client
+    - Fix invoice list bug
+    - Coverage fix
+    - Automatic roles creation for Admins
+    - More unicode fixes
+    - Permissions dont throw 500 for anonymous users anymore
+    - Clearing photo fixed
+    - Fix zh trans
+    - Making role import asynchronous
+    - Reconfiguring import class
+    - Fix \#1114
+    - Email changes
+    - Alternative wait_is_visible for selenium
+    - Fixed date picker jumping for Lesson creation
+    - Dashboard issue
+    - Con view fixes
+    - Protected deletion handled in CRUD
+    - 1032 admin optimizations
+    - Add tests for TrackedWorker and improve interface
+    - Fixing Tutor getter project-wide
+    - Fixes to allow invoice corrections
+    - Mass mailing + trackedjob + higher timeout
+    - Fix \#1081
+    - Tutor view improvements
+    - Add a few tests
+    - Client invoice details
+    - Fix net_amount on invoices
+    - Implement Select2 for more pages and tabs for sent invoices
+    - More translations
+    - Fix ahc remove step change
+    - Avatar changes
+    - Fixed attribute fields in profiles
+    - Fix \#993 and add tests
+    - Fix \#1056 improve links between items
+    - Tried to wrap all strings with injcctions into unicode
+    - Fix duration
+    - 1012 unsubscribe
+    - Added check if the Tutor have already applied
+    - More work on \#1031 and altering subject and institution custom values
+    - Translations
+    - Invoice reminders
+    - Fixed weekly recurring with empty days selection
+    - Fix \#1038
+    - Working on \#1031
+    - Fix \#1034
+    - Con improvements
+    - Hid links from inactive Tutors
+    - Refactor accounting view no code change
+    - Dates editing fix
+    - Disable concurrency for selenium tests
+    - Better error pages and maintenance page
+    - Fixes to PO and Invoice layout
+    - Wrong admin access fix
+    - Repeated Lesson fix
+    - Restricted access for non-active Tutors
+    - Makemigrations mv other manage remove collectstatic from deploy script
+    - Fix query count on schedules admin views
+    - Accounting speed up
+    - One more grouped subject select
+    - Fixing invoice pdf layout
+    - Turned off autocomplete on sign in page
+    - Improve accounting views
+    - Patch data wrong in import improve accounting views.
+    - Form media versioning
+    - Clean up
+    - Email test fixes
+    - Tests speedup \(mostly contamination/persmissions\)
+    - Strict filtering by agency
+    - Role photo thumbnails
+    - Looks like we dont need these libs here
+    - Subjects optgroups
+    - Repeating Students fix
+    - Invoice epoch and async generation
+    - Making client status change and some improvements to old code for this
+    - Implementing pipeline
+    - 967 fix
+    - Proper constraints for the Tenders
+    - Firefighting
+    - Revert Uniqueness constraints
+    - Trying to fix thumbnailing
+    - Adding email to the patch script
+    - Role profile update
+    - Another debug try on Selenium
+    - Adding Tutor subject filter fix partial \#478
+    - Fix \#955
+    - Moved mass mailing into RQ worker
+    - Making notes general
+    - Migs fix address and allow patching of user data
+    - Uniqueness constraints
+    - Fix \#944
+    - Heavy select2 fields
+    - Catch migs error
+    - Selenium error reporting fix
+    - General fixes
+    - Numerous small changes
+    - Refactor extra_management improve deploy script
+    - Sentry stuff
+    - Email improvements
+    - Admin interface improvements
+    - Widget translations
+    - Turned on Seleium tests
+    - Better dates parsing on import
+    - Calendar saving fix
+    - Preventing emails on import
+    - Improvements to import script
+    - More small changes from Malachy and Arthur
+    - Fixed sentry 50627860
+    - Small accounting fixes
+    - Fixed sentry 50466836 - unauthorized access to profile
+    - Adding on_delete=models.PROTECT where appropriate
+    - 884 xls import
+    - Proforma invoices
+    - Password reset fix
+    - 791 improved search
+    - Custom proposed rate availability
+    - Fix patch issue with migrations script
+    - Cleaning up permissions
+    - Small fix to migs script
+    - Added admin viewing buttons for Lesson
+    - Add alternative aws settings
+    - Datetime widget on extended attrs
+    - Select2 for skills select
+    - Restricted access options for non-admin docs
+    - Lesson form -  rm location + tests fix
+    - Active users graph fix
+    - Date filtering fixed - sentry 49673310
+    - Sentry 49493432
+    - Fixed Sentry 49508308
+    - Basic Braintree integration
+    - Image resizing
+    - Accounting work 631
+    - Malachys small changes
+    - Improve import_gdrive script
+    - Client invoices viewing
+    - Deploy script
+    - Added description to Job details
+    - Lesson completing fix
+    - Removed individual user selection fixed other selectors
+    - Reports and Documents
+    - Partial fix to delete agency
+    - Fix queries on most list views
+    - Fixing pagination
+    - Duplicate email error fix
+    - Fix po imports
+    - Work on payment order migrations
+    - Use https urls for fonts
+    - Alter pdf_extra saving
+    - Fixes to label
+    - Move to version 0.2
+    - Lesson workflow
+    - Tutor dashboard image lightbox
+    - Filtering out super-admins from agency
+    - Try again to fix \#731
+    - Better settings for cLessoncha
+    - Reset migrations update academia_uk.json
+    - Lesson movement
+    - PO PDFs
+    - Upsert-based fixture loading
+    - Improved google spreadsheet upsert script
+    - Changing permissions a lot
+    - Fixing extra translations so its valid python
+    - Institution viewing and editing
+    - Displaying admin permissions on admin view
+    - Resolved most of \#671
+    - Restriction that dont allow users to login on inactive or trial agency
+    - Chinese translation fix
+    - Email text
+    - Better default email subjects
+    - Fixin small mixing bug
+    - Fixed time error and added days and weeks
+    - Added approve_Tutor as a trigger
+    - Tweak attributes
+    - Fix editing Tutor attribures generate script
+    - Changed charge time to end of day
+    - English and chinese TU translations
+    - Migrations
+    - 734 agency logo
+    - Email muting
+    - Fix admin goes to / problem
+    - More work on migrations
+    - Fix agency deletion
+    - Fixing translations
+    - Enable django-sslify
+    - Fixing errors
+    - Email lengths fixed for django-user-accounts
+    - Agency creation form
+    - Fixing skills get or create
+    - Fix errors
+    - Temporary fix for long emails
+    - Send mail on client
+    - Job with Tutor
+    - Fix avatar generator overriding image
+    - More work on Migrations
+    - Reports
+    - Draft invoice bug
+    - Tweak db
+    - Accounting tests
+    - 554 xero
+    - 710 no charge type
+    - 707 tmp Jobs fix
+    - Better fix
+    - Tutor payment orders
+    - Xero invoices export
+    - Paginator for table list
+    - Proper avatar processing
+    - Futureproofing reports
+    - JS to handle time diff and django validation
+    - Add grade.custom_value QualLevels \> QualLevels
+    - Invoice display on admin
+    - Lesson default to Job location.
+    - Adding arthur and tom to admins
+    - Added notification setting for Job form
+    - Fixed calendar ciolour bug for BYT data optmized DB queries
+    - Fixes on job board
+    - Superadmin dash
+    - Added mo files to repo
+    - Adding multiple build packs to allow heroku to compilemessages
+    - Tutors dynamic permission system
+    - Fix country.name error
+    - Split out api access add google drive access
+    - Job form fix 571
+    - Permissions cleanup
+    - Lessons reports
+    - Updated stage JS
+    - AM/PM formats fix
+    - Fix calendar for location with no country
+    - Db changes
+    - Lessons title and hover on calendar looks better.
+    - Colours for labels
+    - Calendar fixes
+    - Fixed handling of empty emails
+    - Performance fix for Lesson form
+    - Fix 638 better
+    - Branch amount on invoices can be negative
+    - Fix photo path problem
+    - Redis number of jobs put into redis queue and dont save the result
+    - Api migrations
+    - Sent invoice fix on dashboard
+    - Removed invite if approved.
+    - Fixed login for multiple accounts + tests
+    - Clearing role after super admin agency sign in
+    - Fixing error logging emails
+    - Api migrations Agents Admin Charges &nbsp; Invoices
+    - Db changes
+    - Reset migrations
+    - Tender deciding options
+    - Tutor status change
+    - Tutor skills and qualifications
+    - Adding inspect_dbs management command to tc1
+    - Tabs for Tutor viewing Job list.
+    - Changes to some of the text/terms
+    - Translation APG
+    - RCR js fix
+    - Update: English TU translation
+    - Messages
+    - Making attribute definitions always agency specific
+    - Invoice fix
+    - Tutor page filtering
+    - Prevent Lesson change
+    - Introduce IndustryRegion
+    - Fix translations implementation
+    - Disable admin from adding tenders
+    - 579_polish_admin_view
+    - Api and migrations improvements
+    - Admins CRUD
+    - Lessons duplication fixed
+    - Ui tweaks
+    - Report models refactoring
+    - Users wo emails throughout the project
+    - Add grid links improve code on Lesson page
+    - Fix erroneous print
+    - Other Tutor search
+    - Improve app form
+    - Invoices 497
+    - Branch changing + test fix
+    - Fix deleting multiple roles fix recovering users from bin
+    - Calendar filters fix
+    - Duplicate emails fix
+    - Some api comments
+    - Calendar speedups
+
