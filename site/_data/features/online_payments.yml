@@ -9,7 +9,7 @@
      payments for those clients who save their details.<br><br>
 
     Stripe's card processing fee differs per country, so check out <a href="https://stripe.com/pricing">Stripe's pricing page</a> for details.
-  img: /features/stripe-payment.png
+  img: stripe-payment.png
   img-alt: Your card payment interface contains your own logo.
 -
   title:  Direct Debit Payments
