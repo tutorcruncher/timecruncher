@@ -10,6 +10,18 @@
     <p>Tom works on development as well as helping current users, so he knows the system from back to front. He writes
     and tests new features to make sure they are easily used, and is in charge of any releases that go out.</p>
 -
+  name: Sam Jenkins
+  img: /img/team/sam.png
+  title: Business Growth Manager
+  bio: Helping our clients get exactly what they need.
+  extended_bio: |
+    <p>Sam studied in Cardiff at undergraduate and postgraduate level, and following a move to London he joined
+    the TutorCruncher team at the end of 2016.</p>
+
+    <p>With a background in customer service and an infectiously enthusiastic outlook, he works with the team on the
+    client facing side of the business, managing prospective enquiries along with regular communications with current
+    users of the system.</p>
+-
   name: Samuel Colvin
   img: /img/team/samuel.png
   title: CTO
