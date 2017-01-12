@@ -15,7 +15,7 @@ permalink: /contact/
   <div class="container top-padding-30">
     {% for location in site.data.locations %}
       <div class="row padding-bottom-20">
-        <div class="address col-md-6 col-md-push-2">
+        <div class="address col-xs-6 col-md-6">
           <strong><p>{{ location.name }}</p></strong>
           {% for line in location.address %}
             <p>{{ line }}</p>
@@ -23,7 +23,7 @@ permalink: /contact/
           <br>
           <p>{{ location.phone }}</p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 col-xs-6">
           <div id="{{ location.map }}" class="map"></div>
         </div>
       </div>

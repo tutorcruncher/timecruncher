@@ -594,5 +594,7 @@ div.col-md-3 {
 }
 
 .enquiry-form {
-  min-height: 1200px;
+  @media (max-width: 920px) {
+    min-height: 1200px;
+  }
 }
