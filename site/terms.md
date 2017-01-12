@@ -73,8 +73,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 TimeCruncher fees are made up of two components: a fixed monthly fee and a usage fee which is proportional the revenue Companies put through TimeCruncher.
 
-Companies on the "Pay as You Go" price tier have no fixed monthly fee, similarly some Companies on the enterprise tier may negotiate an agreement where they pay
-no usage fee. For more details on pricing see the [pricing page](/pricing).
+Companies on the enterprise tier may negotiate an agreement where they pay no usage fee. For more details on pricing see the [pricing page](/pricing).
 
 Fixed monthly fees are charged retrospectively via invoice. Usage fees are calculated and charged in two steps:
 

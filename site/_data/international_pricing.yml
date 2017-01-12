@@ -1,18 +1,18 @@
 gb:
   base_price:
-    - £0
+    - £10
     - £40
     - From £200
   support_pricing: £40 per month
 eu:
   base_price:
-    - €0
+    - €12
     - €50
     - From €250
   support_pricing: €50 per month
 us:
   base_price:
-    - $0
+    - $12
     - $55
     - From $285
   support_pricing: $55 per month
