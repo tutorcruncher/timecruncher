@@ -1,32 +1,18 @@
 -
-  name: USA
-  location: us
-  address:
-    - 24761 Masters Cup Way
-    - Valencia
-    - Los Angeles
-    - California 91355
-  phone: <a href="tel:0016614362294">+1 661 4362294</a>
-  map: map_us
--
-  name: London
-  location: gb
-  address:
-    - 8A Lower Grosvenor Place
-    - London
-    - SW1W 0EN
-    - United Kingdom
+  name: TutorCruncher London
+  location_name: gb
+  title: TutorCruncher GB
+  address: 8A Lower Grosvenor Place, London, SW1W 0EN, United Kingdom
   phone: <a href="tel:00442071128953">+44 (0) 207 1128 953</a>
-  map: map_gb
+  map_id: map_gb
+  lat: 51.498146
+  lng: -0.144880
 -
-  name: Canada
-  location: ca
-  address:
-    - 604 Edward Avenue
-    - Suite 14
-    - Richmond Hill
-    - Ontario
-    - Canada
-    - L4C9Y7
-  phone: <a href="tel:0018883068259">1.888.306.8259 Ext. 2211</a>
-  map: map_ca
+  name: TutorCruncher California
+  location_name: us
+  title: TutorCruncher US
+  address: 24761 Masters Cup Way, Valencia, Los Angeles, California 91355
+  phone: <a href="tel:008183373095">+1 818 337 3095</a>
+  lat: 43.8985938
+  lng: -79.432076
+  map_id: map_us

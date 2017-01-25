@@ -1,9 +1,13 @@
 ---
 layout: base
-title: Contact - TimeCruncher
+title: Contact - TutorCruncher
 short-title: Get in contact
 description: Contact the team for support, to ask questions, or for more help or information.
 permalink: /contact/
+redirect_from:
+  - /contact-us/
+  - /contactus/
+  - /request-a-demo/
 ---
 <div id="contact-us" class="container-fluid">
   <article>
@@ -12,19 +16,12 @@ permalink: /contact/
       <hr>
     </header>
   </article>
-  <div class="container top-padding-30">
+  <div class="container padding-top-30">
     {% for location in site.data.locations %}
       <div class="row padding-bottom-20">
-        <div class="address col-xs-6 col-md-6">
-          <strong><p>{{ location.name }}</p></strong>
-          {% for line in location.address %}
-            <p>{{ line }}</p>
-          {% endfor %}
-          <br>
-          <p>{{ location.phone }}</p>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div id="{{ location.map }}" class="map"></div>
+        <div class="col-md-12">
+          <div id="{{ location.map_id }}" class="map"></div>
+          <p class="text-muted">{{ location.address }}</p>
         </div>
       </div>
     {% endfor %}
@@ -34,5 +31,9 @@ permalink: /contact/
     <iframe src="https://secure.tutorcruncher.com/meta/enquiry/?iframe=1"></iframe>
   </div>
 </div>
-<script src="{{ site.static }}/js/location.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>
+  var locations = {{ site.data.locations|jsonify }};
+</script>
+<script src="/static/js/location.js"></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFj_-9-kXPTryJ4KHeAHtDnf8M7eBPy0A&callback=init_map"></script>
