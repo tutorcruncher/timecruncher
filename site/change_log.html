@@ -1,29 +1,5 @@
 ---
-layout: base
-title: Change Log - TimeCruncher
-short_title: Change Log
-description: TimeCruncher makes changes to its management software to improve the use and simplicity for the user. See the changes in this log.
+layout: redirect
 permalink: /change_log/
+redirect_to: https://tutorcruncher.com/change_log/
 ---
-<div class="container main post narrow">
-  <div class="row animated fadeIn short-delay">
-    <div class="col-lg-12 top-margin-40">
-      <h1 class="text-center section-heading">{{ page.short_title }}</h1>
-      <hr class="primary">
-    </div>
-  </div>
-  <div class="post-body animated fadeIn long-delay">
-    {% for release in site.data.change_log %}
-      <h3>
-        {{ release.title }}
-      </h3>
-      <ul>
-        {% for item in release.notes %}
-          <li>
-            {{ item }}
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-  </div>
-</div>
